@@ -1,0 +1,28 @@
+{
+  "name": "getlos",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "venues:osm": "npx tsx src/venues-osm.ts",
+    "venues:ics": "npx tsx src/venues-ics.ts",
+    "venues:eventbrite": "npx tsx src/venues-eventbrite.ts",
+    "venues:ticketmaster": "npx tsx src/venues-ticketmaster.ts",
+    "venues:bandsintown": "npx tsx src/venues-bandsintown.ts",
+    "match:venues": "npx tsx src/venue-matcher.ts",
+    "dedup:events": "npx tsx src/event-dedup.ts",
+    "venues:final": "npx tsx src/venues-final.ts",
+    "pipeline": "npm run venues:osm && npm run venues:ics && npm run venues:eventbrite && npm run venues:ticketmaster && npm run match:venues && npm run dedup:events && npm run venues:final"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0",
+    "node-fetch": "^3.3.2",
+    "node-ical": "^0.18.0",
+    "fast-xml-parser": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
