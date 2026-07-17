@@ -385,7 +385,14 @@ function render() {
     venCount++;
     matching.forEach(e => { evtCount++; movieTitles.add(e.title); });
 
-    const color = markerColor(matching.length, maxCount);
+    const allPastMark = matching.every(e => isPast(e.date, e.time));
+    // Yellow default; when searching: green = upcoming show, red = all past
+    let color;
+    if (activeMovie) {
+      color = allPastMark ? '#e63946' : '#2d6a4f';
+    } else {
+      color = '#f4a825';
+    }
     const icon = new PinIcon({color});
 
     let tip = `<h3>${v.name}</h3>`;
