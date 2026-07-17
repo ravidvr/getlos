@@ -489,6 +489,9 @@ if (!sessionStorage.getItem('getlos_help')) {
   setTimeout(() => { openHelp(); sessionStorage.setItem('getlos_help','1'); }, 400);
 }
 
+// Auto-request location on load (only if not already saved)
+if (!userLat) { setTimeout(getUserLocation, 800); }
+
 // Also update help when lang toggles
 const origToggleLang = toggleLang;
 toggleLang = function() { origToggleLang(); updateHelpLang(); };
