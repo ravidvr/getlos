@@ -7,10 +7,10 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
 :root {
-  --bg:#1a1a2e; --surface:#16213e; --surface2:#0f3460;
-  --text:#e0e0e0; --text-dim:#a0a0b0;
-  --accent:#e94560; --accent2:#00d2ff;
-  --border:#2a3a5c; --radius:8px;
+  --bg:#f8f9fa; --surface:#fff; --surface2:#e9ecef;
+  --text:#212529; --text-dim:#6c757d;
+  --accent:#e63946; --accent2:#0077b6;
+  --border:#dee2e6; --radius:8px;
 }
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);height:100vh;display:flex;flex-direction:column;overflow:hidden}
@@ -108,6 +108,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <button class="active" data-period="today" onclick="setPeriod('today',this)">Today</button>
     <button data-period="tomorrow" onclick="setPeriod('tomorrow',this)">Tomorrow</button>
     <button data-period="weekend" onclick="setPeriod('weekend',this)">Weekend</button>
+    <input type="date" id="datePicker" value="2026-07-17" min="2026-07-17" max="2026-07-23" onchange="setCustomDate(this.value)" style="background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 8px;border-radius:var(--radius);font-size:12px;font-family:inherit">
   </div>
   <div class="search-wrap">
     <input type="text" id="addrSearch" placeholder="Search movie or address…" oninput="debouncedSuggest()" onkeydown="handleSearchKey(event)" autocomplete="off">
@@ -185,8 +186,8 @@ const map = L.map('map', {
   maxZoom: 17
 }).setView([52.52, 13.405], 12);
 L.control.zoom({ position:'bottomright' }).addTo(map);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution:'&copy; <a href="https://carto.com/">CARTO</a> | <a href="https://osm.org/copyright">OSM</a>',
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution:'&copy; <a href="https://osm.org/copyright">OSM</a>',
   maxZoom:19
 }).addTo(map);
 
@@ -195,7 +196,7 @@ const PinIcon = L.DivIcon.extend({
   createIcon: function(oldIcon) {
     const div = document.createElement('div');
     const color = this.options.color || '#e94560';
-    div.innerHTML = `<svg width="28" height="36" viewBox="0 0 28 36"><path d="M14 0C6.3 0 0 6.3 0 14c0 10.5 14 22 14 22s14-11.5 14-22C28 6.3 21.7 0 14 0z" fill="${color}" stroke="${color}" stroke-width="1"/><circle cx="14" cy="13" r="8" fill="#1a1a2e"/></svg>`;
+    div.innerHTML = `<svg width="28" height="36" viewBox="0 0 28 36"><path d="M14 0C6.3 0 0 6.3 0 14c0 10.5 14 22 14 22s14-11.5 14-22C28 6.3 21.7 0 14 0z" fill="${color}" stroke="${color}" stroke-width="1"/><circle cx="14" cy="13" r="8" fill="#fff"/></svg>`;
     div.style.width = '28px';
     div.style.height = '36px';
     div.style.marginLeft = '-14px';
@@ -359,6 +360,19 @@ function setPeriod(period, btn) {
   btn.classList.add('active');
   render();
 }
+
+function setCustomDate(dateStr) {
+  activePeriod = dateStr;
+  document.querySelectorAll('[data-period]').forEach(b => b.classList.remove('active'));
+  render();
+}
+
+// Override getDates to handle custom date strings
+const origGetDates = getDates;
+getDates = function(period) {
+  if (/^\d{4}-\d{2}-\d{2}$/.test(period)) return [period];
+  return origGetDates(period);
+};
 
 /* ── Search (movie title + address) ── */
 let suggestTimer = null, suggestIdx = -1, suggestResults = [];
