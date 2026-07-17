@@ -31,7 +31,8 @@ function parseDateHeader(dateStr: string): string {
   };
   const match = dateStr.match(/(\d{1,2})\s+(\w{3})/i);
   if (match) {
-    return `2026-${months[match[2].toLowerCase()] || "01"}-${match[1].padStart(2, "0")}`;
+    const year = new Date().getFullYear().toString();
+    return `${year}-${months[match[2].toLowerCase()] || "01"}-${match[1].padStart(2, "0")}`;
   }
   return "";
 }
