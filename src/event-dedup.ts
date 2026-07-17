@@ -52,7 +52,14 @@ function dedupKey(e: RawEvent): string {
 }
 
 async function main() {
-  const sources = ["venues-ics", "venues-eventbrite", "venues-ticketmaster", "venues-bandsintown"];
+  const sources = [
+    "venues-ics",
+    "venues-eventbrite",
+    "venues-rausgegangen",
+    "venues-berlinmetal",
+    "venues-englishcinema",
+    "venues-berlincinema",
+  ];
   const allEvents: RawEvent[] = [];
 
   for (const src of sources) {

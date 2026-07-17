@@ -167,8 +167,15 @@ async function main() {
     includeScore: true,
   });
 
-  // Collect venue names from event sources
-  const sources = ["venues-ics", "venues-eventbrite", "venues-ticketmaster", "venues-bandsintown"];
+  // Collect venue names from all event sources
+  const sources = [
+    "venues-ics",
+    "venues-eventbrite",
+    "venues-rausgegangen",
+    "venues-berlinmetal",
+    "venues-englishcinema",
+    "venues-berlincinema",
+  ];
   const venueNames = collectVenueNames(sources);
   console.log(`Unique event venue names: ${venueNames.length}`);
 

@@ -1,5 +1,5 @@
-// Phase 7: Final combined venue output
-// Merge OSM venues with matched event data → single file for frontend
+// Phase: Final combined output — venues + events + geocoding
+// Merges OSM venues, matched events, and geocoded addresses
 
 import { readFileSync, writeFileSync } from "fs";
 
@@ -20,11 +20,18 @@ interface OSMVenue {
 interface MergedEvent {
   id: string;
   title: string;
+  description: string;
   start_datetime: string;
+  end_datetime: string;
   venue_name: string;
+  sources: { source: string; source_id: string; event_url: string }[];
   categories: string[];
   genres: string[];
+  artists: string[];
   ticket_url?: string;
+  image_url?: string;
+  price?: string;
+  last_updated: string;
 }
 
 interface MatchResult {
@@ -34,8 +41,15 @@ interface MatchResult {
   osm_id?: number;
 }
 
+interface GeocodeResult {
+  venue_name: string;
+  venue_address: string;
+  latitude: number;
+  longitude: number;
+}
+
 interface FinalVenue {
-  osm_id: number;
+  osm_id: number | null;
   name: string;
   latitude: number;
   longitude: number;
@@ -47,16 +61,17 @@ interface FinalVenue {
   event_count: number;
   next_event?: string;
   categories: string[];
-  events: { id: string; title: string; date: string; ticket_url?: string }[];
+  events: { id: string; title: string; date: string; ticket_url?: string; price?: string }[];
 }
 
 function buildAddress(v: OSMVenue): string {
-  const parts = [v.street];
-  if (v.housenumber) parts.push(v.housenumber);
-  if (parts.length > 0) parts.push(",");
+  const parts: string[] = [];
+  if (v.street) {
+    parts.push(v.street + (v.housenumber ? ` ${v.housenumber}` : ""));
+  }
   parts.push("Berlin");
   if (v.postcode) parts.push(v.postcode);
-  return parts.filter(Boolean).join(" ").replace(" ,", ",");
+  return parts.join(", ");
 }
 
 async function main() {
@@ -85,6 +100,14 @@ async function main() {
     matches = [];
   }
 
+  // Load geocoding results
+  let geocodes: GeocodeResult[];
+  try {
+    geocodes = JSON.parse(readFileSync("data/geocode-results.json", "utf-8"));
+  } catch {
+    geocodes = [];
+  }
+
   // Build match lookup: event venue name → osm_id
   const matchMap = new Map<string, number>();
   for (const m of matches) {
@@ -93,17 +116,29 @@ async function main() {
     }
   }
 
-  // Group events by osm_id
+  // Build geocode lookup: venue name → lat/lng
+  const geocodeMap = new Map<string, { lat: number; lng: number }>();
+  for (const g of geocodes) {
+    if (g.latitude !== 0) {
+      geocodeMap.set(g.venue_name, { lat: g.latitude, lng: g.longitude });
+    }
+  }
+
+  // Group events by matched osm_id
   const eventsByOsmId = new Map<number, MergedEvent[]>();
+  const unmatchedEvents: MergedEvent[] = [];
+
   for (const e of events) {
     const osmId = matchMap.get(e.venue_name);
     if (osmId) {
       if (!eventsByOsmId.has(osmId)) eventsByOsmId.set(osmId, []);
       eventsByOsmId.get(osmId)!.push(e);
+    } else {
+      unmatchedEvents.push(e);
     }
   }
 
-  // Build final venue list
+  // Build final venue list (OSM venues with events)
   const final: FinalVenue[] = osmVenues.map((v) => {
     const venueEvents = eventsByOsmId.get(v.osm_id) || [];
     const sortedEvents = venueEvents.sort(
@@ -129,18 +164,65 @@ async function main() {
         title: e.title,
         date: e.start_datetime,
         ticket_url: e.ticket_url,
+        price: e.price,
       })),
     };
   });
 
+  // Add standalone venues from geocoded unmatched events
+  const usedNames = new Set(final.map((v) => v.name.toLowerCase()));
+  const standaloneGrouped = new Map<string, MergedEvent[]>(); // venue name → events
+
+  for (const e of unmatchedEvents) {
+    const key = e.venue_name.toLowerCase();
+    if (!standaloneGrouped.has(key)) standaloneGrouped.set(key, []);
+    standaloneGrouped.get(key)!.push(e);
+  }
+
+  let standaloneId = 0;
+  for (const [name, venueEvents] of standaloneGrouped) {
+    if (usedNames.has(name)) continue;
+    const geo = geocodeMap.get(venueEvents[0].venue_name);
+    const sorted = venueEvents.sort(
+      (a, b) => (a.start_datetime || "").localeCompare(b.start_datetime || "")
+    );
+    const categories = [...new Set(venueEvents.flatMap((e) => e.categories))];
+
+    final.push({
+      osm_id: null,
+      name: venueEvents[0].venue_name,
+      latitude: geo?.lat || 52.5200, // fallback: Berlin center
+      longitude: geo?.lng || 13.4050,
+      amenity: "event_venue",
+      address: "",
+      event_count: venueEvents.length,
+      next_event: sorted[0]?.start_datetime,
+      categories,
+      events: sorted.slice(0, 20).map((e) => ({
+        id: e.id,
+        title: e.title,
+        date: e.start_datetime,
+        ticket_url: e.ticket_url,
+        price: e.price,
+      })),
+    });
+    standaloneId++;
+  }
+
+  // Sort by event count descending
+  final.sort((a, b) => b.event_count - a.event_count);
+
   writeFileSync("data/venues-combined.json", JSON.stringify(final, null, 2));
 
   const withEvents = final.filter((v) => v.event_count > 0);
-  const totalEvents = events.length;
+  const withGeo = final.filter((v) => v.latitude !== 52.5200 || v.osm_id !== null);
 
-  console.log(`Venues total:     ${final.length}`);
-  console.log(`Venues w/ events: ${withEvents.length} (${((withEvents.length / final.length) * 100).toFixed(1)}%)`);
-  console.log(`Events total:     ${totalEvents}`);
+  console.log(`Venues total:       ${final.length}`);
+  console.log(`Venues w/ events:   ${withEvents.length}`);
+  console.log(`Venues w/ OSM geo:  ${final.filter((v) => v.osm_id !== null).length}`);
+  console.log(`Venues w/ any geo:  ${withGeo.length}`);
+  console.log(`Standalone venues:  ${standaloneId}`);
+  console.log(`Events total:       ${events.length}`);
   console.log(`\nOutput → data/venues-combined.json`);
   console.log(`Output → data/events-combined.json`);
 }
