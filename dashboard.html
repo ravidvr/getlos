@@ -346,6 +346,7 @@ function render() {
   markers.forEach(m => map.removeLayer(m));
   markers = [];
   if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
+  map.closePopup();
   
   // User location marker
   if (userLat) {
