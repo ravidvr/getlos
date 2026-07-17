@@ -91,6 +91,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <div style="display:flex;gap:8px;align-items:center">
     <button class="loc-btn" id="locBtn" onclick="getUserLocation()" title="Use my location">📍</button>
     <button class="loc-btn" onclick="openHelp()" title="Help">?</button>
+    <button class="loc-btn" onclick="openAbout()" title="About">ℹ</button>
     <button class="lang-btn" id="langToggle" onclick="toggleLang()">DE</button>
   </div>
 </div>
@@ -139,6 +140,18 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     </div>
     <p style="margin-top:16px;color:var(--text-dim);font-size:11px" id="helpData">Data from berlin.de, English Cinema Berlin, and OpenStreetMap.</p>
     <button class="help-close" onclick="closeHelp()" id="helpBtn">Got it →</button>
+  </div>
+</div>
+
+<div class="help-overlay" id="aboutOverlay">
+  <div class="help-box">
+    <h2 id="aboutTitle" style="color:var(--accent)">ℹ About getlos</h2>
+    <p style="line-height:1.6;margin-bottom:12px" id="aboutDesc">getlos is a Berlin cinema map that shows every movie screening across the city — all languages, all cinemas, updated daily.</p>
+    <p style="line-height:1.6;margin-bottom:12px" id="aboutData">Data is collected from <a href="https://www.berlin.de/kino/" target="_blank" style="color:var(--accent2)">berlin.de/kino</a> (58 cinemas, new releases), <a href="https://englishcinemaberlin.com/7-day-overview" target="_blank" style="color:var(--accent2)">English Cinema Berlin</a> (40 cinemas, daily schedule), and <a href="https://www.openstreetmap.org/" target="_blank" style="color:var(--accent2)">OpenStreetMap</a> (venue coordinates).</p>
+    <p style="line-height:1.6;margin-bottom:12px" id="aboutTech">Built with Leaflet and vanilla JavaScript. Open source on <a href="https://github.com/ravidvr/getlos" target="_blank" style="color:var(--accent2)">GitHub</a>. No tracking, no cookies, no API keys needed.</p>
+    <p style="line-height:1.6;margin-bottom:12px" id="aboutContact">Questions or feedback? <a href="https://github.com/ravidvr/getlos/issues" target="_blank" style="color:var(--accent2)">Open an issue</a> or contact the maintainer.</p>
+    <p style="color:var(--text-dim);font-size:11px" id="aboutVersion">getlos v1.0 — Berlin</p>
+    <button class="help-close" onclick="closeAbout()" id="aboutBtn">Close</button>
   </div>
 </div>
 
@@ -497,6 +510,9 @@ function updateHelpLang() {
 
 function openHelp() { document.getElementById('helpOverlay').classList.add('open'); }
 function closeHelp() { document.getElementById('helpOverlay').classList.remove('open'); }
+
+function openAbout() { document.getElementById('aboutOverlay').classList.add('open'); }
+function closeAbout() { document.getElementById('aboutOverlay').classList.remove('open'); }
 
 // Show on first visit (no session)
 if (!sessionStorage.getItem('getlos_help')) {
