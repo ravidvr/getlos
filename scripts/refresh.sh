@@ -20,6 +20,9 @@ npx tsx src/venues-final.ts 2>&1 | tail -1
 echo "Regenerating dashboard..."
 python3 scripts/generate_dashboard.py
 
+echo "Verifying before deploy..."
+python3 scripts/verify.py || { echo "VERIFY FAILED — not deploying"; exit 1; }
+
 if git diff --quiet dashboard.html; then
     echo "No changes to deploy"
 else

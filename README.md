@@ -1,56 +1,57 @@
 # getlos — Berlin Cinema Map
 
-A comprehensive map of every movie screening in Berlin — all languages, all cinemas, updated daily.
+Every movie screening in Berlin on one map — all languages, all cinemas, updated daily.
 
 **[→ Open the map](https://ravidvr.github.io/getlos/dashboard.html)**
 
 ## Features
 
-- **100 cinemas** across Berlin, all with coordinates
-- **~800 screenings** per day from 27+ currently playing films
-- **Language filters:** DE (dubbed), EN (original English), OV/OmU (subtitled)
-- **Movie search:** type any film name to find where it's playing
-- **Date picker:** browse any day's schedule, Today/Tomorrow/Weekend presets
-- **Your location:** auto-detected with distance + walk time to every cinema
-- **DE/EN toggle:** full bilingual interface (Deutsch/English)
-- **Light theme, mobile responsive, no tracking, no cookies**
+- **~85 cinemas** with a week of showtimes (~1,900 screenings), all geolocated
+- **Language filters:** DE (dubbed) · EN (original English) · OV/OmU (original with subtitles)
+- **Movie search** with local autocomplete — markers turn **green** (upcoming screening) or **red** (already ran); default markers are **yellow**
+- **Click a marker** for the full schedule: color-coded times, prices, language tags, distance + walk time, and a link to the cinema's website
+- **Date controls:** Today / Tomorrow presets + free date picker
+- **Next-screening countdown** when searching ("Next screening in 1d 4h")
+- **DE/EN interface toggle**, first-visit explainer, About + Impressum + contact form
+- Light theme, mobile responsive, no tracking, no cookies, no API keys
 
 ## Data Sources
 
-| Source | Coverage | Update |
-|--------|----------|--------|
-| [berlin.de/kino](https://www.berlin.de/kino/) | 27 films, 87 cinemas, all languages | Daily |
-| [English Cinema Berlin](https://englishcinemaberlin.com/7-day-overview) | 62 films, 40 cinemas, English only | Daily |
-| [OpenStreetMap](https://www.openstreetmap.org/) | Venue coordinates | Static |
+| Source | What it provides | Refresh |
+|--------|-----------------|---------|
+| [berlin.de/kino](https://www.berlin.de/kino/) | All currently playing films, ~80 cinemas, 6 days of showtimes, language tags | daily |
+| [English Cinema Berlin](https://englishcinemaberlin.com/7-day-overview) | English-language screenings, ~40 cinemas, 7 days | daily |
+| [OpenStreetMap](https://www.openstreetmap.org/) | Venue coordinates + websites | static |
+| `data/venue-websites.json` | Curated website map for venues OSM misses | manual |
 
-## Pipeline
+## Architecture
 
 ```
-npm run pipeline
+src/venues-osm.ts            OSM venue base (456 venues)
+src/venues-berlincinema.ts   berlin.de film pages → showtimes + languages + release dates
+src/venues-englishcinema.ts  English Cinema Berlin 7-day grid
+src/venue-matcher.ts         fuzzy-match event venues to OSM (Fuse.js + aliases)
+src/event-dedup.ts           merge duplicates by title+date+venue
+src/geocoder.ts              Nominatim geocoding for unmatched venues (cached)
+src/venues-final.ts          combine into venues-combined.json / events-combined.json
+scripts/generate_dashboard.py  single source of truth: builds data/all_venues.js
+                               and embeds it into dashboard.html
+scripts/refresh.sh           daily cron entry point (pipeline → generate → git push)
 ```
 
-Runs 6 stages: OSM venues → cinema data fetch → venue matching → event dedup → geocoding → final combine.
+Run everything: `npm run pipeline && python3 scripts/generate_dashboard.py`
 
-Outputs:
-- `data/venues-combined.json` — all venues with events and coordinates
-- `data/events-combined.json` — all events with sources and metadata
-
-The dashboard (`dashboard.html`) is a single self-contained HTML file with embedded data. No server, no API keys, no database.
+`dashboard.html` is fully self-contained (~260 KB) — no server, no database.
 
 ## Deployment
 
-Deployed via GitHub Pages at [ravidvr.github.io/getlos/](https://ravidvr.github.io/getlos/dashboard.html).
+GitHub Pages, refreshed daily at 9:00 Berlin time by a cron job that re-runs the
+pipeline and pushes only when data changed.
 
-Auto-refreshes daily at 9:00 AM Berlin time via a cron job that runs the full pipeline and pushes to main.
+## Tech
 
-## Tech Stack
-
-- **TypeScript** pipeline with `tsx` runtime
-- **Leaflet** for the map
-- **Nominatim** (OpenStreetMap) for geocoding
-- **Fuse.js** for fuzzy venue matching
-- **node-ical** + **fast-xml-parser** for feed parsing
+TypeScript (tsx) · Leaflet · Nominatim · Fuse.js · vanilla JS dashboard
 
 ## License
 
-MIT
+[MIT](LICENSE)

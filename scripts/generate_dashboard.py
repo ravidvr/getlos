@@ -76,7 +76,8 @@ def main() -> None:
             if ed < today or ed >= today + timedelta(days=WINDOW_DAYS):
                 continue
             time = e['date'][11:16] if len(e.get('date', '')) >= 16 else ''
-            lang = lang_map.get((e['title'].lower(), key, time), 'DE')
+            # Prefer the pipeline's own language field; legacy lang_map as fallback
+            lang = e.get('language') or lang_map.get((e['title'].lower(), key, time), 'DE')
             venue_map[key]['events'].append({
                 'title': e['title'], 'date': d, 'time': time,
                 'ticket': e.get('ticket_url', ''), 'price': e.get('price', ''),

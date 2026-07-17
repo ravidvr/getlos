@@ -21,6 +21,7 @@ interface CinemaEvent {
   event_url: string;
   ticket_url: string;
   image_url: string;
+  language: string;
   last_updated: string;
 }
 
@@ -173,7 +174,7 @@ async function main() {
     const cells = rowHtml.match(/<td[^>]*>(.*?)<\/td>/gs) || [];
     if (cells.length < 2) continue;
 
-    const movieCell = cells[0].replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+    const movieCell = (cells[0] ?? "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
     if (!movieCell || movieCell === "Movie/Date") continue;
     seenMovies.add(movieCell);
 
@@ -202,6 +203,7 @@ async function main() {
           event_url: URL,
           ticket_url: "",
           image_url: "",
+          language: "EN",
           last_updated: new Date().toISOString(),
         });
       }

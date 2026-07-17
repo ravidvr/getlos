@@ -30,6 +30,7 @@ interface MergedEvent {
   artists: string[];
   ticket_url?: string;
   image_url?: string;
+  language?: string;
   price?: string;
   last_updated: string;
 }
@@ -164,6 +165,7 @@ async function main() {
         title: e.title,
         date: e.start_datetime,
         ticket_url: e.ticket_url,
+        language: e.language,
         price: e.price,
       })),
     };
@@ -203,6 +205,7 @@ async function main() {
         title: e.title,
         date: e.start_datetime,
         ticket_url: e.ticket_url,
+        language: e.language,
         price: e.price,
       })),
     });
