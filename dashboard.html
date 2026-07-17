@@ -386,7 +386,7 @@ function render() {
     }
 
     const marker = L.marker([v.lat, v.lng], {icon}).addTo(map);
-    marker.bindTooltip(tip, { direction:'top', offset:[0,-20] });
+    marker.bindTooltip(tip, { direction:'top', offset:[0,-20], interactive:true });
     markers.push(marker);
   });
 
