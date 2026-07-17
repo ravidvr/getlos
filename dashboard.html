@@ -145,13 +145,41 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div class="help-overlay" id="aboutOverlay">
   <div class="help-box">
-    <h2 id="aboutTitle" style="color:var(--accent)">ℹ About getlos</h2>
+    <h2 style="color:var(--accent);margin-bottom:20px" id="aboutTitle">ℹ About getlos</h2>
     <p style="line-height:1.6;margin-bottom:12px" id="aboutDesc">getlos is a Berlin cinema map that shows every movie screening across the city — all languages, all cinemas, updated daily.</p>
-    <p style="line-height:1.6;margin-bottom:12px" id="aboutData">Data is collected from <a href="https://www.berlin.de/kino/" target="_blank" style="color:var(--accent2)">berlin.de/kino</a> (58 cinemas, new releases), <a href="https://englishcinemaberlin.com/7-day-overview" target="_blank" style="color:var(--accent2)">English Cinema Berlin</a> (40 cinemas, daily schedule), and <a href="https://www.openstreetmap.org/" target="_blank" style="color:var(--accent2)">OpenStreetMap</a> (venue coordinates).</p>
-    <p style="line-height:1.6;margin-bottom:12px" id="aboutTech">Built with Leaflet and vanilla JavaScript. Open source on <a href="https://github.com/ravidvr/getlos" target="_blank" style="color:var(--accent2)">GitHub</a>. No tracking, no cookies, no API keys needed.</p>
-    <p style="line-height:1.6;margin-bottom:12px" id="aboutContact">Questions or feedback? <a href="https://github.com/ravidvr/getlos/issues" target="_blank" style="color:var(--accent2)">Open an issue</a> or contact the maintainer.</p>
-    <p style="color:var(--text-dim);font-size:11px" id="aboutVersion">getlos v1.0 — Berlin</p>
-    <button class="help-close" onclick="closeAbout()" id="aboutBtn">Close</button>
+    <p style="line-height:1.6;margin-bottom:12px" id="aboutData">Data from <a href="https://www.berlin.de/kino/" target="_blank" style="color:var(--accent2)">berlin.de/kino</a> (58 cinemas), <a href="https://englishcinemaberlin.com/7-day-overview" target="_blank" style="color:var(--accent2)">English Cinema Berlin</a> (40 cinemas), and <a href="https://www.openstreetmap.org/" target="_blank" style="color:var(--accent2)">OpenStreetMap</a>.</p>
+    <p style="line-height:1.6;margin-bottom:12px" id="aboutTech">Built with Leaflet and vanilla JS. <a href="https://github.com/ravidvr/getlos" target="_blank" style="color:var(--accent2)">Open source on GitHub</a>. No tracking, no cookies.</p>
+    
+    <hr style="border-color:var(--border);margin:16px 0">
+    <h3 style="font-size:14px;color:var(--text);margin-bottom:8px">📧 Contact</h3>
+    <p style="line-height:1.6;margin-bottom:8px">
+      <a href="#" onclick="openContact();return false" style="color:var(--accent2)">Send a message</a> or email 
+      <span id="contactEmail"></span>
+    </p>
+    
+    <hr style="border-color:var(--border);margin:16px 0">
+    <h3 style="font-size:14px;color:var(--text);margin-bottom:8px">⚖️ Impressum</h3>
+    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-bottom:4px" id="impressumName">Ravi Dronamraju</p>
+    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-bottom:4px" id="impressumAddr">[Address — add your street, city, postal code]</p>
+    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-bottom:4px">Berlin, Germany</p>
+    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-top:8px">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Ravi Dronamraju</p>
+
+    <p style="color:var(--text-dim);font-size:11px;margin-top:16px">getlos v1.0 — Berlin</p>
+    <button class="help-close" onclick="closeAbout()">Close</button>
+  </div>
+</div>
+
+<div class="help-overlay" id="contactOverlay">
+  <div class="help-box">
+    <h2 style="color:var(--accent);margin-bottom:16px">📧 Send a message</h2>
+    <form id="contactForm" onsubmit="sendContact(event)" style="display:flex;flex-direction:column;gap:12px">
+      <input type="text" id="cfName" placeholder="Your name" required style="background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:13px;font-family:inherit">
+      <input type="email" id="cfEmail" placeholder="Your email" required style="background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:13px;font-family:inherit">
+      <textarea id="cfMessage" placeholder="Your message…" rows="4" required style="background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:13px;font-family:inherit;resize:vertical"></textarea>
+      <button type="submit" style="background:var(--accent);border:none;color:#fff;padding:10px;border-radius:var(--radius);font-size:14px;cursor:pointer;font-weight:600">Send →</button>
+    </form>
+    <p style="color:var(--text-dim);font-size:11px;margin-top:12px;text-align:center">Or email directly: <span id="contactEmail2"></span></p>
+    <button class="help-close" onclick="closeContact()" style="margin-top:12px">Close</button>
   </div>
 </div>
 
@@ -513,6 +541,32 @@ function closeHelp() { document.getElementById('helpOverlay').classList.remove('
 
 function openAbout() { document.getElementById('aboutOverlay').classList.add('open'); }
 function closeAbout() { document.getElementById('aboutOverlay').classList.remove('open'); }
+
+function openContact() { document.getElementById('contactOverlay').classList.add('open'); }
+function closeContact() { document.getElementById('contactOverlay').classList.remove('open'); }
+
+// Obfuscated email — rendered via JS to avoid scraping
+(function() {
+  const user = 'dvrravi';
+  const domain = 'gmail.com';
+  const email = user + '@' + domain;
+  const a = document.createElement('a');
+  a.href = 'mailto:' + email + '?subject=getlos%20feedback';
+  a.style.color = 'var(--accent2)';
+  a.textContent = email;
+  document.getElementById('contactEmail').appendChild(a);
+  const a2 = a.cloneNode(true);
+  document.getElementById('contactEmail2').appendChild(a2);
+
+})();
+
+function sendContact(e) {
+  e.preventDefault();
+  const name = encodeURIComponent(document.getElementById('cfName').value);
+  const from = encodeURIComponent(document.getElementById('cfEmail').value);
+  const msg = encodeURIComponent(document.getElementById('cfMessage').value);
+  window.location.href = 'mailto:dvrravi@gmail.com?subject=getlos%20feedback%20from%20' + name + '&body=' + msg + '%0A%0A--%20' + name + '%20(' + from + ')';
+}
 
 // Show on first visit (no session)
 if (!sessionStorage.getItem('getlos_help')) {
