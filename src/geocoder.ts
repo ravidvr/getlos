@@ -52,11 +52,8 @@ async function main() {
   console.log("Geocoding venue addresses via Nominatim...\n");
 
   const sources = [
-    "venues-rausgegangen",
-    "venues-berlinmetal",
+    "venues-berlincinema",
     "venues-englishcinema",
-    "venues-ics",
-    "venues-eventbrite",
   ];
 
   const addresses = await collectAddresses(sources);

@@ -169,12 +169,8 @@ async function main() {
 
   // Collect venue names from all event sources
   const sources = [
-    "venues-ics",
-    "venues-eventbrite",
-    "venues-rausgegangen",
-    "venues-berlinmetal",
-    "venues-englishcinema",
     "venues-berlincinema",
+    "venues-englishcinema",
   ];
   const venueNames = collectVenueNames(sources);
   console.log(`Unique event venue names: ${venueNames.length}`);

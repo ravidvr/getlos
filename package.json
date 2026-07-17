@@ -1,21 +1,17 @@
 {
   "name": "getlos",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "venues:osm": "npx tsx src/venues-osm.ts",
-    "venues:ics": "npx tsx src/venues-ics.ts",
-    "venues:eventbrite": "npx tsx src/venues-eventbrite.ts",
-    "venues:rausgegangen": "npx tsx src/venues-rausgegangen.ts",
-    "venues:berlinmetal": "npx tsx src/venues-berlinmetal.ts",
-    "venues:englishcinema": "npx tsx src/venues-englishcinema.ts",
     "venues:berlincinema": "npx tsx src/venues-berlincinema.ts",
+    "venues:englishcinema": "npx tsx src/venues-englishcinema.ts",
     "match:venues": "npx tsx src/venue-matcher.ts",
     "dedup:events": "npx tsx src/event-dedup.ts",
     "geocode": "npx tsx src/geocoder.ts",
     "venues:final": "npx tsx src/venues-final.ts",
-    "pipeline": "npm run venues:osm && npm run venues:ics && npm run venues:eventbrite && npm run venues:rausgegangen && npm run venues:berlinmetal && npm run venues:englishcinema && npm run match:venues && npm run dedup:events && npm run geocode && npm run venues:final"
+    "pipeline": "npm run venues:osm && npm run venues:berlincinema && npm run venues:englishcinema && npm run match:venues && npm run dedup:events && npm run geocode && npm run venues:final"
   },
   "dependencies": {
     "fuse.js": "^7.0.0",
