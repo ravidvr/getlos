@@ -197,8 +197,8 @@ const ALL_VENUES = [{"name": "CinemaxX", "lat": 52.5086444, "lng": 13.3737448, "
 <script>
 /* ── Translations ── */
 const T = {
-  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Heute keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website'},
-  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows today',next_in:'Next screening in',website:'Website'}
+  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website'},
+  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website'}
 };
 let lang = 'de';
 function t(key) { return T[lang][key] || key; }
@@ -219,15 +219,19 @@ const NOW_TIME = `${String(NOW.getHours()).padStart(2,'0')}:${String(NOW.getMinu
 
 // Check if a time string (HH:MM) is in the past or future
 function isPast(time) { return time && time < NOW_TIME; }
-function timeUntil(time) {
+function timeUntil(dateStr, time) {
+  if (!time) return null;
   const [h,m] = time.split(':').map(Number);
-  const target = h*60+m;
-  const now = NOW.getHours()*60+NOW.getMinutes();
-  const diff = target - now;
-  if (diff <= 0) return null;
-  if (diff < 60) return diff + 'm';
-  const hrs = Math.floor(diff/60), mins = diff%60;
-  return hrs + 'h' + (mins ? ' ' + mins + 'm' : '');
+  // Calculate full datetime difference
+  const target = new Date(dateStr + 'T' + time + ':00+02:00');
+  const diffMs = target - NOW;
+  if (diffMs <= 0) return null;
+  const diffMin = Math.floor(diffMs / 60000);
+  if (diffMin < 60) return diffMin + 'm';
+  const hrs = Math.floor(diffMin/60), mins = diffMin%60;
+  if (hrs < 24) return hrs + 'h' + (mins ? ' ' + mins + 'm' : '');
+  const days = Math.floor(hrs/24), remainH = hrs%24;
+  return days + 'd ' + remainH + 'h';
 }
 function markerColor(count, max) {
   const t = Math.min(1, count / Math.max(1, max));
@@ -398,7 +402,7 @@ function render() {
     let nextTime = null;
     if (activeMovie) {
       const upcoming = matching.filter(e => !isPast(e.time)).sort((a,b) => a.time.localeCompare(b.time));
-      if (upcoming.length) nextTime = timeUntil(upcoming[0].time);
+      if (upcoming.length) nextTime = timeUntil(upcoming[0].date, upcoming[0].time);
     }
 
     if (allPast && !nextTime) {
