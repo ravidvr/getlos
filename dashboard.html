@@ -90,6 +90,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <h1><span class="logo">getlos</span> <span id="headerLabel">Berlin Cinema</span></h1>
   <div style="display:flex;gap:8px;align-items:center">
     <button class="loc-btn" id="locBtn" onclick="getUserLocation()" title="Use my location">📍</button>
+    <button class="loc-btn" onclick="openHelp()" title="Help">?</button>
     <button class="lang-btn" id="langToggle" onclick="toggleLang()">DE</button>
   </div>
 </div>
@@ -124,7 +125,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div class="help-overlay" id="helpOverlay">
   <div class="help-box">
-    <h2 id="helpTitle">🎬 Berlin Cinema Map</h2>
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+      <h2 id="helpTitle" style="margin:0">🎬 Berlin Cinema Map</h2>
+      <button class="lang-btn" onclick="toggleLang();updateHelpLang()" id="helpLangToggle">DE</button>
+    </div>
     <div class="help-grid">
       <div>🔍</div><div id="helpSearch">Search movies by name or find cinemas by address — autocomplete shows suggestions as you type.</div>
       <div>🗣️</div><div id="helpLang">Filter by language: DE (dubbed), EN (original English), OV/OmU (original with subtitles).</div>
@@ -467,6 +471,7 @@ function updateHelpLang() {
   document.getElementById('helpPin').textContent = t.pin;
   document.getElementById('helpData').textContent = t.data;
   document.getElementById('helpBtn').textContent = t.btn;
+  document.getElementById('helpLangToggle').textContent = lang === 'de' ? 'DE' : 'EN';
 }
 
 function openHelp() { document.getElementById('helpOverlay').classList.add('open'); }
