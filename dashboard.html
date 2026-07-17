@@ -214,7 +214,21 @@ function toggleLang() {
   render();
 }
 
-/* ── Color gradient: light → dark based on event count ── */
+const NOW = new Date();
+const NOW_TIME = `${String(NOW.getHours()).padStart(2,'0')}:${String(NOW.getMinutes()).padStart(2,'0')}`;
+
+// Check if a time string (HH:MM) is in the past or future
+function isPast(time) { return time && time < NOW_TIME; }
+function timeUntil(time) {
+  const [h,m] = time.split(':').map(Number);
+  const target = h*60+m;
+  const now = NOW.getHours()*60+NOW.getMinutes();
+  const diff = target - now;
+  if (diff <= 0) return null;
+  if (diff < 60) return diff + 'm';
+  const hrs = Math.floor(diff/60), mins = diff%60;
+  return hrs + 'h' + (mins ? ' ' + mins + 'm' : '');
+}
 function markerColor(count, max) {
   const t = Math.min(1, count / Math.max(1, max));
   // Deep red-to-dark scale
@@ -377,13 +391,23 @@ function render() {
     if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 Website →</a></div>`;
 
     const shown = matching.slice(0, MAX_TIP);
+    // Next screening for searched movie
+    let nextTime = null;
+    if (activeMovie) {
+      const upcoming = matching.filter(e => !isPast(e.time)).sort((a,b) => a.time.localeCompare(b.time));
+      if (upcoming.length) nextTime = timeUntil(upcoming[0].time);
+    }
+
     shown.forEach(e => {
+      const past = isPast(e.time);
+      const timeColor = past ? '#e63946' : '#2d6a4f';
       tip += `<div class="evt">`;
-      tip += `<span class="evt-time">${e.time || ''}</span>`;
+      tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
       tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
       if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
       tip += `</span></div>`;
     });
+    if (nextTime) tip += `<div class="evt-more">⏱ Next screening in ${nextTime}</div>`;
     if (matching.length > MAX_TIP) {
       tip += `<div class="evt-more">+${matching.length - MAX_TIP} ${t('more')}</div>`;
     }
