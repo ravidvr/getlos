@@ -217,8 +217,13 @@ function toggleLang() {
 const NOW = new Date();
 const NOW_TIME = `${String(NOW.getHours()).padStart(2,'0')}:${String(NOW.getMinutes()).padStart(2,'0')}`;
 
-// Check if a time string (HH:MM) is in the past or future
-function isPast(time) { return time && time < NOW_TIME; }
+// Check if a screening (date + HH:MM) is in the past
+function isPast(dateStr, time) {
+  if (!time) return false;
+  if (dateStr > TODAY) return false;      // future day — never past
+  if (dateStr < TODAY) return true;       // earlier day — always past
+  return time < NOW_TIME;                 // today — compare clock time
+}
 function timeUntil(dateStr, time) {
   if (!time) return null;
   const [h,m] = time.split(':').map(Number);
@@ -396,12 +401,12 @@ function render() {
     if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 ${t('website')} →</a></div>`;
 
     const shown = matching.slice(0, MAX_TIP);
-    const allPast = matching.length > 0 && matching.every(e => isPast(e.time));
+    const allPast = matching.length > 0 && matching.every(e => isPast(e.date, e.time));
     
     // Next screening for searched movie
     let nextTime = null;
     if (activeMovie) {
-      const upcoming = matching.filter(e => !isPast(e.time)).sort((a,b) => a.time.localeCompare(b.time));
+      const upcoming = matching.filter(e => !isPast(e.date, e.time)).sort((a,b) => a.time.localeCompare(b.time));
       if (upcoming.length) nextTime = timeUntil(upcoming[0].date, upcoming[0].time);
     }
 
@@ -409,7 +414,7 @@ function render() {
       tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
     } else {
       shown.forEach(e => {
-        const past = isPast(e.time);
+        const past = isPast(e.date, e.time);
         const timeColor = past ? '#e63946' : '#2d6a4f';
         tip += `<div class="evt">`;
         tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
