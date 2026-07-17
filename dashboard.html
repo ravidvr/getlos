@@ -176,7 +176,14 @@ function markerColor(count, max) {
 }
 
 /* ── Map ── */
-const map = L.map('map', { zoomControl:false }).setView([52.52,13.405],12);
+const BERLIN_BOUNDS = [[52.35, 13.08], [52.68, 13.78]];
+const map = L.map('map', {
+  zoomControl: false,
+  maxBounds: BERLIN_BOUNDS,
+  maxBoundsViscosity: 1.0,
+  minZoom: 11,
+  maxZoom: 17
+}).setView([52.52, 13.405], 12);
 L.control.zoom({ position:'bottomright' }).addTo(map);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
   attribution:'&copy; <a href="https://carto.com/">CARTO</a> | <a href="https://osm.org/copyright">OSM</a>',
