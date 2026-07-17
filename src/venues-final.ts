@@ -159,7 +159,7 @@ async function main() {
       event_count: venueEvents.length,
       next_event: sortedEvents[0]?.start_datetime,
       categories,
-      events: sortedEvents.slice(0, 20).map((e) => ({
+      events: sortedEvents.map((e) => ({
         id: e.id,
         title: e.title,
         date: e.start_datetime,
@@ -198,7 +198,7 @@ async function main() {
       event_count: venueEvents.length,
       next_event: sorted[0]?.start_datetime,
       categories,
-      events: sorted.slice(0, 20).map((e) => ({
+      events: sorted.map((e) => ({
         id: e.id,
         title: e.title,
         date: e.start_datetime,

@@ -39,6 +39,8 @@ function stripHtml(html: string): string {
   return html
     .replace(/<[^>]+>/g, " ")
     .replace(/&amp;/g, "&")
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)))
     .replace(/&ouml;/g, "ö").replace(/&auml;/g, "ä")
     .replace(/&uuml;/g, "ü").replace(/&szlig;/g, "ß")
     .replace(/&Ouml;/g, "Ö").replace(/&Auml;/g, "Ä").replace(/&Uuml;/g, "Ü")
@@ -94,7 +96,15 @@ async function fetchFilmDetail(filmId: string): Promise<{
   const cinemas: Array<{ name: string; times: string[]; dates: string[]; langs: string[] }> = [];
   let cm;
   while ((cm = cinemaPattern.exec(text)) !== null) {
-    const cinemaName = cm[1].trim();
+    // Strip page boilerplate and leaked day/time tokens from the captured name
+    // "Kinos wird der Film gezeigt Astra-Filmpalast" → "Astra-Filmpalast"
+    // "Tag Zeit Di, 21.07.26 11:15 Kino im Hof" → "Kino im Hof"
+    // Day abbrevs require the comma so "Movietown"/"Freiluftkino" stay intact.
+    const cinemaName = cm[1]
+      .replace(/^.*?(?:Kinos wird der Film gezeigt|Film gezeigt|Tag\s+Zeit)\s*/i, "")
+      .replace(/^(?:(?:Mo|Di|Mi|Do|Fr|Sa|So),\s*|\d{1,2}\.\d{1,2}\.\d{2,4}\s*|\d{1,2}:\d{2}\s*|\([A-Za-z]+\)\s*|,\s*)+/, "")
+      .trim();
+    if (!cinemaName || cinemaName.length < 3) continue;
     const showtimeText = cm[2];
 
     // Parse day sections within this cinema

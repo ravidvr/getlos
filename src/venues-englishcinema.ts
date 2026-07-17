@@ -121,7 +121,11 @@ const CINEMA_LOOKUP: Record<string, string> = {
 };
 
 function normalizeCinema(raw: string): string {
-  const trimmed = raw.replace(/&ouml;/g, "ö").replace(/&auml;/g, "ä")
+  const trimmed = raw
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)))
+    .replace(/&amp;/g, "&")
+    .replace(/&ouml;/g, "ö").replace(/&auml;/g, "ä")
     .replace(/&uuml;/g, "ü").replace(/&szlig;/g, "ß").trim();
   const lower = trimmed.toLowerCase();
   return CINEMA_LOOKUP[trimmed] || CINEMA_LOOKUP[lower] || trimmed;
