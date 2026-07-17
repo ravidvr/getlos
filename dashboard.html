@@ -116,7 +116,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <input type="date" id="datePicker" value="2026-07-17" min="2026-07-17" max="2026-07-22" onchange="setCustomDate(this.value)" style="background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 8px;border-radius:var(--radius);font-size:12px;font-family:inherit">
   </div>
   <div class="search-wrap">
-    <input type="text" id="addrSearch" placeholder="Search movie or address…" oninput="debouncedSuggest()" onkeydown="handleSearchKey(event)" autocomplete="off">
+    <input type="text" id="addrSearch" placeholder="Search movie or address…" oninput="debouncedSuggest()" onkeydown="handleSearchKey(event)" autocomplete="off" data-t="search">
     <div class="suggestions" id="suggestions"></div>
   </div>
 </div>
@@ -197,8 +197,8 @@ const ALL_VENUES = [{"name": "CineStar", "lat": 52.5841947, "lng": 13.2859238, "
 <script>
 /* ── Translations ── */
 const T = {
-  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende',search:'Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online'},
-  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend',search:'Search address…',tickets:'tickets',more:'more',online:'Online'}
+  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Heute keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website'},
+  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows today',next_in:'Next screening in',website:'Website'}
 };
 let lang = 'de';
 function t(key) { return T[lang][key] || key; }
@@ -388,9 +388,11 @@ function render() {
       tip += `<div class="amenity">${formatDist(dist)} · ${formatTime(dist)}</div>`;
     }
     if (v.address) tip += `<div class="amenity">${v.address}</div>`;
-    if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 Website →</a></div>`;
+    if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 ${t('website')} →</a></div>`;
 
     const shown = matching.slice(0, MAX_TIP);
+    const allPast = matching.length > 0 && matching.every(e => isPast(e.time));
+    
     // Next screening for searched movie
     let nextTime = null;
     if (activeMovie) {
@@ -398,16 +400,20 @@ function render() {
       if (upcoming.length) nextTime = timeUntil(upcoming[0].time);
     }
 
-    shown.forEach(e => {
-      const past = isPast(e.time);
-      const timeColor = past ? '#e63946' : '#2d6a4f';
-      tip += `<div class="evt">`;
-      tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
-      tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
-      if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
-      tip += `</span></div>`;
-    });
-    if (nextTime) tip += `<div class="evt-more">⏱ Next screening in ${nextTime}</div>`;
+    if (allPast && !nextTime) {
+      tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
+    } else {
+      shown.forEach(e => {
+        const past = isPast(e.time);
+        const timeColor = past ? '#e63946' : '#2d6a4f';
+        tip += `<div class="evt">`;
+        tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
+        tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
+        if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
+        tip += `</span></div>`;
+      });
+    }
+    if (nextTime) tip += `<div class="evt-more">⏱ ${t('next_in')} ${nextTime}</div>`;
     if (matching.length > MAX_TIP) {
       tip += `<div class="evt-more">+${matching.length - MAX_TIP} ${t('more')}</div>`;
     }
