@@ -5,6 +5,9 @@
 set -e
 cd /Users/ruhvee/Documents/antigravityprojects/getlos
 
+# Cron environments ship a minimal PATH — make node/npx/git resolvable
+export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
+
 echo "=== $(date) ==="
 
 echo "Pulling cinema data..."
