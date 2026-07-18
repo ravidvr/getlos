@@ -30,7 +30,7 @@ if git diff --quiet dashboard.html; then
     echo "No changes to deploy"
 else
     echo "Deploying..."
-    git add dashboard.html data/
+    git add -u   # stages all tracked modifications; ignored/untracked stay out
     git commit -m "data: daily cinema refresh $(date +%Y-%m-%d)"
     git push origin main
     echo "Deployed!"
