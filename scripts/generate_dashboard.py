@@ -115,11 +115,11 @@ def main() -> None:
         html = re.sub(r'value="\d{4}-\d{2}-\d{2}"', f'value="{dates[0]}"', html, count=1)
         html = re.sub(r'min="\d{4}-\d{2}-\d{2}"', f'min="{dates[0]}"', html, count=1)
         html = re.sub(r'max="\d{4}-\d{2}-\d{2}"', f'max="{dates[-1]}"', html, count=1)
-    html = re.sub(r"const TODAY = '[^']*';", f"const TODAY = '{today.isoformat()}';", html, count=1)
-    html = re.sub(r"const TODAY = new Date\(\)[^;]*;", f"const TODAY = '{today.isoformat()}';", html, count=1)
     stamp = datetime.now().astimezone().isoformat(timespec='minutes')
     html = re.sub(r"const LAST_UPDATED = '[^']*';", f"const LAST_UPDATED = '{stamp}';", html, count=1)
     html = re.sub(r"const LAST_UPDATED = new Date\(\)[^;]*;", f"const LAST_UPDATED = '{stamp}';", html, count=1)
+    # NOTE: const TODAY is intentionally NOT baked — the browser computes the
+    # visitor's local date so the page stays correct between cron runs.
     html = re.sub(r'<script>\s*const ALL_VENUES.*?</script>', f'<script>\n{js}\n</script>', html, flags=re.DOTALL)
     (BASE / 'dashboard.html').write_text(html)
     print(f"dashboard.html={len(html)} bytes updated={stamp}")
