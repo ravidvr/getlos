@@ -744,7 +744,7 @@ function selectSuggestion(i) {
     render();
   } else if (r.type === 'venue') {
     // Fly to venue and open its popup
-    document.getElementById('addrSearch').value = r.name;
+    document.getElementById('addrSearch').value = '';
     activeMovie = '';
     addressMarkerPlaced = false;
     document.getElementById('clearSearch').style.display = 'inline';
@@ -753,12 +753,14 @@ function selectSuggestion(i) {
     
     map.setView([r.venue.lat, r.venue.lng], 15);
     
-    // Find and click the marker for this venue
-    const marker = markers.find(m => {
-      const ll = m.getLatLng();
-      return Math.abs(ll.lat - r.venue.lat) < 0.0001 && Math.abs(ll.lng - r.venue.lng) < 0.0001;
-    });
-    if (marker) marker.openPopup();
+    // Find the marker and open popup after map finishes moving
+    setTimeout(() => {
+      const marker = markers.find(m => {
+        const ll = m.getLatLng();
+        return Math.abs(ll.lat - r.venue.lat) < 0.0001 && Math.abs(ll.lng - r.venue.lng) < 0.0001;
+      });
+      if (marker) marker.openPopup();
+    }, 300);
     
     render();
   } else {
