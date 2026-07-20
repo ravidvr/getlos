@@ -85,10 +85,13 @@ def main() -> None:
             })
 
     # ── Dedupe events, drop empty venues, sort by date+time ──
+    # Also purge events before today — dashboard only needs current+future
     result = []
     for v in venue_map.values():
         seen, uniq = set(), []
         for e in sorted(v['events'], key=lambda x: (x['date'], x['time'])):
+            if e['date'] < today.isoformat():
+                continue
             sig = (e['title'], e['date'], e['time'], e['lang'])
             if sig not in seen:
                 seen.add(sig)
