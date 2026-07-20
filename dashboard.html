@@ -99,6 +99,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <button class="loc-btn" id="locBtn" onclick="getUserLocation()" title="Use my location">📍</button>
     <button class="loc-btn" onclick="openHelp()" title="Help">?</button>
     <button class="loc-btn" onclick="openAbout()" title="About">ℹ</button>
+    <a href="https://github.com/ravidvr/getlos" target="_blank" class="loc-btn" title="View source on GitHub" style="text-decoration:none">⌨</a>
     <button class="lang-btn" id="langToggle" onclick="toggleLang()">DE</button>
   </div>
 </div>
@@ -113,9 +114,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   </div>
   <div class="filter-group">
     <span class="label" data-t="date">Date</span>
-    <button class="active" data-period="today" onclick="setPeriod('today',this)">Today</button>
-    <button data-period="tomorrow" onclick="setPeriod('tomorrow',this)" data-t="tomorrow">Tomorrow</button>
-    <input type="date" id="datePicker" value="2026-07-18" min="2026-07-18" max="2026-07-23" onchange="setCustomDate(this.value)" style="background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 8px;border-radius:var(--radius);font-size:12px;font-family:inherit">
+    <div id="dateGrid" style="display:flex;gap:4px;flex-wrap:wrap"></div>
+    <span style="color:var(--text-dim);font-size:10px;margin:0 4px">|</span>
+    <button data-preset="weekend" onclick="setPreset('weekend',this)" data-t="weekend">Weekend</button>
+    <button data-preset="3day" onclick="setPreset('3day',this)" data-t="3day">3-Day</button>
+    <button data-preset="all" onclick="setPreset('all',this)" data-t="all">All Week</button>
   </div>
   <div class="search-wrap">
     <input type="text" id="addrSearch" placeholder="Search movie or address…" oninput="debouncedSuggest()" onkeydown="handleSearchKey(event)" autocomplete="off" data-t="search">
@@ -134,6 +137,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div id="map"></div>
 <div id="legend"></div>
+<a href="https://github.com/ravidvr/getlos" target="_blank" style="position:fixed;bottom:14px;right:12px;z-index:900;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:4px 10px;font-size:11px;color:var(--text-dim);text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.12)" title="View source on GitHub">⌨ Source</a>
 
 <div class="help-overlay" id="helpOverlay">
   <div class="help-box">
@@ -199,8 +203,8 @@ const ALL_VENUES = [{"name": "Hackesche Höfe Kino", "lat": 52.5240668, "lng": 1
 <script>
 /* ── Translations ── */
 const T = {
-  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_up:'Kommende Vorstellung',leg_past:'Bereits gelaufen'},
-  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_up:'Upcoming screening',leg_past:'Already ran'}
+  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_up:'Kommende Vorstellung',leg_past:'Bereits gelaufen'},
+  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_up:'Upcoming screening',leg_past:'Already ran'}
 };
 let lang = 'de';
 function t(key) { return T[lang][key] || key; }
@@ -212,7 +216,6 @@ function toggleLang() {
     if (el.tagName === 'INPUT') el.placeholder = t(el.dataset.t);
     else el.textContent = t(el.dataset.t);
   });
-  document.querySelectorAll('[data-period]').forEach(b => b.textContent = t(b.dataset.period));
   render();
 }
 
@@ -270,7 +273,7 @@ const PinIcon = L.DivIcon.extend({
 });
 
 let activeLang = 'all';
-let activePeriod = 'today';
+let activeDates = new Set();
 let activeMovie = '';
 // "Today" is computed in the visitor's browser, LOCAL time (not baked at build,
 // not UTC — Berlin is UTC+2, toISOString() would lag until 2am).
@@ -336,14 +339,8 @@ function getUserLocation() {
 const movieIndex = new Set();
 ALL_VENUES.forEach(v => v.events.forEach(e => movieIndex.add(e.title)));
 
-function getDates(period) {
-  const d = new Date(START);
-  if (period === 'today') return [START];
-  d.setDate(d.getDate()+1);
-  if (period === 'tomorrow') return [d.toISOString().slice(0,10)];
-  // Custom date (YYYY-MM-DD string)
-  if (/^\d{4}-\d{2}-\d{2}$/.test(period)) return [period];
-  return [START];
+function getDates() {
+  return [...activeDates].sort();
 }
 
 function render() {
@@ -360,7 +357,7 @@ function render() {
     userMarker.bindTooltip('📍 You are here', {permanent:true, direction:'bottom', offset:[0,12]});
   }
 
-  const dates = getDates(activePeriod);
+  const dates = getDates();
   let evtCount = 0, venCount = 0;
   const movieTitles = new Set();
   const allEvents = [];
@@ -400,27 +397,27 @@ function render() {
     if (v.address) tip += `<div class="amenity">${v.address}</div>`;
     if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 ${t('website')} →</a></div>`;
 
-    const shown = matching.slice(0, MAX_TIP);
-    const allPast = matching.length > 0 && matching.every(e => isPast(e.date, e.time));
-    
+    // Group matching events by date
+    const byDate = {};
+    matching.forEach(e => {
+      if (!byDate[e.date]) byDate[e.date] = [];
+      byDate[e.date].push(e);
+    });
+    const dateOrder = Object.keys(byDate).sort();
+
     // Next screening for searched movie
     let nextTime = null;
     if (activeMovie) {
-      const upcoming = matching.filter(e => !isPast(e.date, e.time)).sort((a,b) => a.time.localeCompare(b.time));
+      const upcoming = matching.filter(e => !isPast(e.date, e.time)).sort((a,b) => (a.date+a.time).localeCompare(b.date+b.time));
       if (upcoming.length) nextTime = timeUntil(upcoming[0].date, upcoming[0].time);
     }
 
-    if (allPast && !nextTime) {
-      // Show the past entries (red) plus a notice
-      shown.forEach(e => {
-        tip += `<div class="evt">`;
-        tip += `<span class="evt-time" style="color:#e63946">${e.time || ''}</span>`;
-        tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
-        if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
-        tip += `</span></div>`;
-      });
-      tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
-    } else {
+    dateOrder.forEach(dateStr => {
+      const evts = byDate[dateStr];
+      const dayName = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][new Date(dateStr + 'T12:00:00').getDay()];
+      tip += `<div style="font-size:10px;color:var(--text-dim);margin:8px 0 4px;text-transform:uppercase;letter-spacing:.5px;border-top:1px solid var(--border);padding-top:6px">${dayName} ${dateStr.slice(8)}.${dateStr.slice(5,7)}</div>`;
+
+      const shown = evts.slice(0, MAX_TIP);
       shown.forEach(e => {
         const past = isPast(e.date, e.time);
         const timeColor = past ? '#e63946' : '#2d6a4f';
@@ -430,11 +427,18 @@ function render() {
         if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
         tip += `</span></div>`;
       });
+
+      if (evts.length > MAX_TIP) {
+        tip += `<div class="evt-more">+${evts.length - MAX_TIP} ${t('more')}</div>`;
+      }
+    });
+
+    // "no more shows" if all events across all dates are past
+    const allPastTotal = matching.length > 0 && matching.every(e => isPast(e.date, e.time));
+    if (allPastTotal && !nextTime) {
+      tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
     }
     if (nextTime) tip += `<div class="evt-more">⏱ ${t('next_in')} ${nextTime}</div>`;
-    if (matching.length > MAX_TIP) {
-      tip += `<div class="evt-more">+${matching.length - MAX_TIP} ${t('more')}</div>`;
-    }
 
     const marker = L.marker([v.lat, v.lng], {icon}).addTo(map);
     marker.bindPopup(tip, { maxWidth:340, className:'leaflet-popup' });
@@ -467,28 +471,54 @@ function setLang(langVal, btn) {
   render();
 }
 
-function setPeriod(period, btn) {
-  activePeriod = period;
-  document.querySelectorAll('[data-period]').forEach(b => b.classList.remove('active'));
+function toggleDate(dateStr, btn) {
+  if (activeDates.has(dateStr) && activeDates.size === 1) return; // keep at least one
+  if (activeDates.has(dateStr)) {
+    activeDates.delete(dateStr);
+    btn.classList.remove('active');
+  } else {
+    activeDates.add(dateStr);
+    btn.classList.add('active');
+  }
+  // Deselect preset buttons
+  document.querySelectorAll('[data-preset]').forEach(b => b.classList.remove('active'));
+  render();
+}
+
+function setPreset(preset, btn) {
+  document.querySelectorAll('[data-preset]').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  // Sync date picker
-  const dates = getDates(period);
-  if (dates.length === 1) document.getElementById('datePicker').value = dates[0];
+  
+  const sorted = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
+  activeDates.clear();
+  
+  if (preset === 'weekend') {
+    // Fri + Sat + Sun within the data window
+    sorted.forEach(d => {
+      const day = new Date(d + 'T12:00:00').getDay(); // 0=Sun
+      if (day === 5 || day === 6 || day === 0) activeDates.add(d);
+    });
+  } else if (preset === '3day') {
+    sorted.slice(0, 3).forEach(d => activeDates.add(d));
+  } else if (preset === 'all') {
+    sorted.forEach(d => activeDates.add(d));
+  }
+  
+  updateDateGrid();
   render();
 }
 
-function setCustomDate(dateStr) {
-  activePeriod = dateStr;
-  document.querySelectorAll('[data-period]').forEach(b => b.classList.remove('active'));
-  render();
+function updateDateGrid() {
+  const grid = document.getElementById('dateGrid');
+  const sorted = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
+  const dayNames = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  grid.innerHTML = sorted.map(d => {
+    const day = new Date(d + 'T12:00:00').getDay();
+    const label = `${dayNames[day]} ${d.slice(8)}`; // e.g. "Mon 18"
+    const active = activeDates.has(d) ? ' active' : '';
+    return `<button class="${active}" onclick="toggleDate('${d}',this)">${label}</button>`;
+  }).join('');
 }
-
-// Override getDates to handle custom date strings
-const origGetDates = getDates;
-getDates = function(period) {
-  if (/^\d{4}-\d{2}-\d{2}$/.test(period)) return [period];
-  return origGetDates(period);
-};
 
 /* ── Search (movie title + address) ── */
 let suggestTimer = null, suggestIdx = -1, suggestResults = [];
@@ -580,7 +610,7 @@ const HELP_TEXTS = {
     title:'🎬 Berlin Kinokarte',
     search:'Filme nach Namen suchen oder Kinos nach Adresse finden — Autovervollständigung zeigt Vorschläge während der Eingabe.',
     lang:'Nach Sprache filtern: DE (synchronisiert), EN (Original Englisch), OV/OmU (Original mit Untertiteln).',
-    date:'Zwischen Heute und Morgen wechseln oder ein Datum wählen, um vorauszuplanen.',
+    date:'Wähle einen oder mehrere Tage aus — Heute, Morgen, Wochenende oder die ganze Woche.',
     loc:'Auf den Pin-Button klicken, um deinen Standort zu teilen — Entfernung und Gehzeit erscheinen in jedem Kino-Tooltip.',
     pin:'Gelbe Pins = Kinos. Nach einer Filmsuche: grün = kommende Vorstellung, rot = bereits gelaufen. Auf einen Pin klicken für das vollständige Programm.',
     data:'Daten von berlin.de, English Cinema Berlin und OpenStreetMap.',
@@ -590,7 +620,7 @@ const HELP_TEXTS = {
     title:'🎬 Berlin Cinema Map',
     search:'Search movies by name or find cinemas by address — autocomplete shows suggestions as you type.',
     lang:'Filter by language: DE (dubbed), EN (original English), OV/OmU (original with subtitles).',
-    date:'Switch between Today and Tomorrow, or pick any date to plan ahead.',
+    date:'Select one or more days — Today, Tomorrow, Weekend, or the full week.',
     loc:'Click the pin button to share your location — distance and walking time appear in every cinema tooltip.',
     pin:'Yellow pins = cinemas. After a movie search: green = upcoming screening, red = already ran. Click any pin for the full schedule.',
     data:'Data from berlin.de, English Cinema Berlin, and OpenStreetMap.',
@@ -657,13 +687,10 @@ if (!userLat) { setTimeout(getUserLocation, 800); }
 const origToggleLang = toggleLang;
 toggleLang = function() { origToggleLang(); updateHelpLang(); };
 
-// Date picker: today (visitor-local) through the last date present in the data
+// Init date grid — default to today selected
 (function() {
-  const dp = document.getElementById('datePicker');
-  const last = ALL_VENUES.flatMap(v => v.events.map(e => e.date)).sort().pop() || TODAY;
-  dp.min = TODAY;
-  dp.max = last;
-  dp.value = TODAY;
+  activeDates.add(TODAY);
+  updateDateGrid();
 })();
 
 render();
