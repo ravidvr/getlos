@@ -203,8 +203,8 @@ const ALL_VENUES = [{"name": "Hackesche Höfe Kino", "lat": 52.5240668, "lng": 1
 <script>
 /* ── Translations ── */
 const T = {
-  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_all_upcoming:'Alle laufen noch',leg_mixed:'Teilweise gelaufen',leg_all_past:'Alle bereits gelaufen'},
-  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_all_upcoming:'All upcoming',leg_mixed:'Some already ran',leg_all_past:'All already ran'}
+  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_all_upcoming:'Alle laufen noch',leg_mixed:'Teilweise gelaufen',leg_all_past:'Alle bereits gelaufen',leg_show_upcoming:'Läuft noch',leg_show_past:'Bereits gelaufen'},
+  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_all_upcoming:'All upcoming',leg_mixed:'Some already ran',leg_all_past:'All already ran',leg_show_upcoming:'Upcoming show',leg_show_past:'Show already ran'}
 };
 let lang = 'de';
 function t(key) { return T[lang][key] || key; }
@@ -257,6 +257,18 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution:'&copy; <a href="https://osm.org/copyright">OSM</a>',
   maxZoom:19
 }).addTo(map);
+
+// When a popup opens, show per-showtime labels
+map.on('popupopen', function() {
+  const leg = document.getElementById('legend');
+  leg.innerHTML = `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_show_upcoming')}</div>
+                   <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_show_past')}</div>`;
+});
+
+// When popup closes, restore normal legend
+map.on('popupclose', function() {
+  renderLegend();
+});
 
 /* ── Custom colored pin marker ── */
 const PinIcon = L.DivIcon.extend({
@@ -341,6 +353,15 @@ ALL_VENUES.forEach(v => v.events.forEach(e => movieIndex.add(e.title)));
 
 function getDates() {
   return [...activeDates].sort();
+}
+
+function renderLegend() {
+  const leg = document.getElementById('legend');
+  leg.innerHTML = activeMovie
+    ? `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_all_upcoming')}</div>
+       <div class="row"><span class="dot" style="background:#f4a825"></span>${t('leg_mixed')}</div>
+       <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_all_past')}</div>`
+    : `<div class="row"><span class="dot" style="background:#0077b6"></span>${t('leg_cinema')}</div>`;
 }
 
 function render() {
@@ -452,13 +473,7 @@ function render() {
   document.getElementById('statCinemas').textContent = venCount;
   document.getElementById('statMovies').textContent = movieTitles.size;
 
-  // Legend: blue default; search = green/orange/red
-  const leg = document.getElementById('legend');
-  leg.innerHTML = activeMovie
-    ? `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_all_upcoming')}</div>
-       <div class="row"><span class="dot" style="background:#f4a825"></span>${t('leg_mixed')}</div>
-       <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_all_past')}</div>`
-    : `<div class="row"><span class="dot" style="background:#0077b6"></span>${t('leg_cinema')}</div>`;
+  renderLegend();
 
   // Hide loading, show last updated
   document.getElementById('loading').style.display = 'none';
