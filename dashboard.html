@@ -150,7 +150,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div>🗣️</div><div id="helpLang">Filter by language: DE (dubbed), EN (original English), OV/OmU (original with subtitles).</div>
       <div>📅</div><div id="helpDate">Switch between Today and Tomorrow, or pick any date to plan ahead.</div>
       <div>📍</div><div id="helpLoc">Click the pin button to share your location — distance and walking time appear in every cinema tooltip.</div>
-      <div>🗺️</div><div id="helpPin">Yellow pins = cinemas. After a movie search: green = upcoming screening, red = already ran. Click any pin for the full schedule.</div>
+      <div>🗺️</div><div id="helpPin">Blue pins = cinemas. After a movie search: green = all upcoming, orange = some already ran, red = all already ran. Click any pin for the full schedule.</div>
     </div>
     <p style="margin-top:16px;color:var(--text-dim);font-size:11px" id="helpData">Data from berlin.de, English Cinema Berlin, and OpenStreetMap.</p>
     <button class="help-close" onclick="closeHelp()" id="helpBtn">Got it →</button>
@@ -203,8 +203,8 @@ const ALL_VENUES = [{"name": "Hackesche Höfe Kino", "lat": 52.5240668, "lng": 1
 <script>
 /* ── Translations ── */
 const T = {
-  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_up:'Kommende Vorstellung',leg_past:'Bereits gelaufen'},
-  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_up:'Upcoming screening',leg_past:'Already ran'}
+  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_all_upcoming:'Alle laufen noch',leg_mixed:'Teilweise gelaufen',leg_all_past:'Alle bereits gelaufen'},
+  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_all_upcoming:'All upcoming',leg_mixed:'Some already ran',leg_all_past:'All already ran'}
 };
 let lang = 'de';
 function t(key) { return T[lang][key] || key; }
@@ -379,13 +379,16 @@ function render() {
     venCount++;
     matching.forEach(e => { evtCount++; movieTitles.add(e.title); });
 
-    const allPastMark = matching.every(e => isPast(e.date, e.time));
-    // Yellow default; when searching: green = upcoming show, red = all past
+    // Default: blue. When searching: green=all upcoming, orange=mixed, red=all past
+    const allPast = matching.every(e => isPast(e.date, e.time));
+    const allUpcoming = matching.every(e => !isPast(e.date, e.time));
     let color;
     if (activeMovie) {
-      color = allPastMark ? '#e63946' : '#2d6a4f';
+      if (allPast) color = '#e63946';           // red — no shows available
+      else if (allUpcoming) color = '#2d6a4f';  // green — all shows available
+      else color = '#f4a825';                   // orange — some available
     } else {
-      color = '#f4a825';
+      color = '#0077b6';                        // blue — default (matches --accent2)
     }
     const icon = new PinIcon({color});
 
@@ -449,12 +452,13 @@ function render() {
   document.getElementById('statCinemas').textContent = venCount;
   document.getElementById('statMovies').textContent = movieTitles.size;
 
-  // Legend follows mode: default = yellow only; search = green/red
+  // Legend: blue default; search = green/orange/red
   const leg = document.getElementById('legend');
   leg.innerHTML = activeMovie
-    ? `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_up')}</div>
-       <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_past')}</div>`
-    : `<div class="row"><span class="dot" style="background:#f4a825"></span>${t('leg_cinema')}</div>`;
+    ? `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_all_upcoming')}</div>
+       <div class="row"><span class="dot" style="background:#f4a825"></span>${t('leg_mixed')}</div>
+       <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_all_past')}</div>`
+    : `<div class="row"><span class="dot" style="background:#0077b6"></span>${t('leg_cinema')}</div>`;
 
   // Hide loading, show last updated
   document.getElementById('loading').style.display = 'none';
@@ -493,11 +497,28 @@ function setPreset(preset, btn) {
   activeDates.clear();
   
   if (preset === 'weekend') {
-    // Fri + Sat + Sun within the data window
-    sorted.forEach(d => {
-      const day = new Date(d + 'T12:00:00').getDay(); // 0=Sun
-      if (day === 5 || day === 6 || day === 0) activeDates.add(d);
+    // Find next Friday >= today, then select Fri+Sat+Sun from data
+    const todayDay = new Date(TODAY + 'T12:00:00').getDay(); // 0=Sun
+    // Days until next Friday (5=Friday). If today is Fri/Sat/Sun, use this week's Friday
+    let daysToFriday;
+    if (todayDay === 5) daysToFriday = 0;       // today is Friday
+    else if (todayDay === 6) daysToFriday = -1;  // today is Saturday, Friday was yesterday
+    else if (todayDay === 0) daysToFriday = -2;  // today is Sunday, Friday was 2 days ago
+    else daysToFriday = 5 - todayDay;            // Mon-Thu: days until Friday
+    
+    const friday = new Date(TODAY + 'T12:00:00');
+    friday.setDate(friday.getDate() + daysToFriday);
+    const friStr = friday.toISOString().slice(0,10);
+    const sat = new Date(friday); sat.setDate(sat.getDate() + 1);
+    const satStr = sat.toISOString().slice(0,10);
+    const sun = new Date(friday); sun.setDate(sun.getDate() + 2);
+    const sunStr = sun.toISOString().slice(0,10);
+    
+    [friStr, satStr, sunStr].forEach(d => {
+      if (sorted.includes(d)) activeDates.add(d);
     });
+    // If no weekend days found in data, fallback to first 3 days
+    if (activeDates.size === 0) sorted.slice(0, 3).forEach(d => activeDates.add(d));
   } else if (preset === '3day') {
     sorted.slice(0, 3).forEach(d => activeDates.add(d));
   } else if (preset === 'all') {
@@ -612,7 +633,7 @@ const HELP_TEXTS = {
     lang:'Nach Sprache filtern: DE (synchronisiert), EN (Original Englisch), OV/OmU (Original mit Untertiteln).',
     date:'Wähle einen oder mehrere Tage aus — Heute, Morgen, Wochenende oder die ganze Woche.',
     loc:'Auf den Pin-Button klicken, um deinen Standort zu teilen — Entfernung und Gehzeit erscheinen in jedem Kino-Tooltip.',
-    pin:'Gelbe Pins = Kinos. Nach einer Filmsuche: grün = kommende Vorstellung, rot = bereits gelaufen. Auf einen Pin klicken für das vollständige Programm.',
+    pin:'Blaue Pins = Kinos. Nach einer Filmsuche: grün = alle laufen noch, orange = teilweise gelaufen, rot = alle bereits gelaufen. Auf einen Pin klicken für das Programm.',
     data:'Daten von berlin.de, English Cinema Berlin und OpenStreetMap.',
     btn:'Verstanden →'
   },
@@ -622,7 +643,7 @@ const HELP_TEXTS = {
     lang:'Filter by language: DE (dubbed), EN (original English), OV/OmU (original with subtitles).',
     date:'Select one or more days — Today, Tomorrow, Weekend, or the full week.',
     loc:'Click the pin button to share your location — distance and walking time appear in every cinema tooltip.',
-    pin:'Yellow pins = cinemas. After a movie search: green = upcoming screening, red = already ran. Click any pin for the full schedule.',
+    pin:'Blue pins = cinemas. After a movie search: green = all upcoming, orange = some already ran, red = all already ran. Click any pin for the full schedule.',
     data:'Data from berlin.de, English Cinema Berlin, and OpenStreetMap.',
     btn:'Got it →'
   }
