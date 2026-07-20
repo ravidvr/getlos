@@ -77,6 +77,7 @@ async function main() {
   const sources = [
     "venues-berlincinema",
     "venues-englishcinema",
+    "venues-openair",
   ];
   const allEvents: RawEvent[] = [];
 

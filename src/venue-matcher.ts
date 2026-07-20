@@ -171,6 +171,7 @@ async function main() {
   const sources = [
     "venues-berlincinema",
     "venues-englishcinema",
+    "venues-openair",
   ];
   const venueNames = collectVenueNames(sources);
   console.log(`Unique event venue names: ${venueNames.length}`);

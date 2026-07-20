@@ -13,6 +13,7 @@ echo "=== $(date) ==="
 echo "Pulling cinema data..."
 npx tsx src/venues-berlincinema.ts 2>&1 | tail -3
 npx tsx src/venues-englishcinema.ts 2>&1 | tail -3
+npx tsx src/venues-openair.ts 2>&1 | tail -3
 
 echo "Processing..."
 npx tsx src/venue-matcher.ts 2>&1 | tail -1
