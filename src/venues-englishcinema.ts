@@ -56,7 +56,7 @@ function parseShowtimes(cellHtml: string): Array<{ time: string; cinema: string 
     const time = timeMatch[1];
 
     // Extract cinema name from title attribute (has full name)
-    const titleMatch = badge.match(/title="[^"]*?at\s+([^"]+)"/);
+    const titleMatch = badge.match(/title="[^"]*?(?:at|@)\s+([^"]+)"/);
     let cinema: string;
     if (titleMatch) {
       cinema = titleMatch[1].trim();
@@ -76,49 +76,97 @@ function parseShowtimes(cellHtml: string): Array<{ time: string; cinema: string 
 }
 
 // Cinema name normalization (abbreviations → full names)
+// Keys: abbreviated/badge-text forms + lowercase title-attribute full names.
+// With the @ fix (line 59), title attributes like "20:00 @ CinemaxX Berlin"
+// now flow through — we need entries for those full names to canonicalize them.
 const CINEMA_LOOKUP: Record<string, string> = {
+  // --- Abbreviation-style keys (from badge text fallback) ---
   "bware": "b-ware! Ladenkino",
-  "b-ware! ladenkino": "b-ware! Ladenkino",
   "Cubix": "CineStar Cubix am Alexanderplatz",
-  "cinestar cubix": "CineStar Cubix am Alexanderplatz",
   "CinemaxX": "CinemaxX Berlin Potsdamer Platz",
-  "cinemaxx berlin": "CinemaxX Berlin Potsdamer Platz",
   "fsk": "fsk Kino am Oranienplatz",
   "HHK": "Hackesche Höfe Kino",
-  "hackesche höfe kino": "Hackesche Höfe Kino",
   "KulturBrau": "Kino in der KulturBrauerei",
   "LUX": "Kino LuXe",
-  "kino luxe": "Kino LuXe",
   "Movmto": "Moviemento",
-  "moviemento": "Moviemento",
   "ODE": "Odeon Berlin",
-  "odeon": "Odeon Berlin",
   "PAS": "Passage Kino",
-  "passage kino": "Passage Kino",
   "FRP": "Filmrauschpalast",
-  "filmrauschpalast": "Filmrauschpalast",
   "Rollenberg": "Rollberg Kino",
   "ROL": "Rollberg Kino",
-  "rollberg kino": "Rollberg Kino",
   "Sputnik": "Sputnik Kino",
-  "sputnik kino": "Sputnik Kino",
   "Tilsiter": "Tilsiter Lichtspiele",
-  "tilsiter lichtspiele": "Tilsiter Lichtspiele",
   "Union": "Kino Union",
-  "kino union": "Kino Union",
   "UCI Easts.": "UCI Luxe East Side Gallery",
   "UCI": "UCI Luxe East Side Gallery",
-  "uci luxe": "UCI Luxe East Side Gallery",
   "ZHK": "Zeughauskino",
-  "zeughauskino": "Zeughauskino",
   "Zukunft": "Zukunft am Ostkreuz",
-  "zukunft am ostkreuz": "Zukunft am Ostkreuz",
   "CKW": "CineStar Cubix am Alexanderplatz",
   "Babylon": "Babylon Berlin",
-  "babylon": "Babylon Berlin",
   "Intimes": "Intimes Kino",
   "FAF": "Filmrauschpalast",
   "Neukölln": "Passage Kino Neukölln",
+
+  // --- Lowercase full-name keys (from title-attribute extraction) ---
+  "b-ware! ladenkino": "b-ware! Ladenkino",
+  "cinestar cubix": "CineStar Cubix am Alexanderplatz",
+  "cinestar cubix am alexanderplatz": "CineStar Cubix am Alexanderplatz",
+  "cinemaxx berlin": "CinemaxX Berlin Potsdamer Platz",
+  "cinemaxx berlin potsdamer platz": "CinemaxX Berlin Potsdamer Platz",
+  "hackesche höfe kino": "Hackesche Höfe Kino",
+  "kino luxe": "Kino LuXe",
+  "moviemento": "Moviemento",
+  "odeon": "Odeon Berlin",
+  "odeon berlin": "Odeon Berlin",
+  "passage kino": "Passage Kino",
+  "passage": "Passage Kino",
+  "filmrauschpalast": "Filmrauschpalast",
+  "rollberg kino": "Rollberg Kino",
+  "rollberg kinos": "Rollberg Kino",
+  "sputnik kino": "Sputnik Kino",
+  "tilsiter lichtspiele": "Tilsiter Lichtspiele",
+  "kino union": "Kino Union",
+  "uci luxe": "UCI Luxe East Side Gallery",
+  "uci luxe east side gallery": "UCI Luxe East Side Gallery",
+  "zeughauskino": "Zeughauskino",
+  "zukunft am ostkreuz": "Zukunft am Ostkreuz",
+  "kino zukunft": "Zukunft am Ostkreuz",
+  "babylon": "Babylon Berlin",
+  "kino intimes": "Intimes Kino",
+  "fsk kino am oranienplatz": "fsk Kino am Oranienplatz",
+
+  // --- New cinemas not previously in lookup (Jul 2026) ---
+  // CineStar chain
+  "cinestar kulturbrauerei": "Kino in der KulturBrauerei",
+  "cinestar berlin-tegel": "CineStar Berlin-Tegel",
+
+  // Cineplex chain
+  "cineplex alhambra": "Cineplex Alhambra",
+  "cineplex neukölln": "Passage Kino Neukölln",
+  "cineplex titania": "Cineplex Titania",
+
+  // Babylon (separate from "Babylon Berlin" — different venues)
+  "babylon kreuzberg": "Babylon Kreuzberg",
+  "babylon mitte": "Babylon Mitte",
+
+  // Delphi
+  "delphi lux": "Delphi LUX",
+  "delphi-filmpalast": "Delphi-Filmpalast",
+
+  // Independent cinemas
+  "acud kino": "Acud Kino",
+  "bundesplatz-kino": "Bundesplatz-Kino",
+  "casablanca kino": "Casablanca Kino",
+  "cinemotion hohenschönhausen": "CineMotion Hohenschönhausen",
+  "city kino wedding": "City Kino Wedding",
+  "eva lichtspiele": "Eva Lichtspiele",
+  "filmtheater am friedrichshain": "Filmtheater am Friedrichshain",
+  "kino central": "Kino Central",
+  "kino international": "Kino International",
+  "lichtblick kino": "Lichtblick Kino",
+  "neues off": "Neues Off",
+  "yorck kino": "Yorck Kino",
+  "filmkunst 66": "filmkunst 66",
 };
 
 function normalizeCinema(raw: string): string {

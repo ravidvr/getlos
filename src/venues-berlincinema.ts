@@ -190,10 +190,20 @@ async function main() {
     await new Promise((r) => setTimeout(r, 300));
   }
 
-  writeFileSync("data/venues-berlincinema.json", JSON.stringify(events, null, 2));
+  // Deduplicate by source_id (cinemaPattern can produce overlapping matches)
+  const seen = new Set<string>();
+  const deduped: CinemaEvent[] = [];
+  for (const e of events) {
+    if (!seen.has(e.source_id)) {
+      seen.add(e.source_id);
+      deduped.push(e);
+    }
+  }
 
-  const dates = [...new Set(events.map(e => e.start_datetime.slice(0, 10)))].sort();
-  console.log(`\r  Processed: ${processed}/${filmIds.length} — ${events.length} showtimes across ${dates.length} days`);
+  writeFileSync("data/venues-berlincinema.json", JSON.stringify(deduped, null, 2));
+
+  const dates = [...new Set(deduped.map(e => e.start_datetime.slice(0, 10)))].sort();
+  console.log(`\r  Processed: ${processed}/${filmIds.length} — ${deduped.length} showtimes across ${dates.length} days (${events.length - deduped.length} dupes removed)`);
   console.log(`  Cinemas: ${allCinemas.size}`);
   console.log(`  Date range: ${dates[0]} to ${dates[dates.length-1]}`);
   console.log(`\nDone → data/venues-berlincinema.json`);
