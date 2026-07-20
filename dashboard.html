@@ -281,6 +281,9 @@ map.on('popupclose', function() {
   renderLegend();
 });
 
+// Update stats based on visible markers in viewport
+map.on('moveend', updateViewportStats);
+
 /* ── Custom colored pin marker ── */
 const PinIcon = L.DivIcon.extend({
   createIcon: function(oldIcon) {
@@ -373,6 +376,24 @@ function renderLegend() {
        <div class="row"><span class="dot" style="background:#f4a825"></span>${t('leg_mixed')}</div>
        <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_all_past')}</div>`
     : `<div class="row"><span class="dot" style="background:#0077b6"></span>${t('leg_cinema')}</div>`;
+}
+
+function updateViewportStats() {
+  const bounds = map.getBounds();
+  let screenings = 0, cinemas = 0;
+  const movies = new Set();
+  
+  markers.forEach(m => {
+    if (bounds.contains(m.getLatLng()) && m._venueData) {
+      cinemas++;
+      screenings += m._venueData.events;
+      m._venueData.movieTitles.forEach(t => movies.add(t));
+    }
+  });
+  
+  document.getElementById('statFilms').textContent = screenings;
+  document.getElementById('statCinemas').textContent = cinemas;
+  document.getElementById('statMovies').textContent = movies.size;
 }
 
 function render() {
@@ -477,12 +498,11 @@ function render() {
 
     const marker = L.marker([v.lat, v.lng], {icon}).addTo(map);
     marker.bindPopup(tip, { maxWidth:340, className:'leaflet-popup' });
+    marker._venueData = { events: matching.length, movieTitles: [...new Set(matching.map(e => e.title))] };
     markers.push(marker);
   });
 
-  document.getElementById('statFilms').textContent = evtCount;
-  document.getElementById('statCinemas').textContent = venCount;
-  document.getElementById('statMovies').textContent = movieTitles.size;
+  updateViewportStats();
 
   renderLegend();
 }
