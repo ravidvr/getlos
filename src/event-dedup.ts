@@ -68,7 +68,7 @@ function dedupKey(e: RawEvent): string {
     .replace(/[^\w\s]/g, "")
     .replace(/\s+/g, " ")
     .trim();
-  const date = e.start_datetime?.slice(0, 10) || ""; // YYYY-MM-DD
+  const date = e.start_datetime?.slice(0, 16) || ""; // YYYY-MM-DDTHH:MM
   const venue = decodeEntities(e.venue_name).toLowerCase().trim();
   return `${title}|${date}|${venue}`;
 }
