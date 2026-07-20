@@ -41,15 +41,35 @@ interface MergedEvent {
   last_updated: string;
 }
 
+// Decode HTML entities (no external dependency needed)
+function decodeEntities(text: string): string {
+  return text
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, "\"")
+    .replace(/&#039;/g, "'")
+    .replace(/&#x27;/g, "'")
+    .replace(/&ouml;/g, "ö").replace(/&auml;/g, "ä")
+    .replace(/&uuml;/g, "ü").replace(/&szlig;/g, "ß")
+    .replace(/&Ouml;/g, "Ö").replace(/&Auml;/g, "Ä").replace(/&Uuml;/g, "Ü")
+    .replace(/&eacute;/g, "é").replace(/&agrave;/g, "à")
+    .replace(/&ndash;/g, "–").replace(/&mdash;/g, "—")
+    .replace(/&rsquo;/g, "’").replace(/&lsquo;/g, "‘")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCharCode(parseInt(h, 16)));
+}
+
 // Normalize for dedup key
 function dedupKey(e: RawEvent): string {
-  const title = e.title
+  const title = decodeEntities(e.title)
     .toLowerCase()
     .replace(/[^\w\s]/g, "")
     .replace(/\s+/g, " ")
     .trim();
   const date = e.start_datetime?.slice(0, 10) || ""; // YYYY-MM-DD
-  const venue = e.venue_name.toLowerCase().trim();
+  const venue = decodeEntities(e.venue_name).toLowerCase().trim();
   return `${title}|${date}|${venue}`;
 }
 
@@ -104,11 +124,11 @@ async function main() {
 
     merged.push({
       id: `evt_${merged.length + 1}`,
-      title: first.title,
-      description: first.description || "",
+      title: decodeEntities(first.title),
+      description: decodeEntities(first.description || ""),
       start_datetime: first.start_datetime,
       end_datetime: first.end_datetime || first.start_datetime,
-      venue_name: first.venue_name,
+      venue_name: decodeEntities(first.venue_name),
       sources: group.map((e) => ({
         source: e.source,
         source_id: e.source_id,
