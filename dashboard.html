@@ -40,13 +40,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .suggestions .item{padding:8px 12px;font-size:12px;cursor:pointer;border-bottom:1px solid var(--border);color:var(--text)}
 .suggestions .item:hover,.suggestions .item.active{background:var(--surface2);color:var(--accent2)}
 
-.stats{display:flex;gap:10px;padding:8px 20px;background:var(--surface);border-bottom:1px solid var(--border);flex-shrink:0;flex-wrap:wrap}
-.stat-card{background:var(--surface2);border-radius:var(--radius);padding:8px 14px;flex:1;min-width:110px}
-.stat-card .label{font-size:10px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.5px}
-.stat-card .value{font-size:22px;font-weight:700;color:var(--accent2)}
-
 #map{flex:1;min-height:0}
-#legend{position:fixed;bottom:14px;left:12px;z-index:900;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:8px 12px;font-size:11px;box-shadow:0 2px 8px rgba(0,0,0,.12)}
+
+/* ── Bottom bar ── */
+.bottom-bar{background:var(--surface);border-top:1px solid var(--border);padding:6px 20px;display:flex;align-items:center;gap:12px;flex-shrink:0;flex-wrap:wrap;font-size:12px}
+.bottom-stats{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.bottom-stats strong{color:var(--accent2);font-weight:700}
+.bottom-stats span{color:var(--text-dim)}
+.bottom-sep{color:var(--border);margin:0 2px}
+.bottom-legend{display:flex;align-items:center;gap:8px;margin-left:auto}
+.bottom-source{color:var(--text-dim);text-decoration:none;font-size:11px;margin-left:8px;white-space:nowrap}
+.bottom-source:hover{color:var(--accent2)}
 #legend .row{display:flex;align-items:center;gap:6px;line-height:1.7}
 #legend .dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 
@@ -79,15 +83,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .help-close:hover{opacity:.9}
 
 @media (max-width:768px){
-  .header{padding:10px 12px}
-  .header h1{font-size:17px}
-  .filters{padding:6px 12px;gap:6px}
-  .stats{padding:6px 12px;gap:6px}
-  .stat-card{padding:6px 10px;min-width:80px}
-  .stat-card .value{font-size:18px}
-  .search-wrap{min-width:140px;max-width:100%}
-  #map{height:52vh;min-height:300px}
+  .header{padding:8px 10px;gap:6px}
+  .header h1{font-size:15px}
+  .filters{flex-direction:column;align-items:stretch;padding:6px 10px;gap:6px}
+  .filter-group{width:100%}
+  .filter-group button{min-height:34px;padding:5px 9px;font-size:11px}
+  .search-wrap{min-width:0;max-width:100%;width:100%}
+  .search-wrap input{min-height:40px;font-size:16px}
+  #map{height:55vh;min-height:300px}
+  .bottom-bar{flex-direction:column;align-items:flex-start;gap:4px;padding:6px 10px;font-size:11px}
+  .bottom-legend{margin-left:0}
+  .bottom-source{margin-left:0}
+  .bottom-sep{display:none}
   .leaflet-tooltip{max-width:270px!important}
+  .leaflet-popup-content{font-size:11px}
+  .suggestions{max-height:160px}
+  .suggestions .item{padding:10px 12px;font-size:13px;min-height:40px}
 }
 </style>
 </head>
@@ -125,10 +136,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <div class="suggestions" id="suggestions"></div>
   </div>
 </div>
-
-
-
-
 
 <div id="map"></div>
 <div class="bottom-bar">
@@ -478,13 +485,6 @@ function render() {
   document.getElementById('statMovies').textContent = movieTitles.size;
 
   renderLegend();
-
-  // Hide loading, show last updated
-  document.getElementById('loading').style.display = 'none';
-  const upEl = document.getElementById('updated');
-  upEl.style.display = 'block';
-  const d = new Date(LAST_UPDATED);
-  upEl.textContent = 'Updated: ' + d.toLocaleDateString('en', {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
 }
 
 function setLang(langVal, btn) {
