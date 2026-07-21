@@ -39,20 +39,10 @@ function parseDateHeader(dateStr: string): string {
   return "";
 }
 
-// Format normalization: lowercase from HTML → canonical casing
+// Format normalization: only IMAX is tracked; everything else is venue-level
 function normalizeFormat(raw: string): string {
-  const fmt = raw.trim();
-  const lower = fmt.toLowerCase();
-  const FORMAT_NORM: Record<string, string> = {
-    "imax": "IMAX",
-    "screenx": "ScreenX",
-    "d-box": "DBOX",
-    "3d": "3D",
-    "4dx": "4DX",
-    "dolby": "DolbyAtmos",
-    "dolby atmos": "DolbyAtmos",
-  };
-  return FORMAT_NORM[lower] || fmt;
+  const lower = raw.trim().toLowerCase();
+  return lower === "imax" ? "IMAX" : "";
 }
 
 // Extract {time, cinema, format} tuples from a cell containing badge elements

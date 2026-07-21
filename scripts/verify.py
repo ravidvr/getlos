@@ -71,11 +71,12 @@ def main():
     missing = data_venues - fmt_keys
     chk('formats: all venues have entries', not missing, f'{len(missing)} missing: {sorted(list(missing))[:5]}')
 
-    # Premium venues have format tags
-    premium = {'cinemaxx','uci','cinestar','cineplex'}
-    premium_venues = [v for v in d if any(p in v['name'].lower() for p in premium)]
-    missing_fmts = [v['name'] for v in premium_venues if not v.get('formats')]
-    chk('formats: premium venues have tags', not missing_fmts, f'{len(missing_fmts)}: {missing_fmts[:3]}')
+    # Verify IMAX tag is present on venues that claim it in venue-formats.json
+    imax_venues_formats = {k for k, v in fmt.items() if 'IMAX' in v.get('formats', [])}
+    imax_venues_data = {v['name'] for v in d if 'IMAX' in (v.get('formats') or [])}
+    missing_imax = imax_venues_formats - {name.lower().strip() for name in imax_venues_data}
+    # Also check: venues known to have IMAX per venue-formats should have it in dashboard
+    chk('formats: IMAX tag consistent', not missing_imax, f'{len(missing_imax)}: {sorted(missing_imax)[:3]}')
 
     # Format field present on events
     event_count = sum(len(v['events']) for v in d)
@@ -87,7 +88,7 @@ def main():
     chk(f'formats: outdoor venues ({len(outdoor)})', len(outdoor) > 0)
 
     # Valid format values
-    valid_fmts = {'IMAX','3D','DolbyAtmos','4DX','70mm','ScreenX','DBOX',''}
+    valid_fmts = {'IMAX','70mm','35mm',''}
     all_fmts = {e.get('format','') for v in d for e in v['events']}
     bad_fmts = all_fmts - valid_fmts
     chk('formats: valid format values', not bad_fmts, f'{bad_fmts}')

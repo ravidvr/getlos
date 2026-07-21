@@ -116,36 +116,18 @@ async function fetchFilmDetail(filmId: string): Promise<{
       if (!dateStr) continue;
       const timesRaw = dm[3];
 
-      // Extract individual times with language tags
-      const FORMAT_KEYWORDS: Record<string, string> = {
-        '3D': '3D', 'IMAX': 'IMAX', 'IMAX 3D': 'IMAX',
-        '4DX': '4DX', '4DX 3D': '4DX',
-        'Dolby Atmos': 'DolbyAtmos', 'DolbyAtmos': 'DolbyAtmos',
-        '70mm': '70mm', '35mm': '',  // 35mm not in scope
-        'ScreenX': 'ScreenX', 'D-BOX': 'DBOX', 'DBOX': 'DBOX',
-      };
+      // Extract individual times with language tags only (no format detection)
       const timePattern = /(\d{1,2}:\d{2})\s*(?:\(([^)]+)\))?/g;
       let tm;
       while ((tm = timePattern.exec(timesRaw)) !== null) {
         let lang = "DE";
         if (tm[2] && /^(OV|OmU|OmenglU|DF)$/i.test(tm[2])) lang = tm[2];
-        let format = "";
-        if (tm[2]) {
-          // Check if the parenthetical is a format keyword
-          const upper = tm[2].trim();
-          for (const [keyword, value] of Object.entries(FORMAT_KEYWORDS)) {
-            if (upper.toUpperCase().includes(keyword.toUpperCase()) && value) {
-              format = value;
-              break;
-            }
-          }
-        }
         cinemas.push({
           name: cinemaName,
           times: [tm[1]],
           dates: [dateStr],
           langs: [lang],
-          formats: [format],
+          formats: [""],
         });
       }
     }
@@ -189,18 +171,8 @@ async function main() {
       const normalizedName = normalizeCinema(cinema.name);
       allCinemas.add(normalizedName);
       
-      // Detect format: first from time parentheticals, then from film title (berlin.de puts "3D", "IMAX" in titles)
-      let format = cinema.formats[0] || "";
-      if (!format) {
-        const titleUpper = title.toUpperCase();
-        if (titleUpper.includes('3D')) format = '3D';
-        else if (titleUpper.includes('IMAX')) format = 'IMAX';
-        else if (titleUpper.includes('4DX')) format = '4DX';
-        else if (titleUpper.includes('DOLBY ATMOS') || titleUpper.includes('DOLBYATMOS')) format = 'DolbyAtmos';
-        else if (titleUpper.includes('70MM')) format = '70mm';
-        else if (titleUpper.includes('SCREENX')) format = 'ScreenX';
-        else if (titleUpper.includes('D-BOX')) format = 'DBOX';
-      }
+      // Format is venue-level only (IMAX/70mm/35mm from venue-formats.json)
+      const format = "";
 
       events.push({
         source: "berlincinema",
