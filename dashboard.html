@@ -495,6 +495,16 @@ function render() {
   markers.forEach(m => map.removeLayer(m));
   markers = [];
   if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
+  
+  // Remember which venue had an open popup so we can re-open it after re-render
+  let reopenVenue = null;
+  try {
+    const popup = map._popup;
+    if (popup && popup.isOpen()) {
+      const ll = popup.getLatLng();
+      if (ll) reopenVenue = { lat: ll.lat, lng: ll.lng };
+    }
+  } catch(e) {}
   map.closePopup();
   
   // User location marker
@@ -602,6 +612,15 @@ function render() {
   renderLegend();
   document.getElementById('guideSearch').style.display = activeMovie ? 'inline' : 'none';
   checkSparseData();
+  
+  // Re-open popup if one was open before re-render (user changed dates with popup open)
+  if (reopenVenue) {
+    const marker = markers.find(m => {
+      const ll = m.getLatLng();
+      return Math.abs(ll.lat - reopenVenue.lat) < 0.0001 && Math.abs(ll.lng - reopenVenue.lng) < 0.0001;
+    });
+    if (marker) marker.openPopup();
+  }
 }
 
 function setLang(langVal, btn) {
