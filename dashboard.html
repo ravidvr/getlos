@@ -90,6 +90,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .freshness{font-size:10px;color:var(--text-dim);display:flex;align-items:center;gap:4px;white-space:nowrap}
 .freshness .dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
 
+/* Bottom sheet (mobile popup replacement) */
+.bottom-sheet{position:fixed;bottom:0;left:0;right:0;z-index:950;background:var(--surface);border-radius:var(--radius) var(--radius) 0 0;box-shadow:0 -4px 20px rgba(0,0,0,.15);transform:translateY(100%);transition:transform .25s ease;max-height:70vh;overflow-y:auto;display:block}
+.bottom-sheet.open{transform:translateY(0)}
+.sheet-handle{width:40px;height:4px;background:var(--border);border-radius:2px;margin:8px auto 0}
+.sheet-content{padding:0 16px 24px}
+
+/* Filter toggle (mobile only, hidden by default) */
+.filter-toggle{display:none}
+
 @media (max-width:768px){
   .header{padding:8px 10px;gap:6px}
   .header h1{font-size:15px}
@@ -98,10 +107,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   .filter-group button{min-height:30px;padding:4px 8px;font-size:11px}
   [data-preset]{font-size:10px!important;padding:3px 7px!important}
   #dateGrid{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}
-  #colorGuide{display:none}
+  #colorGuide{padding:2px 8px;font-size:10px;line-height:1.4}
+  #colorGuide span{font-size:9px}
   .search-wrap{min-width:0;max-width:100%;width:100%}
   .search-wrap input{min-height:40px;font-size:16px}
-  #map{height:55vh;min-height:300px}
+  #map{height:68vh;min-height:300px}
   .bottom-bar{flex-direction:column;align-items:flex-start;gap:2px;padding:4px 8px;font-size:10px}
   .bottom-legend{margin-left:0}
   .bottom-source{display:none}
@@ -110,12 +120,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   #formatFilters .filter-group button{min-height:28px;padding:3px 7px;font-size:10px}
   .leaflet-tooltip{max-width:270px!important}
   .leaflet-popup-content{font-size:11px}
-  .suggestions{max-height:160px;position:fixed;bottom:40vh;left:10px;right:10px;top:auto;border-radius:var(--radius)}
+  .suggestions{max-height:160px;position:absolute;bottom:auto;top:100%;left:0;right:0;border-radius:var(--radius)}
   .suggestions .item{padding:10px 12px;font-size:13px;min-height:40px}
   .sparse-toast{bottom:auto;top:8px;max-width:90vw;font-size:11px;padding:6px 12px}
   .sparse-close{font-size:22px;padding:4px 8px;min-width:44px;min-height:44px}
   .leaflet-popup-content-wrapper{max-width:calc(100vw - 40px)!important}
   .leaflet-popup-content{max-width:calc(100vw - 60px)!important}
+  .filter-toggle{display:block!important;width:100%;padding:6px;background:var(--surface);border:none;border-bottom:1px solid var(--border);font-size:13px;font-weight:600;color:var(--text);cursor:pointer}
+  #filterPanel.collapsed{display:none!important}
+  .bottom-sheet{max-height:75vh}
 }
 </style>
 </head>
@@ -132,7 +145,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   </div>
 </div>
 
-<div class="filters">
+<div id="filterPanel">
+<div id="filters" class="filters">
   <div class="filter-group">
     <span class="label" data-t="lang">Language</span>
     <button class="active" data-lang="all" onclick="setLang('all',this)">All</button>
@@ -172,6 +186,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <button data-char="outdoor" onclick="setOutdoor(this)">🎑 Open Air</button>
   </div>
 </div>
+</div>
 
 <div id="colorGuide" style="padding:4px 20px;font-size:11px;color:var(--text-dim);background:var(--surface);border-bottom:1px solid var(--border);flex-shrink:0;display:flex;gap:12px;align-items:center;flex-wrap:wrap">
   <span><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#0077b6;margin-right:4px"></span> <span data-t="guide_default">All cinemas</span></span>
@@ -181,6 +196,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#e63946;margin:0 4px 0 12px"></span> <span data-t="guide_past">All past</span>
   </span>
 </div>
+
+<button id="filterToggle" class="filter-toggle" onclick="toggleFilters()" style="display:none">Filters ▾</button>
 
 <div id="map"></div>
 <div class="bottom-bar">
@@ -513,6 +530,90 @@ function updateViewportStats() {
   document.getElementById('statMovies').textContent = movies.size;
 }
 
+/* ── Filter toggle (mobile) ── */
+function toggleFilters() {
+  const panel = document.getElementById('filterPanel');
+  const btn = document.getElementById('filterToggle');
+  const isHidden = panel.classList.toggle('collapsed');
+  btn.textContent = isHidden ? 'Filters ▸' : 'Filters ▾';
+  setTimeout(() => map.invalidateSize(), 300);
+}
+
+/* ── Build popup / bottom-sheet content (shared) ── */
+function buildPopupContent(v, matching) {
+  let tip = `<h3>${v.name}</h3>`;
+  if (userLat) {
+    const dist = haversine(userLat, userLng, v.lat, v.lng);
+    tip += `<div class="amenity">${formatDist(dist)} · ${formatTime(dist)}</div>`;
+  }
+  if (v.address) tip += `<div class="amenity">${v.address}</div>`;
+  let venueInfo = [];
+  if (v.screen_size && v.screen_size !== 'unknown') {
+    venueInfo.push(v.screen_size.charAt(0).toUpperCase() + v.screen_size.slice(1));
+  }
+  if (v.character === 'big_chain') venueInfo.push('Big Chain');
+  if (v.outdoor) venueInfo.push('🎑 Open Air');
+  if (v.formats && v.formats.length > 0) {
+    v.formats.forEach(f => venueInfo.push(f));
+  }
+  if (venueInfo.length > 0) {
+    tip += `<div class="amenity" style="display:flex;flex-wrap:wrap;gap:4px;margin:4px 0">`;
+    venueInfo.forEach(info => {
+      tip += `<span style="display:inline-block;background:var(--surface2);border-radius:3px;padding:1px 6px;font-size:9px;color:var(--text-dim)">${info}</span>`;
+    });
+    tip += `</div>`;
+  }
+  if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 ${t('website')} →</a></div>`;
+  const byDate = {};
+  matching.forEach(e => {
+    if (!byDate[e.date]) byDate[e.date] = [];
+    byDate[e.date].push(e);
+  });
+  const dateOrder = Object.keys(byDate).sort();
+  let nextTime = null;
+  if (activeMovie) {
+    const upcoming = matching.filter(e => !isPast(e.date, e.time)).sort((a,b) => (a.date+a.time).localeCompare(b.date+b.time));
+    if (upcoming.length) nextTime = timeUntil(upcoming[0].date, upcoming[0].time);
+  }
+  dateOrder.forEach(dateStr => {
+    const evts = byDate[dateStr];
+    const dayName = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][new Date(dateStr + 'T12:00:00').getDay()];
+    tip += `<div style="font-size:10px;color:var(--text-dim);margin:8px 0 4px;text-transform:uppercase;letter-spacing:.5px;border-top:1px solid var(--border);padding-top:6px">${dayName} ${dateStr.slice(8)}.${dateStr.slice(5,7)}</div>`;
+    const shown = evts.slice(0, MAX_TIP);
+    shown.forEach(e => {
+      const past = isPast(e.date, e.time);
+      const timeColor = past ? '#e63946' : '#2d6a4f';
+      tip += `<div class="evt">`;
+      tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
+      tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
+      if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
+      tip += `</span></div>`;
+    });
+    if (evts.length > MAX_TIP) {
+      tip += `<div class="evt-more">+${evts.length - MAX_TIP} ${t('more')}</div>`;
+    }
+  });
+  const allPastTotal = matching.length > 0 && matching.every(e => isPast(e.date, e.time));
+  if (allPastTotal && !nextTime) {
+    tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
+  }
+  if (nextTime) tip += `<div class="evt-more">⏱ ${t('next_in')} ${nextTime}</div>`;
+  return tip;
+}
+
+/* ── Bottom sheet (mobile popup replacement) ── */
+function showBottomSheet(v, matching) {
+  const tip = buildPopupContent(v, matching);
+  document.getElementById('sheetContent').innerHTML = tip;
+  document.getElementById('bottomSheet').classList.add('open');
+  map.setView([v.lat, v.lng], map.getZoom());
+}
+
+function closeBottomSheet(e) {
+  if (e && e.target !== e.currentTarget) return;
+  document.getElementById('bottomSheet').classList.remove('open');
+}
+
 function render() {
   markers.forEach(m => map.removeLayer(m));
   markers = [];
@@ -581,76 +682,15 @@ function render() {
     }
     const icon = new PinIcon({color});
 
-    let tip = `<h3>${v.name}</h3>`;
-    if (userLat) {
-      const dist = haversine(userLat, userLng, v.lat, v.lng);
-      tip += `<div class="amenity">${formatDist(dist)} · ${formatTime(dist)}</div>`;
-    }
-    if (v.address) tip += `<div class="amenity">${v.address}</div>`;
-    // Venue info: screen size, character, formats
-    let venueInfo = [];
-    if (v.screen_size && v.screen_size !== 'unknown') {
-      venueInfo.push(v.screen_size.charAt(0).toUpperCase() + v.screen_size.slice(1));
-    }
-    if (v.character === 'big_chain') venueInfo.push('Big Chain');
-    if (v.outdoor) venueInfo.push('🎑 Open Air');
-    if (v.formats && v.formats.length > 0) {
-      v.formats.forEach(f => venueInfo.push(f));
-    }
-    if (venueInfo.length > 0) {
-      tip += `<div class="amenity" style="display:flex;flex-wrap:wrap;gap:4px;margin:4px 0">`;
-      venueInfo.forEach(info => {
-        tip += `<span style="display:inline-block;background:var(--surface2);border-radius:3px;padding:1px 6px;font-size:9px;color:var(--text-dim)">${info}</span>`;
-      });
-      tip += `</div>`;
-    }
-    if (v.website) tip += `<div class="amenity"><a href="${v.website}" target="_blank" style="color:var(--accent2)">🎟 ${t('website')} →</a></div>`;
-
-    // Group matching events by date
-    const byDate = {};
-    matching.forEach(e => {
-      if (!byDate[e.date]) byDate[e.date] = [];
-      byDate[e.date].push(e);
-    });
-    const dateOrder = Object.keys(byDate).sort();
-
-    // Next screening for searched movie
-    let nextTime = null;
-    if (activeMovie) {
-      const upcoming = matching.filter(e => !isPast(e.date, e.time)).sort((a,b) => (a.date+a.time).localeCompare(b.date+b.time));
-      if (upcoming.length) nextTime = timeUntil(upcoming[0].date, upcoming[0].time);
-    }
-
-    dateOrder.forEach(dateStr => {
-      const evts = byDate[dateStr];
-      const dayName = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][new Date(dateStr + 'T12:00:00').getDay()];
-      tip += `<div style="font-size:10px;color:var(--text-dim);margin:8px 0 4px;text-transform:uppercase;letter-spacing:.5px;border-top:1px solid var(--border);padding-top:6px">${dayName} ${dateStr.slice(8)}.${dateStr.slice(5,7)}</div>`;
-
-      const shown = evts.slice(0, MAX_TIP);
-      shown.forEach(e => {
-        const past = isPast(e.date, e.time);
-        const timeColor = past ? '#e63946' : '#2d6a4f';
-        tip += `<div class="evt">`;
-        tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
-        tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
-        if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
-        tip += `</span></div>`;
-      });
-
-      if (evts.length > MAX_TIP) {
-        tip += `<div class="evt-more">+${evts.length - MAX_TIP} ${t('more')}</div>`;
-      }
-    });
-
-    // "no more shows" if all events across all dates are past
-    const allPastTotal = matching.length > 0 && matching.every(e => isPast(e.date, e.time));
-    if (allPastTotal && !nextTime) {
-      tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
-    }
-    if (nextTime) tip += `<div class="evt-more">⏱ ${t('next_in')} ${nextTime}</div>`;
+    const tip = buildPopupContent(v, matching);
 
     const marker = L.marker([v.lat, v.lng], {icon}).addTo(map);
     marker.bindPopup(tip, { maxWidth:340, className:'leaflet-popup' });
+    marker.on('click', function(e) {
+      if (window.innerWidth < 768) {
+        showBottomSheet(v, matching);
+      }
+    });
     marker._venueData = { events: matching.length, movieTitles: [...new Set(matching.map(e => e.title))] };
     markers.push(marker);
   });
@@ -1025,8 +1065,28 @@ toggleLang = function() { origToggleLang(); updateHelpLang(); };
   updateDateGrid();
 })();
 
+// Collapse filters on mobile by default
+if (window.innerWidth < 768) {
+  document.getElementById('filterPanel').classList.add('collapsed');
+  document.getElementById('filterToggle').textContent = 'Filters ▸';
+}
+
+// Close bottom sheet on outside click
+document.addEventListener('click', function(e) {
+  const sheet = document.getElementById('bottomSheet');
+  if (sheet.classList.contains('open') && !e.target.closest('.bottom-sheet') && !e.target.closest('.leaflet-marker-icon')) {
+    sheet.classList.remove('open');
+  }
+});
+
 render();
 updateFreshness();
 </script>
+
+<div id="bottomSheet" class="bottom-sheet" onclick="closeBottomSheet(event)">
+  <div class="sheet-handle"></div>
+  <div class="sheet-content" id="sheetContent" onclick="event.stopPropagation()"></div>
+</div>
+
 </body>
 </html>
