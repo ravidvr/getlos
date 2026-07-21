@@ -63,6 +63,35 @@ def main():
     chk('dashboard: today is covered',
         any(e['date'] == date.today().isoformat() for v in d for e in v['events']))
 
+    # Format data checks
+    with open(BASE / 'data/venue-formats.json') as f:
+        fmt = json.load(f)
+    fmt_keys = {k.lower().strip() for k in fmt}
+    data_venues = {hm.unescape(v['name']).lower().strip() for v in d}
+    missing = data_venues - fmt_keys
+    chk('formats: all venues have entries', not missing, f'{len(missing)} missing: {sorted(list(missing))[:5]}')
+
+    # Premium venues have format tags
+    premium = {'cinemaxx','uci','cinestar','cineplex'}
+    premium_venues = [v for v in d if any(p in v['name'].lower() for p in premium)]
+    missing_fmts = [v['name'] for v in premium_venues if not v.get('formats')]
+    chk('formats: premium venues have tags', not missing_fmts, f'{len(missing_fmts)}: {missing_fmts[:3]}')
+
+    # Format field present on events
+    event_count = sum(len(v['events']) for v in d)
+    has_format = sum(1 for v in d for e in v['events'] if e.get('format'))
+    chk(f'formats: event format field ({has_format}/{event_count})', True)  # always passes — informational
+
+    # Outdoor venues marked correctly
+    outdoor = [v for v in d if v.get('outdoor')]
+    chk(f'formats: outdoor venues ({len(outdoor)})', len(outdoor) > 0)
+
+    # Valid format values
+    valid_fmts = {'IMAX','3D','DolbyAtmos','4DX','70mm','ScreenX','DBOX',''}
+    all_fmts = {e.get('format','') for v in d for e in v['events']}
+    bad_fmts = all_fmts - valid_fmts
+    chk('formats: valid format values', not bad_fmts, f'{bad_fmts}')
+
     # ── Dashboard HTML: embedded + JS parses ──
     h = (BASE / 'dashboard.html').read_text()
     chk('html: data embedded', 'const ALL_VENUES' in h)

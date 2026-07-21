@@ -331,6 +331,7 @@ async function main() {
       ticket_url: "",
       image_url: "",
       language: "DE",
+      format: "",
       release_date: "",
       last_updated: now,
     });

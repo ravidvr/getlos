@@ -31,6 +31,7 @@ interface MergedEvent {
   ticket_url?: string;
   image_url?: string;
   language?: string;
+  format?: string;
   price?: string;
   last_updated: string;
 }
@@ -62,7 +63,7 @@ interface FinalVenue {
   event_count: number;
   next_event?: string;
   categories: string[];
-  events: { id: string; title: string; date: string; ticket_url?: string; price?: string }[];
+  events: { id: string; title: string; date: string; ticket_url?: string; price?: string; language?: string; format?: string }[];
 }
 
 function buildAddress(v: OSMVenue): string {
@@ -166,6 +167,7 @@ async function main() {
         date: e.start_datetime,
         ticket_url: e.ticket_url,
         language: e.language,
+        format: e.format,
         price: e.price,
       })),
     };
@@ -206,6 +208,7 @@ async function main() {
         date: e.start_datetime,
         ticket_url: e.ticket_url,
         language: e.language,
+        format: e.format,
         price: e.price,
       })),
     });

@@ -32,16 +32,20 @@ def main() -> None:
     lang_map = {}
     with open(BASE / 'data/venues-berlincinema.json') as f:
         for e in json.load(f):
-            key = (e['title'].lower(), norm(e['venue_name']), e.get('start_datetime', '')[11:16])
+            key = (hm.unescape(e['title']).lower(), norm(e['venue_name']), e.get('start_datetime', '')[11:16])
             lang_map[key] = e.get('language', 'DE')
     with open(BASE / 'data/venues-englishcinema.json') as f:
         for e in json.load(f):
-            key = (e['title'].lower(), norm(e['venue_name']), e.get('start_datetime', '')[11:16])
+            key = (hm.unescape(e['title']).lower(), norm(e['venue_name']), e.get('start_datetime', '')[11:16])
             lang_map[key] = 'EN'
 
     # ── Curated website map ──
     with open(BASE / 'data/venue-websites.json') as f:
         websites = json.load(f)
+
+    # ── Venue format/character data ──
+    with open(BASE / 'data/venue-formats.json') as f:
+        fmt_data = json.load(f)
 
     # ── Venues + events (entity-decoded keys merge duplicate venues) ──
     with open(BASE / 'data/venues-combined.json') as f:
@@ -65,6 +69,17 @@ def main() -> None:
         elif not venue_map[key]['website'] and v.get('website'):
             venue_map[key]['website'] = v['website']
 
+        # Merge format data or provide safe default
+        vf = fmt_data.get(key, {
+            "formats": [], "character": "small_cinema",
+            "outdoor": False, "screen_size": "unknown",
+            "last_verified": "auto"
+        })
+        venue_map[key]['formats'] = vf.get('formats', [])
+        venue_map[key]['character'] = vf.get('character', 'small_cinema')
+        venue_map[key]['outdoor'] = vf.get('outdoor', False)
+        venue_map[key]['screen_size'] = vf.get('screen_size', 'unknown')
+
         for e in v.get('events', []):  # NO per-venue cap
             d = e.get('date', '')[:10]
             if not d:
@@ -77,11 +92,12 @@ def main() -> None:
                 continue
             time = e['date'][11:16] if len(e.get('date', '')) >= 16 else ''
             # Prefer the pipeline's own language field; legacy lang_map as fallback
-            lang = e.get('language') or lang_map.get((e['title'].lower(), key, time), 'DE')
+            lang = e.get('language') or lang_map.get((hm.unescape(e['title']).lower(), key, time), 'DE')
+            fmt = e.get('format', '')
             venue_map[key]['events'].append({
-                'title': e['title'], 'date': d, 'time': time,
+                'title': hm.unescape(e['title']), 'date': d, 'time': time,
                 'ticket': e.get('ticket_url', ''), 'price': e.get('price', ''),
-                'lang': lang,
+                'lang': lang, 'format': fmt,
             })
 
     # ── Dedupe events, drop empty venues, sort by date+time ──
@@ -92,7 +108,7 @@ def main() -> None:
         for e in sorted(v['events'], key=lambda x: (x['date'], x['time'])):
             if e['date'] < today.isoformat():
                 continue
-            sig = (e['title'], e['date'], e['time'], e['lang'])
+            sig = (hm.unescape(e['title']), e['date'], e['time'], e['lang'])
             if sig not in seen:
                 seen.add(sig)
                 uniq.append(e)
@@ -102,11 +118,12 @@ def main() -> None:
 
     # ── Stats ──
     langs = Counter(e['lang'] for v in result for e in v['events'])
+    fmts = Counter(e.get('format','') for v in result for e in v['events'] if e.get('format'))
     total = sum(len(v['events']) for v in result)
     dates = sorted({e['date'] for v in result for e in v['events']})
     with_web = sum(1 for v in result if v['website'])
     print(f"venues={len(result)} events={total} days={len(dates)} "
-          f"websites={with_web}/{len(result)} langs={dict(langs)}")
+          f"websites={with_web}/{len(result)} langs={dict(langs)} formats={dict(fmts)}")
 
     # ── Write data file ──
     js = 'const ALL_VENUES = ' + json.dumps(result, ensure_ascii=False) + ';'

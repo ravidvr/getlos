@@ -19,6 +19,7 @@ interface RawEvent {
   ticket_url?: string;
   image_url?: string;
   language?: string;
+  format?: string;
   price?: string;
   last_updated: string;
 }
@@ -37,6 +38,7 @@ interface MergedEvent {
   ticket_url?: string;
   image_url?: string;
   language?: string;
+  format?: string;
   price?: string;
   last_updated: string;
 }
@@ -141,6 +143,7 @@ async function main() {
       ticket_url: group.find((e) => e.ticket_url)?.ticket_url,
       image_url: group.find((e) => e.image_url)?.image_url,
       language: group.find((e) => e.language)?.language,
+      format: group.find((e) => e.format !== undefined)?.format ?? "",
       price: group.find((e) => e.price)?.price,
       last_updated: new Date().toISOString(),
     });

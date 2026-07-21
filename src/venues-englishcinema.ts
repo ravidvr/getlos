@@ -252,6 +252,7 @@ async function main() {
           ticket_url: "",
           image_url: "",
           language: "EN",
+          format: "",
           last_updated: new Date().toISOString(),
         });
       }
