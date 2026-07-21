@@ -15,6 +15,7 @@ interface CinemaEvent {
   end_datetime: string;
   venue_name: string;
   venue_address: string;
+  format: string;
   latitude: number;
   longitude: number;
   categories: string[];
@@ -38,16 +39,32 @@ function parseDateHeader(dateStr: string): string {
   return "";
 }
 
-// Extract {time, cinema} pairs from a cell containing badge elements
-function parseShowtimes(cellHtml: string): Array<{ time: string; cinema: string }> {
-  const results: Array<{ time: string; cinema: string }> = [];
+// Format normalization: lowercase from HTML → canonical casing
+function normalizeFormat(raw: string): string {
+  const fmt = raw.trim();
+  const lower = fmt.toLowerCase();
+  const FORMAT_NORM: Record<string, string> = {
+    "imax": "IMAX",
+    "screenx": "ScreenX",
+    "d-box": "D-BOX",
+    "3d": "3D",
+    "4dx": "4DX",
+    "dolby": "Dolby",
+    "dolby atmos": "Dolby Atmos",
+  };
+  return FORMAT_NORM[lower] || fmt;
+}
+
+// Extract {time, cinema, format} tuples from a cell containing badge elements
+function parseShowtimes(cellHtml: string): Array<{ time: string; cinema: string; format: string }> {
+  const results: Array<{ time: string; cinema: string; format: string }> = [];
 
   // Each showtime is in a badge: <a> or <span> with title="HH:MM at Cinema Name"
   // and <strong>HH:MM</strong> inside
   const badgeRegex = /<(?:a|span)\s[^>]*?(?:title="(\d{1,2}:\d{2})\s*(?:at\s+)?([^"]*?)"|>.*?<strong[^>]*?>(\d{1,2}:\d{2})<\/strong>\s*(.*?)\s*<\/(?:a|span)>)/gs;
 
-  // Simpler approach: extract all badges, then parse each
-  const badges = cellHtml.match(/<(?:a|span)\s[^>]*?badge[^>]*?>.*?<\/(?:a|span)>/gs) || [];
+  // Only match <a> badges (showtimes), not <span> badges (format tags)
+  const badges = cellHtml.match(/<a\s[^>]*?badge[^>]*?>.*?<\/a>/gs) || [];
 
   for (const badge of badges) {
     // Extract time from <strong> element
@@ -69,7 +86,14 @@ function parseShowtimes(cellHtml: string): Array<{ time: string; cinema: string 
     // Skip empty/unknown
     if (cinema === "Unknown Cinema" || cinema.length < 2) continue;
 
-    results.push({ time, cinema });
+    // Detect format badge inside this showtime
+    let format = "";
+    const formatMatch = badge.match(/<span[^>]*opacity-75[^>]*>([^<]+)<\/span>/);
+    if (formatMatch) {
+      format = normalizeFormat(formatMatch[1]);
+    }
+
+    results.push({ time, cinema, format });
   }
 
   return results;
@@ -232,7 +256,7 @@ async function main() {
       if (!date) continue;
 
       const showtimes = parseShowtimes(cells[i]);
-      for (const { time, cinema } of showtimes) {
+      for (const { time, cinema, format } of showtimes) {
         const normalized = normalizeCinema(cinema);
         cinemasSeen.add(normalized);
 
@@ -240,11 +264,12 @@ async function main() {
           source: "englishcinema",
           source_id: `ec_${movieCell.replace(/[^a-z0-9]/gi, "_").toLowerCase()}_${date}_${time.replace(":", "")}_${normalized.replace(/[^a-z0-9]/gi, "_").toLowerCase()}`,
           title: movieCell,
-          description: `${movieCell} — English screening at ${normalized}`,
+          description: `${movieCell} — English screening at ${normalized}${format ? " (" + format + ")" : ""}`,
           start_datetime: `${date}T${time}:00+02:00`,
           end_datetime: "",
           venue_name: normalized,
           venue_address: `${normalized}, Berlin, DE`,
+          format: format,
           latitude: 0,
           longitude: 0,
           categories: ["film", "cinema", "english"],
@@ -252,7 +277,6 @@ async function main() {
           ticket_url: "",
           image_url: "",
           language: "EN",
-          format: "",
           last_updated: new Date().toISOString(),
         });
       }
