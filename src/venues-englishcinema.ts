@@ -46,11 +46,11 @@ function normalizeFormat(raw: string): string {
   const FORMAT_NORM: Record<string, string> = {
     "imax": "IMAX",
     "screenx": "ScreenX",
-    "d-box": "D-BOX",
+    "d-box": "DBOX",
     "3d": "3D",
     "4dx": "4DX",
-    "dolby": "Dolby",
-    "dolby atmos": "Dolby Atmos",
+    "dolby": "DolbyAtmos",
+    "dolby atmos": "DolbyAtmos",
   };
   return FORMAT_NORM[lower] || fmt;
 }
