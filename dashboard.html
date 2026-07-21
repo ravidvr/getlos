@@ -549,7 +549,7 @@ function render() {
       if (activeLang !== 'all' && e.lang !== activeLang) return false;
       if (activeMovie && !e.title.toLowerCase().includes(activeMovie.toLowerCase())) return false;
       // Format filter
-      if (activeFormat !== 'all' && e.format !== activeFormat) return false;
+      if (activeFormat !== 'all' && (!v.formats || !v.formats.includes(activeFormat))) return false;
       return true;
     });
     if (matching.length > 0) {
@@ -664,7 +664,7 @@ function render() {
   // Show format filter bar only when formats exist in data
   const formatBar = document.getElementById('formatFilters');
   const allFormats = new Set();
-  ALL_VENUES.forEach(v => v.events.forEach(e => { if (e.format) allFormats.add(e.format); }));
+  ALL_VENUES.forEach(v => { if (v.formats) v.formats.forEach(f => allFormats.add(f)); });
   formatBar.style.display = allFormats.size > 0 ? 'flex' : 'none';
 
   // Hide format buttons that don't exist in data
