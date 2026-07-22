@@ -489,6 +489,51 @@ function getDates() {
   return [...activeDates].sort();
 }
 
+/* ── URL state ── */
+function updateURL() {
+  const params = new URLSearchParams();
+  if (activeLang !== 'all') params.set('lang', activeLang);
+  if (activeFormat !== 'all') params.set('fmt', activeFormat);
+  if (activeCharacter !== 'all') params.set('char', activeCharacter);
+  if (showOutdoorOnly) params.set('outdoor', '1');
+  if (activeMovie) params.set('movie', activeMovie);
+  const dates = getDates();
+  if (dates.length > 0 && dates.length < 7) params.set('dates', dates.join(','));
+  const hash = params.toString();
+  window.history.replaceState(null, '', hash ? '?' + hash : window.location.pathname);
+}
+
+function restoreFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  const lang = params.get('lang');
+  const fmt = params.get('fmt');
+  const char = params.get('char');
+  const outdoor = params.get('outdoor');
+  const movie = params.get('movie');
+  const dates = params.get('dates');
+  let restored = false;
+  if (lang && ['DE','EN','OV','OmU'].includes(lang)) {
+    activeLang = lang;
+    restored = true;
+  }
+  if (fmt && ['IMAX','70mm','35mm'].includes(fmt)) {
+    activeFormat = fmt;
+    restored = true;
+  }
+  if (char && ['big_chain','small_cinema'].includes(char)) {
+    activeCharacter = char;
+    restored = true;
+  }
+  if (outdoor === '1') { showOutdoorOnly = true; restored = true; }
+  if (movie) { activeMovie = movie; restored = true; }
+  if (dates) {
+    activeDates.clear();
+    dates.split(',').forEach(d => { if (/^\d{4}-\d{2}-\d{2}$/.test(d)) activeDates.add(d); });
+    if (activeDates.size > 0) restored = true;
+  }
+  return restored;
+}
+
 function renderLegend() {
   const leg = document.getElementById('legend');
   leg.innerHTML = activeMovie
@@ -788,6 +833,7 @@ function setLang(langVal, btn) {
   document.querySelectorAll('[data-lang]').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   render();
+  updateURL();
 }
 
 function setFormat(fmt, btn) {
@@ -795,6 +841,7 @@ function setFormat(fmt, btn) {
   document.querySelectorAll('[data-format]').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   render();
+  updateURL();
 }
 
 function setCharacter(char, btn) {
@@ -804,6 +851,7 @@ function setCharacter(char, btn) {
   showOutdoorOnly = false;
   document.querySelector('[onclick*="setOutdoor"]')?.classList.remove('active');
   render();
+  updateURL();
 }
 
 function setOutdoor(btn) {
@@ -816,6 +864,7 @@ function setOutdoor(btn) {
     btn.classList.remove('active');
   }
   render();
+  updateURL();
 }
 
 function toggleDate(dateStr, btn) {
@@ -830,6 +879,7 @@ function toggleDate(dateStr, btn) {
   // Deselect preset buttons
   document.querySelectorAll('[data-preset]').forEach(b => b.classList.remove('active'));
   render();
+  updateURL();
 }
 
 function setPreset(preset, btn) {
@@ -870,6 +920,7 @@ function setPreset(preset, btn) {
   
   updateDateGrid();
   render();
+  updateURL();
 }
 
 function updateDateGrid() {
@@ -949,6 +1000,7 @@ function selectSuggestion(i) {
     document.getElementById('searchMode').style.display = 'inline';
     document.getElementById('searchMode').textContent = '🎬 Filtering: "' + r.title + '"';
     render();
+    updateURL();
   } else if (r.type === 'venue') {
     // Fly to venue and open its popup
     document.getElementById('addrSearch').value = '';
@@ -997,6 +1049,7 @@ function clearAllFilters() {
   document.getElementById('clearSearch').style.display = 'none';
   document.getElementById('searchMode').style.display = 'none';
   render();
+  window.history.replaceState(null, '', window.location.pathname);
 }
 
 function clearSearch() {
@@ -1006,10 +1059,11 @@ function clearSearch() {
   document.getElementById('clearSearch').style.display = 'none';
   document.getElementById('searchMode').style.display = 'none';
   render();
+  updateURL();
 }
 
 function handleSearchKey(e) {
-  if (e.key === 'Escape') { hideSuggestions(); document.getElementById('addrSearch').value = ''; activeMovie = ''; addressMarkerPlaced = false; document.getElementById('clearSearch').style.display = 'none'; document.getElementById('searchMode').style.display = 'none'; render(); return true; }
+  if (e.key === 'Escape') { hideSuggestions(); document.getElementById('addrSearch').value = ''; activeMovie = ''; addressMarkerPlaced = false; document.getElementById('clearSearch').style.display = 'none'; document.getElementById('searchMode').style.display = 'none'; render(); updateURL(); return true; }
   if (e.key === 'ArrowDown') { e.preventDefault(); suggestIdx=Math.min(suggestIdx+1,suggestResults.length-1); renderSuggestions(); return false; }
   if (e.key === 'ArrowUp') { e.preventDefault(); suggestIdx=Math.max(suggestIdx-1,-1); renderSuggestions(); return false; }
   if (e.key === 'Enter') { e.preventDefault(); selectSuggestion(suggestIdx); return false; }
@@ -1018,7 +1072,7 @@ function handleSearchKey(e) {
 
 // Clear movie filter on input clear; manage clear button + mode indicator
 document.getElementById('addrSearch').addEventListener('input', function() {
-  if (!this.value) { activeMovie = ''; addressMarkerPlaced = false; render(); }
+  if (!this.value) { activeMovie = ''; addressMarkerPlaced = false; render(); updateURL(); }
   document.getElementById('clearSearch').style.display = (activeMovie || addressMarkerPlaced) ? 'inline' : 'none';
 });
 
@@ -1110,29 +1164,32 @@ if (!userLat) { setTimeout(getUserLocation, 800); }
 const origToggleLang = toggleLang;
 toggleLang = function() { origToggleLang(); updateHelpLang(); };
 
-// Init date grid — smart default: pick the date with most events if today is sparse
+// Init — restore URL state first, then smart default if no state
 (function() {
-  const dates = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
-  const todayIdx = dates.indexOf(TODAY);
-  
-  // Count events per date
-  const perDate = {};
-  dates.forEach(d => perDate[d] = 0);
-  ALL_VENUES.forEach(v => v.events.forEach(e => { if (perDate[e.date] !== undefined) perDate[e.date]++; }));
-  
-  // Find best date: today if it has decent data, otherwise the day with most events
-  const todayCount = perDate[TODAY] || 0;
-  const maxCount = Math.max(...Object.values(perDate));
-  const bestDate = (todayCount >= maxCount * 0.3) ? TODAY : Object.entries(perDate).sort((a,b) => b[1]-a[1])[0][0];
-  
-  // If best date is in the future (weekend data exists), use All Week preset
-  if (bestDate > TODAY && perDate[bestDate] >= maxCount * 0.5) {
-    activeDates.clear();
-    dates.forEach(d => activeDates.add(d));
-    const allBtn = document.querySelector('[data-preset="all"]');
-    if (allBtn) allBtn.classList.add('active');
-  } else {
-    activeDates.add(bestDate);
+  if (!restoreFromURL()) {
+    // No URL state — smart default: pick the date with most events if today is sparse
+    const dates = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
+    const todayIdx = dates.indexOf(TODAY);
+    
+    // Count events per date
+    const perDate = {};
+    dates.forEach(d => perDate[d] = 0);
+    ALL_VENUES.forEach(v => v.events.forEach(e => { if (perDate[e.date] !== undefined) perDate[e.date]++; }));
+    
+    // Find best date: today if it has decent data, otherwise the day with most events
+    const todayCount = perDate[TODAY] || 0;
+    const maxCount = Math.max(...Object.values(perDate));
+    const bestDate = (todayCount >= maxCount * 0.3) ? TODAY : Object.entries(perDate).sort((a,b) => b[1]-a[1])[0][0];
+    
+    // If best date is in the future (weekend data exists), use All Week preset
+    if (bestDate > TODAY && perDate[bestDate] >= maxCount * 0.5) {
+      activeDates.clear();
+      dates.forEach(d => activeDates.add(d));
+      const allBtn = document.querySelector('[data-preset="all"]');
+      if (allBtn) allBtn.classList.add('active');
+    } else {
+      activeDates.add(bestDate);
+    }
   }
   
   updateDateGrid();
@@ -1155,6 +1212,7 @@ document.addEventListener('click', function(e) {
 render();
 updateFreshness();
 document.getElementById('coverage').textContent = COVERAGE;
+updateURL();
 </script>
 
 <div id="bottomSheet" class="bottom-sheet" onclick="closeBottomSheet(event)">
