@@ -158,7 +158,7 @@ def main() -> None:
     html = re.sub(r"const COVERAGE = '[^']*';", f"const COVERAGE = '{with_web}/{len(result)} cinemas have websites';", html, count=1)
     # NOTE: const TODAY is intentionally NOT baked — the browser computes the
     # visitor's local date so the page stays correct between cron runs.
-    html = re.sub(r'<script>\s*const ALL_VENUES.*?</script>', f'<script>\n{js}\n</script>', html, flags=re.DOTALL)
+    html = re.sub(r'<script>\s*(?:const|var) ALL_VENUES.*?</script>', f'<script>\n{js}\n</script>', html, flags=re.DOTALL)
     (BASE / 'dashboard.html').write_text(html)
     print(f"dashboard.html={len(html)} bytes updated={stamp}")
 
