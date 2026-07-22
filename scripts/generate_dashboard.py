@@ -126,7 +126,7 @@ def main() -> None:
           f"websites={with_web}/{len(result)} langs={dict(langs)} formats={dict(fmts)}")
 
     # ── Write data file ──
-    js = 'const ALL_VENUES = ' + json.dumps(result, ensure_ascii=False) + ';'
+    js = 'var ALL_VENUES = ' + json.dumps(result, ensure_ascii=False) + ';'
     (BASE / 'data/all_venues.js').write_text(js)
 
     # ── Refresh dashboard.html in place ──
@@ -144,6 +144,11 @@ def main() -> None:
     html = re.sub(r'<script>\s*const ALL_VENUES.*?</script>', f'<script>\n{js}\n</script>', html, flags=re.DOTALL)
     (BASE / 'dashboard.html').write_text(html)
     print(f"dashboard.html={len(html)} bytes updated={stamp}")
+
+    # Also write standalone data file for lazy loading
+    with open(BASE / 'data/latest.json', 'w') as f:
+        json.dump(result, f, ensure_ascii=False)
+    print(f"data/latest.json={len(result)} venues, {total} events")
 
 
 if __name__ == '__main__':

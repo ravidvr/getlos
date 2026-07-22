@@ -212,6 +212,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <div style="font-size:12px;color:var(--text-dim);margin-bottom:12px">Try adjusting your filters or selecting different dates.</div>
     <button onclick="clearAllFilters()" style="background:var(--accent2);color:#fff;border:none;padding:6px 16px;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;pointer-events:auto">Show all cinemas</button>
   </div>
+  <div id="loadingOverlay" style="position:absolute;top:0;left:0;right:0;bottom:0;background:var(--bg);display:flex;align-items:center;justify-content:center;z-index:400;font-size:14px;color:var(--text-dim)">
+    <div style="text-align:center">
+      <div style="font-size:32px;margin-bottom:8px">🎬</div>
+      <div>Loading cinema data…</div>
+    </div>
+  </div>
 </div>
 <div class="bottom-bar">
   <div class="bottom-stats">
@@ -408,8 +414,8 @@ const START = TODAY;
 let markers = [];
 let userLat = null, userLng = null, userMarker = null;
 const MAX_TIP = 12;
-const LAST_UPDATED = '2026-07-22T01:04+02:00';
-const COVERAGE = '82/104 cinemas have websites';
+const LAST_UPDATED = '2026-07-22T12:20+02:00';
+const COVERAGE = '84/106 cinemas have websites';
 
 function updateFreshness() {
   const el = document.getElementById('freshness');
@@ -1169,8 +1175,36 @@ if (!userLat) { setTimeout(getUserLocation, 800); }
 const origToggleLang = toggleLang;
 toggleLang = function() { origToggleLang(); updateHelpLang(); };
 
-// Init — restore URL state first, then smart default if no state
-(function() {
+// ── Init: Fetch fresh data, fall back to embedded ──
+async function init() {
+  const loadingEl = document.getElementById('loadingOverlay');
+  
+  try {
+    const resp = await fetch('data/latest.json?t=' + Date.now());
+    if (resp.ok) {
+      const fresh = await resp.json();
+      if (fresh && fresh.length > 0) {
+        // Replace embedded data with fresh data
+        ALL_VENUES = fresh;
+        // Rebuild indexes
+        movieIndex.clear();
+        venueIndex.clear();
+        fresh.forEach(v => {
+          venueIndex.set(v.name.toLowerCase(), v);
+          v.events.forEach(e => movieIndex.add(e.title));
+        });
+        console.log(`Loaded fresh data: ${fresh.length} venues`);
+      }
+    }
+  } catch(e) {
+    // Offline — use embedded data (already in ALL_VENUES)
+    console.log('Offline — using cached data');
+  }
+  
+  // Hide loading overlay
+  loadingEl.style.display = 'none';
+  
+  // Init — restore URL state first, then smart default if no state
   if (!restoreFromURL()) {
     // No URL state — smart default: pick the date with most events if today is sparse
     const dates = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
@@ -1198,7 +1232,13 @@ toggleLang = function() { origToggleLang(); updateHelpLang(); };
   }
   
   updateDateGrid();
-})();
+  render();
+  updateFreshness();
+  document.getElementById('coverage').textContent = COVERAGE;
+  updateURL();
+}
+
+init();
 
 // Collapse filters on mobile by default
 if (window.innerWidth < 768) {
@@ -1213,11 +1253,6 @@ document.addEventListener('click', function(e) {
     sheet.classList.remove('open');
   }
 });
-
-render();
-updateFreshness();
-document.getElementById('coverage').textContent = COVERAGE;
-updateURL();
 
 // Register service worker for offline caching
 if ('serviceWorker' in navigator) {
