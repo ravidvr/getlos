@@ -116,7 +116,16 @@ def main() -> None:
         if uniq:
             result.append(v)
 
-    # ── Stats ──
+    # ── Derive screen_size from actual event data ──
+    for v in result:
+        dates = set(e['date'] for e in v['events'])
+        avg_per_day = len(v['events']) / max(len(dates), 1)
+        if avg_per_day >= 8: v['screen_size'] = 'large'
+        elif avg_per_day >= 3: v['screen_size'] = 'standard'
+        elif avg_per_day > 0: v['screen_size'] = 'small'
+        else: v['screen_size'] = 'unknown'
+
+    # ── Dashboard output ──
     langs = Counter(e['lang'] for v in result for e in v['events'])
     fmts = Counter(e.get('format','') for v in result for e in v['events'] if e.get('format'))
     total = sum(len(v['events']) for v in result)
