@@ -1,11 +1,10 @@
-const CACHE = 'getlos-v1';
+const CACHE = 'getlos-v2';
 const ASSETS = [
-  '/getlos/dashboard.html',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
 ];
 
-// Install — cache core assets
+// Install — cache leaflet assets only (not dashboard HTML, data changes daily)
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(CACHE).then(cache => cache.addAll(ASSETS))
@@ -21,23 +20,18 @@ self.addEventListener('activate', e => {
   );
 });
 
-// Fetch — serve from cache, fallback to network
+// Fetch — cache leaflet CDN, network-first for everything else
 self.addEventListener('fetch', e => {
-  // Only cache same-origin + leaflet CDN requests
-  if (!e.request.url.startsWith(self.location.origin) && 
-      !e.request.url.includes('unpkg.com/leaflet')) return;
+  const url = e.request.url;
   
-  e.respondWith(
-    caches.match(e.request).then(cached => {
-      // Return cached version, then update cache in background
-      const fetchPromise = fetch(e.request).then(response => {
-        if (response.ok) {
-          const clone = response.clone();
-          caches.open(CACHE).then(cache => cache.put(e.request, clone));
-        }
-        return response;
-      });
-      return cached || fetchPromise;
-    })
-  );
+  // Only handle leaflet CDN requests — cache-first
+  if (url.includes('unpkg.com/leaflet')) {
+    e.respondWith(
+      caches.match(e.request).then(cached => cached || fetch(e.request))
+    );
+    return;
+  }
+  
+  // All other requests (dashboard HTML, data JSON) — network-first, no caching
+  // The lazy-load fetch handles data freshness separately
 });
