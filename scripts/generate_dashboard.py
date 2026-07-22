@@ -115,15 +115,6 @@ def main() -> None:
         if uniq:
             result.append(v)
 
-    # ── Derive screen_size from actual event data ──
-    for v in result:
-        dates = set(e['date'] for e in v['events'])
-        avg_per_day = len(v['events']) / max(len(dates), 1)
-        if avg_per_day >= 8: v['screen_size'] = 'large'
-        elif avg_per_day >= 3: v['screen_size'] = 'standard'
-        elif avg_per_day > 0: v['screen_size'] = 'small'
-        else: v['screen_size'] = 'unknown'
-
     # ── Dashboard output ──
     langs = Counter(e['lang'] for v in result for e in v['events'])
     fmts = Counter(e.get('format','') for v in result for e in v['events'] if e.get('format'))
@@ -135,8 +126,8 @@ def main() -> None:
 
     # ── Derive screen_size from actual event data ──
     for v in result:
-        dates = set(e['date'] for e in v['events'])
-        avg_per_day = len(v['events']) / max(len(dates), 1)
+        vdates = set(e['date'] for e in v['events'])
+        avg_per_day = len(v['events']) / max(len(vdates), 1)
         if avg_per_day >= 8: v['screen_size'] = 'large'
         elif avg_per_day >= 3: v['screen_size'] = 'standard'
         elif avg_per_day > 0: v['screen_size'] = 'small'
@@ -162,10 +153,10 @@ def main() -> None:
     (BASE / 'dashboard.html').write_text(html)
     print(f"dashboard.html={len(html)} bytes updated={stamp}")
 
-    # Also write standalone data file for lazy loading
-    with open(BASE / 'data/latest.json', 'w') as f:
+    # Also write standalone data file for lazy loading (root level, git-tracked)
+    with open(BASE / 'screenings.json', 'w') as f:
         json.dump(result, f, ensure_ascii=False)
-    print(f"data/latest.json={len(result)} venues, {total} events")
+    print(f"screenings.json={len(result)} venues, {total} events")
 
 
 if __name__ == '__main__':
