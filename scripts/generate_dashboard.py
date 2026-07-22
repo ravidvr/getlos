@@ -78,7 +78,6 @@ def main() -> None:
         venue_map[key]['formats'] = vf.get('formats', [])
         venue_map[key]['character'] = vf.get('character', 'small_cinema')
         venue_map[key]['outdoor'] = vf.get('outdoor', False)
-        venue_map[key]['screen_size'] = vf.get('screen_size', 'unknown')
 
         for e in v.get('events', []):  # NO per-venue cap
             d = e.get('date', '')[:10]
@@ -133,6 +132,15 @@ def main() -> None:
     with_web = sum(1 for v in result if v['website'])
     print(f"venues={len(result)} events={total} days={len(dates)} "
           f"websites={with_web}/{len(result)} langs={dict(langs)} formats={dict(fmts)}")
+
+    # ── Derive screen_size from actual event data ──
+    for v in result:
+        dates = set(e['date'] for e in v['events'])
+        avg_per_day = len(v['events']) / max(len(dates), 1)
+        if avg_per_day >= 8: v['screen_size'] = 'large'
+        elif avg_per_day >= 3: v['screen_size'] = 'standard'
+        elif avg_per_day > 0: v['screen_size'] = 'small'
+        else: v['screen_size'] = 'unknown'
 
     # ── Write data file ──
     js = 'var ALL_VENUES = ' + json.dumps(result, ensure_ascii=False) + ';'
