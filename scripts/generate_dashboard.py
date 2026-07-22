@@ -138,6 +138,7 @@ def main() -> None:
     stamp = datetime.now().astimezone().isoformat(timespec='minutes')
     html = re.sub(r"const LAST_UPDATED = '[^']*';", f"const LAST_UPDATED = '{stamp}';", html, count=1)
     html = re.sub(r"const LAST_UPDATED = new Date\(\)[^;]*;", f"const LAST_UPDATED = '{stamp}';", html, count=1)
+    html = re.sub(r"const COVERAGE = '[^']*';", f"const COVERAGE = '{with_web}/{len(result)} cinemas have websites';", html, count=1)
     # NOTE: const TODAY is intentionally NOT baked — the browser computes the
     # visitor's local date so the page stays correct between cron runs.
     html = re.sub(r'<script>\s*const ALL_VENUES.*?</script>', f'<script>\n{js}\n</script>', html, flags=re.DOTALL)

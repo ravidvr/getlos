@@ -218,12 +218,20 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   </div>
   <div class="bottom-legend" id="legend"></div>
   <span class="freshness" id="freshness" title="Data last updated"></span>
+  <span class="bottom-sep">·</span>
+  <span class="coverage" id="coverage" title="Data coverage"></span>
   <a href="https://github.com/ravidvr/getlos" target="_blank" class="bottom-source" title="View source on GitHub">⌨ Source</a>
+  <a href="https://github.com/ravidvr/getlos/issues/new" target="_blank" class="bottom-source" title="Report an issue">🐛 Report</a>
 </div>
 
 <div id="sparseToast" class="sparse-toast">
   <span id="sparseMsg" data-t="toast_sparse">Complete Thu-Sun cinema schedules are updated mid-week. Check back Wednesday for full weekend data.</span>
-  <button onclick="dismissToast()" class="sparse-close">&times;</button>
+  <button onclick="dismissToast()" class="sparse-close">✕</button>
+</div>
+
+<div id="welcomeToast" class="sparse-toast" style="bottom:auto;top:8px">
+  <span>🎬 No tracking · No ads · Just Berlin cinema</span>
+  <button onclick="dismissWelcome()" class="sparse-close">✕</button>
 </div>
 
 <div class="help-overlay" id="helpOverlay" onclick="closeHelp()">
@@ -396,6 +404,7 @@ let markers = [];
 let userLat = null, userLng = null, userMarker = null;
 const MAX_TIP = 12;
 const LAST_UPDATED = '2026-07-22T01:04+02:00';
+const COVERAGE = '82/104 cinemas have websites';
 
 function updateFreshness() {
   const el = document.getElementById('freshness');
@@ -518,6 +527,17 @@ function showToast() {
 function dismissToast() {
   document.getElementById('sparseToast').classList.remove('show');
   sessionStorage.setItem('getlos_sparse_dismissed', '1');
+}
+
+function dismissWelcome() {
+  document.getElementById('welcomeToast').classList.remove('show');
+  localStorage.setItem('getlos_welcome_seen', '1');
+}
+
+// Show welcome intro on first visit
+if (!localStorage.getItem('getlos_welcome_seen')) {
+  setTimeout(() => document.getElementById('welcomeToast').classList.add('show'), 1000);
+  setTimeout(() => document.getElementById('welcomeToast').classList.remove('show'), 8000);
 }
 
 function updateViewportStats() {
@@ -1134,6 +1154,7 @@ document.addEventListener('click', function(e) {
 
 render();
 updateFreshness();
+document.getElementById('coverage').textContent = COVERAGE;
 </script>
 
 <div id="bottomSheet" class="bottom-sheet" onclick="closeBottomSheet(event)">
