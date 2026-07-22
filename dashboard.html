@@ -199,7 +199,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <button id="filterToggle" class="filter-toggle" onclick="toggleFilters()" style="display:none">Filters ▾</button>
 
-<div id="map"></div>
+<div style="position:relative;flex:1;min-height:0">
+  <div id="map"></div>
+  <div id="emptyState" style="display:none;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px 24px;text-align:center;z-index:500;box-shadow:0 4px 16px rgba(0,0,0,.1);max-width:300px;pointer-events:none">
+    <div style="font-size:28px;margin-bottom:8px">🎬</div>
+    <div id="emptyStateMsg" style="font-size:14px;color:var(--text);margin-bottom:8px;font-weight:600"></div>
+    <div style="font-size:12px;color:var(--text-dim);margin-bottom:12px">Try adjusting your filters or selecting different dates.</div>
+    <button onclick="clearAllFilters()" style="background:var(--accent2);color:#fff;border:none;padding:6px 16px;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;pointer-events:auto">Show all cinemas</button>
+  </div>
+</div>
 <div class="bottom-bar">
   <div class="bottom-stats">
     <span><strong id="statFilms">—</strong> <span data-t="screenings">Screenings</span></span>
@@ -586,7 +594,12 @@ function buildPopupContent(v, matching) {
       tip += `<div class="evt">`;
       tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
       tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
-      if (e.price) tip += `<span class="evt-meta">${e.price}</span>`;
+      if (e.ticket) {
+        tip += ` <a class="evt-ticket" href="${e.ticket}" target="_blank">🎟</a>`;
+      } else if (v.website) {
+        tip += ` <a class="evt-ticket" href="${v.website}" target="_blank" title="Check cinema website for tickets">🎟</a>`;
+      }
+      if (e.price) tip += ` <span class="evt-meta">${e.price}</span>`;
       tip += `</span></div>`;
     });
     if (evts.length > MAX_TIP) {
@@ -615,6 +628,14 @@ function closeBottomSheet(e) {
 }
 
 function render() {
+  // Data-error fallback
+  if (!ALL_VENUES || ALL_VENUES.length === 0) {
+    document.getElementById('emptyStateMsg').textContent = 'Unable to load cinema data';
+    document.getElementById('emptyState').style.display = 'block';
+    document.querySelector('#emptyState div:nth-child(3)').style.display = 'none';
+    return;
+  }
+
   markers.forEach(m => map.removeLayer(m));
   markers = [];
   if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
@@ -713,6 +734,24 @@ function render() {
     if (fmt === 'all') return;
     b.style.display = allFormats.has(fmt) ? '' : 'none';
   });
+
+  // Show empty state if no venues matched
+  const emptyState = document.getElementById('emptyState');
+  const emptyMsg = document.getElementById('emptyStateMsg');
+  if (filteredEvents.length === 0) {
+    const reasons = [];
+    if (activeFormat !== 'all') reasons.push(`"${activeFormat}" format`);
+    if (activeCharacter !== 'all') reasons.push(`"${activeCharacter === 'big_chain' ? 'Big Chain' : 'Small Cinema'}" type`);
+    if (showOutdoorOnly) reasons.push('open air');
+    if (activeMovie) reasons.push(`"${activeMovie}"`);
+    emptyMsg.textContent = reasons.length > 0 
+      ? `No cinemas found with ${reasons.join(' and ')}`
+      : 'No screenings match your current filters';
+    emptyState.style.display = 'block';
+    document.querySelector('#emptyState div:nth-child(3)').style.display = '';
+  } else {
+    emptyState.style.display = 'none';
+  }
   
   // Re-open popup if one was open before re-render (user changed dates with popup open)
   if (reopenVenue) {
@@ -924,6 +963,20 @@ function selectSuggestion(i) {
     }).addTo(map).bindTooltip('📍 ' + r.display_name.split(',')[0], {permanent:true, direction:'top'});
     render();
   }
+}
+
+function clearAllFilters() {
+  activeFormat = 'all';
+  activeCharacter = 'all';
+  showOutdoorOnly = false;
+  activeMovie = '';
+  document.querySelectorAll('[data-format].active,[data-char].active').forEach(b => b.classList.remove('active'));
+  document.querySelector('[data-format="all"]')?.classList.add('active');
+  document.querySelector('[data-char="all"]')?.classList.add('active');
+  document.getElementById('addrSearch').value = '';
+  document.getElementById('clearSearch').style.display = 'none';
+  document.getElementById('searchMode').style.display = 'none';
+  render();
 }
 
 function clearSearch() {
