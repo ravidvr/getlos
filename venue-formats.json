@@ -1,0 +1,1075 @@
+{
+  "acudkino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "adria filmtheater": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "astra filmpalast": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "b-ware! ladenkino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 3,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "b-ware! open air fmp1": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "babylon": {
+    "formats": [
+      "70mm"
+    ],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "manual_research"
+  },
+  "babylon mitte": {
+    "formats": [
+      "70mm",
+      "35mm"
+    ],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "manual_research"
+  },
+  "bali-kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "bergfestkino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "blauer stern": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "bundesplatz-kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "capitol dahlem": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "casablanca kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "central freiluftkino mitte": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "cinema paris": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "cinemaxx": {
+    "formats": [],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "cinemotion hohenschönhausen": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "cineplex alhambra": {
+    "formats": [],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "cineplex neukölln arcaden": {
+    "formats": [],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "cineplex spandau": {
+    "formats": [],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "cineplex titania": {
+    "formats": [],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "cinestar": {
+    "formats": [
+      "IMAX"
+    ],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "city kino wedding im centre français": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "colosseum filmtheater berlin": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 3,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "concerthaus-kinos": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "cosima-filmtheater": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "delphi filmpalast": {
+    "formats": [
+      "70mm"
+    ],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "manual_research"
+  },
+  "delphi lux": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 7,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "delphi-filmpalast": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": 0,
+    "last_verified": "auto"
+  },
+  "eva lichtspiele": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "filmforum": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "filmgalerie": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "filmkunst 66": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "filmpalast bernau": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "filmrauschpalast": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "filmrauschpalast open air kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "filmtheater am friedrichshain": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 5,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "freiheit 15": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "freilichtbühne weißensee": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "freiluftkino friedrichshagen": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "freiluftkino friedrichshain": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "freiluftkino hasenheide": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "freiluftkino insel @ atelier gardens": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "freiluftkino kreuzberg": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "freiluftkino neue zukunft": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "freiluftkino rehberge": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "freiluftkino rosengarten": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "fsk - kino am oranienplatz": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "hackesche höfe kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 5,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "haveltorkino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "hellersdorfer terrassen": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "hofkino.berlin": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "internationales theaterinstitut deutschland": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "intimes kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "kant kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 5,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "kino central": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "kino im hof": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "kino im kulturhaus spandau": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "kino in der kulturbrauerei": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "kino international": {
+    "formats": [
+      "70mm"
+    ],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "manual_research"
+  },
+  "kino intimes": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "kino spreehöfe": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "kino toni & tonino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "kino union": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "kino zukunft": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "kino-café": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": 0,
+    "last_verified": "auto"
+  },
+  "li-li kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "lichtblick": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "lichtblick kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "movie magic": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "movieland": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "moviemento": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "movietown wust": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "multikulturelles centrum templin e.v.": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "neues off": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 1,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "obenkino im glad-house": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "odeon berlin": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "open air sommerkino lankwitz": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "openairkino spandau": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "passage": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 4,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "passage kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 4,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "passage kino neukölln": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 4,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "radioeins freiluftkino friedrichshain": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "rollberg kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 5,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "scala kulturpalast": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "sinema transtopia": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "sommerkino kulturforum": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "spreewald-lichtspiele": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "sputnik kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "sputnik südstern": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "strandbad wendenschloss": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "thalia": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "thalia - movie magic": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "tilsiter lichtspiele": {
+    "formats": [
+      "35mm"
+    ],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "uci am eastgate": {
+    "formats": [],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": 0,
+    "last_verified": "auto"
+  },
+  "uci luxe east side gallery": {
+    "formats": [
+      "IMAX"
+    ],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 14,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "chain_scrape"
+  },
+  "uci luxe gropius passagen": {
+    "formats": [
+      "IMAX"
+    ],
+    "character": "big_chain",
+    "outdoor": false,
+    "screen_size": "large",
+    "screens": 8,
+    "last_verified": "auto"
+  },
+  "union filmtheater": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "union filmtheater neuruppin": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "union friedrichshagen": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "weltspiegel": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "weltspiegel kino finsterwalde": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": 0,
+    "last_verified": "auto"
+  },
+  "wolf kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "yorck": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "standard",
+    "screens": 2,
+    "capacity": null,
+    "last_verified": "2026-07",
+    "source": "osm"
+  },
+  "yorck/new yorck": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": 0,
+    "last_verified": "auto"
+  },
+  "zoo palast": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": 0,
+    "last_verified": "auto"
+  },
+  "zukunft am ostkreuz": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  }
+}
