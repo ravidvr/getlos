@@ -44,7 +44,10 @@ def main() -> None:
         websites = json.load(f)
 
     # ── Venue format/character data ──
-    with open(BASE / 'data/venue-formats.json') as f:
+    fmt_path = BASE / 'venue-formats.json'
+    if not fmt_path.exists():
+        fmt_path = BASE / 'data/venue-formats.json'
+    with open(fmt_path) as f:
         fmt_data = json.load(f)
 
     # ── Venues + events (entity-decoded keys merge duplicate venues) ──
