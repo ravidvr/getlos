@@ -419,7 +419,7 @@ const START = TODAY;
 let markers = [];
 let userLat = null, userLng = null, userMarker = null;
 const MAX_TIP = 12;
-const LAST_UPDATED = '2026-07-24T12:05+02:00';
+const LAST_UPDATED = '2026-07-24T12:08+02:00';
 const COVERAGE = '85/106 cinemas have websites';
 
 function updateFreshness() {
@@ -1268,9 +1268,15 @@ document.addEventListener('click', function(e) {
   }
 });
 
-// Register service worker for offline caching
+// Register service worker — force-update on every load (unregister old v1)
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/getlos/sw.js').catch(() => {});
+  navigator.serviceWorker.getRegistrations().then(regs => {
+    regs.forEach(r => r.unregister()); // Clear old v1
+  }).then(() => {
+    navigator.serviceWorker.register('/getlos/sw.js').then(reg => {
+      reg.update(); // Force immediate update check
+    });
+  }).catch(() => {});
 }
 </script>
 
