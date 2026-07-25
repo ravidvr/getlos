@@ -27,6 +27,25 @@ interface CinemaEvent {
   last_updated: string;
 }
 
+// ── Language detection ──────────────────────────────────────────────
+
+function detectLanguage(title: string, description: string): string {
+  // Check description for language hints
+  const d = (description || "").toLowerCase();
+  if (d.includes("omu") || d.includes("original mit untertiteln")) return "OmU";
+  if (d.includes("ov") || d.includes("originalversion")) return "OV";
+  if (d.includes("englisch") || d.includes("english")) return "EN";
+  if (d.includes("deutsch") || d.includes("german")) return "DE";
+
+  // Title heuristic: English-looking title → OmU (safest default for open-air)
+  const t = title.toLowerCase();
+  const germanWords = /\b(der|die|das|und|ein|eine|für|mit|von|auf|aus|bei|nach|zu|im|am|zum|zur|des|dem|den|ist|sind|war|nicht|auch|aber|oder|wie|wenn|dass|sich|über|unter|vor|hinter|neben|zwischen|seit|ab|an|durch|gegen|ohne|um|entlang)\b/;
+  if (germanWords.test(t)) return "DE";
+  if (/^[a-z0-9\s:,'!.?\-&()]+$/i.test(t) && !germanWords.test(t)) return "OmU";
+
+  return ""; // Unknown — let dedup/pipeline fallback handle it
+}
+
 // ── German date parsing ────────────────────────────────────────────
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -330,7 +349,7 @@ async function main() {
       event_url: eventUrl,
       ticket_url: "",
       image_url: "",
-      language: "DE",
+      language: detectLanguage(detail.title, detail.description),
       format: "",
       release_date: "",
       last_updated: now,
