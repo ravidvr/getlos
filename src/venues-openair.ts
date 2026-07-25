@@ -39,9 +39,14 @@ function detectLanguage(title: string, description: string): string {
 
   // Title heuristic: English-looking title → OmU (safest default for open-air)
   const t = title.toLowerCase();
-  const germanWords = /\b(der|die|das|und|ein|eine|für|mit|von|auf|aus|bei|nach|zu|im|am|zum|zur|des|dem|den|ist|sind|war|nicht|auch|aber|oder|wie|wenn|dass|sich|über|unter|vor|hinter|neben|zwischen|seit|ab|an|durch|gegen|ohne|um|entlang)\b/;
-  if (germanWords.test(t)) return "DE";
-  if (/^[a-z0-9\s:,'!.?\-&()]+$/i.test(t) && !germanWords.test(t)) return "OmU";
+  // Check for majority German words to avoid "die" false positives
+  const germanWords = ['der','die','das','und','ein','eine','für','mit','von','auf','aus','bei','nach','zu','im','am','zum','zur','des','dem','den','ist','sind','war','nicht','auch','aber','oder','wie','wenn','dass','sich','über','unter','vor','hinter','neben','zwischen','seit','ab','an','durch','gegen','ohne','um','entlang'];
+  const words = t.split(/[^a-zäöüß]+/);
+  const germanCount = words.filter(w => germanWords.includes(w)).length;
+  // Need 2+ German words to be uncertain (avoids "die" false positive)
+  if (germanCount >= 2) return "";
+  // No/minimal German words + ASCII/curly title → OmU
+  if (/^[a-z0-9\s:,'!.?\-&()\u2018\u2019\u201c\u201d\u2013\u2014]+$/i.test(t)) return "OmU";
 
   return ""; // Unknown — let dedup/pipeline fallback handle it
 }

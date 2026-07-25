@@ -142,7 +142,12 @@ async function main() {
       artists: [...artists],
       ticket_url: group.find((e) => e.ticket_url)?.ticket_url,
       image_url: group.find((e) => e.image_url)?.image_url,
-      language: group.find((e) => e.language)?.language,
+      language: (() => {
+        // Prefer non-DE languages from openair/englishcinema over berlincinema's default DE
+        const langs = group.map(e => e.language).filter(Boolean);
+        const nonDE = langs.find(l => l !== "DE");
+        return nonDE || langs[0] || "";
+      })(),
       format: group.find((e) => e.format !== undefined)?.format ?? "",
       price: group.find((e) => e.price)?.price,
       last_updated: new Date().toISOString(),
