@@ -237,6 +237,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <span class="coverage" id="coverage" title="Data coverage"></span>
   <a href="https://github.com/ravidvr/getlos" target="_blank" class="bottom-source" title="View source on GitHub">⌨ Source</a>
   <a href="https://github.com/ravidvr/getlos/issues/new" target="_blank" class="bottom-source" title="Report an issue">🐛 Report</a>
+  <a href="#" onclick="openFeedback();return false" class="bottom-source" title="Send feedback" id="feedbackLink">📧 Feedback</a>
 </div>
 
 <div id="sparseToast" class="sparse-toast">
@@ -1150,6 +1151,10 @@ function closeAbout() { document.getElementById('aboutOverlay').classList.remove
 
 function openContact() { document.getElementById('contactOverlay').classList.add('open'); }
 function closeContact() { document.getElementById('contactOverlay').classList.remove('open'); }
+
+function openFeedback() {
+  window.location.href = 'mailto:dvrravi@gmail.com?subject=getlos%20feedback';
+}
 
 // Obfuscated email — rendered via JS to avoid scraping
 (function() {
