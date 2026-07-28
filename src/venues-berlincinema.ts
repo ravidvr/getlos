@@ -92,7 +92,7 @@ async function fetchFilmDetail(filmId: string): Promise<{
 
   // Parse cinema blocks from plain text
   // Pattern: Cinema Name (Bezirk) "Film Title" ... Tag Zeit DAY, DD.MM.YY HH:MM, HH:MM
-  const cinemaPattern = /([A-ZÄÖÜ][^()]{2,45})\s*\([^)]+\)\s*"[^"]*"\s*läuft[^:]*:\s*Tag\s*Zeit\s*(.*?)(?=[A-ZÄÖÜ][^()]{2,45}\s*\([^)]+\)\s*"[^"]*"\s*läuft|<!--)/g;
+  const cinemaPattern = /([A-ZÄÖÜ][^()]{2,45})\s*\([^)]+\)\s*"[^"]*"\s*läuft[^:]*:\s*Tag\s*Zeit\s*(.*?)(?=[A-ZÄÖÜ][^()]{2,45}\s*\([^)]+\)\s*"[^"]*"\s*läuft|<!--|$)/g;
   
   const cinemas: Array<{ name: string; times: string[]; dates: string[]; langs: string[]; formats: string[] }> = [];
   let cm;
@@ -106,7 +106,9 @@ async function fetchFilmDetail(filmId: string): Promise<{
       .replace(/^(?:(?:Mo|Di|Mi|Do|Fr|Sa|So),\s*|\d{1,2}\.\d{1,2}\.\d{2,4}\s*|\d{1,2}:\d{2}\s*|\([A-Za-z]+\)\s*|,\s*)+/, "")
       .trim();
     if (!cinemaName || cinemaName.length < 3) continue;
-    const showtimeText = cm[2];
+    let showtimeText = cm[2];
+    // Strip trailing page-footer boilerplate that bleeds into the last cinema block
+    showtimeText = showtimeText.replace(/&laquo;.*$/s, '').replace(/«.*$/s, '').trim();
 
     // Parse day sections within this cinema
     const dayPattern = /(Mo|Di|Mi|Do|Fr|Sa|So),\s*(\d{1,2}\.\d{1,2}\.\d{2})\s*([\d,:\s(OV|OmU|OmenglU|DF)]+?)(?=(?:Mo|Di|Mi|Do|Fr|Sa|So),\s*\d{1,2}\.\d{1,2}\.\d{2}|$)/g;

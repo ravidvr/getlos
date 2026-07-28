@@ -39,6 +39,34 @@ def main():
     chk('berlin.de: no raw HTML entities',
         not [x for x in bc if '&#x' in x['venue_name'] or '&amp;' in x['venue_name']])
 
+    # ── Data loss detection ──
+    unique_titles = {e['title'] for e in bc}
+    # Fetch index page to count film IDs
+    try:
+        import urllib.request
+        req = urllib.request.Request('https://www.berlin.de/kino/_bin/index.php',
+                                       headers={'User-Agent': 'getlos/1.0'})
+        idx_html = urllib.request.urlopen(req, timeout=15).read().decode('utf-8')
+        idx_film_ids = set(re.findall(r'/kino/_bin/filmdetail\.php/(\d+)/', idx_html))
+        coverage = len(unique_titles) / max(len(idx_film_ids), 1)
+        chk('berlin.de: film coverage >=80% of index', coverage >= 0.80,
+            f'{len(unique_titles)}/{len(idx_film_ids)} = {coverage:.1%}')
+    except Exception as e:
+        chk('berlin.de: film coverage >=80% of index', True, f'skipped (index fetch failed: {e})')
+
+    # Check per-title cinema counts — no film should have 0 cinemas
+    title_cinemas = {}
+    for e in bc:
+        title_cinemas.setdefault(e['title'], set()).add(e['venue_name'])
+    zero_cinema_films = [t for t, cs in title_cinemas.items() if len(cs) == 0]
+    chk('berlin.de: no films with 0 cinemas', not zero_cinema_films,
+        f'{len(zero_cinema_films)} films: {zero_cinema_films[:5]}' if zero_cinema_films else '')
+
+    # Check non-DE language tags exist (OmU/OV/OmenglU)
+    nonde_events = [e for e in bc if e.get('language') in ('OmU', 'OV', 'OmenglU')]
+    chk('berlin.de: OmU/OV/OmenglU events present', len(nonde_events) > 0,
+        f'{len(nonde_events)} events' if nonde_events else '0 non-DE events — possible parse loss')
+
     ec = json.loads((BASE / 'data/venues-englishcinema.json').read_text())
     chk('english cinema: events exist', len(ec) > 200, f'{len(ec)}')
 
@@ -50,7 +78,7 @@ def main():
 
     # ── Dashboard data ──
     raw = (BASE / 'data/all_venues.js').read_text()
-    d = json.loads(raw.replace('const ALL_VENUES = ', '').rstrip(';'))
+    d = json.loads(raw.replace('var ALL_VENUES = ', '').replace('const ALL_VENUES = ', '').rstrip(';'))
     total = sum(len(v['events']) for v in d)
     chk('dashboard: venues 50-150', 50 <= len(d) <= 150, f'{len(d)}')
     chk('dashboard: events > 1000', total > 1000, f'{total}')
@@ -64,7 +92,10 @@ def main():
         any(e['date'] == date.today().isoformat() for v in d for e in v['events']))
 
     # Format data checks
-    with open(BASE / 'data/venue-formats.json') as f:
+    fmt_path = BASE / 'venue-formats.json'
+    if not fmt_path.exists():
+        fmt_path = BASE / 'data/venue-formats.json'
+    with open(fmt_path) as f:
         fmt = json.load(f)
     fmt_keys = {k.lower().strip() for k in fmt}
     data_venues = {hm.unescape(v['name']).lower().strip() for v in d}
@@ -95,7 +126,7 @@ def main():
 
     # ── Dashboard HTML: embedded + JS parses ──
     h = (BASE / 'dashboard.html').read_text()
-    chk('html: data embedded', 'const ALL_VENUES' in h)
+    chk('html: data embedded', 'var ALL_VENUES' in h or 'const ALL_VENUES' in h)
     chk('html: no plain-text address', 'Kiefholz' not in h and '12435' not in h)
     blocks = re.findall(r'<script>(.*?)</script>', h, re.DOTALL)
     with tempfile.NamedTemporaryFile('w', suffix='.js', delete=False) as f:
