@@ -908,7 +908,7 @@ function setPreset(preset, btn) {
   document.querySelectorAll('[data-preset]').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   
-  const sorted = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
+  const sorted = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].filter(d => d >= TODAY).sort();
   activeDates.clear();
   
   if (preset === 'weekend') {
@@ -947,7 +947,7 @@ function setPreset(preset, btn) {
 
 function updateDateGrid() {
   const grid = document.getElementById('dateGrid');
-  const sorted = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
+  const sorted = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].filter(d => d >= TODAY).sort();
   const dayNames = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
   grid.innerHTML = sorted.map(d => {
     const day = new Date(d + 'T12:00:00').getDay();
@@ -1221,7 +1221,7 @@ async function init() {
   // Init — restore URL state first, then smart default if no state
   if (!restoreFromURL()) {
     // No URL state — smart default: pick the date with most events if today is sparse
-    const dates = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].sort();
+    const dates = [...new Set(ALL_VENUES.flatMap(v => v.events.map(e => e.date)))].filter(d => d >= TODAY).sort();
     const todayIdx = dates.indexOf(TODAY);
     
     // Count events per date
