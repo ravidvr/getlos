@@ -410,6 +410,7 @@ let activeSize = 'all';
 let activeDates = new Set();
 let activeMovie = '';
 let addressMarkerPlaced = false;
+let openVenue = null;  // venue currently shown in bottom sheet (mobile) or popup
 // "Today" is computed in the visitor's browser, LOCAL time (not baked at build,
 // not UTC — Berlin is UTC+2, toISOString() would lag until 2am).
 const TODAY = (() => {
@@ -482,7 +483,27 @@ function getUserLocation() {
       if (!inBerlin) {
         map.setView([52.5219, 13.4132], 12); // Alexanderplatz
       }
-      render();
+      // Lightweight refresh: update user marker + refresh open popup/sheet
+      if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
+      userMarker = L.circleMarker([userLat, userLng], {
+        radius:8, color:'#00d2ff', fillColor:'#00d2ff', fillOpacity:.6, weight:2
+      }).addTo(map);
+      userMarker.bindTooltip('📍 You are here', {permanent:true, direction:'bottom', offset:[0,12]});
+      // Refresh bottom sheet (mobile) or popup (desktop) if open
+      if (openVenue) {
+        if (window.innerWidth < 768) {
+          showBottomSheet(openVenue.v, openVenue.matching);
+        } else {
+          map.closePopup();
+          // Rebuild marker popup content for the open venue
+          const marker = markers.find(m => m.getLatLng().lat === openVenue.v.lat && m.getLatLng().lng === openVenue.v.lng);
+          if (marker) {
+            marker.setPopupContent(buildPopupContent(openVenue.v, openVenue.matching));
+            marker.openPopup();
+          }
+        }
+      }
+      renderLegend();
     },
     err => { 
       btn.textContent = '📍'; 
@@ -695,6 +716,7 @@ function buildPopupContent(v, matching) {
 
 /* ── Bottom sheet (mobile popup replacement) ── */
 function showBottomSheet(v, matching) {
+  openVenue = { v, matching };
   const tip = buildPopupContent(v, matching);
   document.getElementById('sheetContent').innerHTML = tip;
   document.getElementById('bottomSheet').classList.add('open');
@@ -704,6 +726,7 @@ function showBottomSheet(v, matching) {
 function closeBottomSheet(e) {
   if (e && e.target !== e.currentTarget) return;
   document.getElementById('bottomSheet').classList.remove('open');
+  openVenue = null;
 }
 
 function render() {
