@@ -144,6 +144,16 @@
     "last_verified": "auto",
     "source": "default_fallback"
   },
+  "brotfabrikbühne": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "small",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
   "capitol dahlem": {
     "formats": [],
     "character": "small_cinema",
@@ -596,6 +606,16 @@
     "last_verified": "2026-07",
     "source": "osm"
   },
+  "il kino": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "small",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
   "kant kino": {
     "formats": [],
     "character": "small_cinema",
@@ -693,6 +713,16 @@
     "character": "small_cinema",
     "outdoor": false,
     "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "kino krokodil": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "small",
     "screens": null,
     "capacity": null,
     "last_verified": "auto",

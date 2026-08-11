@@ -4,7 +4,7 @@
 
 import { writeFileSync } from "fs";
 
-const URL = "https://englishcinemaberlin.com/7-day-overview";
+const SOURCE_URL = "https://englishcinemaberlin.com/films";
 
 interface CinemaEvent {
   source: string;
@@ -197,86 +197,90 @@ function normalizeCinema(raw: string): string {
 async function main() {
   console.log("Parsing English Cinema Berlin schedule...\n");
 
-  const resp = await fetch(URL, {
+  const resp = await fetch(SOURCE_URL, {
     headers: { "User-Agent": "getlos/0.1.0 (Berlin events map)" },
   });
   if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
   const html = await resp.text();
 
-  // Parse header for dates
-  const headerMatch = html.match(/<thead[^>]*>(.*?)<\/thead>/s);
-  const dates: string[] = [];
-  if (headerMatch) {
-    const ths = headerMatch[1].match(/<th[^>]*>(.*?)<\/th>/gs) || [];
-    for (const th of ths) {
-      const text = th.replace(/<[^>]+>/g, "").trim();
-      if (/\d{1,2}\s+\w{3}/i.test(text) || /\w{3},\s*\d{1,2}\s+\w{3}/i.test(text)) {
-        dates.push(parseDateHeader(text));
-      } else {
-        dates.push("");
-      }
-    }
+  // The former 7-day table now redirects to /films. The index exposes film
+  // links; each film page publishes every upcoming screening as JSON-LD.
+  // JSON-LD is a substantially more stable contract than presentation markup.
+  const filmLinks = [...html.matchAll(/<a\s+class="film-card"[^>]*href="([^"]+)"/g)]
+    .map((match) => new URL(match[1], SOURCE_URL).href);
+  const uniqueLinks = [...new Set(filmLinks)];
+  if (!uniqueLinks.length) {
+    throw new Error("English Cinema index contains no film links");
   }
-  console.log(`  Dates: ${dates.filter(Boolean).length}`);
+  console.log(`  Film pages: ${uniqueLinks.length}`);
 
-  // Parse body rows
-  const bodyMatch = html.match(/<tbody[^>]*>(.*?)<\/tbody>/s);
-  if (!bodyMatch) {
-    console.log("No tbody found");
-    writeFileSync("data/venues-englishcinema.json", "[]");
-    return;
-  }
-
-  const rows = bodyMatch[1].match(/<tr[^>]*>(.*?)<\/tr>/gs) || [];
   const events: CinemaEvent[] = [];
-  const seenMovies = new Set<string>();
   const cinemasSeen = new Set<string>();
+  const moviesSeen = new Set<string>();
+  const seen = new Set<string>();
+  const now = new Date();
+  const concurrency = 6;
 
-  for (const rowHtml of rows) {
-    const cells = rowHtml.match(/<td[^>]*>(.*?)<\/td>/gs) || [];
-    if (cells.length < 2) continue;
+  for (let offset = 0; offset < uniqueLinks.length; offset += concurrency) {
+    const batch = uniqueLinks.slice(offset, offset + concurrency);
+    const pages = await Promise.all(batch.map(async (filmUrl) => {
+      const response = await fetch(filmUrl, { headers: { "User-Agent": "getlos/0.1.0 (Berlin events map)" } });
+      if (!response.ok) throw new Error(`HTTP ${response.status} for ${filmUrl}`);
+      return { filmUrl, html: await response.text() };
+    }));
 
-    const movieCell = (cells[0] ?? "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
-    if (!movieCell || movieCell === "Movie/Date") continue;
-    seenMovies.add(movieCell);
-
-    // Cells 1+ are showtimes per day
-    for (let i = 1; i < cells.length && i - 1 < dates.length; i++) {
-      const date = dates[i - 1];
-      if (!date) continue;
-
-      const showtimes = parseShowtimes(cells[i]);
-      for (const { time, cinema, format } of showtimes) {
-        const normalized = normalizeCinema(cinema);
-        cinemasSeen.add(normalized);
-
-        events.push({
-          source: "englishcinema",
-          source_id: `ec_${movieCell.replace(/[^a-z0-9]/gi, "_").toLowerCase()}_${date}_${time.replace(":", "")}_${normalized.replace(/[^a-z0-9]/gi, "_").toLowerCase()}`,
-          title: movieCell,
-          description: `${movieCell} — English screening at ${normalized}${format ? " (" + format + ")" : ""}`,
-          start_datetime: `${date}T${time}:00+02:00`,
-          end_datetime: "",
-          venue_name: normalized,
-          venue_address: `${normalized}, Berlin, DE`,
-          format: format,
-          latitude: 0,
-          longitude: 0,
-          categories: ["film", "cinema", "english"],
-          event_url: URL,
-          ticket_url: "",
-          image_url: "",
-          language: "EN",
-          last_updated: new Date().toISOString(),
-        });
+    for (const page of pages) {
+      const blocks = [...page.html.matchAll(/<script[^>]*type="application\/ld(?:&#x2B;|\+)json"[^>]*>([\s\S]*?)<\/script>/gi)]
+        .map((match) => match[1]);
+      for (const block of blocks) {
+        let json: unknown;
+        try {
+          json = JSON.parse(block);
+        } catch {
+          continue;
+        }
+        const records = Array.isArray(json) ? json : [json];
+        for (const record of records as Array<Record<string, any>>) {
+          if (record["@type"] !== "ScreeningEvent" || !record.startDate || !record.location?.name) continue;
+          if (new Date(record.startDate) < now) continue;
+          const title = record.workPresented?.name || record.name?.replace(/\s+at\s+.*$/, "");
+          if (!title) continue;
+          const cinema = normalizeCinema(record.location.name);
+          const ticketUrl = record.offers?.url ? new URL(record.offers.url, SOURCE_URL).href : "";
+          const sourceId = ticketUrl || `${title}_${record.startDate}_${cinema}`;
+          if (seen.has(sourceId)) continue;
+          seen.add(sourceId);
+          cinemasSeen.add(cinema);
+          moviesSeen.add(title);
+          events.push({
+            source: "englishcinema",
+            source_id: `ec_${sourceId.replace(/[^a-z0-9]/gi, "_").toLowerCase()}`,
+            title,
+            description: `${title} — English screening at ${cinema}`,
+            start_datetime: record.startDate,
+            end_datetime: record.endDate || "",
+            venue_name: cinema,
+            venue_address: record.location.address?.streetAddress
+              ? `${record.location.address.streetAddress}, Berlin, DE`
+              : `${cinema}, Berlin, DE`,
+            format: "",
+            latitude: 0,
+            longitude: 0,
+            categories: ["film", "cinema", "english"],
+            event_url: page.filmUrl,
+            ticket_url: ticketUrl,
+            image_url: record.image || "",
+            language: "EN",
+            last_updated: new Date().toISOString(),
+          });
+        }
       }
     }
   }
 
   writeFileSync("data/venues-englishcinema.json", JSON.stringify(events, null, 2));
-
   console.log(`Done: ${events.length} screenings → data/venues-englishcinema.json`);
-  console.log(`  Unique movies: ${seenMovies.size}`);
+  console.log(`  Unique movies: ${moviesSeen.size}`);
   console.log(`  Cinemas: ${cinemasSeen.size}`);
   console.log(`  Venues: ${[...cinemasSeen].sort().join(", ")}`);
 }

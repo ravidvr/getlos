@@ -171,6 +171,11 @@ async function main() {
     // Actually they're already properly structured — just use directly
     for (const cinema of cinemas) {
       const normalizedName = normalizeCinema(cinema.name);
+      // berlin.de's cinema feed can occasionally include a venue outside the
+      // city. Do not silently place that event at the Berlin fallback point.
+      if (normalizedName.toLowerCase() === "filmnächte cottbus im spreeauenpark") {
+        continue;
+      }
       allCinemas.add(normalizedName);
       
       // Format is venue-level only (IMAX/70mm/35mm from venue-formats.json)

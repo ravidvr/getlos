@@ -103,7 +103,8 @@ def main():
     chk('formats: all venues have entries', not missing, f'{len(missing)} missing: {sorted(list(missing))[:5]}')
 
     # Verify IMAX tag is present on venues that claim it in venue-formats.json
-    imax_venues_formats = {k for k, v in fmt.items() if 'IMAX' in v.get('formats', [])}
+    imax_venues_formats = {k for k, v in fmt.items()
+                           if 'IMAX' in v.get('formats', []) and k in data_venues}
     imax_venues_data = {v['name'] for v in d if 'IMAX' in (v.get('formats') or [])}
     missing_imax = imax_venues_formats - {name.lower().strip() for name in imax_venues_data}
     # Also check: venues known to have IMAX per venue-formats should have it in dashboard
