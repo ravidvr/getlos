@@ -103,7 +103,7 @@ async function fetchFilmDetail(filmId: string): Promise<{
     // Day abbrevs require the comma so "Movietown"/"Freiluftkino" stay intact.
     const cinemaName = cm[1]
       .replace(/^.*?(?:Kinos wird der Film gezeigt|Film gezeigt|Tag\s+Zeit)\s*/i, "")
-      .replace(/^(?:(?:Mo|Di|Mi|Do|Fr|Sa|So),\s*|\d{1,2}\.\d{1,2}\.\d{2,4}\s*|\d{1,2}:\d{2}\s*|\([A-Za-z]+\)\s*|,\s*)+/, "")
+      .replace(/^(?:Zeit\s*)?(?:(?:Mo|Di|Mi|Do|Fr|Sa|So),\s*|\d{1,2}\.\d{1,2}\.\d{2,4}\s*|\d{1,2}:\d{2}\s*|\([A-Za-z]+\)\s*|,\s*)+/, "")
       .trim();
     if (!cinemaName || cinemaName.length < 3) continue;
     let showtimeText = cm[2];

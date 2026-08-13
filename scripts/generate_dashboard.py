@@ -118,6 +118,32 @@ def main() -> None:
         if uniq:
             result.append(v)
 
+    # ── Sync new venues into venue-formats.json (default fallback) ──
+    # The format file is curated; genuinely new venues (new open-air sites,
+    # renamed cinemas) appear day-to-day. Auto-register them with the safe
+    # default so the verify gate stays meaningful instead of blocking on
+    # legitimate new venues. Existing curated entries are never overwritten.
+    default_fallback = {
+        "formats": [], "character": "small_cinema", "outdoor": False,
+        "screen_size": "unknown", "screens": None, "capacity": None,
+        "last_verified": "auto", "source": "default_fallback",
+    }
+    added = 0
+    for key, v in venue_map.items():
+        if key not in fmt_data:
+            entry = dict(default_fallback)
+            # Infer outdoor from the venue's own categories if present
+            if 'openair' in [c.lower() for c in v.get('categories', [])]:
+                entry['outdoor'] = True
+                entry['character'] = 'outdoor'
+            fmt_data[key] = entry
+            added += 1
+    if added:
+        with open(fmt_path, 'w') as f:
+            json.dump(fmt_data, f, indent=2, ensure_ascii=False)
+        print(f"  Synced {added} new venues into {fmt_path.name} (default_fallback)")
+
+
     # ── Dashboard output ──
     langs = Counter(e['lang'] for v in result for e in v['events'])
     fmts = Counter(e.get('format','') for v in result for e in v['events'] if e.get('format'))
