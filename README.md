@@ -6,6 +6,11 @@
 
 No app, no account, no cookies, no tracking. Just a map.
 
+## Screenshots
+
+<!-- TODO: Add screenshots/GIFs here — map overview, movie search, cinema popup, mobile view -->
+<!-- These are the #1 conversion asset for the README. Capture at 1200x800 or record a 5-10s GIF. -->
+
 ---
 
 ## For moviegoers
@@ -37,7 +42,7 @@ No app, no account, no cookies, no tracking. Just a map.
 
 ## Data sources
 
-All data comes from legal, public sources — facts (titles, times, places) are not copyrightable:
+All data comes from public sources with attribution and respect for rate limits, robots.txt, and terms of service. Showtime facts (titles, times, venues) are compiled and cross-referenced, not reproduced from any single source.
 
 | Source | Provides |
 |--------|----------|
