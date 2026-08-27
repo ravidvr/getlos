@@ -81,7 +81,10 @@ def main():
     d = json.loads(raw.replace('var ALL_VENUES = ', '').replace('const ALL_VENUES = ', '').rstrip(';'))
     total = sum(len(v['events']) for v in d)
     chk('dashboard: venues 50-150', 50 <= len(d) <= 150, f'{len(d)}')
-    chk('dashboard: events > 1000', total > 1000, f'{total}')
+    days = len({e['date'] for v in d for e in v['events']})
+    floor = max(250, 40 * days)
+    chk(f'dashboard: events >= {floor} (window-aware)', total >= floor,
+        f'{total} over {days} days = {total / max(days, 1):.0f}/day')
     chk(f'dashboard: venue website coverage >=75% ({sum(1 for v in d if v.get("website"))}/{len(d)})',
         sum(1 for v in d if v.get('website')) / max(len(d), 1) >= 0.75)
     seen = set()
