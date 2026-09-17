@@ -37,7 +37,7 @@ jobs:
               errors.append(f"venue count out of range: {venues}")
           if events < 280:
               errors.append(f"event count too low: {events}")
-          if not dates or dates[-1] < today:
+          if not dates or dates[-1] < today.isoformat():
               errors.append(f"no screenings today or later: last date {dates[-1] if dates else 'none'}")
           if len(dates) < 3:
               errors.append(f"fewer than 3 days of data: {len(dates)}")
