@@ -1,5 +1,8 @@
 # getlos — Berlin Cinema Map
 
+[![CI](https://github.com/ravidvr/getlos/actions/workflows/ci.yml/badge.svg)](https://github.com/ravidvr/getlos/actions/workflows/ci.yml)
+[![Freshness watchdog](https://github.com/ravidvr/getlos/actions/workflows/freshness.yml/badge.svg)](https://github.com/ravidvr/getlos/actions/workflows/freshness.yml)
+
 **Every movie screening in Berlin on one map** — all languages, all cinemas, updated daily.
 
 **[🎬 Open the map →](https://ravidvr.github.io/getlos/dashboard.html)**

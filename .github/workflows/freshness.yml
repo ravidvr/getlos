@@ -1,0 +1,62 @@
+# Data-freshness watchdog for the live dashboard.
+# The pipeline runs on a home Mac (cron, 09:00 Berlin). If that machine is off,
+# the network is flaky, or a source breaks, the deployed dashboard silently
+# goes stale — this job catches it independently of the Mac and turns the
+# failure into a visible red X (and a notification email to the repo owner).
+# Runs daily at 07:20 UTC = 09:20 Berlin, shortly after the pipeline finishes.
+
+name: Freshness watchdog
+
+on:
+  schedule:
+    - cron: "20 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch live data
+        run: |
+          curl -fsS "https://ravidvr.github.io/getlos/screenings.json?cb=$(date +%s)" -o screenings.json
+          curl -fsS "https://ravidvr.github.io/getlos/dashboard.html?cb=$(date +%s)" -o dashboard.html
+      - name: Assert freshness and integrity
+        run: |
+          python3 - <<'EOF'
+          import json, re, sys
+          from datetime import date, datetime, timedelta, timezone
+
+          errors = []
+          data = json.load(open("screenings.json"))
+          venues = len(data)
+          events = sum(len(v["events"]) for v in data)
+          dates = sorted({e["date"] for v in data for e in v["events"]})
+          today = date.today()
+
+          if venues < 50 or venues > 150:
+              errors.append(f"venue count out of range: {venues}")
+          if events < 280:
+              errors.append(f"event count too low: {events}")
+          if not dates or dates[-1] < today:
+              errors.append(f"no screenings today or later: last date {dates[-1] if dates else 'none'}")
+          if len(dates) < 3:
+              errors.append(f"fewer than 3 days of data: {len(dates)}")
+
+          html = open("dashboard.html", encoding="utf-8").read()
+          m = re.search(r"LAST_UPDATED = '([^']+)'", html)
+          if not m:
+              errors.append("LAST_UPDATED not found in dashboard.html")
+          else:
+              ts = datetime.fromisoformat(m.group(1))
+              age = datetime.now(timezone.utc) - ts
+              if age > timedelta(hours=36):
+                  errors.append(f"dashboard stale: LAST_UPDATED {m.group(1)} ({age.days}d {age.seconds // 3600}h old)")
+
+          print(f"venues={venues} events={events} days={len(dates)} ({dates[0] if dates else '?'}..{dates[-1] if dates else '?'})")
+          if errors:
+              print("FRESHNESS FAILED:")
+              for e in errors:
+                  print("  -", e)
+              sys.exit(1)
+          print("FRESHNESS OK")
+          EOF
