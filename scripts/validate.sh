@@ -1,5 +1,7 @@
 #!/bin/bash
 cd /Users/ruhvee/Documents/antigravityprojects/getlos
+# Cron environments ship a minimal PATH — make npm/python/git resolvable
+export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 python3 -c "
 import json, urllib.request, sys, re
 from datetime import date
@@ -31,10 +33,16 @@ except Exception as e:
 
 import subprocess
 result = subprocess.run(['python3', 'scripts/verify.py'], capture_output=True, text=True)
-if 'BLOCKED' in result.stdout or 'BLOCKED' in result.stderr:
+if result.returncode != 0 or 'BLOCKED' in result.stdout or 'BLOCKED' in result.stderr:
     errors.append('verify.py: pipeline checks failed')
 else:
     print('✓ verify.py passes')
+
+result = subprocess.run(['npm', 'test'], capture_output=True, text=True)
+if result.returncode != 0:
+    errors.append('unit tests failed')
+else:
+    print('✓ unit tests pass')
 
 if errors:
     print(f'\\n❌ VALIDATION FAILED ({len(errors)} issues):')

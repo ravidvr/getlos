@@ -11,6 +11,7 @@
     "dedup:events": "npx tsx src/event-dedup.ts",
     "geocode": "npx tsx src/geocoder.ts",
     "venues:final": "npx tsx src/venues-final.ts",
+    "test": "tsx --test test/*.test.ts",
     "pipeline": "npm run venues:osm && npm run venues:berlincinema && npm run venues:englishcinema && npm run match:venues && npm run dedup:events && npm run geocode && npm run venues:final"
   },
   "dependencies": {

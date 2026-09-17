@@ -18,6 +18,7 @@ export async function fetchWithRetry(
   url: string,
   init: RequestInit = {},
   retries: number = RETRIES,
+  baseDelayMs: number = BASE_DELAY_MS,
 ): Promise<Response> {
   let lastErr: unknown = new Error("fetch failed before first attempt");
   for (let attempt = 0; attempt <= retries; attempt++) {
@@ -33,7 +34,7 @@ export async function fetchWithRetry(
       lastErr = err;
     }
     if (attempt < retries) {
-      const wait = BASE_DELAY_MS * 2 ** attempt * (1 + Math.random() * 0.5);
+      const wait = baseDelayMs * 2 ** attempt * (1 + Math.random() * 0.5);
       const code = lastErr instanceof Error ? lastErr.message : String(lastErr);
       console.error(
         `  [retry] ${code} on ${url} — waiting ${(wait / 1000).toFixed(1)}s (attempt ${attempt + 1}/${retries})`,

@@ -3,6 +3,7 @@
 # Pipeline → dashboard regeneration (scripts/generate_dashboard.py) → deploy
 
 set -e
+set -o pipefail   # `stage | tail` must not mask a failing stage (Sep 2026: a dead scraper looked like a clean run)
 cd /Users/ruhvee/Documents/antigravityprojects/getlos
 
 # Cron environments ship a minimal PATH — make node/npx/git resolvable
@@ -23,6 +24,9 @@ npx tsx src/venues-final.ts 2>&1 | tail -1
 
 echo "Regenerating dashboard..."
 python3 scripts/generate_dashboard.py
+
+echo "Running unit tests..."
+npm test || { echo "UNIT TESTS FAILED — not deploying"; exit 1; }
 
 echo "Verifying before deploy..."
 python3 scripts/verify.py || { echo "VERIFY FAILED — not deploying"; exit 1; }

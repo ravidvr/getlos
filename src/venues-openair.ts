@@ -3,6 +3,7 @@
 // Extracts meta description (Wo:/Wann:), title, and address from event detail pages
 
 import { writeFileSync } from "fs";
+import { pathToFileURL } from "url";
 import { fetchWithRetry } from "./fetch-retry";
 
 const BASE = "https://openair-kino.net";
@@ -142,7 +143,7 @@ function cleanAddress(raw: string): string {
 // ── Scraping functions ─────────────────────────────────────────────
 
 /** Discover all Berlin cinema category URLs from /category/berlin/ */
-async function fetchBerlinCinemaUrls(): Promise<string[]> {
+export async function fetchBerlinCinemaUrls(): Promise<string[]> {
   const resp = await fetchWithRetry(BERLIN_CAT, {
     headers: { "User-Agent": "getlos/1.0" },
   });
@@ -281,7 +282,7 @@ async function fetchEventDetail(eventUrl: string, postId: string): Promise<Event
 
 // ── Main ───────────────────────────────────────────────────────────
 
-async function main() {
+export async function main() {
   const now = new Date().toISOString();
   console.log("openair-kino.net scraper\n");
 
@@ -384,7 +385,10 @@ async function main() {
   console.log(`\nDone → data/venues-openair.json`);
 }
 
-main().catch((err) => {
-  console.error("Fatal:", err.message);
-  process.exit(1);
-});
+const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+if (isMain) {
+  main().catch((err) => {
+    console.error("Fatal:", err.message);
+    process.exit(1);
+  });
+}

@@ -2,6 +2,7 @@
 // Strips HTML, parses plain text for cinema + day-labeled showtimes
 
 import { writeFileSync } from "fs";
+import { pathToFileURL } from "url";
 import { fetchWithRetry } from "./fetch-retry";
 
 const INDEX_URL = "https://www.berlin.de/kino/_bin/index.php";
@@ -30,7 +31,18 @@ interface CinemaEvent {
 
 function today(): string { return new Date().toISOString().slice(0, 10); }
 
-function parseGermanDate(raw: string): string {
+/** Extract film IDs from a berlin.de kino index HTML page. Pure — no I/O. */
+export function parseFilmIdsFromHtml(html: string): Set<string> {
+  const ids = new Set<string>();
+  const matches = html.match(/\/kino\/_bin\/filmdetail\.php\/(\d+)\//g) || [];
+  for (const m of matches) {
+    const id = m.match(/(\d+)/)?.[1];
+    if (id) ids.add(id);
+  }
+  return ids;
+}
+
+export function parseGermanDate(raw: string): string {
   const m = raw.match(/(\d{1,2})\.(\d{1,2})\.(\d{2,4})/);
   if (!m) return "";
   const year = m[3].length === 2 ? `20${m[3]}` : m[3];
@@ -52,24 +64,20 @@ function stripHtml(html: string): string {
     .trim();
 }
 
-async function fetchFilmIds(): Promise<string[]> {
+export async function fetchFilmIds(): Promise<string[]> {
   const ids = new Set<string>();
   for (let page = 1; page <= 3; page++) {
     const url = page === 1 ? INDEX_URL : `${INDEX_URL}?page=${page}`;
     const resp = await fetchWithRetry(url, { headers: { "User-Agent": "getlos/1.0" } });
     if (!resp.ok) break;
     const html = await resp.text();
-    const matches = html.match(/\/kino\/_bin\/filmdetail\.php\/(\d+)\//g) || [];
-    for (const m of matches) {
-      const id = m.match(/(\d+)/)?.[1];
-      if (id) ids.add(id);
-    }
+    for (const id of parseFilmIdsFromHtml(html)) ids.add(id);
     if (ids.size === 0) break;
   }
   return [...ids];
 }
 
-async function fetchFilmDetail(filmId: string): Promise<{
+export async function fetchFilmDetail(filmId: string): Promise<{
   title: string; description: string; releaseDate: string;
   cinemas: Array<{ name: string; times: string[]; dates: string[]; langs: string[]; formats: string[] }>;
 }> {
@@ -149,7 +157,7 @@ const CINEMA_NORM: Record<string, string> = {
 
 function normalizeCinema(name: string): string { return CINEMA_NORM[name] || name; }
 
-async function main() {
+export async function main() {
   const todayStr = today();
   console.log(`Fetching all Berlin films (date: ${todayStr})...\n`);
 
@@ -229,4 +237,7 @@ async function main() {
   console.log(`\nDone → data/venues-berlincinema.json`);
 }
 
-main().catch((err) => { console.error("Fatal:", err.message); process.exit(1); });
+const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+if (isMain) {
+  main().catch((err) => { console.error("Fatal:", err.message); process.exit(1); });
+}
