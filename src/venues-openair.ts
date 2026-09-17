@@ -3,6 +3,7 @@
 // Extracts meta description (Wo:/Wann:), title, and address from event detail pages
 
 import { writeFileSync } from "fs";
+import { fetchWithRetry } from "./fetch-retry";
 
 const BASE = "https://openair-kino.net";
 const BERLIN_CAT = `${BASE}/category/berlin/`;
@@ -23,6 +24,7 @@ interface CinemaEvent {
   ticket_url: string;
   image_url: string;
   language: string;
+  format: string;
   release_date: string;
   last_updated: string;
 }
@@ -141,7 +143,7 @@ function cleanAddress(raw: string): string {
 
 /** Discover all Berlin cinema category URLs from /category/berlin/ */
 async function fetchBerlinCinemaUrls(): Promise<string[]> {
-  const resp = await fetch(BERLIN_CAT, {
+  const resp = await fetchWithRetry(BERLIN_CAT, {
     headers: { "User-Agent": "getlos/1.0" },
   });
   if (!resp.ok) {
@@ -180,7 +182,7 @@ interface EventLink {
 
 /** Scrape a cinema category page for event post links */
 async function fetchCinemaEvents(cinemaUrl: string): Promise<EventLink[]> {
-  const resp = await fetch(cinemaUrl, {
+  const resp = await fetchWithRetry(cinemaUrl, {
     headers: { "User-Agent": "getlos/1.0" },
   });
   if (!resp.ok) {
@@ -212,7 +214,7 @@ interface EventDetail {
 
 /** Scrape an event detail page for meta description, title, address */
 async function fetchEventDetail(eventUrl: string, postId: string): Promise<EventDetail | null> {
-  const resp = await fetch(eventUrl, {
+  const resp = await fetchWithRetry(eventUrl, {
     headers: { "User-Agent": "getlos/1.0" },
   });
   if (!resp.ok) {
@@ -289,9 +291,11 @@ async function main() {
   console.log(`  Found ${cinemaUrls.length} cinemas\n`);
 
   if (!cinemaUrls.length) {
-    writeFileSync("data/venues-openair.json", "[]");
-    console.log("No cinemas found. Done.");
-    return;
+    // Do NOT overwrite data/venues-openair.json with [] — that wipes the last
+    // good open-air events when a fetch fails (Sep 2026: Step 1 died with
+    // "fetch failed" and the file fell back to a 25-record stub). Fail loudly
+    // so the refresh script blocks the deploy and previous data survives.
+    throw new Error("openair-kino.net returned no Berlin cinemas — possible layout change or network block; keeping existing data/venues-openair.json");
   }
 
   // 2. For each cinema, discover events

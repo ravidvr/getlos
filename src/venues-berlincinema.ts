@@ -2,6 +2,7 @@
 // Strips HTML, parses plain text for cinema + day-labeled showtimes
 
 import { writeFileSync } from "fs";
+import { fetchWithRetry } from "./fetch-retry";
 
 const INDEX_URL = "https://www.berlin.de/kino/_bin/index.php";
 const BASE = "https://www.berlin.de";
@@ -55,7 +56,7 @@ async function fetchFilmIds(): Promise<string[]> {
   const ids = new Set<string>();
   for (let page = 1; page <= 3; page++) {
     const url = page === 1 ? INDEX_URL : `${INDEX_URL}?page=${page}`;
-    const resp = await fetch(url, { headers: { "User-Agent": "getlos/1.0" } });
+    const resp = await fetchWithRetry(url, { headers: { "User-Agent": "getlos/1.0" } });
     if (!resp.ok) break;
     const html = await resp.text();
     const matches = html.match(/\/kino\/_bin\/filmdetail\.php\/(\d+)\//g) || [];
@@ -73,7 +74,7 @@ async function fetchFilmDetail(filmId: string): Promise<{
   cinemas: Array<{ name: string; times: string[]; dates: string[]; langs: string[]; formats: string[] }>;
 }> {
   const url = `${BASE}/kino/_bin/filmdetail.php/${filmId}/`;
-  const resp = await fetch(url, { headers: { "User-Agent": "getlos/1.0" } });
+  const resp = await fetchWithRetry(url, { headers: { "User-Agent": "getlos/1.0" } });
   if (!resp.ok) return { title: "", description: "", releaseDate: "", cinemas: [] };
   const html = await resp.text();
   const text = stripHtml(html);
@@ -154,7 +155,13 @@ async function main() {
 
   const filmIds = await fetchFilmIds();
   console.log(`  Films found: ${filmIds.length}`);
-  if (!filmIds.length) { writeFileSync("data/venues-berlincinema.json", "[]"); return; }
+  if (!filmIds.length) {
+    // Do NOT overwrite data/venues-berlincinema.json with [] — that wipes the
+    // last good DE showtimes (Sep 2026: an index 429 produced "Films found: 0"
+    // and silently destroyed 11 days of data). Fail loudly instead so the
+    // refresh script blocks the deploy and the previous data survives.
+    throw new Error("berlin.de index returned no film IDs — possible layout change or rate-limit block; keeping existing data/venues-berlincinema.json");
+  }
 
   const events: CinemaEvent[] = [];
   const allCinemas = new Set<string>();
@@ -200,7 +207,7 @@ async function main() {
         last_updated: now,
       });
     }
-    await new Promise((r) => setTimeout(r, 300));
+    await new Promise((r) => setTimeout(r, 500));
   }
 
   // Deduplicate by source_id (cinemaPattern can produce overlapping matches)

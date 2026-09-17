@@ -3,6 +3,7 @@
 // Each showtime is a badge element: <a/span title="HH:MM at Cinema Name">
 
 import { writeFileSync } from "fs";
+import { fetchWithRetry } from "./fetch-retry";
 
 const SOURCE_URL = "https://englishcinemaberlin.com/films";
 
@@ -197,7 +198,7 @@ function normalizeCinema(raw: string): string {
 async function main() {
   console.log("Parsing English Cinema Berlin schedule...\n");
 
-  const resp = await fetch(SOURCE_URL, {
+  const resp = await fetchWithRetry(SOURCE_URL, {
     headers: { "User-Agent": "getlos/0.1.0 (Berlin events map)" },
   });
   if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
@@ -224,7 +225,7 @@ async function main() {
   for (let offset = 0; offset < uniqueLinks.length; offset += concurrency) {
     const batch = uniqueLinks.slice(offset, offset + concurrency);
     const pages = await Promise.all(batch.map(async (filmUrl) => {
-      const response = await fetch(filmUrl, { headers: { "User-Agent": "getlos/0.1.0 (Berlin events map)" } });
+      const response = await fetchWithRetry(filmUrl, { headers: { "User-Agent": "getlos/0.1.0 (Berlin events map)" } });
       if (!response.ok) throw new Error(`HTTP ${response.status} for ${filmUrl}`);
       return { filmUrl, html: await response.text() };
     }));
