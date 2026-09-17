@@ -8,7 +8,7 @@ No app, no account, no cookies, no tracking. Just a map.
 
 ## Screenshots
 
-<!-- TODO: Add screenshots/GIFs here — map overview, movie search, cinema popup, mobile view -->
+![getlos dashboard — Berlin cinema map](screenshots/dashboard.png)
 <!-- These are the #1 conversion asset for the README. Capture at 1200x800 or record a 5-10s GIF. -->
 
 ---
@@ -35,8 +35,8 @@ No app, no account, no cookies, no tracking. Just a map.
 
 | | |
 |---|---|
-| Cinemas | ~85 across Berlin, every one geolocated with a website link |
-| Screenings | ~1,900 across the next 6 days |
+| Cinemas | ~90 across Berlin, every one geolocated with a website link |
+| Screenings | ~4,800 across the next 7 days |
 | Languages | DE (dubbed), EN (original), OV/OmU (original w/ subtitles) |
 | Refresh | Daily at 09:00 Berlin time, automatically |
 
@@ -46,7 +46,7 @@ All data comes from public sources with attribution and respect for rate limits,
 
 | Source | Provides |
 |--------|----------|
-| [berlin.de/kino](https://www.berlin.de/kino/) | All currently playing films, ~80 cinemas, 6 days of showtimes with language tags |
+| [berlin.de/kino](https://www.berlin.de/kino/) | All currently playing films (~35), ~75 cinemas, 7 days of showtimes with language tags |
 | [English Cinema Berlin](https://englishcinemaberlin.com/7-day-overview) | English-language screenings across ~40 cinemas |
 | [OpenStreetMap](https://www.openstreetmap.org/) | Venue coordinates and websites |
 | `data/venue-websites.json` | Hand-curated website links where OSM has none |
@@ -55,7 +55,7 @@ All data comes from public sources with attribution and respect for rate limits,
 
 ## For developers
 
-The whole product is **one self-contained HTML file** (~260 KB, data embedded) built by a TypeScript pipeline and deployed on GitHub Pages. No server, no database, no API keys.
+The whole product is **one self-contained HTML file** (~735 KB, data embedded) built by a TypeScript pipeline and deployed on GitHub Pages. No server, no database, no API keys.
 
 ### Pipeline
 
