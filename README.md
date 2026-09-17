@@ -28,7 +28,7 @@ No app, no account, no cookies, no tracking. Just a map.
 
 **Filter by language.** Berlin screens films in German (DE), original English (EN), and original versions with subtitles (OV/OmU) — one click filters the whole map.
 
-**Plan ahead.** Today / Tomorrow buttons or the date picker show any day up to a week out.
+**Plan ahead.** The multi-date grid shows any day up to a week out — Weekend / 3-Day / All-Week presets included.
 
 **Find cinemas near you.** Allow location access and every popup shows distance and walking time. You can also search any address to zoom there.
 
@@ -71,7 +71,7 @@ src/event-dedup.ts           merge duplicates by title+date+venue
 src/geocoder.ts              Nominatim geocoding, cached, 1 req/s
 src/venues-final.ts          → data/venues-combined.json + events-combined.json
 scripts/generate_dashboard.py  builds data/all_venues.js, embeds into dashboard.html
-scripts/verify.py            15-check deploy gate (parser corruption, dupes,
+scripts/verify.py            22-check deploy gate (parser corruption, dupes,
                              website coverage, JS syntax) — blocks bad deploys
 scripts/refresh.sh           daily cron: pipeline → generate → verify → git push
 ```
@@ -83,7 +83,7 @@ git clone https://github.com/ravidvr/getlos && cd getlos
 npm install
 npm run pipeline                      # ~3 min (rate-limited fetches)
 python3 scripts/generate_dashboard.py
-python3 scripts/verify.py             # 15 invariant checks
+python3 scripts/verify.py             # 22 invariant checks
 open dashboard.html
 ```
 
