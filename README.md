@@ -39,7 +39,7 @@ No app, no account, no cookies, no tracking. Just a map.
 | | |
 |---|---|
 | Cinemas | ~90 across Berlin, every one geolocated with a website link |
-| Screenings | ~4,800 across the next 7 days |
+| Screenings | every screening in Berlin across the next 7 days |
 | Languages | DE (dubbed), EN (original), OV/OmU (original w/ subtitles) |
 | Refresh | Daily at 09:00 Berlin time, automatically |
 

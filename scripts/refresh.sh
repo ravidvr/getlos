@@ -11,6 +11,18 @@ export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 
 echo "=== $(date) ==="
 
+# Retry helper — the Tailscale MagicDNS + NordVPN setup intermittently fails
+# DNS lookups (Sep 2026: "Could not resolve host" killed git pull/push mid-cron).
+# Same pattern as deals-refresh.sh.
+retry3() {
+  for i in 1 2 3; do
+    "$@" && return 0
+    echo "getlos-refresh: failed (attempt $i/3): $*" >&2
+    sleep $((i * 15))
+  done
+  return 1
+}
+
 echo "Pulling cinema data..."
 npx tsx src/venues-berlincinema.ts 2>&1 | tail -3
 npx tsx src/venues-englishcinema.ts 2>&1 | tail -3
@@ -35,9 +47,12 @@ if git diff --quiet dashboard.html; then
     echo "No changes to deploy"
 else
     echo "Deploying..."
+    # Pull first — other sessions push to this repo (README/docs edits);
+    # without this the push below rejects with "fetch first" (Sep 2026).
+    retry3 git pull --quiet --ff-only origin main
     git add -u   # stages all tracked modifications; ignored/untracked stay out
     git commit -m "data: daily cinema refresh $(date +%Y-%m-%d)"
-    git push origin main
+    retry3 git push origin main
     echo "Deployed!"
 fi
 
