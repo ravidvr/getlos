@@ -58,7 +58,7 @@ All data comes from public sources with attribution and respect for rate limits,
 
 ## For developers
 
-The whole product is **one self-contained HTML file** (~735 KB, data embedded) built by a TypeScript pipeline and deployed on GitHub Pages. No server, no database, no API keys.
+The whole product is **one self-contained HTML file** (~550 KB, data embedded) built by a TypeScript pipeline and deployed on GitHub Pages. No server, no database, no API keys.
 
 ### Pipeline
 
