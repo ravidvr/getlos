@@ -1,3 +1,7 @@
+---
+image: /og-image-getlos.jpg
+---
+
 # getlos — Berlin Cinema Map
 
 [![CI](https://github.com/ravidvr/getlos/actions/workflows/ci.yml/badge.svg)](https://github.com/ravidvr/getlos/actions/workflows/ci.yml)
