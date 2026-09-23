@@ -450,10 +450,14 @@ function updateFreshness() {
   el.title = `Data from ${updated.toLocaleString()}`;
 }
 
-// Restore saved location from localStorage
+// Restore saved location from localStorage (expires after 30 days — a stale or
+// IP-based geolocation fix from a VPN session should not stick forever)
 try {
   const saved = JSON.parse(localStorage.getItem('getlos_userloc'));
-  if (saved && saved.lat && saved.lng) { userLat = saved.lat; userLng = saved.lng; }
+  if (saved && saved.lat && saved.lng) {
+    const ageDays = saved.ts ? (Date.now() - saved.ts) / 86400000 : Infinity;
+    if (ageDays < 30) { userLat = saved.lat; userLng = saved.lng; }
+  }
 } catch(e) {}
 
 // Haversine distance in km
@@ -488,7 +492,7 @@ function getUserLocation() {
     pos => {
       userLat = pos.coords.latitude;
       userLng = pos.coords.longitude;
-      localStorage.setItem('getlos_userloc', JSON.stringify({lat:userLat,lng:userLng}));
+      localStorage.setItem('getlos_userloc', JSON.stringify({lat:userLat,lng:userLng,ts:Date.now()}));
       btn.textContent = '📍';
       btn.classList.add('active');
       // Check if user is in Berlin (rough bounding box)
@@ -665,7 +669,9 @@ function buildPopupContent(v, matching) {
   let tip = `<h3>${v.name}</h3>`;
   if (userLat) {
     const dist = haversine(userLat, userLng, v.lat, v.lng);
-    tip += `<div class="amenity">${formatDist(dist)} · ${formatTime(dist)}</div>`;
+    // Walk time only makes sense for nearby cinemas — don't show "11h walk" for 58 km
+    const walkable = dist <= 2;
+    tip += `<div class="amenity">${formatDist(dist)}${walkable ? ' · ' + formatTime(dist) : ''}</div>`;
   }
   if (v.address) tip += `<div class="amenity">${v.address}</div>`;
   let venueInfo = [];
