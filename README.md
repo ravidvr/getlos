@@ -43,6 +43,12 @@ No app, no account, no cookies, no tracking. Just a map.
 | Languages | DE (dubbed), EN (original), OV/OmU (original w/ subtitles) |
 | Refresh | Daily at 09:00 Berlin time, automatically |
 
+### Feeds, calendars & digest
+
+- [RSS feed](https://ravidvr.github.io/getlos/rss.xml) — every OV/OmU/EN screening in the 7-day window, for your feed reader
+- [Cinema calendars](https://ravidvr.github.io/getlos/ical/) — per-cinema .ics files: add your Kino to your calendar
+- [Weekly digest](https://ravidvr.github.io/getlos/digest.html) — this week in Berlin cinema, auto-generated daily
+
 ## Data sources
 
 All data comes from public sources with attribution and respect for rate limits, robots.txt, and terms of service. Showtime facts (titles, times, venues) are compiled and cross-referenced, not reproduced from any single source.

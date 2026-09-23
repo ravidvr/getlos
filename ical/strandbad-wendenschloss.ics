@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Strandbad Wendenschloss
+BEGIN:VEVENT
+UID:getlos-40d89f260df6ffd5@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260923T193000
+SUMMARY:father mother sister brother (OmU)
+LOCATION:Strandbad Wendenschloss
+URL:https://strandbad-wendenschloss.berlin/
+END:VEVENT
+END:VCALENDAR

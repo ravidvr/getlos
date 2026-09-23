@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Lichtblick
+BEGIN:VEVENT
+UID:getlos-6cb34f39d8422615@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260923T183000
+SUMMARY:Billie (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20a885c27c161e15@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260924T174500
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2dee101aa31225ae@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260926T203000
+SUMMARY:Lovebox (OmU) (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-436c6b157bd4404b@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260926T221500
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-33ad795ff9641d8f@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260927T160000
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47879e7ce41e8ee4@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260927T220000
+SUMMARY:Lovebox (OmU) (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d5b11c81700f390@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260928T220000
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71cbd88a3592751c@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260929T190000
+SUMMARY:Lovebox (OmU) (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c841ac655081d4d7@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260929T204500
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+END:VCALENDAR

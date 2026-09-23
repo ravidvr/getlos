@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Hellersdorfer Terrassen
+BEGIN:VEVENT
+UID:getlos-58abf732d3e6f688@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260925T183000
+SUMMARY:defa sommerkino: die suche nach dem wunderbunten vögelchen (DE)
+LOCATION:Hellersdorfer Terrassen
+END:VEVENT
+END:VCALENDAR

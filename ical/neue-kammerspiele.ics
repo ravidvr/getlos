@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Neue Kammerspiele
+BEGIN:VEVENT
+UID:getlos-403a23ee7ca3acac@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260923T180000
+SUMMARY:Steckerlfischfiasko (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3edede2ec0909fb5@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260924T090000
+SUMMARY:Die Odyssee (OmU)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-096e351aaab76144@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260924T201500
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac232540015ed95b@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260926T201500
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+END:VCALENDAR

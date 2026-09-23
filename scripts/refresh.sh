@@ -37,6 +37,9 @@ npx tsx src/venues-final.ts 2>&1 | tail -1
 echo "Regenerating dashboard..."
 python3 scripts/generate_dashboard.py
 
+echo "Generating feeds (RSS + iCal + digest)..."
+python3 scripts/generate_feeds.py || { echo "FEED GENERATION FAILED — not deploying"; exit 1; }
+
 echo "Running unit tests..."
 npm test || { echo "UNIT TESTS FAILED — not deploying"; exit 1; }
 
@@ -51,9 +54,11 @@ else
     # without this the push below rejects with "fetch first" (Sep 2026).
     retry3 git pull --quiet --ff-only origin main
     git add -u   # stages all tracked modifications; ignored/untracked stay out
+    git add rss.xml digest.html ical/ 2>/dev/null || true
     git commit -m "data: daily cinema refresh $(date +%Y-%m-%d)"
     retry3 git push origin main
     echo "Deployed!"
+    python3 scripts/post_mastodon.py || echo "Mastodon post skipped/failed (see log above)"
 fi
 
 echo "Done."

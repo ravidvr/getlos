@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Zukunft am Ostkreuz
+BEGIN:VEVENT
+UID:getlos-87c568b111f309d8@ravidvr.github.io
+DTSTAMP:20260923T150536Z
+DTSTART;TZID=Europe/Berlin:20260923T200000
+SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
+LOCATION:Zukunft am Ostkreuz
+URL:https://neue-zukunft.org/
+END:VEVENT
+END:VCALENDAR
