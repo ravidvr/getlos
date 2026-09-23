@@ -742,6 +742,19 @@ function closeBottomSheet(e) {
   openVenue = null;
 }
 
+function computeMatching(v) {
+  const dates = getDates();
+  return v.events.filter(e => {
+    if (!dates.includes(e.date)) return false;
+    if (activeLang === 'OV') return ['OV','OmU','OmenglU'].includes(e.lang);
+    if (activeLang !== 'all' && e.lang !== activeLang) return false;
+    if (activeMovie && !e.title.toLowerCase().includes(activeMovie.toLowerCase())) return false;
+    // Format filter
+    if (activeFormat !== 'all' && (!v.formats || !v.formats.includes(activeFormat))) return false;
+    return true;
+  });
+}
+
 function render() {
   // Data-error fallback
   if (!ALL_VENUES || ALL_VENUES.length === 0) {
@@ -774,21 +787,12 @@ function render() {
     userMarker.bindTooltip('📍 You are here', {permanent:true, direction:'bottom', offset:[0,12]});
   }
 
-  const dates = getDates();
   let evtCount = 0, venCount = 0;
   const movieTitles = new Set();
   const allEvents = [];
 
   ALL_VENUES.forEach(v => {
-    const matching = v.events.filter(e => {
-      if (!dates.includes(e.date)) return false;
-      if (activeLang === 'OV') return ['OV','OmU','OmenglU'].includes(e.lang);
-      if (activeLang !== 'all' && e.lang !== activeLang) return false;
-      if (activeMovie && !e.title.toLowerCase().includes(activeMovie.toLowerCase())) return false;
-      // Format filter
-      if (activeFormat !== 'all' && (!v.formats || !v.formats.includes(activeFormat))) return false;
-      return true;
-    });
+    const matching = computeMatching(v);
     if (matching.length > 0) {
       allEvents.push({v, matching});
     }
@@ -876,6 +880,18 @@ function render() {
       return Math.abs(ll.lat - reopenVenue.lat) < 0.0001 && Math.abs(ll.lng - reopenVenue.lng) < 0.0001;
     });
     if (marker) marker.openPopup();
+  }
+
+  // Keep an open mobile bottom sheet in sync with the current filters
+  // (e.g. movie selected while a sheet was open — the sheet must not show stale content)
+  if (openVenue) {
+    const fresh = computeMatching(openVenue.v);
+    if (fresh.length > 0) {
+      openVenue.matching = fresh;
+      document.getElementById('sheetContent').innerHTML = buildPopupContent(openVenue.v, fresh);
+    } else {
+      closeBottomSheet();
+    }
   }
 }
 
