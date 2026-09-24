@@ -4,112 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmtheater am Friedrichshain
 BEGIN:VEVENT
-UID:getlos-59158e1b24011d81@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T141500
-SUMMARY:Gentle Monster (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6804d8d4d758ab9@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T150000
-SUMMARY:Kalter Hund (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9fafed50dbd5b569@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T153000
-SUMMARY:Adams Acht (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7e479ec60d54c82b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T160000
-SUMMARY:Bad Apples (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2aee625600723e1a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T170000
-SUMMARY:Gentle Monster (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bd8ef1777fd8b25d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T174000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-476a4ed6de2e4d35@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T175000
-SUMMARY:Adams Acht (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9cd26889aa97b1bc@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T183000
-SUMMARY:Bad Apples (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-78e706bc21356b7c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T194500
-SUMMARY:Die Odyssee (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6aac3c65e6b1eab1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T194500
-SUMMARY:The Odyssey (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fa8240d159e998ca@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T200000
-SUMMARY:Kalter Hund (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-95aa7fcd6eb56a11@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T202000
-SUMMARY:Gentle Monster (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bbab614b19e6916a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T210000
-SUMMARY:Bad Apples (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0aee095c22944557@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -117,7 +13,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aeee2c9145824bc1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T153000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -125,7 +21,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ea4efb9e24df807@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -133,7 +29,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c29b1397a2982c9c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T160000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -141,7 +37,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd77efa3fa80842f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -149,7 +45,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa4e7f504ece96ab@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T172000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -157,7 +53,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d33367b90c65aecd@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -165,7 +61,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8ed5944b7af0d6d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T183000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -173,7 +69,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e706d41a3929467d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T193000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -181,7 +77,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce0d862d40da5700@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -189,7 +85,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4dae7790d4ffbc92@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -197,7 +93,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ff4e35a124df5f3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T202000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -205,7 +101,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-405d3edab2df9e99@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -213,7 +109,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-858e38ab33b15aef@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -221,7 +117,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-195dffef704c7c96@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T150000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -229,7 +125,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9bd79bb62b432eeb@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T160000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -237,7 +133,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b1ce0b0e950003d1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T160000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -245,7 +141,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15a4a746c4b8a21f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -253,7 +149,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81fb4939bd43d4ae@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T172000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -261,7 +157,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e2608bf540c1062@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T175000
 SUMMARY:The Invite (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -269,7 +165,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-546aac2033ef9f37@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T183000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -277,7 +173,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b515698d8bf39bdd@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -285,7 +181,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bcbd8cb83ec1f7c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -293,7 +189,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8fdda098b20710b2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T202000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -301,7 +197,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-deb8dcc0cd1e8669@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -309,7 +205,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5496cb6f92dfa87f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T223000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -317,7 +213,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a834d2a3c5f4a790@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T133000
 SUMMARY:Adams Acht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -325,7 +221,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ce3a4a5679a42f1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -333,7 +229,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d89b5cd618601ff1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T153000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -341,7 +237,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc5dc00cc4c4c3e6@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T160000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -349,7 +245,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ab908760c9e1f01@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T160000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -357,7 +253,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88753b618a23d770@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -365,15 +261,31 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08198cf6ae3cd64d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T172000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ba2062a801832b77@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260926T175000
+SUMMARY:The Invite (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-181319245b17d701@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260926T183000
+SUMMARY:Bad Apples (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4137b46f2ee2cc35@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -381,7 +293,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85bcd1574e3e6748@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -389,15 +301,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8cba9df81d8424e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T202000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-629dd7832c2a8586@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260926T210000
+SUMMARY:Bad Apples (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-116741bea192c66f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T223000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -405,7 +325,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9910a58e3a8d516@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -413,7 +333,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b33af379ae3309d0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -421,7 +341,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b4effa0340bd0f5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T133000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -429,7 +349,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3afabeaa3d6aa010@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T133000
 SUMMARY:Adams Acht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -437,7 +357,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-627b257127ff0d69@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -445,7 +365,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9e42876c30aebb2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T154500
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -453,7 +373,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78684945e0a85a2a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T160000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -461,7 +381,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e7584ae38b9d3e2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -469,7 +389,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2144ae66ad3a08d4@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T172000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -477,7 +397,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-688696f612cfbdf9@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -485,7 +405,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-518f5999bf60407e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T193000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -493,7 +413,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df308167fff1876f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -501,7 +421,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-20cec374d7cde4d8@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -509,7 +429,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df1a698b6ff3c125@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T202000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -517,7 +437,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79da238b4658e400@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T151500
 SUMMARY:Adams Acht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -525,7 +445,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb2fa92b559b3835@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T153000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -533,7 +453,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-989b4cbd29a2cf08@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T160000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -541,7 +461,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39de47e9765e8fee@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -549,7 +469,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c17698428afa3318@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T170000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -557,7 +477,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4a8c9eebd56016f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -565,7 +485,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-264932709c392431@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T193000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -573,7 +493,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a4490123115be5a2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T202000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -581,7 +501,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1ca9134add678449@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T204000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -589,7 +509,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7afcb013e30518a1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T144000
 SUMMARY:Adams Acht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -597,7 +517,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c02d7fd509a1ab0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -605,7 +525,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5783d68167025ba1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T153000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -613,7 +533,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b8abdd9a9e90f36@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T160000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -621,7 +541,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-59778c46620e8bec@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -629,7 +549,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-916760245a7680d5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T172000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -637,7 +557,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e6b531c25b23cb0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T193000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -645,7 +565,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-543ab9858efa908f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -653,9 +573,33 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e297c744e1ca55b7@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T202000
 SUMMARY:Gentle Monster (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c3b53b2adac9a59@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T172000
+SUMMARY:Primetime (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c842e71289838f9@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T193000
+SUMMARY:Heart of Light: Eleven Songs for Fiji (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebb04ce7dfbb7c31@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T204000
+SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT

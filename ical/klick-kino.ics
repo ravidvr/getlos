@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-b68452a003608ad4@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T173000
-SUMMARY:Bagger Drama (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0b3590666c458494@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -21,7 +13,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c263f59b0934b98@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T150000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -29,7 +21,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f81547655cc7426d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T173000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -37,7 +29,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d3668a7e3ce9c60@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -45,7 +37,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d01b1645664957e8@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627

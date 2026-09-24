@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Kulturhaus Spandau
 BEGIN:VEVENT
-UID:getlos-0ce672a083fa1ae5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T131500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-10f73bdabd61a4bd@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T145000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ab2c13d8213a0377@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T165000
-SUMMARY:Adams Acht (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ab61d77db0a789bb@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T173000
-SUMMARY:Steckerlfischfiasko (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-de033f9bda887906@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T193000
-SUMMARY:Adams Acht (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-932da4d26801bb63@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T200000
-SUMMARY:Adams Acht (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3680dbd7f9bc0991@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T130000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -61,7 +13,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ba9a1fcb4e96f6d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T142500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -69,7 +21,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5eb1ba6577d11ca@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T150000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -77,7 +29,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-21855d190391be8a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T150500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -85,7 +37,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f58c66a8f79a8d1c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T193000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -93,7 +45,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-faa9e5edc59d6837@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T195000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -101,7 +53,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08c09e05870fbfff@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T131500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -109,7 +61,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dae9fc096f007b0d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T143000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -117,7 +69,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5a833c581a7db6c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T145000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -125,7 +77,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e9779e219229eee@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T151500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -133,7 +85,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-467efaff38569d1d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T173000
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -141,7 +93,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5bf28f3ae2df5081@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T192000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -149,7 +101,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-273cd994d47b008b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T193000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -157,7 +109,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4c3868e1826cab6b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T131500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -165,7 +117,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f2323bb30fdbc3e8@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T143000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -173,7 +125,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17ec90662ee9d3f0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T144500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -181,7 +133,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3beee6c70e2baa20@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T151500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -189,7 +141,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97f42777f33bfdee@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T173000
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -197,7 +149,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bd7cc4f382110df@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T192000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -205,7 +157,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca61b53d3923472b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T193000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -213,7 +165,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38a89326818978a4@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -221,7 +173,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0bbf4dca60e94223@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T131500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -229,7 +181,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fadb771ca0f963e5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T144000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -237,7 +189,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a88234acbf7cb272@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T145000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -245,7 +197,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b1cdcf0ad75b8f4c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T151500
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -253,7 +205,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-87bcc7f34af467f4@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T171500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -261,7 +213,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a23e65afb6fb7bda@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T194000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -269,7 +221,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3ed6ab7d2fc0664@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T151500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -277,7 +229,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44dd08d132c19385@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T171500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -285,7 +237,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61b175a2f4823f18@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T193000
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -293,7 +245,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b7f9a92bc2eca6b7@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T201000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -301,7 +253,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1aaa3410c43eb230@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T150500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -309,7 +261,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e321dcae02a53159@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T151500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -317,7 +269,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17f79dda655e8b55@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T171500
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -325,7 +277,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91595a4db46eff8c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T172000
 SUMMARY:Adams Acht (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -333,7 +285,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c56090d4edaa40e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T193000
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597

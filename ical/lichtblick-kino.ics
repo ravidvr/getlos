@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick Kino
 BEGIN:VEVENT
-UID:getlos-087bc3c844df4b51@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T203000
-SUMMARY:Trainspotting (EN)
-LOCATION:Lichtblick Kino
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-91ef5cd9fceca01f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T000000
 SUMMARY:Casablanca (EN)
 LOCATION:Lichtblick Kino
@@ -21,7 +13,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-daed6c24d249c826@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T180000
 SUMMARY:Steal This Story\, Please! (EN)
 LOCATION:Lichtblick Kino

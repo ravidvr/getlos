@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - UCI Luxe Gropius Passagen
+BEGIN:VEVENT
+UID:getlos-f9369e29e07b6c97@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T200000
+SUMMARY:LINKIN PARK: UNSHATTER (EN)
+LOCATION:UCI Luxe Gropius Passagen
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/
+END:VEVENT
+END:VCALENDAR

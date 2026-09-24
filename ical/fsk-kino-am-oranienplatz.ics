@@ -4,40 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - fsk - Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-ec62fe7d8b621157@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T180000
-SUMMARY:Bagger Drama (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fb2b5c77d41d0c4f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T203000
-SUMMARY:Vaterland (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-638321fb64a37344@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-826b05cd2775acc7@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+UID:getlos-ed8918a18ea05eea@ravidvr.github.io
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T181500
-SUMMARY:Bagger Drama (OmU)
+SUMMARY:Bagger Drama (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9d1fc1a953a7bd0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T194500
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -45,23 +29,23 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab7841fc250387b3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-49266e861058a1dc@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+UID:getlos-c77c3c5efcf7eabf@ravidvr.github.io
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T181500
-SUMMARY:Bagger Drama (OmU)
+SUMMARY:Bagger Drama (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a320117e18843184@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T194500
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -69,7 +53,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7da76653a569e672@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T123000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -77,23 +61,23 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eac71ff377b6c08c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-70ba1b177e1a6b33@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+UID:getlos-2b30484a34d74932@ravidvr.github.io
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T181500
-SUMMARY:Bagger Drama (OmU)
+SUMMARY:Bagger Drama (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6a6a69787684337@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T194500
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -101,7 +85,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a02bfb6be3a165b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T120000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -109,7 +93,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-695fc95da0c681c3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T123000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -117,23 +101,23 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f272ec8f38828bc5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-16f67fdeb4af1aaf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+UID:getlos-bf37b9c213df8a4a@ravidvr.github.io
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T181500
-SUMMARY:Bagger Drama (OmU)
+SUMMARY:Bagger Drama (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-84c43d1a7a42d861@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T194500
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -141,7 +125,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93897d3eb4684f83@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -149,7 +133,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-474db370478db1c2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T194500
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -157,7 +141,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-877bc613f581a82b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -165,9 +149,33 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-507c2b5dcbc8852f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T194500
 SUMMARY:Das Geträumte Abenteuer (OmU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d2b3cf8e3dd60045@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T180000
+SUMMARY:Vaterland (OmU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4797bdee011f6d73@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T194500
+SUMMARY:Das Geträumte Abenteuer (OmU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70e15a40cd072674@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260926T161500
+SUMMARY:Bad Apples (EN)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT

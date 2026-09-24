@@ -4,104 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmpalast Bernau
 BEGIN:VEVENT
-UID:getlos-c8d010d1f95585ef@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T151500
-SUMMARY:Paw Patrol: Der Dino Film (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7b5ecaa9bf5f3e13@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T164500
-SUMMARY:Die Odyssee (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7360ccf54c4d9f19@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T170000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-428b924250b73715@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T171500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3f38aab936f99c93@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T173000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a272314e04d14fdf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T174500
-SUMMARY:Resident Evil (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b240218c03e583ac@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T181500
-SUMMARY:Resident Evil (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fa3fae77d6b7f4b9@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T193000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6b7b6952bca9c92a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T200000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ae5a8274141f09e1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T201500
-SUMMARY:Resident Evil (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-caf8511919f3227b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T203000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-07850007d6f3d02a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T203000
-SUMMARY:Resident Evil (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-46952784e7231926@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -109,7 +13,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b44c13b58c0ed14e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T153000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -117,7 +21,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b1de9c36a4cd4e8c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -125,7 +29,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d748e0f19d80795e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -133,7 +37,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa1f99e11ecaab8e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T171500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -141,7 +45,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-558707a32d5f6956@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T174500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -149,7 +53,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb66a96d7e414003@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T180000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -157,7 +61,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d934c4b2cd905726@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T194500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -165,15 +69,15 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-494cd9bc4fb00f2f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T200000
-SUMMARY:Spa Weekend (OmU)
+SUMMARY:Spa Weekend (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-decb1ba26d08a041@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -181,7 +85,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b8df70adfc0ee23@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -189,7 +93,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b3a08142ffffe382@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -197,7 +101,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4af12a4db9204ce5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -205,7 +109,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f73ea324ac002ce9@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -213,7 +117,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d063113a1a36cf3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T170000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -221,7 +125,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af090369f1a4fce7@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -229,7 +133,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ec5646dc9cabca2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T171500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -237,7 +141,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dc6ba4ce3c34e07a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T171500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -245,7 +149,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3abb743045b65aae@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T174500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -253,7 +157,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a89bad8bb6314937@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T180000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -261,7 +165,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b59a59f33bfb6fe8@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T194500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -269,15 +173,15 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-724fb36aee11da75@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
-SUMMARY:Spa Weekend (OmU)
+SUMMARY:Spa Weekend (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eaa95ae481e09752@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -285,7 +189,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-27459271a739a282@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -293,7 +197,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c406c23f50824407@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260925T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -301,7 +205,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d602e5729d703d96@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T120000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -309,7 +213,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf6554202c96376b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T124500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -317,7 +221,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2bb5f5a2aaae1aa0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T131500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -325,7 +229,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aaf8758ab6d5132b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T131500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -333,7 +237,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-928cf4d45cba679d@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T141000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -341,7 +245,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba4cb4b36c476526@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T143000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -349,7 +253,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae763e7a783fabdf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -357,7 +261,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62bffd33f16b80f8@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -365,7 +269,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78853a2a28630304@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -373,7 +277,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e5fabfb250d2cbf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -381,7 +285,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32eb5264bf5a9657@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T171500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -389,7 +293,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a2223c6eb941cc9@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T174500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -397,7 +301,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8762130ac8b7e62a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -405,7 +309,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6028cafdd0d5dbf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -413,7 +317,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ba70d0706c2c1b3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T194500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -421,15 +325,15 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-793ab02f343116e2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
-SUMMARY:Spa Weekend (OmU)
+SUMMARY:Spa Weekend (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7ec9ebb2b92ad28@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -437,7 +341,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28067246a3467ce1@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -445,7 +349,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99e968688aab73f6@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -453,7 +357,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-442b801f442bfd61@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -461,7 +365,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bdd308b8dcf4c243@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -469,7 +373,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-035504d96cec4a81@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T120000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -477,7 +381,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b563e7d8b9c2cbc@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T131500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -485,7 +389,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-220cc40e97105bba@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T141000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -493,7 +397,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-db5dd30bcee064cf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T144500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -501,7 +405,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-579516d14b372ab5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T151500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -509,7 +413,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-509ccd590f916c1a@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -517,7 +421,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1e2e1e1e45a929e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -525,7 +429,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2023ace60e11daa7@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T171500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -533,7 +437,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7f137bad2769925@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T173000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -541,7 +445,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d05f9755bedb7763@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T173000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -549,7 +453,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-382687a32ba3d8c4@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T174500
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -557,7 +461,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d2f43cd53e69cea@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -565,7 +469,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a655a862dd9516c@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T194500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -573,15 +477,15 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b29eba9975988089@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
-SUMMARY:Spa Weekend (OmU)
+SUMMARY:Spa Weekend (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b4d663b6b510fd5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -589,7 +493,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e7dde2d2d5c8a7f@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260927T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -597,7 +501,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-92ed25a4a6c75d37@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -605,7 +509,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11231161678acf0e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -613,7 +517,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d910b9664a7d7cd@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T160000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -621,7 +525,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f414248eaed9445@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T170000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -629,7 +533,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6eb35bc3b095365b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -637,7 +541,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94efa5ccd848c110@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T171500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -645,7 +549,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16be5d92f922bfc5@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T174500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -653,7 +557,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aa82079d7d675485@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -661,7 +565,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15110c0727a6ae89@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -669,7 +573,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6119bcbeda89e0a6@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T194500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -677,7 +581,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c86c32cb08cca1c7@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T200000
 SUMMARY:Spa Weekend (OmU)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -685,7 +589,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a3ff50693cfe294@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -693,7 +597,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8cecac2c0fbb3c00@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -701,7 +605,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0abf39a9eb428b32@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -709,7 +613,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c08a6851d96c6bcf@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T151500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -717,7 +621,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-276eef030456c79e@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -725,7 +629,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97a07baf669671c3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -733,7 +637,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73ec3fdb15ba59fb@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -741,7 +645,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b23006fa16cb30c2@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T171500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -749,7 +653,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-974f875decb7d067@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T174500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -757,7 +661,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-36b3f5ef348a7393@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -765,7 +669,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b74e68d1ff47e98@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T193000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -773,7 +677,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d6c1e7e89d30eab@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T194500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -781,15 +685,15 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13c6fd507c90578b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
-SUMMARY:Spa Weekend (OmU)
+SUMMARY:Spa Weekend (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-424c5e937207a823@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -797,7 +701,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-769d943e2c2e3775@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -805,9 +709,33 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a0e569c25cb8d9b@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260929T203000
 SUMMARY:Resident Evil (DE)
+LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
+URL:https://filmpalast-bernau.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8805ad7b0db782ae@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
+URL:https://filmpalast-bernau.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20de19f1585d3617@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T180000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
+URL:https://filmpalast-bernau.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9dec3011fbbbbee@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T200000
+SUMMARY:Spa Weekend (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT

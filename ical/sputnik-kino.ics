@@ -4,26 +4,26 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
-UID:getlos-00ce2247da6cad29@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T190000
-SUMMARY:Coyote vs. Acme (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e365c520c6e362a0@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T211500
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ef17ba65cffa08b3@ravidvr.github.io
-DTSTAMP:20260923T150536Z
+DTSTAMP:20260924T080310Z
 DTSTART;TZID=Europe/Berlin:20260924T210000
 SUMMARY:Coyote vs. Acme (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ff89868954fee23@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260926T183000
+SUMMARY:Coyote vs. Acme (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa3d2e012b71f891@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260926T220000
+SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
 URL:https://www.sputnik-kino.com/
 END:VEVENT

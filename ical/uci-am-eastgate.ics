@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - UCI Am Eastgate
+BEGIN:VEVENT
+UID:getlos-5626c71ac1f6396c@ravidvr.github.io
+DTSTAMP:20260924T080310Z
+DTSTART;TZID=Europe/Berlin:20260930T200000
+SUMMARY:LINKIN PARK: UNSHATTER (EN)
+LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
+URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44
+END:VEVENT
+END:VCALENDAR
