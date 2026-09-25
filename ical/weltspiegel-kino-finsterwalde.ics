@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Weltspiegel Kino Finsterwalde
 BEGIN:VEVENT
-UID:getlos-ca16cea214ace4e7@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T170000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Weltspiegel Kino Finsterwalde
-URL:https://www.weltspiegel-finsterwalde.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dc7530c10d7fadcc@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T171500
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Weltspiegel Kino Finsterwalde
-URL:https://www.weltspiegel-finsterwalde.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dc94a3bc0aab14a7@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T193000
-SUMMARY:Resident Evil (DE)
-LOCATION:Weltspiegel Kino Finsterwalde
-URL:https://www.weltspiegel-finsterwalde.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a0f89066944af02a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T200000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Weltspiegel Kino Finsterwalde
-URL:https://www.weltspiegel-finsterwalde.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-76bfbe3fa338175c@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T170000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -45,7 +13,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b762de81bac161a8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T171500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -53,7 +21,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-549c169cf7da28c1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T193000
 SUMMARY:Resident Evil (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -61,7 +29,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-55038015511c31e1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -69,7 +37,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f6c7aa92538a678@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -77,7 +45,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38a6b51e83cb75f0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -85,7 +53,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d8ffb5b2e65ddfd@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T171500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -93,7 +61,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16ca76f54dc8b097@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T193000
 SUMMARY:Resident Evil (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -101,7 +69,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82db348e3c69e6f4@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -109,7 +77,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c8a946525a7a46b@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -117,7 +85,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73cdca8f451d5554@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T170000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -125,7 +93,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c167fa6ca59c0940@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T171500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Weltspiegel Kino Finsterwalde
@@ -133,7 +101,7 @@ URL:https://www.weltspiegel-finsterwalde.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-067f080875ddb4aa@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T193000
 SUMMARY:Resident Evil (DE)
 LOCATION:Weltspiegel Kino Finsterwalde

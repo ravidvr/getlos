@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-3eadaf0445610c7f@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T170000
-SUMMARY:Spaziergang nach Syrakus (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a28ae45ce0b3a9c@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T170000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0feda60cac92c519@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T184500
-SUMMARY:Kalter Hund (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-17e09855f19c5e9b@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T190000
-SUMMARY:Morgen war Krieg (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eb3d5ceeac46137a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T210000
-SUMMARY:Jim Queen (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-881f46d1cd9f5407@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T210000
-SUMMARY:Coyote vs. Acme (OV)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-692cc5c0400623be@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T163000
 SUMMARY:Spaziergang nach Syrakus (OmU)
 LOCATION:Sputnik Südstern
@@ -61,7 +13,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2799f1700d2302c3@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T163000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Sputnik Südstern
@@ -69,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac73f276baf769b8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T183000
 SUMMARY:Morgen war Krieg (DE)
 LOCATION:Sputnik Südstern
@@ -77,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-203707abe4a5b9c1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T184500
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Sputnik Südstern
@@ -85,7 +37,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea28a87992298ca2@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T203000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Sputnik Südstern
@@ -93,7 +45,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2edeedc21274b4cd@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T150000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Sputnik Südstern
@@ -101,7 +53,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bbeaec746e03c534@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T164500
 SUMMARY:Morgen war Krieg (DE)
 LOCATION:Sputnik Südstern
@@ -109,7 +61,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15325757fd96cb61@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T183000
 SUMMARY:Coyote vs. Acme (OmU)
 LOCATION:Sputnik Südstern
@@ -117,7 +69,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15db40cb2b54ef16@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Sputnik Südstern
@@ -125,7 +77,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-486f1f8bd3d057dc@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T150000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Sputnik Südstern
@@ -133,7 +85,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd0c5ca09cfd9ee1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T170000
 SUMMARY:Morgen war Krieg (DE)
 LOCATION:Sputnik Südstern
@@ -141,7 +93,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17085b558a7e6a87@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T190000
 SUMMARY:Spaziergang nach Syrakus (OmU)
 LOCATION:Sputnik Südstern
@@ -149,7 +101,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a109c432d87960b9@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T190000
 SUMMARY:Kalter Hund (DE)
 LOCATION:Sputnik Südstern
@@ -157,7 +109,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25dc30f220d2a602@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T211500
 SUMMARY:Jim Queen (OmU)
 LOCATION:Sputnik Südstern
@@ -165,7 +117,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b729b4cc80ba071@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T170000
 SUMMARY:Morgen war Krieg (DE)
 LOCATION:Sputnik Südstern
@@ -173,7 +125,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b30d409a3913c7c5@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T184500
 SUMMARY:Kalter Hund (DE)
 LOCATION:Sputnik Südstern
@@ -181,7 +133,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4619ed18a4630a0d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T190000
 SUMMARY:Coyote vs. Acme (OV)
 LOCATION:Sputnik Südstern
@@ -189,7 +141,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8dc1383f03996034@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T210000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Sputnik Südstern
@@ -197,7 +149,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1633d94905dd29b4@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T170000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Sputnik Südstern
@@ -205,7 +157,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9ff673b97b8d784@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T190000
 SUMMARY:Spaziergang nach Syrakus (OmU)
 LOCATION:Sputnik Südstern
@@ -213,7 +165,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca245ad5e734ffd9@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T204500
 SUMMARY:Morgen war Krieg (DE)
 LOCATION:Sputnik Südstern
@@ -221,7 +173,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-42e699b38f9dfecb@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T211500
 SUMMARY:Coyote vs. Acme (OV)
 LOCATION:Sputnik Südstern
@@ -229,7 +181,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-910f87548e5cc950@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260930T170000
 SUMMARY:Morgen war Krieg (DE)
 LOCATION:Sputnik Südstern
@@ -237,7 +189,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eab6853fac2f37c8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260930T190000
 SUMMARY:Coyote vs. Acme (OmU)
 LOCATION:Sputnik Südstern
@@ -245,7 +197,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-771d58b9ddbce7a2@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260930T210000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Sputnik Südstern

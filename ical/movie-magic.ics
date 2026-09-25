@@ -4,104 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movie Magic
 BEGIN:VEVENT
-UID:getlos-f2b0cb195d3730b8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T150000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f9cad789d7785901@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T151500
-SUMMARY:Paw Patrol: Der Dino Film (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-039bd6602dd74344@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T153000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-580f8227512ef44e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T154500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c18d93061c9e0a5a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T170000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-36de6cca7dbf8f83@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T174500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ef59a4a0cd796424@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T174500
-SUMMARY:Runner (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d8897725726ad81e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T180000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f9a52d1ab76aab65@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T200000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e565a41aead05bc@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T200000
-SUMMARY:Spa Weekend (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d1ddd2c0ff0c4248@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T200000
-SUMMARY:Resident Evil (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bbc90d07d8702b95@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T201500
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Movie Magic
-URL:https://www.movie-magic.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a1f160d163d8b423@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -109,7 +13,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3fb6acb05a328d67@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T151500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Movie Magic
@@ -117,7 +21,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b245b39721e37ee@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T153000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Movie Magic
@@ -125,7 +29,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c9512ac46b6018d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -133,7 +37,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d3f4378913acfa6@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T170000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -141,7 +45,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bbe6f2b57566bbe0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -149,7 +53,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b1b5b8dbe622f19@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T174500
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -157,7 +61,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-826de1dd1afecb1b@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -165,7 +69,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6fff10f1099ba503@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Movie Magic
@@ -173,7 +77,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e751c801188816cf@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
 SUMMARY:Spa Weekend (DE)
 LOCATION:Movie Magic
@@ -181,7 +85,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-051954ab92bda014@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -189,7 +93,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24928fa7c27f7dcf@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -197,7 +101,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9060a15ef6cc0f5@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T130000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Movie Magic
@@ -205,7 +109,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a837d5840ccca10d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T130000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -213,7 +117,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7bb12236b3461487@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -221,7 +125,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a748c5007732aa35@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T150000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Movie Magic
@@ -229,7 +133,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee7eee43bf884ab8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -237,7 +141,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-758b3e7fe0720e3f@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T153000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Movie Magic
@@ -245,7 +149,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-60101d4e0b1d57cc@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -253,7 +157,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-27db4d5fa1b00c7f@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Movie Magic
@@ -261,7 +165,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2dd7c15fa4adcf0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -269,7 +173,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b83ed2b0be7609c6@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -277,7 +181,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e63352d0f5681f45@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T174500
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -285,7 +189,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-262119d2984a9c1a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -293,7 +197,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-802edbdd1db17e88@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Movie Magic
@@ -301,7 +205,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf25c4e9acf0f038@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Spa Weekend (DE)
 LOCATION:Movie Magic
@@ -309,7 +213,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-feb5651b6d7fa3ce@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -317,7 +221,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ead887283c6b8ab2@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -325,7 +229,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1379102356af4104@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -333,7 +237,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f4b8e545f9201169@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T134500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -341,7 +245,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-617ad5a761e7f773@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T153000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Movie Magic
@@ -349,7 +253,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ab86335ba7a6c49@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -357,7 +261,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8052aacb2e52e43e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -365,7 +269,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd19ad112314bb10@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T160000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Movie Magic
@@ -373,7 +277,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ecef10a56d591177@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T174500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Movie Magic
@@ -381,7 +285,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d490efc7a799f46a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -389,7 +293,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f5083485286876f@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T180000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -397,7 +301,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd0cc825caeafe9a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -405,7 +309,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e4f49abaa7eee55@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Spa Weekend (DE)
 LOCATION:Movie Magic
@@ -413,7 +317,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e8256b0dd22db9bf@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -421,7 +325,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a4681d732cf8500c@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -429,7 +333,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab1f0f78ee02eb53@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T201500
 SUMMARY:Maspalomas (OmU) (DE)
 LOCATION:Movie Magic
@@ -437,7 +341,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dc1299cf21cf44a3@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T153000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Movie Magic
@@ -445,7 +349,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d5c699a3fff2d90@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T154500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Movie Magic
@@ -453,7 +357,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65780d1c67f44c76@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -461,7 +365,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d44f614c34e021df@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -469,7 +373,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8620e9aa75369591@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T174500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -477,7 +381,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82e9ad0b61e1ffca@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -485,7 +389,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-18b22356d1d26350@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -493,7 +397,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa7d5da13bfbd009@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T194500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Movie Magic
@@ -501,7 +405,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c4f01cc4621dad2@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T200000
 SUMMARY:Spa Weekend (DE)
 LOCATION:Movie Magic
@@ -509,7 +413,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-726bea500a9a5746@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T200000
 SUMMARY:Runner (DE)
 LOCATION:Movie Magic
@@ -517,7 +421,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb9e3a94eb401386@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -525,7 +429,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-de9f5d9596488436@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -533,7 +437,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b5cdaf75c6f0603@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T153000
 SUMMARY:Coyote vs. Acme (DE)
 LOCATION:Movie Magic
@@ -541,7 +445,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1074438ee6ae738f@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T154500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Movie Magic
@@ -549,7 +453,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-beef1221a61d60ba@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -557,7 +461,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8225fc4835582630@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -565,7 +469,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-64651a16383e774d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movie Magic
@@ -573,7 +477,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b21ce8e721facd2e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T174500
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -581,7 +485,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f4eb023947b46d4b@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movie Magic
@@ -589,7 +493,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3683e66104b4a9e2@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic
@@ -597,7 +501,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5478f2c0d01df5b0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Spa Weekend (DE)
 LOCATION:Movie Magic
@@ -605,7 +509,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7007a8f0472263b5@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Movie Magic
@@ -613,7 +517,7 @@ URL:https://www.movie-magic.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c01d865b93695bf@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movie Magic

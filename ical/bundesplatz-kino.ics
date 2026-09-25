@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-694c4e84a6f521f4@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T163000
-SUMMARY:Vaterland (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ea17d20cbae40e98@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0655ee247be546a0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T143000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -29,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e629dd9ab6d24d46@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T163000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -37,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff1db539300f991e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +29,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a105efd82f6d8906@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T163000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +37,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-255b984451b0abc1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T181500
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Bundesplatz-Kino
@@ -61,7 +45,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96cbef78c68bbfb9@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -69,7 +53,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-23d9d715053fa2f8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T133000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -77,7 +61,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b486a78479cc6237@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T181500
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -85,7 +69,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13a05e517b5e0f6d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T163000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -93,7 +77,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34b7ee49f619594f@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T181500
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -101,7 +85,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-75660c0c7dc3712c@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -109,7 +93,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a42b720f34d29d3b@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T143000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
@@ -117,7 +101,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f44a62a5733f7d1e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T163000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino

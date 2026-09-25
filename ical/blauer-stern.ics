@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-0765524e1027540e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T154000
-SUMMARY:Vaterland (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d7476e2d8c4b6179@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0ff60a007a236a45@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T174500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8a8ab9e97c7bf8b7@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T182500
-SUMMARY:Vaterland (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ce6053fd917799d4@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T200000
-SUMMARY:Adams Acht (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c8860f42d2bedf63@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9d18d7df06f5fd09@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -61,7 +13,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e912b43179e5aa32@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -69,7 +21,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-265df2347811a2f5@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T174500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -77,7 +29,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e296dfb22e8b58c7@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T182500
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -85,7 +37,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17814224ba161364@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T200000
 SUMMARY:Adams Acht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -93,7 +45,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5542612173b8f4ef@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -101,7 +53,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c039b3e7f9e17bd@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T134000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -109,7 +61,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-281b141b2275fb2d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -117,7 +69,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93e0c7d2ecdfec62@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -125,7 +77,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fce8599c3a88c7e1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T174500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -133,7 +85,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a5de29da9512de0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T182500
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -141,7 +93,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b88591808f3ba56@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Adams Acht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -149,7 +101,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13a795af8622282e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -157,7 +109,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f1166ae7c522a95@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T131500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -165,7 +117,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96c0c38150f47d14@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -173,7 +125,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76a34584db9aaa4d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -181,7 +133,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff6cc364e2fe8124@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T174500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -189,7 +141,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b94cbe357de2de4@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T182500
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -197,7 +149,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89a1b5cdc28222b1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Adams Acht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -205,7 +157,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d05ccb6782a32dc8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -213,7 +165,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6281b1d5c60578f3@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -221,7 +173,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19f227d9c09cebf0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -229,7 +181,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25065acf7e258767@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T174500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -237,7 +189,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad9bdf83f62d20e5@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T182500
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -245,7 +197,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c04e7756e2a0a7d4@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T200000
 SUMMARY:Adams Acht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -253,7 +205,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d896e6afb27bcfb@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -261,7 +213,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d960c1a711d709c@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -269,7 +221,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b46879bdd4378247@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -277,7 +229,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a15f7605683faf13@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T174500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -285,7 +237,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d3b6a2eab474a65a@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T182500
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -293,7 +245,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a6417f50ddf2279@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Adams Acht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -301,7 +253,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0163671b036c7ea0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -309,7 +261,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e2c5b013f4d51bf@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260930T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -317,7 +269,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7eeda9de929f66c0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260930T182500
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -325,7 +277,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6122b40c2efdbef5@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260930T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156

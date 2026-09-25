@@ -4,10 +4,18 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Zukunft am Ostkreuz
 BEGIN:VEVENT
-UID:getlos-87c568b111f309d8@ravidvr.github.io
-DTSTAMP:20260923T150536Z
-DTSTART;TZID=Europe/Berlin:20260923T200000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
+UID:getlos-62e028042e37ad4a@ravidvr.github.io
+DTSTAMP:20260925T082234Z
+DTSTART;TZID=Europe/Berlin:20261001T180000
+SUMMARY:NAZA (EN)
+LOCATION:Zukunft am Ostkreuz
+URL:https://neue-zukunft.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99bbdb46e163e6e3@ravidvr.github.io
+DTSTAMP:20260925T082234Z
+DTSTART;TZID=Europe/Berlin:20261001T194500
+SUMMARY:NAZA (EN)
 LOCATION:Zukunft am Ostkreuz
 URL:https://neue-zukunft.org/
 END:VEVENT

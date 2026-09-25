@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-6f57b7dc3ac4da05@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T153000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e032326400620df1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T180000
-SUMMARY:Vaterland (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1e2cf82908259e05@ravidvr.github.io
-DTSTAMP:20260924T080310Z
-DTSTART;TZID=Europe/Berlin:20260924T201500
-SUMMARY:Gentle Monster (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a7050c1f52725332@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -37,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-48ed6831f722f774@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260925T203000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Cosima-Filmtheater
@@ -45,7 +21,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-431359809bd26c08@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T151500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Cosima-Filmtheater
@@ -53,7 +29,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ef83c303d3ab319e@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -61,7 +37,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4cfd44391f71dbf0@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Cosima-Filmtheater
@@ -69,7 +45,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dcd4ef7ff5dffaf8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -77,7 +53,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7eecc5bf2e7a0cd9@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T151500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Cosima-Filmtheater
@@ -85,7 +61,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ffdf418f306f0263@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260927T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -93,7 +69,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90cfbd3d508d4e9d@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T151500
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -101,7 +77,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95173b1c129a17c1@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Cosima-Filmtheater
@@ -109,7 +85,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d8d042be139b4c8@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -117,7 +93,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d60e73d037edc0a3@ravidvr.github.io
-DTSTAMP:20260924T080310Z
+DTSTAMP:20260925T082234Z
 DTSTART;TZID=Europe/Berlin:20260929T201500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Cosima-Filmtheater
