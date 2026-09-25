@@ -21,6 +21,8 @@ import urllib.request
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+from getlos_common import berlin_only
+
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BERLIN = ZoneInfo("Europe/Berlin")
 TOKEN = os.environ.get("MASTODON_ACCESS_TOKEN", "").strip()
@@ -42,7 +44,7 @@ def main():
         pass
 
     with open(os.path.join(BASE, "screenings.json"), encoding="utf-8") as f:
-        venues = json.load(f)
+        venues = berlin_only(json.load(f))
 
     ov_today = [e for v in venues for e in v["events"]
                 if e.get("date") == today and (e.get("lang") or "") in ORIG_LANGS]

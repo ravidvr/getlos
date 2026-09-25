@@ -16,6 +16,8 @@ import re
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
+from getlos_common import berlin_only
+
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BERLIN = ZoneInfo("Europe/Berlin")
 SITE = "https://ravidvr.github.io/getlos/"
@@ -272,7 +274,7 @@ def build_digest(venues):
 
 
 def main():
-    venues = merge_venues(load())
+    venues = berlin_only(merge_venues(load()))
     ical_dir = os.path.join(BASE, "ical")
     os.makedirs(ical_dir, exist_ok=True)
     with open(os.path.join(BASE, "rss.xml"), "w", encoding="utf-8") as f:
@@ -280,6 +282,11 @@ def main():
     for v in venues:
         with open(os.path.join(ical_dir, f"{slugify(v['name'])}.ics"), "w", encoding="utf-8", newline="") as f:
             f.write(build_ics(v))
+    # Remove stale .ics files for venues no longer included (e.g. non-Berlin)
+    keep = {f"{slugify(v['name'])}.ics" for v in venues}
+    for f in os.listdir(ical_dir):
+        if f.endswith(".ics") and f not in keep:
+            os.remove(os.path.join(ical_dir, f))
     with open(os.path.join(ical_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(build_ical_index(venues))
     with open(os.path.join(BASE, "digest.html"), "w", encoding="utf-8") as f:
