@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-871e1409899735c6@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T184500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4f1c5fb2ac3c4159@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -21,7 +13,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8cca7b9e8bee2a71@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T184500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -29,7 +21,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4e44fb6029158a63@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
 SUMMARY:The Sheep Detectives (EN)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -37,7 +29,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0cbd0628abe9495@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T190000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -45,7 +37,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6acb039bd259f119@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T164500
 SUMMARY:The Sheep Detectives (EN)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119

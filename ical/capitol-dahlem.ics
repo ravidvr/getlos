@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-d104c09d7c328385@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T152000
-SUMMARY:Vaterland (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-336d44c3ab0a0a8a@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T173000
-SUMMARY:Gentle Monster (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-981c8d92fdf76b44@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T201500
-SUMMARY:Vaterland (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fa735123d435979e@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -37,7 +13,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3e6bd307cc2f48b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T173000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Capitol Dahlem
@@ -45,7 +21,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8dd0665b44d15091@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -53,7 +29,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-936051af23267129@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T131500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -61,7 +37,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a819c8635a8377e9@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -69,7 +45,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8aa27188cbbe6d84@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T173000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Capitol Dahlem
@@ -77,7 +53,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-57bcc66428e8c1e9@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -85,7 +61,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9662944494745f9f@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -93,7 +69,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d7683b1f7d38a1f7@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T173000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Capitol Dahlem
@@ -101,7 +77,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c327c103f18b293@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -109,7 +85,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9d352239b6cb419@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -117,7 +93,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d40571b56013147e@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Capitol Dahlem
@@ -125,7 +101,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca08a260a1b7192c@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem

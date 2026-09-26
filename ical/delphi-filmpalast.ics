@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-23b0d8bb3b748674@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T154000
-SUMMARY:Vaterland (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a40433534c0d2741@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T180000
-SUMMARY:Vaterland (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-74e2416e2f514ae8@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T202000
-SUMMARY:Vaterland (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c3a772b64c4ad79b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -37,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e335579c5d6677bd@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -45,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fed5b3ce2b9f4a25@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T202000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -53,7 +29,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-725659a941e40d15@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T145000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -61,7 +37,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5fa5bb5a20ccf996@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T171000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -69,7 +45,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85f684313b6fc038@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -77,7 +53,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49a8f11946212c36@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -85,7 +61,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5bde53b30a4f9010@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T202000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -93,7 +69,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9870333b126b1937@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T154000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -101,7 +77,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe3b5076548c7efe@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -109,7 +85,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8070ed6338becf92@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T202000
 SUMMARY:Vaterland (DE)
 LOCATION:Delphi Filmpalast
@@ -117,9 +93,41 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f66ce1363c438ba1@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 SUMMARY:Witness for the Prosecution (EN)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64c69447ee5fce48@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261001T170000
+SUMMARY:Digger (EN)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e196137dbcfa9650@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Digger (EN)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3218a7fb0b7bdd5@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261002T170000
+SUMMARY:Digger (EN)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-615b65b89a4ec825@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261002T201500
+SUMMARY:Digger (EN)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT

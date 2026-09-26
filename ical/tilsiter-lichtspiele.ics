@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Tilsiter Lichtspiele
 BEGIN:VEVENT
-UID:getlos-e8ddab35c912251b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T160000
-SUMMARY:Adams Acht (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f18f5323b92dfafb@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T183000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f97e55abea4176b4@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T202500
-SUMMARY:Kalter Hund (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c4fa99db513dbfe4@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T203000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a7235f221d43aeb@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T224500
-SUMMARY:The Drama (EN)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-8458b7de9f1eb2d7@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T140000
 SUMMARY:Adams Acht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -53,7 +13,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e155898528c6c70b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T190000
 SUMMARY:The Invite (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -61,7 +21,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-916337f97863bf8d@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T203500
 SUMMARY:Kalter Hund (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -69,7 +29,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0460bf3a5b7e5a7b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T211500
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -77,7 +37,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afe0af4854383e34@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T140000
 SUMMARY:Adams Acht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -85,7 +45,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b65507dba453286@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T190000
 SUMMARY:The Invite (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -93,7 +53,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24b37f7c5d38f9b2@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T203500
 SUMMARY:Kalter Hund (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -101,7 +61,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf025f188c469854@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T211500
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -109,7 +69,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-83a4e2a627442efe@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T160000
 SUMMARY:Adams Acht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -117,15 +77,23 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb5b901685f2ed4a@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T202500
 SUMMARY:Kalter Hund (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fd4f0069280f9e9b@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20260928T203000
+SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-99f3604993bb330f@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T224500
 SUMMARY:The Drama (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -133,7 +101,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08e983df5ae76b14@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T202500
 SUMMARY:Kalter Hund (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -141,7 +109,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e91f297a293e1c8@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T221500
 SUMMARY:The Drama (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -149,8 +117,32 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ebc45cfb5828126@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20261001T181500
+SUMMARY:NAZA (EN)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8800659667411949@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261001T221500
+SUMMARY:NAZA (EN)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fdec5ca637752b6f@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261002T181500
+SUMMARY:NAZA (EN)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1306383ace9d9efe@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20261002T221500
 SUMMARY:NAZA (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/

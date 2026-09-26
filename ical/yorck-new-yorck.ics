@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck/New Yorck
 BEGIN:VEVENT
-UID:getlos-9a0ca1b55778faab@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T142000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e3c2957c511ace99@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-313ce5de45221051@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T164000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-22b4373287d12a0d@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T182000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3281bd61af964f89@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T184500
-SUMMARY:Gentle Monster (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-37ff778e15d7d7f2@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-20310853dfe6ab28@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T142000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -61,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-469044f4c68f2938@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T155000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -69,7 +21,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e189dec1d7342bb@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T164000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -77,7 +29,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9620e5da0feeac67@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -85,7 +37,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e29b4a2b3df9052f@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T184500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Yorck/New Yorck
@@ -93,7 +45,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7aafdcace04534f@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -101,7 +53,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad08747b3de06384@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -109,7 +61,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed93c7f4fe67e1a8@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -117,7 +69,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fefc400552f269a@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T155000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -125,7 +77,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00fb8bb116dec26b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T172000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Yorck/New Yorck
@@ -133,7 +85,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33eaf40f0594983d@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -141,7 +93,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcf1145afd3dd834@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -149,7 +101,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3922b803aa21b651@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T142000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -157,7 +109,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e191bd223b0a7e20@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -165,7 +117,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8ac0c540984e8b7@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T164000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -173,7 +125,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e311c590fed2c63e@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -181,7 +133,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12b9a14f568f1483@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T184500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Yorck/New Yorck
@@ -189,7 +141,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce7509adf3105b7a@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -197,7 +149,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5c136c82d4d1ceb@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T142000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -205,7 +157,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9002cbed96838c21@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -213,7 +165,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13357b4b4c16ac2f@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T164000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -221,7 +173,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38c6cd9f6b49f7bc@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -229,7 +181,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16dfffb8ab5e5412@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T184500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Yorck/New Yorck
@@ -237,7 +189,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d97b382b0bacd59@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260929T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -245,7 +197,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-350268b047460870@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260930T164000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -253,7 +205,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2389843bd6608c1a@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260930T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -261,7 +213,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2480d46e02aeef60@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260930T184500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Yorck/New Yorck
@@ -269,7 +221,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5f0067e91ea222dc@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260930T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck

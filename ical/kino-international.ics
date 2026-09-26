@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Kino International
+BEGIN:VEVENT
+UID:getlos-34a413ffc67a2430@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20260928T213000
+SUMMARY:Stop! That! Train! (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+END:VCALENDAR

@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-159b7e7682b9b964@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T211500
-SUMMARY:Drive (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-260ce11175085915@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T211500
 SUMMARY:Drive (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -21,8 +13,16 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d4768818a9e78811@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T203000
+SUMMARY:Drive (EN)
+LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eedb99af04ae9daf@ravidvr.github.io
+DTSTAMP:20260926T075040Z
+DTSTART;TZID=Europe/Berlin:20260928T211500
 SUMMARY:Drive (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
 URL:https://yorck.de/kinos/yorck

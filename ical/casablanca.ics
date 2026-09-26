@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Casablanca
 BEGIN:VEVENT
-UID:getlos-f9419e39f7b0ae90@ravidvr.github.io
-DTSTAMP:20260925T151721Z
-DTSTART;TZID=Europe/Berlin:20260925T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1f83839906593553@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T160000
 SUMMARY:Steckerlfischfiasko (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -21,7 +13,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cdc44c06b09d59fe@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T181500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -29,7 +21,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afb503da6f8fe36b@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260926T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -37,7 +29,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd4732a194544970@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260927T203000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -45,7 +37,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-168fc60d75f4ac8c@ravidvr.github.io
-DTSTAMP:20260925T151721Z
+DTSTAMP:20260926T075040Z
 DTSTART;TZID=Europe/Berlin:20260928T183000
 SUMMARY:Vaterland (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
