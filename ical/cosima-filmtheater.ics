@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-dcd4ef7ff5dffaf8@ravidvr.github.io
-DTSTAMP:20260927T130856Z
-DTSTART;TZID=Europe/Berlin:20260927T110000
-SUMMARY:Vaterland (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7eecc5bf2e7a0cd9@ravidvr.github.io
-DTSTAMP:20260927T130856Z
-DTSTART;TZID=Europe/Berlin:20260927T151500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ffdf418f306f0263@ravidvr.github.io
-DTSTAMP:20260927T130856Z
-DTSTART;TZID=Europe/Berlin:20260927T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-90cfbd3d508d4e9d@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260928T151500
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -37,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95173b1c129a17c1@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260928T203000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Cosima-Filmtheater
@@ -45,7 +21,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d8d042be139b4c8@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -53,7 +29,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d60e73d037edc0a3@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260929T201500
 SUMMARY:Gentle Monster (DE)
 LOCATION:Cosima-Filmtheater

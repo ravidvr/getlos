@@ -4,32 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Zukunft
 BEGIN:VEVENT
-UID:getlos-6ec300af1a34e7de@ravidvr.github.io
-DTSTAMP:20260927T130856Z
-DTSTART;TZID=Europe/Berlin:20260927T161500
-SUMMARY:Jim Queen (OmU)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4280cef73caa7014@ravidvr.github.io
-DTSTAMP:20260927T130856Z
-DTSTART;TZID=Europe/Berlin:20260927T221500
-SUMMARY:Jim Queen (OmU)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8dccb5a72a4c3103@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+UID:getlos-6c0adaad7768a7b4@ravidvr.github.io
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260928T180000
-SUMMARY:Lovebox (OmU)
+SUMMARY:Lovebox (OmU) (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7de68c624f567398@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260928T221500
 SUMMARY:Jim Queen (OmU)
 LOCATION:Kino Zukunft
@@ -37,23 +21,23 @@ URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d4f654c8e23aa63@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260929T221500
 SUMMARY:Jim Queen (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-702fb1d2eeb1e600@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+UID:getlos-d137024af6baee9d@ravidvr.github.io
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260930T180000
-SUMMARY:Lovebox (OmU)
+SUMMARY:Lovebox (OmU) (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d084ca7894c88c30@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260930T221500
 SUMMARY:Jim Queen (OmU)
 LOCATION:Kino Zukunft

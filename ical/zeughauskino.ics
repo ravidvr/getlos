@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Zeughauskino
+BEGIN:VEVENT
+UID:getlos-39e77ec8dcf7204e@ravidvr.github.io
+DTSTAMP:20260928T074154Z
+DTSTART;TZID=Europe/Berlin:20261004T180000
+SUMMARY:Memory of Berlin (EN)
+LOCATION:Zeughauskino\, Unter den Linden 2\, Berlin\, 10117
+URL:https://www.dhm.de/zeughauskino/
+END:VEVENT
+END:VCALENDAR

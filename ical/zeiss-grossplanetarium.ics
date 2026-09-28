@@ -4,18 +4,10 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Zeiss-Großplanetarium
 BEGIN:VEVENT
-UID:getlos-fd4eb2d450edfc5e@ravidvr.github.io
-DTSTAMP:20260927T130856Z
-DTSTART;TZID=Europe/Berlin:20260927T194500
-SUMMARY:Lovebox (OmU)
-LOCATION:Zeiss-Großplanetarium
-URL:https://www.planetarium.berlin/zeiss-grossplanetarium
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c7b0fc0e51e1f440@ravidvr.github.io
-DTSTAMP:20260927T130856Z
+UID:getlos-d3c60653723d5e85@ravidvr.github.io
+DTSTAMP:20260928T074154Z
 DTSTART;TZID=Europe/Berlin:20260930T203000
-SUMMARY:Lovebox (OmU)
+SUMMARY:Lovebox (OmU) (OmU)
 LOCATION:Zeiss-Großplanetarium
 URL:https://www.planetarium.berlin/zeiss-grossplanetarium
 END:VEVENT
