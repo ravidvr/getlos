@@ -77,12 +77,15 @@ export async function fetchFilmIds(): Promise<string[]> {
   return [...ids];
 }
 
-export async function fetchFilmDetail(filmId: string): Promise<{
+export async function fetchFilmDetail(
+  filmId: string,
+  opts: { baseDelayMs?: number } = {},
+): Promise<{
   title: string; description: string; releaseDate: string;
   cinemas: Array<{ name: string; times: string[]; dates: string[]; langs: string[]; formats: string[] }>;
 }> {
   const url = `${BASE}/kino/_bin/filmdetail.php/${filmId}/`;
-  const resp = await fetchWithRetry(url, { headers: { "User-Agent": "getlos/1.0" } });
+  const resp = await fetchWithRetry(url, { headers: { "User-Agent": "getlos/1.0" } }, undefined, opts.baseDelayMs);
   if (!resp.ok) return { title: "", description: "", releaseDate: "", cinemas: [] };
   const html = await resp.text();
   const text = stripHtml(html);
@@ -157,7 +160,7 @@ const CINEMA_NORM: Record<string, string> = {
 
 function normalizeCinema(name: string): string { return CINEMA_NORM[name] || name; }
 
-export async function main() {
+export async function main(opts: { baseDelayMs?: number; outputPath?: string } = {}) {
   const todayStr = today();
   console.log(`Fetching all Berlin films (date: ${todayStr})...\n`);
 
@@ -175,12 +178,25 @@ export async function main() {
   const allCinemas = new Set<string>();
   const now = new Date().toISOString();
   let processed = 0;
+  let skipped = 0;
 
   for (const filmId of filmIds) {
     processed++;
     if (processed % 5 === 0) process.stdout.write(`\r  Processing: ${processed}/${filmIds.length}`);
-    
-    const { title, description, releaseDate, cinemas } = await fetchFilmDetail(filmId);
+
+    // Skip-and-continue on per-film failures (Sep 2026: one flaky film-detail
+    // page used to kill the whole daily run after retry exhaustion). Record
+    // the failure and let verify.py's >=80% coverage gate judge the result.
+    let detail;
+    try {
+      detail = await fetchFilmDetail(filmId, opts);
+    } catch (err) {
+      skipped++;
+      const msg = err instanceof Error ? err.message : String(err);
+      console.error(`\n  [skip] film ${filmId} failed after retries: ${msg} — continuing`);
+      continue;
+    }
+    const { title, description, releaseDate, cinemas } = detail;
     
     // Group per-cinema entries back together (they're flattened per-showtime)
     // Actually they're already properly structured — just use directly
@@ -218,6 +234,12 @@ export async function main() {
     await new Promise((r) => setTimeout(r, 500));
   }
 
+  if (skipped > 0 && skipped === filmIds.length) {
+    // Every film failed — writing would wipe the last good DE showtimes.
+    // Same no-wipe rule as the empty-index case.
+    throw new Error(`all ${filmIds.length} film detail fetches failed after retries — keeping existing data/venues-berlincinema.json`);
+  }
+
   // Deduplicate by source_id (cinemaPattern can produce overlapping matches)
   const seen = new Set<string>();
   const deduped: CinemaEvent[] = [];
@@ -228,10 +250,10 @@ export async function main() {
     }
   }
 
-  writeFileSync("data/venues-berlincinema.json", JSON.stringify(deduped, null, 2));
+  writeFileSync(opts.outputPath ?? "data/venues-berlincinema.json", JSON.stringify(deduped, null, 2));
 
   const dates = [...new Set(deduped.map(e => e.start_datetime.slice(0, 10)))].sort();
-  console.log(`\r  Processed: ${processed}/${filmIds.length} — ${deduped.length} showtimes across ${dates.length} days (${events.length - deduped.length} dupes removed)`);
+  console.log(`\r  Processed: ${processed}/${filmIds.length} — ${deduped.length} showtimes across ${dates.length} days (${events.length - deduped.length} dupes removed, ${skipped} films skipped)`);
   console.log(`  Cinemas: ${allCinemas.size}`);
   console.log(`  Date range: ${dates[0]} to ${dates[dates.length-1]}`);
   console.log(`\nDone → data/venues-berlincinema.json`);

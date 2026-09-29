@@ -9,10 +9,14 @@
 //     including the lookahead that must keep the LAST cinema block.
 //  3. THE SEP 2026 OUTAGE BUG: on an empty index result, main() must THROW
 //     and leave data/venues-berlincinema.json untouched — never write [].
+//  4. PER-FILM SKIP-AND-CONTINUE: one 429-ing film must not kill the run —
+//     partial data is written; ALL films failing still throws (no wipe).
 
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, rmSync } from "node:fs";
+import { join } from "node:path";
+import { tmpdir } from "node:os";
 import {
   parseFilmIdsFromHtml,
   parseGermanDate,
@@ -87,4 +91,46 @@ test("NO-WIPE: empty index result throws and leaves data/venues-berlincinema.jso
   const after = existsSync(dataPath) ? readFileSync(dataPath, "utf8") : null;
   assert.equal(after, before, "data file must be byte-identical after a failed index fetch");
   assert.ok(!before || before.trim().startsWith("["), "sanity: data file existed and is JSON");
+});
+
+test("per-film 429 skips that film and continues — partial data is written", async (t) => {
+  const outPath = join(tmpdir(), `bc-skip-test-${Date.now()}.json`);
+
+  // Film 315041 rate-limits persistently; every other film returns the
+  // Spider-Man fixture. fetchWithRetry exhausts its retries (baseDelayMs=0
+  // keeps the test fast) and throws — main() must skip and continue.
+  t.mock.method(globalThis, "fetch", async (input: unknown) => {
+    const url = String(input);
+    if (url.includes("filmdetail.php/315041/")) return new Response("Calm down", { status: 429 });
+    if (url.includes("filmdetail.php")) return new Response(FILM_HTML, { status: 200 });
+    if (url.includes("index.php") && !url.includes("page=")) return new Response(INDEX_HTML, { status: 200 });
+    return new Response("<html></html>", { status: 200 });
+  });
+
+  await main({ baseDelayMs: 0, outputPath: outPath });
+
+  const out = JSON.parse(readFileSync(outPath, "utf8"));
+  rmSync(outPath, { force: true });
+
+  assert.ok(out.length > 1000, "events from the 35 successful films are written");
+  assert.equal(
+    out.some((e: { source_id: string }) => String(e.source_id).startsWith("bc_315041_")),
+    false,
+    "no events from the rate-limited film",
+  );
+});
+
+test("NO-WIPE: all film detail fetches failing throws and writes nothing", async (t) => {
+  const outPath = join(tmpdir(), `bc-allfail-test-${Date.now()}.json`);
+
+  t.mock.method(globalThis, "fetch", async (input: unknown) => {
+    const url = String(input);
+    if (url.includes("filmdetail.php")) return new Response("Calm down", { status: 429 });
+    if (url.includes("index.php") && !url.includes("page=")) return new Response(INDEX_HTML, { status: 200 });
+    return new Response("<html></html>", { status: 200 });
+  });
+
+  await assert.rejects(() => main({ baseDelayMs: 0, outputPath: outPath }), /all \d+ film detail fetches failed/);
+  assert.equal(existsSync(outPath), false, "output file must not be written when every film fails");
+  rmSync(outPath, { force: true });
 });
