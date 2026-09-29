@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Post the daily getlos digest to Mastodon (default: berlin.social).
+"""Post the daily getlos digest to Mastodon (default: mastodon.social).
 
 Setup (one time):
-  1. Create an account on https://berlin.social
+  1. Create an account on https://mastodon.social
   2. Preferences → Development → New application → name "getlos", scopes: write:statuses
-  3. Copy the access token, then add it to the cron environment, e.g. in the
-     LaunchAgent plist or a shell profile read by cron:
+  3. Copy the access token, then add it to the cron environment, e.g. in
+     ~/.getlos_mastodon.env (sourced by the Hermes cron shim):
          export MASTODON_ACCESS_TOKEN=xxx
-  4. Optional: MASTODON_BASE_URL=https://berlin.social (default)
+  4. Optional: MASTODON_BASE_URL=https://mastodon.social (default)
 
 Behaviour:
   - No token set → silent no-op (safe to call from refresh.sh).
@@ -26,7 +26,7 @@ from getlos_common import berlin_only
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BERLIN = ZoneInfo("Europe/Berlin")
 TOKEN = os.environ.get("MASTODON_ACCESS_TOKEN", "").strip()
-API = (os.environ.get("MASTODON_BASE_URL", "https://berlin.social")).rstrip("/")
+API = (os.environ.get("MASTODON_BASE_URL", "https://mastodon.social")).rstrip("/")
 ORIG_LANGS = ("EN", "OV", "OmU", "OmenglU")
 STATE = os.path.expanduser("~/.getlos_mastodon_last")
 
