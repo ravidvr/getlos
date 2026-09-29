@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - CineStar
 BEGIN:VEVENT
-UID:getlos-e20537b680c68c11@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T133000
-SUMMARY:Practical Magic 2 (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d0ea3ed9f932d1c5@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T135000
-SUMMARY:Coyote vs. Acme (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-62a1f027055e3083@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T144000
-SUMMARY:Spa Weekend (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2f729aae3b6290d8@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T163000
-SUMMARY:Resident Evil (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c9c8efd1ab88a8e1@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T171500
-SUMMARY:Spider-Man: Brand New Day (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e5b716fd914329ca@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T190000
-SUMMARY:The Odyssey (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b761730f77baca97@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T191000
-SUMMARY:Heart of the Beast (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-226bf918834e51de@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T193000
-SUMMARY:Spider-Man: Brand New Day (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-abfc57628a6cba53@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T195000
-SUMMARY:Coyote vs. Acme (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3def667f1c82a5df@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T203000
-SUMMARY:Resident Evil (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d78aecfd94d89c90@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T135000
 SUMMARY:Coyote vs. Acme (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -93,7 +13,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c147c8bb8c13c799@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T160000
 SUMMARY:Avengers: Endgame (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -101,7 +21,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05db01718f99e830@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T161500
 SUMMARY:Practical Magic 2 (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -109,7 +29,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-84faa7f80ea0f099@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T171500
 SUMMARY:Spider-Man: Brand New Day (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -117,7 +37,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf2a578b3a1bb97e@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Resident Evil (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -125,7 +45,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ec0840bf3878687@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T191000
 SUMMARY:Heart of the Beast (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -133,7 +53,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcda207e21dcbb87@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T193000
 SUMMARY:Spider-Man: Brand New Day (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -141,31 +61,31 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a7ae6ffb25b5c5d@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Coyote vs. Acme (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9c6e89ba740e47f6@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260929T203000
-SUMMARY:Spa Weekend (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1356dfd36e382754@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T203000
 SUMMARY:Resident Evil (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9c6e89ba740e47f6@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260929T203000
+SUMMARY:Spa Weekend (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-978cdd204028618c@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T135000
 SUMMARY:Coyote vs. Acme (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -173,7 +93,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f93656b78617a883@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T141000
 SUMMARY:Spa Weekend (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -181,7 +101,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6dd8a8746190cf9@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T144000
 SUMMARY:Practical Magic 2 (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -189,7 +109,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12e3ff9952df05ca@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T162000
 SUMMARY:The Odyssey (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -197,7 +117,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-58ed396b729bc68c@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T170000
 SUMMARY:Resident Evil (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -205,7 +125,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d20acecd8cb18723@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T171500
 SUMMARY:Spider-Man: Brand New Day (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -213,7 +133,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6417f6f288ad7611@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T191000
 SUMMARY:Heart of the Beast (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -221,7 +141,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9f0b8b6e3d3fb09@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T193000
 SUMMARY:Spider-Man: Brand New Day (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -229,7 +149,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-966adb9448e721c3@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T193000
 SUMMARY:LINKIN PARK: UNSHATTER (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -237,7 +157,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee8afaa61c66ee00@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T201000
 SUMMARY:Resident Evil (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -245,25 +165,161 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e247ea56ad12aa5@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T201500
 SUMMARY:Verity (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7133889d01098a21@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T150000
+SUMMARY:Spa Weekend (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ffcccb52fe12b7a@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T161000
+SUMMARY:Verity (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-370732aa7ca1f2a4@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T163000
+SUMMARY:Spider-Man: Brand New Day (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c612d5397d47fce8@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T170000
+SUMMARY:Resident Evil (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4058cdc5be87de8e@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T173000
+SUMMARY:Coyote vs. Acme (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fe614c0b90878e14@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T190000
+SUMMARY:The Odyssey (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-758e2c9182b45ff3@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Resident Evil (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e9aa456a36e0989@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T202000
+SUMMARY:LINKIN PARK: UNSHATTER (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cae533e6c7494afc@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T203000
+SUMMARY:Avengers: Endgame (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c7b3069fa484b0dc@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T203000
+SUMMARY:Heart of the Beast (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2d7a74c3fd16d7d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T224000
+SUMMARY:Primetime (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-751f22d1da51e86b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T231000
+SUMMARY:Obsession (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d2395b930ce35f5f@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T231500
+SUMMARY:Resident Evil (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81abd01f6d0c1a61@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T161000
+SUMMARY:Verity (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-38a18a43b6d3e542@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T202000
+SUMMARY:LINKIN PARK: UNSHATTER (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c89ec9f1251160b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T224000
+SUMMARY:Insidious: Out of the Further (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f7089a375eef723a@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20261003T163000
 SUMMARY:Forgotten Island (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7ac258d852124fb2@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20261003T223000
-SUMMARY:LINKIN PARK: UNSHATTER (EN)
+UID:getlos-789de91917d96126@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T144500
+SUMMARY:Practical Magic 2 (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7deaa20960fdb852@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T203000
+SUMMARY:Runner (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT

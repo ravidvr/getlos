@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Intimes
 BEGIN:VEVENT
-UID:getlos-4cc1242263d1fdf4@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T135000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ccf64e261ac2bbb4@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T141500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-445f939fbd54aa56@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T155000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e29ac973ec3674ee@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T161000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-982f2f9f7c118051@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T174000
-SUMMARY:Coyote vs. Acme (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9681ae43504107fe@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T181500
-SUMMARY:Vaterland (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b76ce6cd853bfa66@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T194500
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d4818d6af7d6e52@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T200000
-SUMMARY:Primetime (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-60cbca09a7297835@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T213000
-SUMMARY:Die Odyssee (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d98df5a3d0718a2a@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T213000
-SUMMARY:The Odyssey (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-34d3fbb780d5b8db@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T135000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -93,7 +13,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bcc6c717f4014a79@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T141500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -101,7 +21,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24c313bcb66b242f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T155000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -109,7 +29,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-203f97f22897c3a6@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -117,7 +37,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0fcc61c6e514723f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T174000
 SUMMARY:Coyote vs. Acme (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -125,7 +45,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7cf3cca4d6f419c0@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T181500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -133,7 +53,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-982cbf0177d0df1d@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T194500
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -141,7 +61,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-10ccaa5cc4e7cc87@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -149,7 +69,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53ed6e89d193f6a1@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T201000
 SUMMARY:All You Need Is Kill (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -157,7 +77,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-31195dc427b7f9d3@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T213000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -165,7 +85,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc5c9b24c395dc69@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T213000
 SUMMARY:The Odyssey (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -173,15 +93,47 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4240684b0010c211@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T221500
 SUMMARY:All You Need Is Kill (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d691eaca2ab0c249@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T135000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be2e4aaf81dc6237@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-86498fa8a7b05061@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T155000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c588619e272ca20e@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T161000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-52dab06594aba599@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T174000
 SUMMARY:Coyote vs. Acme (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -189,7 +141,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39fee420f5919f74@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T181500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -197,7 +149,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ba58f8038cbe8a4@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T194500
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -205,7 +157,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c3e56a32f88298a@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -213,7 +165,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47d4b4959ccd013f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T213000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -221,9 +173,257 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3796fdfcfba7505b@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T213000
 SUMMARY:The Odyssey (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-666bbf0d81627994@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f556328f4f807353@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd15a82d1e3c5e4d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T175000
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-940eacc623f7af4a@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T191500
+SUMMARY:Vaterland (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dabb12e563b4a1ee@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T202500
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3962c2932d5d80f6@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-702029df2523cc28@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T230000
+SUMMARY:Obsession (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64634959c1c8343b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T231500
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04b816aec2db4b07@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a5ed586762768a1@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9596c26945ee59c6@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T175000
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52f0b45923b7c181@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T191500
+SUMMARY:Vaterland (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-df72365174928afd@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T202500
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ccc2b8581ad41d6@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8c8a95f92b43d86c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T231500
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11195c12cf423302@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T114500
+SUMMARY:Coyote vs. Acme (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-654dab801afc792c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f54e3a7d85327c10@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d59f14f340425414@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T175000
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d1bb0a04f57d2d7@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T191500
+SUMMARY:Vaterland (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-821145eb1efcbaf2@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T202500
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65d0974a4eb76e28@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28935f3f51b21d2b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T231500
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4da3a00da280c5f9@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b907ff7f9376a11e@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ade9a89c388dc94b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T191500
+SUMMARY:Vaterland (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e07dc5f994c1580@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0bb10b3d05527659@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e279ae76a1f85294@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01f301f713c69caa@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T191500
+SUMMARY:Vaterland (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c4b25510ed48c4a@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T210000
+SUMMARY:Primetime (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT

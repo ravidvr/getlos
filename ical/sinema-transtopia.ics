@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Sinema Transtopia
+BEGIN:VEVENT
+UID:getlos-3c4edab4798b13e9@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Von Scham und Geld (OmU) (OmenglU)
+LOCATION:Sinema Transtopia\, Lindower Straße 20/22\, Berlin
+URL:https://sinematranstopia.com/de
+END:VEVENT
+END:VCALENDAR

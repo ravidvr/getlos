@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - filmkunst 66
 BEGIN:VEVENT
-UID:getlos-f7850abc6807e60a@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T140000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e4b28aea795e3586@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T153000
-SUMMARY:Kalter Hund (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d4d97b8d2d3cf37b@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3b2039eecfac7b68@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T181500
-SUMMARY:Gentle Monster (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4ed73079931ab496@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T200000
-SUMMARY:Adams Acht (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-da768870e432d3c9@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -53,7 +13,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-371cf152a8eff8ad@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -61,7 +21,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9dc21b22763bae5@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Kalter Hund (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -69,7 +29,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8534b951e7c34b24@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T181500
 SUMMARY:Gentle Monster (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -77,15 +37,31 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2955d6bd8c31ac6@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Adams Acht (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
 URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7a9de4bf68d4fe77@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29c8db1fd02fbfc6@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f20797c8b4abd177@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T173000
 SUMMARY:Kalter Hund (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -93,7 +69,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e8147395d8a55d8@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T181500
 SUMMARY:Ein Nobody gegen Putin (OmU) (OmU)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -101,9 +77,129 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-43ff78abc8a31b84@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Adams Acht (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90bef929156e2115@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T134500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f67e1f4535b38f52@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T144500
+SUMMARY:Adams Acht (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16b5711346796133@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T160000
+SUMMARY:Gentle Monster (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f4804d1b16ca43e2@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T144500
+SUMMARY:Adams Acht (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9104cac93c43eb35@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T163000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f46d5465d50d29b9@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T114500
+SUMMARY:Ein Nobody gegen Putin (OmU) (OmU)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0443571424f49a33@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T134500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b741190036b25679@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T144500
+SUMMARY:Adams Acht (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e107f550da55e198@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T154500
+SUMMARY:Kalter Hund (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1c02d9934c1a2b7@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T134500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71cc7c8e342fe1ad@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T144500
+SUMMARY:Adams Acht (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd553c2b89793dfe@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T154500
+SUMMARY:Kalter Hund (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a075f7ececbb6f6c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T134500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e003373f166513cc@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T144500
+SUMMARY:Adams Acht (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7d463b9180776b51@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T160000
+SUMMARY:Gentle Monster (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
 URL:http://www.filmkunst66.de
 END:VEVENT

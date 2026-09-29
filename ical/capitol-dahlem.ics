@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-9662944494745f9f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T152000
-SUMMARY:Vaterland (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d7683b1f7d38a1f7@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T173000
-SUMMARY:Gentle Monster (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6c327c103f18b293@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T201500
-SUMMARY:Vaterland (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e9d352239b6cb419@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
@@ -37,7 +13,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d40571b56013147e@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Capitol Dahlem
@@ -45,7 +21,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca08a260a1b7192c@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem

@@ -4,10 +4,26 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Zeiss-Großplanetarium
 BEGIN:VEVENT
-UID:getlos-d3c60653723d5e85@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+UID:getlos-c7b0fc0e51e1f440@ravidvr.github.io
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T203000
-SUMMARY:Lovebox (OmU) (OmU)
+SUMMARY:Lovebox (OmU)
+LOCATION:Zeiss-Großplanetarium
+URL:https://www.planetarium.berlin/zeiss-grossplanetarium
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-353f0ad91722181c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T204000
+SUMMARY:Frost ohne Schnee und Eis (DE)
+LOCATION:Zeiss-Großplanetarium
+URL:https://www.planetarium.berlin/zeiss-grossplanetarium
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5fb6586baa213c67@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T223000
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
 LOCATION:Zeiss-Großplanetarium
 URL:https://www.planetarium.berlin/zeiss-grossplanetarium
 END:VEVENT

@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Xenon
 BEGIN:VEVENT
-UID:getlos-eb6793556a330123@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T173000
-SUMMARY:Gentle Monster (DE)
-LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
-URL:http://www.xenon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-553641b9193333a3@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T200000
-SUMMARY:Vaterland (DE)
-LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
-URL:http://www.xenon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6d708492c50b1540@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Gentle Monster (DE)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
@@ -29,8 +13,96 @@ URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0302f4584c003d82@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f0cb3913adaff59b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-abc53c76ead88277@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T180000
+SUMMARY:Jim Queen (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b7c1a46e2969fa4@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25556419a59c0d13@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T180000
+SUMMARY:Jim Queen (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ecd1c660c3d5943c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0032dc6fdf2f3a4@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T180000
+SUMMARY:Jim Queen (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5d0db66e757b1e4d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fec0105cdae47d36@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T180000
+SUMMARY:Jim Queen (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf9a9da3fea650b4@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de5355bfe64e50c8@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T180000
+SUMMARY:Jim Queen (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d805d4ec22d56996@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
 URL:http://www.xenon-kino.de/

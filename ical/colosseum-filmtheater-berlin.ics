@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Colosseum Filmtheater Berlin
 BEGIN:VEVENT
-UID:getlos-f122f89bc10e1e02@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-65329907b7697388@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T173000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9296e5266fa025c1@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T180000
-SUMMARY:Vaterland (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-856df5e1aa710e9b@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-99ae5636fd5d0832@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -45,7 +13,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1847d004d854771f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T153000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -53,7 +21,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88c89f12c6c735b6@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -61,7 +29,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-983c503d5609f6e4@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -69,7 +37,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b6c47625bb3e99d@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T203000
 SUMMARY:Vaterland (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437

@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Babylon
 BEGIN:VEVENT
-UID:getlos-42adfc632bacf06e@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T163000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-17a0252990944c7a@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T164000
-SUMMARY:Jim Queen (OmenglU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aab35f5070499825@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T184000
-SUMMARY:Stop! That! Train! (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-adfa2b6ac6b49da1@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T210000
-SUMMARY:Jim Queen (OmenglU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5298a48b13824618@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T213000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d46bf6579a16212a@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T214500
-SUMMARY:Cabaret (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bb47d33dccbf4744@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T214500
-SUMMARY:Do the Right Thing (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e958ba798d9c8b27@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T220000
-SUMMARY:Lost Highway (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e44e6e9554ea63eb@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T163000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -77,7 +13,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7b968c587b6155f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T164000
 SUMMARY:Jim Queen (OmenglU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -85,7 +21,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ecec8228b9e8881@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T184000
 SUMMARY:Stop! That! Train! (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -93,7 +29,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dffacdd3ee19a83c@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T210000
 SUMMARY:Jim Queen (OmenglU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -101,7 +37,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37e2ac2c66b860b5@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T211500
 SUMMARY:Do the Right Thing (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -109,7 +45,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb79e5aad7e35511@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T213000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -117,7 +53,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5379758a985414e2@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T214500
 SUMMARY:Blue Velvet (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -125,7 +61,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-082b8f464fda1762@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T223000
 SUMMARY:Lost Highway (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -133,7 +69,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3deeffdbb168851@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T163000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -141,7 +77,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-247f112548ffa230@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T164000
 SUMMARY:Jim Queen (OmenglU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -149,7 +85,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e7b50cbe8705208c@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T184000
 SUMMARY:Stop! That! Train! (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -157,7 +93,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28840a427c89982f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T210000
 SUMMARY:Jim Queen (OmenglU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -165,7 +101,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f96db20e701552be@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T210000
 SUMMARY:Do the Right Thing (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -173,7 +109,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d7530b2a7bd95061@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T213000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -181,7 +117,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a1732312cf1a5127@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T214500
 SUMMARY:Cabaret (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -189,9 +125,113 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9dfe262125bb7b4b@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T220000
 SUMMARY:Mulholland Drive (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a81b92696f22d44@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T180000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78db9008de33b28d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T210000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5763dcc179ba052e@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T180000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39d6fccd3cd689f6@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T210000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-923256f48b6966d3@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T214500
+SUMMARY:Mulholland Drive (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b10b4b8f0f00cacd@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T235900
+SUMMARY:Sideways (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f1083ac9e3e85c3@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T144500
+SUMMARY:Stop! That! Train! (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6fba0449967d89ca@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T150000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a429d762c5b72ce@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T180000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55573a6409672c8c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T210000
+SUMMARY:Digger (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-49a71cadcb07e6b2@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T214500
+SUMMARY:Blue Velvet (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5fa7f344811c3217@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T134500
+SUMMARY:Morgen war Krieg (DE)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71de44d5e1960831@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T213000
+SUMMARY:National Anthem (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
 URL:http://www.babylonberlin.de
 END:VEVENT

@@ -5411,5 +5411,35 @@
     "capacity": null,
     "last_verified": "auto",
     "source": "default_fallback"
+  },
+  "center cinema": {
+    "formats": [],
+    "character": "outdoor",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "filmmuseum potsdam": {
+    "formats": [],
+    "character": "small_cinema",
+    "outdoor": false,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
+  },
+  "open air-kino bibliothek tiergarten-süd": {
+    "formats": [],
+    "character": "outdoor",
+    "outdoor": true,
+    "screen_size": "unknown",
+    "screens": null,
+    "capacity": null,
+    "last_verified": "auto",
+    "source": "default_fallback"
   }
 }

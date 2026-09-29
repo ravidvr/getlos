@@ -4,64 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Filmtheater
 BEGIN:VEVENT
-UID:getlos-0cac5d9279c66d37@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T153000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ff2b84abd2a338bf@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T154500
-SUMMARY:Paw Patrol: Der Dino Film (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-46f739effbaf8351@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T154500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-40d8652d348e72f6@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T174500
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e1cdf2f1d5eb7c5c@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T174500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9a331de16c3c5626@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T200000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e04b241364e506ca@ravidvr.github.io
-DTSTAMP:20260928T074154Z
-DTSTART;TZID=Europe/Berlin:20260928T200000
-SUMMARY:Resident Evil (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-305246364dabb7ae@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -69,7 +13,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8fa7e86bd4af7e30@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T154500
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Union Filmtheater
@@ -77,7 +21,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8666f454f9e88864@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
@@ -85,7 +29,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a992f737270015d@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T174500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
@@ -93,7 +37,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12d7912885f318d8@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -101,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e8e472309ead12f1@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
@@ -109,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fde7cdecf5e3da9f@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Union Filmtheater
@@ -117,33 +61,281 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-055f022fbff9dc60@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c953d30b791456e5@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+UID:getlos-6cbacea7ee728d29@ravidvr.github.io
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T154500
-SUMMARY:Paw Patrol: Der Dino Film (DE)
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b7f4b0ca2c69b42@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T174500
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-63b541b9d679aa24@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76d2085cdc638389@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6c818b33d4b23669@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20260930T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-51b5012d90d49f57@ravidvr.github.io
-DTSTAMP:20260928T074154Z
+DTSTAMP:20260929T072533Z
 DTSTART;TZID=Europe/Berlin:20260930T201500
 SUMMARY:Linkin Park: Unshatter (OV) (OmU)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b79fe1c10b94fc3a@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90bce5ed38d8978e@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05f463e966a0ff3d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a0f716b3608d183@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e683bdfa3e9690b0@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26c5a04ef5a40632@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c3957048fa39c71@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39c497c05a60543d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e0ca699b3d98e77@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70543018c03b855c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T131500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75e43679df598a59@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T133000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be380819a3ebc89c@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T153000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c386ec06a3a344d9@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b26c45ecd398c274@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T173000
+SUMMARY:Linkin Park: Unshatter (OV) (OmU)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b86b1798ba12aada@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T174500
+SUMMARY:Linkin Park: Unshatter (OV) (OmU)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d29c800bbae90e8@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3f000b186ae857d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9e78f438138d59d@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T134500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0464bbaa38a07ce4@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T134500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b194a7ba4d515af@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-659a6f9296a88e4b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ed61c73560248bc@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T174500
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d283ec4b617493a9@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d2f8fd6e32450e2b@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78c93ec82a870401@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-422ef36cec634afa@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-568c6b0d79418122@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1911bd690086a944@ravidvr.github.io
+DTSTAMP:20260929T072533Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
+SUMMARY:Resident Evil (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
