@@ -9,25 +9,32 @@
 <link rel="canonical" href="https://ravidvr.github.io/getlos/donate.html" />
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
 <style>
-:root{--bg:#f8f9fa;--surface:#fff;--surface2:#e9ecef;--text:#212529;--text-dim:#6c757d;--accent:#e63946;--accent2:#0077b6;--border:#dee2e6;--radius:8px}
+@font-face{font-family:"InterVar";src:url("assets/fonts/Inter-var-latin.woff2") format("woff2");font-weight:100 900;font-display:swap}
+@font-face{font-family:"InterVar";src:url("assets/fonts/Inter-var-latin-ext.woff2") format("woff2");font-weight:100 900;font-display:swap}
+@font-face{font-family:"SpaceGrotesk";src:url("assets/fonts/SpaceGrotesk-var-latin.woff2") format("woff2");font-weight:300 700;font-display:swap}
+@font-face{font-family:"SpaceGrotesk";src:url("assets/fonts/SpaceGrotesk-var-latin-ext.woff2") format("woff2");font-weight:300 700;font-display:swap}
+:root{--bg:#0b0e14;--surface:#131a26;--surface2:rgba(255,255,255,.055);--text:#eef2f7;--text-dim:#8e9aad;--accent:#ff5263;--accent2:#4db8ff;--border:rgba(255,255,255,.07);--border-strong:rgba(255,255,255,.14);--radius:10px}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;flex-direction:column}
-.header{background:var(--surface);padding:10px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0;flex-wrap:wrap;gap:10px}
-.header h1{font-size:20px;font-weight:600;white-space:nowrap}
-.header h1 .logo{color:var(--accent)}
-.lang-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 10px;border-radius:var(--radius);cursor:pointer;font-size:12px;font-weight:600}
-.back-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 10px;border-radius:var(--radius);cursor:pointer;font-size:12px;text-decoration:none}
+body{font-family:"InterVar",system-ui,-apple-system,'Segoe UI',sans-serif;background:var(--bg);background-image:radial-gradient(1100px 420px at 50% -180px,rgba(255,82,99,.07),transparent 70%);background-attachment:fixed;color:var(--text);min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+.header{background:rgba(13,17,25,.82);backdrop-filter:blur(14px) saturate(1.25);-webkit-backdrop-filter:blur(14px) saturate(1.25);padding:12px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0;flex-wrap:wrap;gap:10px}
+.header h1{font-family:"SpaceGrotesk","InterVar",sans-serif;font-size:21px;font-weight:640;letter-spacing:-.02em;white-space:nowrap}
+.header h1 .logo{background:linear-gradient(120deg,#ff7a87,#ff5263 55%,#ff3d6e);-webkit-background-clip:text;background-clip:text;color:transparent}
+.lang-btn,.back-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:7px 14px;border-radius:999px;cursor:pointer;font-size:12px;font-weight:620;text-decoration:none;transition:all .14s ease}
+.lang-btn:hover,.back-btn:hover{border-color:var(--border-strong);color:var(--accent2)}
 main{flex:1;display:flex;align-items:center;justify-content:center;padding:24px 16px}
-.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);max-width:540px;width:100%;padding:40px 32px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.04)}
-.fountain{font-size:52px;line-height:1;margin-bottom:20px}
-.card p{font-size:16px;line-height:1.6;margin:0 0 28px}
+.card{background:var(--surface);border:1px solid var(--border-strong);border-radius:20px;max-width:540px;width:100%;padding:40px 32px;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.fountain{font-size:52px;line-height:1;margin-bottom:20px;filter:drop-shadow(0 8px 20px rgba(77,184,255,.2))}
+.card p{font-size:16px;line-height:1.6;margin:0 0 28px;color:var(--text)}
 .card p.ask{font-style:italic;color:var(--text-dim);font-size:15px}
-.donate-btn{display:inline-block;background:var(--accent2);color:#fff;text-decoration:none;padding:10px 22px;border-radius:var(--radius);font-size:15px;font-weight:600;margin-bottom:8px}
-.donate-btn:hover{background:#005a87}
+.donate-btn{display:inline-block;background:linear-gradient(120deg,#ff7a87,#ff5263);color:#fff;text-decoration:none;padding:12px 24px;border-radius:10px;font-size:15px;font-weight:640;margin-bottom:8px;box-shadow:0 8px 24px rgba(255,82,99,.25);transition:transform .14s ease,opacity .14s ease}
+.donate-btn:hover{opacity:.92;transform:translateY(-1px)}
 .url{font-size:12px;color:var(--text-dim);margin-bottom:28px;word-break:break-all}
-.qr{width:150px;height:150px;display:block;margin:0 auto 10px}
+.qr{width:150px;height:150px;display:block;margin:0 auto 10px;border-radius:10px;background:#fff;padding:8px}
 .qr-cap{font-size:12px;color:var(--text-dim)}
 .foot{font-size:13px;color:var(--text-dim);margin-top:36px;line-height:1.5}
+::selection{background:rgba(255,82,99,.32)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media (max-width:768px){.card{padding:32px 20px}.header h1{font-size:18px}.lang-btn,.back-btn{min-height:40px}}
 </style>
 </head>
 <body>

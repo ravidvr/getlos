@@ -160,37 +160,42 @@ def build_ics(v):
 
 # ── Shared page chrome ───────────────────────────────────────────────────
 PAGE_CSS = """
-:root{--bg:#f8f9fa;--surface:#fff;--surface2:#e9ecef;--text:#212529;--text-dim:#6c757d;--accent:#e63946;--accent2:#0077b6;--border:#dee2e6;--radius:8px}
+@font-face{font-family:"InterVar";src:url("__FP__Inter-var-latin.woff2") format("woff2");font-weight:100 900;font-display:swap}
+@font-face{font-family:"InterVar";src:url("__FP__Inter-var-latin-ext.woff2") format("woff2");font-weight:100 900;font-display:swap}
+@font-face{font-family:"SpaceGrotesk";src:url("__FP__SpaceGrotesk-var-latin.woff2") format("woff2");font-weight:300 700;font-display:swap}
+@font-face{font-family:"SpaceGrotesk";src:url("__FP__SpaceGrotesk-var-latin-ext.woff2") format("woff2");font-weight:300 700;font-display:swap}
+:root{--bg:#0b0e14;--surface:#131a26;--surface2:rgba(255,255,255,.055);--text:#eef2f7;--text-dim:#8e9aad;--accent:#ff5263;--accent2:#4db8ff;--border:rgba(255,255,255,.07);--radius:10px}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
-.header{background:var(--surface);padding:10px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
-.header h1{font-size:20px;font-weight:600}
-.header h1 .logo{color:var(--accent)}
+body{font-family:"InterVar",system-ui,-apple-system,'Segoe UI',sans-serif;background:var(--bg);background-image:radial-gradient(1100px 420px at 50% -180px,rgba(255,82,99,.07),transparent 70%);background-attachment:fixed;color:var(--text);min-height:100vh;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+.header{background:rgba(13,17,25,.82);backdrop-filter:blur(14px) saturate(1.25);-webkit-backdrop-filter:blur(14px) saturate(1.25);padding:12px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.header h1{font-family:"SpaceGrotesk","InterVar",sans-serif;font-size:21px;font-weight:640;letter-spacing:-.02em}
+.header h1 .logo{background:linear-gradient(120deg,#ff7a87,#ff5263 55%,#ff3d6e);-webkit-background-clip:text;background-clip:text;color:transparent}
 .header a{color:var(--accent2);text-decoration:none;font-size:13px}
 .header a:hover{text-decoration:underline}
-main{max-width:760px;margin:0 auto;padding:24px 16px}
-.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px;margin-bottom:16px}
-.card h2{font-size:15px;margin-bottom:12px}
+main{max-width:760px;margin:0 auto;padding:28px 16px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:24px;margin-bottom:16px;box-shadow:0 8px 24px rgba(0,0,0,.35)}
+.card h2{font-family:"SpaceGrotesk","InterVar",sans-serif;font-size:16px;font-weight:640;margin-bottom:12px}
 .stats{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
-.stat{background:var(--surface2);border-radius:var(--radius);padding:6px 12px;font-size:12px}
-.stat b{font-size:14px}
+.stat{background:var(--surface2);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--text)}
+.stat b{font-size:14px;font-family:"SpaceGrotesk","InterVar",sans-serif;font-weight:640}
 ul{list-style:none}
-li{padding:6px 0;border-bottom:1px solid var(--border);font-size:13px}
+li{padding:8px 0;border-bottom:1px solid var(--border);font-size:13.5px}
 li:last-child{border-bottom:none}
 li a{color:var(--accent2);text-decoration:none}
 li a:hover{text-decoration:underline}
 .dim{color:var(--text-dim);font-size:12px}
 .foot{text-align:center;color:var(--text-dim);font-size:12px;padding:0 16px 32px;line-height:1.7}
 .foot a{color:var(--accent2)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 """
 
 
-def page(title, body_html):
+def page(title, body_html, font_prefix="assets/fonts/"):
     return (
         "<!DOCTYPE html>\n<html lang=\"en\"><head>\n"
         "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n"
         f"<title>{esc(title)}</title>\n"
-        f"<style>{PAGE_CSS}</style>\n"
+        f"<style>{PAGE_CSS.replace('__FP__', font_prefix)}</style>\n"
         "</head><body>\n"
         f"<div class=\"header\"><h1><span class=\"logo\">getlos</span> {esc(title.split(' — ', 1)[-1])}</h1>"
         f"<a href=\"{DASH}\">← Back to the map</a></div>\n"
@@ -217,7 +222,7 @@ def build_ical_index(venues):
         "iCloud/Google Calendar/Outlook all support importing .ics links.</p></div>"
         f"<div class=\"card\"><ul>{''.join(rows)}</ul></div>"
     )
-    return page("getlos — Cinema calendars", body)
+    return page("getlos — Cinema calendars", body, font_prefix="../assets/fonts/")
 
 
 # ── Weekly digest ────────────────────────────────────────────────────────

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#0077b6">
+<meta name="theme-color" content="#0b0e14">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="getlos">
 <title>getlos — Berlin Cinema Map</title>
 <meta name="description" content="Every movie screening in Berlin on one interactive map — ~90 cinemas, all languages (DE/EN/OV/OmU), updated daily from public data. No tracking, no ads." />
@@ -24,136 +24,810 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
+/* ============================================================
+   getlos — Berlin Cinema Map · design system
+   Dark-mode-native. Cinema identity: deep charcoal canvas,
+   crimson marquee accent, glass surfaces, luminance steps.
+   Inter Variable + Space Grotesk self-hosted (no third-party
+   requests — keeps the "no tracking" promise).
+   ============================================================ */
+
+/* ---------- fonts (self-hosted) ---------- */
+@font-face {
+  font-family: "InterVar";
+  src: url("assets/fonts/Inter-var-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191,
+    U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "InterVar";
+  src: url("assets/fonts/Inter-var-latin-ext.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+    U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* display face — wordmark, panel titles, stat numbers */
+@font-face {
+  font-family: "SpaceGrotesk";
+  src: url("assets/fonts/SpaceGrotesk-var-latin.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191,
+    U+2193, U+2212, U+2215, U+0023, U+00B7, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "SpaceGrotesk";
+  src: url("assets/fonts/SpaceGrotesk-var-latin-ext.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+    U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* ---------- tokens ---------- */
 :root {
-  --bg:#f8f9fa; --surface:#fff; --surface2:#e9ecef;
-  --text:#212529; --text-dim:#6c757d;
-  --accent:#e63946; --accent2:#0077b6;
-  --border:#dee2e6; --radius:8px;
+  /* canvas & surfaces — luminance steps, cool charcoal */
+  --bg: #0b0e14;
+  --bg-2: #0f131c;
+  --glow: rgba(255, 82, 99, 0.07);
+  --surface: rgba(255, 255, 255, 0.032);
+  --surface-2: rgba(255, 255, 255, 0.055);
+  --surface-3: rgba(255, 255, 255, 0.09);
+  --surface-solid: #131a26;
+  --glass: rgba(13, 17, 25, 0.82);
+
+  /* text */
+  --text: #eef2f7;
+  --text-2: #c6ced9;
+  --muted: #8e9aad;
+  --faint: #67738a;
+
+  /* brand & status */
+  --accent: #ff5263;                 /* crimson — cinema */
+  --accent-strong: #ff7a87;
+  --accent-dim: rgba(255, 82, 99, 0.14);
+  --accent2: #4db8ff;                /* info blue — links, location, default pin */
+  --accent2-dim: rgba(77, 184, 255, 0.14);
+  --good: #46c26a;
+  --warn: #ffb020;
+  --bad: #ff5c4d;
+  --userloc: #4dd6ff;
+
+  /* borders — whisper-thin translucent */
+  --border: rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(255, 255, 255, 0.14);
+  --border-accent: rgba(255, 82, 99, 0.45);
+
+  /* geometry */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+  --r-xl: 20px;
+  --r-pill: 999px;
+
+  /* elevation */
+  --shadow-1: 0 1px 0 rgba(0, 0, 0, 0.25);
+  --shadow-2: 0 8px 24px rgba(0, 0, 0, 0.45), 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-3: 0 20px 60px rgba(0, 0, 0, 0.6), 0 2px 8px rgba(0, 0, 0, 0.5);
+
+  /* motion */
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.4, 0.44, 1);
+  --dur-fast: 140ms;
+  --dur: 240ms;
+  --dur-slow: 480ms;
 }
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);height:100vh;display:flex;flex-direction:column;overflow:hidden}
 
-.header{background:var(--surface);padding:10px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0;flex-wrap:wrap;gap:10px}
-.header h1{font-size:20px;font-weight:600;white-space:nowrap}
-.header h1 .logo{color:var(--accent)}
-.lang-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 10px;border-radius:var(--radius);cursor:pointer;font-size:12px;font-weight:600}
-.loc-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:4px 8px;border-radius:var(--radius);cursor:pointer;font-size:14px;transition:all .15s}
-.loc-btn:hover{background:var(--accent2);border-color:var(--accent2)}
-.loc-btn.active{background:var(--accent2);border-color:var(--accent2)}
+* { margin: 0; padding: 0; box-sizing: border-box; }
 
-.filters{display:flex;gap:10px;padding:8px 20px;background:var(--surface);border-bottom:1px solid var(--border);flex-shrink:0;flex-wrap:wrap;align-items:center}
-.filter-group{display:flex;gap:5px;align-items:center;flex-wrap:wrap}
-.filter-group .label{font-size:10px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.5px;margin-right:4px}
-.filter-group button{background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:5px 11px;border-radius:var(--radius);cursor:pointer;font-size:12px;white-space:nowrap;transition:all .15s}
-.filter-group button:hover{background:var(--accent);border-color:var(--accent)}
-.filter-group button.active{background:var(--accent);border-color:var(--accent);font-weight:600}
+html { -webkit-text-size-adjust: 100%; }
 
-.search-wrap{position:relative;min-width:200px;flex:1;max-width:320px}
-.search-wrap input{width:100%;background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:5px 12px;border-radius:var(--radius);font-size:12px;outline:none}
-.search-wrap input:focus{border-color:var(--accent2)}
-.search-wrap input::placeholder{color:var(--text-dim)}
-.suggestions{position:absolute;top:100%;left:0;right:0;background:var(--surface);border:1px solid var(--border);border-radius:0 0 var(--radius) var(--radius);z-index:10000;max-height:200px;overflow-y:auto;display:none}
-.suggestions.show{display:block}
-.suggestions .item{padding:8px 12px;font-size:12px;cursor:pointer;border-bottom:1px solid var(--border);color:var(--text)}
-.suggestions .item:hover,.suggestions .item.active{background:var(--surface2);color:var(--accent2)}
-
-#map{flex:1;min-height:0}
-
-/* ── Bottom bar ── */
-.bottom-bar{background:var(--surface);border-top:1px solid var(--border);padding:6px 20px;display:flex;align-items:center;gap:12px;flex-shrink:0;flex-wrap:wrap;font-size:12px}
-.bottom-stats{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.bottom-stats strong{color:var(--accent2);font-weight:700}
-.bottom-stats span{color:var(--text-dim)}
-.bottom-sep{color:var(--border);margin:0 2px}
-.bottom-legend{display:flex;align-items:center;gap:8px;margin-left:auto}
-.bottom-source{color:var(--text-dim);text-decoration:none;font-size:11px;margin-left:8px;white-space:nowrap}
-.bottom-source:hover{color:var(--accent2)}
-#legend .row{display:flex;align-items:center;gap:6px;line-height:1.7}
-#legend .dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
-
-/* Tooltips */
-/* Popups (click to open, stays until click outside) */
-.leaflet-popup-content-wrapper{background:var(--surface)!important;color:var(--text)!important;border-radius:var(--radius)!important;box-shadow:0 4px 16px rgba(0,0,0,.2)!important}
-.leaflet-popup-tip{background:var(--surface)!important}
-.leaflet-popup-content{font-size:12px;margin:10px 12px!important;line-height:1.4}
-.leaflet-popup-content h3{font-size:14px;color:var(--accent);margin:0 0 6px;font-weight:600}
-.leaflet-popup-content .amenity{font-size:10px;color:var(--text-dim);margin-bottom:8px}
-.leaflet-popup-content .evt{padding:4px 0;border-bottom:1px solid var(--border);display:flex;gap:8px;align-items:flex-start}
-.leaflet-popup-content .evt:last-child{border-bottom:none}
-.leaflet-popup-content .evt-time{color:var(--accent2);min-width:42px;font-weight:600;font-size:11px;white-space:nowrap;padding-top:1px}
-.leaflet-popup-content .evt-info{flex:1;min-width:0}
-.leaflet-popup-content .evt-title{font-size:12px;line-height:1.3}
-.leaflet-popup-content .evt-meta{color:var(--text-dim);font-size:10px;margin-top:1px}
-.leaflet-popup-content .evt-meta a{color:var(--accent2);text-decoration:none}
-.leaflet-popup-content .evt-more{color:var(--text-dim);font-size:10px;margin-top:6px;font-style:italic}
-.leaflet-popup-content .evt-lang{display:inline-block;background:var(--surface2);color:var(--text-dim);font-size:9px;padding:1px 5px;border-radius:3px;margin-left:6px}
-.leaflet-popup-content .amenity a{color:var(--accent2);text-decoration:none}
-
-/* Help overlay */
-.help-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:9999}
-.help-overlay.open{display:flex;align-items:center;justify-content:center}
-.help-box{background:var(--surface);border:1px solid var(--border);border-radius:12px;max-width:460px;width:90%;max-height:85vh;overflow-y:auto;padding:28px}
-.help-box h2{font-size:18px;color:var(--accent);margin-bottom:20px}
-.help-grid{display:grid;grid-template-columns:28px 1fr;gap:12px 10px;font-size:13px;line-height:1.5;align-items:start}
-.help-grid div:first-child{font-size:18px;text-align:center}
-.help-close{display:block;width:100%;margin-top:20px;background:var(--accent);border:none;color:#fff;padding:10px;border-radius:var(--radius);font-size:14px;cursor:pointer;font-weight:600}
-.help-close:hover{opacity:.9}
-
-.sparse-toast{position:fixed;bottom:48px;left:50%;transform:translateX(-50%);background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:8px 16px;font-size:12px;color:var(--text-dim);z-index:950;box-shadow:0 4px 16px rgba(0,0,0,.15);display:none;align-items:center;gap:12px;max-width:440px;text-align:center;line-height:1.4;animation:slideUp .3s ease}
-.sparse-toast.show{display:flex}
-.sparse-close{background:none;border:none;font-size:16px;color:var(--text-dim);cursor:pointer;padding:0 4px;line-height:1}
-@keyframes slideUp{from{opacity:0;transform:translateX(-50%) translateY(12px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
-
-.freshness{font-size:10px;color:var(--text-dim);display:flex;align-items:center;gap:4px;white-space:nowrap}
-.freshness .dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
-
-/* Bottom sheet (mobile popup replacement) */
-.bottom-sheet{position:fixed;bottom:0;left:0;right:0;z-index:950;background:var(--surface);border-radius:var(--radius) var(--radius) 0 0;box-shadow:0 -4px 20px rgba(0,0,0,.15);transform:translateY(100%);transition:transform .25s ease;max-height:70vh;overflow-y:auto;display:block}
-.bottom-sheet.open{transform:translateY(0)}
-.sheet-handle{width:40px;height:4px;background:var(--border);border-radius:2px;margin:8px auto 0}
-.sheet-content{padding:0 16px 24px}
-
-/* Filter toggle (mobile only, hidden by default) */
-.filter-toggle{display:none}
-
-@media (max-width:768px){
-  .header{padding:8px 10px;gap:6px}
-  .header h1{font-size:15px}
-  .filters{flex-direction:column;align-items:stretch;padding:6px 10px;gap:4px}
-  .filter-group{width:100%}
-  .filter-group button{min-height:30px;padding:4px 8px;font-size:11px}
-  [data-preset]{font-size:10px!important;padding:3px 7px!important}
-  #dateGrid{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}
-  #colorGuide{padding:2px 8px;font-size:10px;line-height:1.4}
-  #colorGuide span{font-size:9px}
-  .search-wrap{min-width:0;max-width:100%;width:100%}
-  .search-wrap input{min-height:40px;font-size:16px}
-  #map{height:68vh;min-height:300px}
-  .bottom-bar{flex-direction:column;align-items:flex-start;gap:2px;padding:4px 8px;font-size:10px}
-  .bottom-legend{margin-left:0}
-  .bottom-source{display:none}
-  .bottom-sep{display:none}
-  #formatFilters{flex-direction:column;padding:4px 10px;gap:4px}
-  #formatFilters .filter-group button{min-height:28px;padding:3px 7px;font-size:10px}
-  .leaflet-tooltip{max-width:270px!important}
-  .leaflet-popup-content{font-size:11px}
-  .suggestions{max-height:160px;position:absolute;bottom:auto;top:100%;left:0;right:0;border-radius:var(--radius)}
-  .suggestions .item{padding:10px 12px;font-size:13px;min-height:40px}
-  .sparse-toast{bottom:auto;top:8px;max-width:90vw;font-size:11px;padding:6px 12px}
-  .sparse-close{font-size:22px;padding:4px 8px;min-width:44px;min-height:44px}
-  .leaflet-popup-content-wrapper{max-width:calc(100vw - 40px)!important}
-  .leaflet-popup-content{max-width:calc(100vw - 60px)!important}
-  .filter-toggle{display:block!important;width:100%;padding:6px;background:var(--surface);border:none;border-bottom:1px solid var(--border);font-size:13px;font-weight:600;color:var(--text);cursor:pointer}
-  #filterPanel.collapsed{display:none!important}
-  .bottom-sheet{max-height:75vh}
+body {
+  font-family: "InterVar", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-feature-settings: "cv01", "ss03";
+  background: var(--bg);
+  background-image:
+    radial-gradient(1100px 420px at 50% -180px, var(--glow), transparent 70%),
+    radial-gradient(800px 360px at 92% 108%, rgba(77, 184, 255, 0.05), transparent 60%);
+  background-attachment: fixed;
+  color: var(--text);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 14px;
+  line-height: 1.5;
 }
+
+::selection { background: rgba(255, 82, 99, 0.32); }
+
+:focus-visible { outline: 2px solid var(--accent2); outline-offset: 2px; border-radius: 4px; }
+
+/* thin dark scrollbars */
+* { scrollbar-width: thin; scrollbar-color: var(--border-strong) transparent; }
+*::-webkit-scrollbar { width: 8px; height: 8px; }
+*::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 4px; }
+*::-webkit-scrollbar-track { background: transparent; }
+
+/* ---------- header ---------- */
+.header {
+  background: var(--glass);
+  backdrop-filter: blur(14px) saturate(1.25);
+  -webkit-backdrop-filter: blur(14px) saturate(1.25);
+  padding: 10px 20px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.header h1 {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  font-family: "SpaceGrotesk", "InterVar", sans-serif;
+  font-weight: 640;
+  font-size: 21px;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+.header h1 .logo {
+  background: linear-gradient(120deg, var(--accent-strong), var(--accent) 55%, #ff3d6e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.header h1 #headerLabel { font-size: 13px; font-weight: 500; color: var(--muted); letter-spacing: 0.01em; }
+
+.header-actions { display: flex; gap: 6px; align-items: center; }
+
+.loc-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  width: 34px;
+  height: 34px;
+  min-width: 34px;
+  border-radius: var(--r-md);
+  cursor: pointer;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: background var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease),
+    color var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
+}
+.loc-btn:hover {
+  background: var(--accent2-dim);
+  border-color: rgba(77, 184, 255, 0.4);
+  color: var(--accent2);
+  transform: translateY(-1px);
+}
+.loc-btn.active { background: var(--accent2); border-color: var(--accent2); color: #0b0e14; }
+
+.lang-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 7px 14px;
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 620;
+  letter-spacing: 0.04em;
+  transition: all var(--dur-fast) var(--ease);
+}
+.lang-btn:hover { color: var(--text); border-color: var(--border-strong); }
+
+/* ---------- filter bars ---------- */
+.filters {
+  display: flex;
+  gap: 12px;
+  padding: 9px 20px;
+  background: var(--glass);
+  backdrop-filter: blur(14px) saturate(1.25);
+  -webkit-backdrop-filter: blur(14px) saturate(1.25);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.filter-group { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; }
+.filter-group .label {
+  font-size: 10px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 620;
+  margin-right: 5px;
+}
+.filter-group button {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  padding: 5px 13px;
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 540;
+  white-space: nowrap;
+  min-height: 30px;
+  transition: background var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease),
+    color var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
+}
+.filter-group button:hover {
+  background: var(--surface-3);
+  border-color: var(--border-strong);
+  color: var(--text);
+  transform: translateY(-1px);
+}
+.filter-group button.active {
+  background: var(--accent-dim);
+  border-color: var(--border-accent);
+  color: var(--accent-strong);
+  font-weight: 640;
+}
+.filter-group button[data-preset].active {
+  background: var(--accent2-dim);
+  border-color: rgba(77, 184, 255, 0.45);
+  color: var(--accent2);
+  font-weight: 640;
+}
+
+#dateGrid { display: flex; gap: 4px; flex-wrap: wrap; }
+#dateGrid button {
+  padding: 4px 10px;
+  font-size: 11px;
+  min-height: 26px;
+  font-weight: 560;
+}
+
+/* search */
+.search-wrap { position: relative; min-width: 200px; flex: 1; max-width: 340px; display: flex; align-items: center; }
+.search-wrap input {
+  width: 100%;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 34px 8px 14px;
+  border-radius: var(--r-pill);
+  font-size: 13px;
+  outline: none;
+  transition: border-color var(--dur-fast) var(--ease), box-shadow var(--dur-fast) var(--ease), background var(--dur-fast) var(--ease);
+}
+.search-wrap input:focus {
+  border-color: rgba(77, 184, 255, 0.55);
+  box-shadow: 0 0 0 3px var(--accent2-dim);
+  background: var(--surface-3);
+}
+.search-wrap input::placeholder { color: var(--faint); }
+#searchMode {
+  font-size: 10px;
+  color: var(--accent2);
+  font-weight: 620;
+  white-space: nowrap;
+  margin-left: 8px;
+}
+#clearSearch {
+  position: absolute;
+  right: 10px;
+  background: var(--surface-3);
+  border: none;
+  color: var(--muted);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  font-size: 11px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--dur-fast) var(--ease);
+}
+#clearSearch:hover { background: var(--bad); color: #fff; }
+
+.suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 6px;
+  background: var(--surface-solid);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-lg);
+  z-index: 10000;
+  max-height: 240px;
+  overflow-y: auto;
+  display: none;
+  box-shadow: var(--shadow-3);
+  padding: 4px;
+}
+.suggestions.show { display: block; }
+.suggestions .item {
+  padding: 9px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: var(--r-sm);
+  color: var(--text-2);
+  border-bottom: none;
+  transition: background var(--dur-fast) var(--ease), color var(--dur-fast) var(--ease);
+}
+.suggestions .item:hover, .suggestions .item.active { background: var(--surface-3); color: var(--accent2); }
+
+/* format/size/setting second row */
+#formatFilters.filters { padding: 6px 20px; }
+
+/* ---------- color guide ---------- */
+#colorGuide {
+  padding: 5px 20px;
+  font-size: 11px;
+  color: var(--muted);
+  background: rgba(11, 14, 20, 0.6);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#colorGuide .gdot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 5px;
+  box-shadow: 0 0 6px currentColor;
+}
+
+/* ---------- map ---------- */
+#map { flex: 1; min-height: 0; }
+
+.leaflet-container {
+  background: var(--bg);
+  font-family: "InterVar", system-ui, sans-serif;
+  font-size: 12px;
+  color: var(--text);
+}
+.leaflet-control-zoom a {
+  background: var(--surface-solid) !important;
+  color: var(--text-2) !important;
+  border: 1px solid var(--border-strong) !important;
+  width: 34px !important;
+  height: 34px !important;
+  line-height: 32px !important;
+  font-size: 16px !important;
+  transition: background var(--dur-fast) var(--ease), color var(--dur-fast) var(--ease);
+}
+.leaflet-control-zoom a:hover { background: var(--surface-3) !important; color: #fff !important; }
+.leaflet-bar { border: none !important; box-shadow: var(--shadow-2) !important; border-radius: var(--r-md) !important; overflow: hidden; }
+.leaflet-control-zoom { border: none !important; }
+.leaflet-control-attribution {
+  background: rgba(11, 14, 20, 0.7) !important;
+  color: var(--faint) !important;
+  font-size: 9px !important;
+  padding: 2px 6px !important;
+}
+.leaflet-control-attribution a { color: var(--muted) !important; }
+.leaflet-tooltip {
+  background: var(--surface-solid) !important;
+  color: var(--text) !important;
+  border: 1px solid var(--border-strong) !important;
+  border-radius: var(--r-sm) !important;
+  box-shadow: var(--shadow-2) !important;
+  font-size: 11px !important;
+}
+.leaflet-tooltip-top:before, .leaflet-tooltip-bottom:before { border-top-color: var(--border-strong) !important; }
+.leaflet-tooltip-left:before, .leaflet-tooltip-right:before { border-left-color: var(--border-strong) !important; }
+
+/* pin halo for dark tiles */
+.leaflet-marker-icon { filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.55)); }
+
+/* ---------- popups ---------- */
+.leaflet-popup-content-wrapper {
+  background: rgba(19, 26, 38, 0.96) !important;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  color: var(--text) !important;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-lg) !important;
+  box-shadow: var(--shadow-3) !important;
+}
+.leaflet-popup-tip { background: rgba(19, 26, 38, 0.96) !important; border: 1px solid var(--border-strong); }
+.leaflet-popup-content { font-size: 12.5px; margin: 14px 16px !important; line-height: 1.45; max-height: min(58vh, 540px); overflow-y: auto; overscroll-behavior: contain; padding-right: 4px; }
+/* shared component styling for popups AND the mobile bottom sheet */
+.leaflet-popup-content h3, .sheet-content h3 {
+  font-family: "SpaceGrotesk", "InterVar", sans-serif;
+  font-size: 15px;
+  letter-spacing: -0.01em;
+  color: var(--accent-strong);
+  margin: 0 0 5px;
+  font-weight: 640;
+}
+.leaflet-popup-content .amenity, .sheet-content .amenity { font-size: 10.5px; color: var(--muted); margin-bottom: 10px; }
+.leaflet-popup-content .evt, .sheet-content .evt { padding: 6px 0; border-bottom: 1px solid var(--border); display: flex; gap: 10px; align-items: flex-start; }
+.leaflet-popup-content .evt:last-child, .sheet-content .evt:last-child { border-bottom: none; }
+.leaflet-popup-content .evt-time, .sheet-content .evt-time {
+  min-width: 44px;
+  font-weight: 640;
+  font-size: 11.5px;
+  white-space: nowrap;
+  padding-top: 1px;
+  font-family: "SpaceGrotesk", "InterVar", sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+.leaflet-popup-content .evt-info, .sheet-content .evt-info { flex: 1; min-width: 0; }
+.leaflet-popup-content .evt-title, .sheet-content .evt-title { font-size: 12.5px; line-height: 1.35; font-weight: 560; }
+.leaflet-popup-content .evt-meta, .sheet-content .evt-meta { color: var(--muted); font-size: 10.5px; margin-top: 2px; }
+.leaflet-popup-content .evt-meta a, .sheet-content .evt-meta a { color: var(--accent2); text-decoration: none; }
+.leaflet-popup-content .evt-meta a:hover, .sheet-content .evt-meta a:hover { text-decoration: underline; }
+.leaflet-popup-content .evt-more, .sheet-content .evt-more { color: var(--muted); font-size: 10.5px; margin-top: 8px; font-style: italic; }
+.leaflet-popup-content .evt-lang, .sheet-content .evt-lang {
+  display: inline-block;
+  background: var(--surface-3);
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  font-size: 9px;
+  font-weight: 620;
+  padding: 1px 6px;
+  border-radius: var(--r-pill);
+  margin-left: 7px;
+  vertical-align: 1px;
+}
+.leaflet-popup-content .amenity a, .sheet-content .amenity a { color: var(--accent2); text-decoration: none; }
+.leaflet-popup-close-button {
+  color: var(--muted) !important;
+  font-size: 18px !important;
+  padding: 6px 8px 0 0 !important;
+  transition: color var(--dur-fast) var(--ease);
+}
+.leaflet-popup-close-button:hover { color: #fff !important; }
+
+/* ---------- legend (bottom bar) ---------- */
+#legend .row { display: flex; align-items: center; gap: 6px; line-height: 1.7; font-size: 11.5px; color: var(--muted); }
+#legend .dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 6px currentColor;
+}
+
+/* ---------- bottom bar ---------- */
+.bottom-bar {
+  background: var(--glass);
+  backdrop-filter: blur(14px) saturate(1.25);
+  -webkit-backdrop-filter: blur(14px) saturate(1.25);
+  border-top: 1px solid var(--border);
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  font-size: 12px;
+}
+.bottom-stats { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.bottom-stats strong {
+  color: var(--text);
+  font-family: "SpaceGrotesk", "InterVar", sans-serif;
+  font-weight: 640;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+.bottom-stats span { color: var(--muted); }
+.bottom-sep { color: var(--faint); margin: 0 2px; }
+.bottom-legend { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+.bottom-source {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 11px;
+  white-space: nowrap;
+  transition: color var(--dur-fast) var(--ease);
+}
+.bottom-source:hover { color: var(--accent2); }
+.bottom-source.support-link {
+  background: var(--accent-dim);
+  border: 1px solid var(--border-accent);
+  color: var(--accent-strong);
+  border-radius: var(--r-pill);
+  padding: 3px 12px;
+  font-weight: 620;
+  transition: all var(--dur-fast) var(--ease);
+}
+.bottom-source.support-link:hover { background: var(--accent); color: #fff; }
+
+.freshness { font-size: 10.5px; color: var(--muted); display: flex; align-items: center; gap: 5px; white-space: nowrap; }
+.freshness .dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; box-shadow: 0 0 6px currentColor; }
+.coverage { font-size: 10.5px; color: var(--muted); white-space: nowrap; }
+
+/* ---------- toasts ---------- */
+.sparse-toast {
+  position: fixed;
+  bottom: 52px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--surface-solid);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-md);
+  padding: 10px 18px;
+  font-size: 12.5px;
+  color: var(--text-2);
+  z-index: 950;
+  box-shadow: var(--shadow-3);
+  display: none;
+  align-items: center;
+  gap: 14px;
+  max-width: 460px;
+  text-align: center;
+  line-height: 1.45;
+  animation: slideUp 0.35s var(--ease-spring);
+}
+.sparse-toast.show { display: flex; }
+.sparse-close {
+  background: none;
+  border: none;
+  font-size: 15px;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0 4px;
+  line-height: 1;
+  transition: color var(--dur-fast) var(--ease);
+}
+.sparse-close:hover { color: #fff; }
+@keyframes slideUp {
+  from { opacity: 0; transform: translateX(-50%) translateY(14px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+/* ---------- overlays (help / about / contact) ---------- */
+.help-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 6, 10, 0.72);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  z-index: 9999;
+  padding: 20px;
+}
+.help-overlay.open { display: flex; align-items: center; justify-content: center; }
+.help-box {
+  background: var(--surface-solid);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-xl);
+  max-width: 480px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 30px;
+  box-shadow: var(--shadow-3);
+  animation: overlayIn 0.3s var(--ease);
+}
+@keyframes overlayIn {
+  from { opacity: 0; transform: translateY(14px) scale(0.985); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.help-box h2 {
+  font-family: "SpaceGrotesk", "InterVar", sans-serif;
+  font-size: 19px;
+  font-weight: 640;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-bottom: 20px;
+}
+.help-box h3 { font-size: 13px; color: var(--text-2); margin-bottom: 8px; font-weight: 620; }
+.help-box p { color: var(--text-2); }
+.help-box a { color: var(--accent2); text-decoration: none; }
+.help-box a:hover { text-decoration: underline; }
+.help-box hr { border: none; border-top: 1px solid var(--border); margin: 18px 0; }
+.help-grid {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  gap: 13px 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  align-items: start;
+  color: var(--text-2);
+}
+.help-grid div:first-child { font-size: 17px; text-align: center; }
+.help-close {
+  display: block;
+  width: 100%;
+  margin-top: 22px;
+  background: linear-gradient(120deg, var(--accent-strong), var(--accent));
+  border: none;
+  color: #fff;
+  padding: 11px;
+  border-radius: var(--r-md);
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: 640;
+  font-family: inherit;
+  transition: opacity var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
+}
+.help-close:hover { opacity: 0.92; transform: translateY(-1px); }
+
+.overlay-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; gap: 10px; }
+.overlay-head h2 { margin: 0; }
+
+/* contact form */
+#contactForm { display: flex; flex-direction: column; gap: 12px; }
+#contactForm input, #contactForm textarea {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 10px 14px;
+  border-radius: var(--r-md);
+  font-size: 15px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color var(--dur-fast) var(--ease), box-shadow var(--dur-fast) var(--ease);
+}
+#contactForm input:focus, #contactForm textarea:focus {
+  border-color: rgba(77, 184, 255, 0.55);
+  box-shadow: 0 0 0 3px var(--accent2-dim);
+}
+#contactForm input::placeholder, #contactForm textarea::placeholder { color: var(--faint); }
+#contactForm button[type="submit"] {
+  background: linear-gradient(120deg, var(--accent-strong), var(--accent));
+  border: none;
+  color: #fff;
+  padding: 11px;
+  border-radius: var(--r-md);
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: 640;
+  font-family: inherit;
+  transition: opacity var(--dur-fast) var(--ease);
+}
+#contactForm button[type="submit"]:hover { opacity: 0.92; }
+
+/* ---------- bottom sheet (mobile) ---------- */
+.bottom-sheet {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 950;
+  background: var(--surface-solid);
+  border: 1px solid var(--border-strong);
+  border-bottom: none;
+  border-radius: var(--r-xl) var(--r-xl) 0 0;
+  box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.55);
+  transform: translateY(100%);
+  transition: transform 0.3s var(--ease);
+  max-height: 75vh;
+  overflow-y: auto;
+  display: block;
+}
+.bottom-sheet.open { transform: translateY(0); }
+.sheet-handle { width: 44px; height: 4px; background: var(--border-strong); border-radius: 2px; margin: 10px auto 0; }
+.sheet-content { padding: 6px 18px 26px; font-size: 12.5px; line-height: 1.45; }
+
+/* ---------- filter toggle (mobile) ---------- */
+.filter-toggle { display: none; }
+
+/* ---------- empty state & loading ---------- */
+#emptyState {
+  background: var(--surface-solid);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-3);
+}
+#emptyState .empty-icon { font-size: 30px; margin-bottom: 8px; }
+#emptyStateMsg { font-family: "SpaceGrotesk", "InterVar", sans-serif; font-weight: 620; color: var(--text); }
+#emptyState .empty-hint { color: var(--muted); }
+#emptyState button {
+  background: var(--accent2);
+  color: #0b0e14;
+  border: none;
+  padding: 8px 18px;
+  border-radius: var(--r-pill);
+  font-size: 13px;
+  font-weight: 640;
+  cursor: pointer;
+  transition: all var(--dur-fast) var(--ease);
+}
+#emptyState button:hover { background: #6cc4ff; }
+
+#loadingOverlay { background: var(--bg) !important; color: var(--muted); }
+#loadingOverlay .loading-mark {
+  display: inline-block;
+  font-size: 34px;
+  margin-bottom: 10px;
+  animation: pulse 1.6s ease-in-out infinite;
+}
+#loadingOverlay .loading-text { font-size: 13.5px; font-weight: 540; letter-spacing: 0.02em; }
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.45; transform: scale(0.94); }
+}
+
+/* ---------- motion: reduced ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- mobile ---------- */
+@media (max-width: 768px) {
+  .header { padding: 8px 12px; gap: 6px; }
+  .header h1 { font-size: 18px; }
+  .header h1 #headerLabel { font-size: 12px; }
+  .filters { flex-direction: column; align-items: stretch; padding: 8px 12px; gap: 6px; }
+  .filter-group { width: 100%; }
+  .filter-group button { min-height: 40px; padding: 5px 13px; font-size: 11.5px; }
+  [data-preset] { font-size: 10.5px !important; padding: 4px 10px !important; min-height: 40px !important; }
+  #dateGrid { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
+  #dateGrid button { min-height: 40px; }
+  #colorGuide { padding: 5px 12px; font-size: 10.5px; }
+  #colorGuide span { font-size: 10px; }
+  .search-wrap { min-width: 0; max-width: 100%; width: 100%; }
+  .search-wrap input { min-height: 40px; font-size: 16px; padding-right: 38px; }
+  #clearSearch { width: 24px; height: 24px; right: 12px; }
+  #map { height: 68vh; min-height: 300px; }
+  .bottom-bar { flex-direction: column; align-items: flex-start; gap: 4px; padding: 6px 12px; font-size: 11px; }
+  .bottom-legend { margin-left: 0; }
+  .bottom-source { display: none; }
+  .bottom-source.support-link { display: inline-block; margin-top: 2px; }
+  .bottom-sep { display: none; }
+  #formatFilters { flex-direction: column; padding: 6px 12px; gap: 4px; }
+  #formatFilters .filter-group button { min-height: 40px; padding: 4px 10px; font-size: 10.5px; }
+  .leaflet-tooltip { max-width: 270px !important; }
+  .leaflet-popup-content { font-size: 12px; }
+  .suggestions { max-height: 170px; position: absolute; bottom: auto; top: 100%; left: 0; right: 0; border-radius: var(--r-lg); }
+  .suggestions .item { padding: 11px 14px; font-size: 13.5px; min-height: 42px; }
+  .sparse-toast { bottom: auto; top: 10px; max-width: 92vw; font-size: 12px; padding: 9px 14px; }
+  .sparse-close { font-size: 20px; padding: 6px 8px; min-width: 44px; min-height: 44px; }
+  .leaflet-popup-content-wrapper { max-width: calc(100vw - 40px) !important; }
+  .leaflet-popup-content { max-width: calc(100vw - 64px) !important; }
+  .filter-toggle {
+    display: block !important;
+    width: 100%;
+    padding: 8px;
+    background: var(--surface-solid);
+    border: none;
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+    font-weight: 620;
+    color: var(--text-2);
+    cursor: pointer;
+    min-height: 44px;
+  }
+  .filter-toggle:active { background: var(--surface-3); }
+  #filterPanel.collapsed { display: none !important; }
+  .bottom-sheet { max-height: 78vh; }
+  .help-box { padding: 22px 18px; }
+  .help-close { min-height: 44px; }
+  #contactForm input, #contactForm textarea { font-size: 16px; min-height: 44px; }
+}
+
 </style>
 </head>
 <body>
 
 <div class="header">
-  <h1><span class="logo">getlos</span> <span id="headerLabel">Berlin Cinema</span></h1>
-  <div style="display:flex;gap:8px;align-items:center">
+  <h1><span class="logo">getlos</span> <span id="headerLabel" data-t="header">Berlin Cinema</span></h1>
+  <div class="header-actions">
     <button class="loc-btn" id="locBtn" onclick="getUserLocation()" title="Use my location">📍</button>
     <button class="loc-btn" onclick="openHelp()" title="Help">?</button>
     <button class="loc-btn" onclick="openAbout()" title="About">ℹ</button>
@@ -166,7 +840,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 <div id="filters" class="filters">
   <div class="filter-group">
     <span class="label" data-t="lang">Language</span>
-    <button class="active" data-lang="all" onclick="setLang('all',this)">All</button>
+    <button class="active" data-t="all" data-lang="all" onclick="setLang('all',this)">All</button>
     <button data-lang="DE" onclick="setLang('DE',this)">DE</button>
     <button data-lang="EN" onclick="setLang('EN',this)">EN</button>
     <button data-lang="OV" onclick="setLang('OV',this)">OV/OmU</button>
@@ -174,47 +848,47 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <div class="filter-group">
     <span class="label" data-t="date">Date</span>
     <div id="dateGrid" style="display:flex;gap:4px;flex-wrap:wrap"></div>
-    <span style="color:var(--text-dim);font-size:10px;margin:0 4px">|</span>
+    <span style="color:var(--faint);font-size:10px;margin:0 4px">|</span>
     <button data-preset="weekend" onclick="setPreset('weekend',this)" data-t="weekend">Weekend</button>
     <button data-preset="3day" onclick="setPreset('3day',this)" data-t="3day">3-Day</button>
     <button data-preset="all" onclick="setPreset('all',this)" data-t="all">All Week</button>
   </div>
   <div class="search-wrap">
     <input type="search" id="addrSearch" placeholder="Search movie, cinema or address…" oninput="debouncedSuggest()" onkeydown="handleSearchKey(event)" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" inputmode="search" enterkeyhint="search" data-t="search">
-    <span id="searchMode" style="font-size:10px;color:var(--text-dim);display:none;white-space:nowrap"></span>
-    <button id="clearSearch" onclick="clearSearch()" style="display:none;background:none;border:none;font-size:14px;color:var(--text-dim);cursor:pointer;padding:0 4px">✕</button>
+    <span id="searchMode" style="display:none"></span>
+    <button id="clearSearch" onclick="clearSearch()" style="display:none">✕</button>
     <div class="suggestions" id="suggestions"></div>
   </div>
 </div>
 
-<div id="formatFilters" class="filters" style="display:none;padding:4px 20px;border-bottom:1px solid var(--border)">
+<div id="formatFilters" class="filters" style="display:none">
   <div class="filter-group">
     <span class="label">🎥 Format</span>
-    <button class="active" data-format="all" onclick="setFormat('all',this)">All</button>
+    <button class="active" data-t="all" data-format="all" onclick="setFormat('all',this)">All</button>
     <button data-format="IMAX" onclick="setFormat('IMAX',this)">IMAX</button>
   </div>
   <div class="filter-group">
     <span class="label">📐 Size</span>
-    <button class="active" data-size="all" onclick="setSizeFilter('all',this)">All</button>
+    <button class="active" data-t="all" data-size="all" onclick="setSizeFilter('all',this)">All</button>
     <button data-size="large" onclick="setSizeFilter('large',this)">Large</button>
     <button data-size="standard" onclick="setSizeFilter('standard',this)">Standard</button>
     <button data-size="small" onclick="setSizeFilter('small',this)">Small</button>
   </div>
   <div class="filter-group">
     <span class="label">🌤️ Setting</span>
-    <button class="active" data-char="all" onclick="setCharacter('all',this)">All</button>
+    <button class="active" data-t="all" data-char="all" onclick="setCharacter('all',this)">All</button>
     <button data-char="indoor" onclick="setCharacter('indoor',this)">Indoor</button>
     <button data-char="outdoor" onclick="setOutdoor(this)">🎑 Open Air</button>
   </div>
 </div>
 </div>
 
-<div id="colorGuide" style="padding:4px 20px;font-size:11px;color:var(--text-dim);background:var(--surface);border-bottom:1px solid var(--border);flex-shrink:0;display:flex;gap:12px;align-items:center;flex-wrap:wrap">
-  <span><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#0077b6;margin-right:4px"></span> <span data-t="guide_default">All cinemas</span></span>
+<div id="colorGuide">
+  <span><span class="gdot" style="color:#4db8ff;background:#4db8ff"></span> <span data-t="guide_default">All cinemas</span></span>
   <span id="guideSearch" style="display:none">
-    <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#2d6a4f;margin-right:4px"></span> <span data-t="guide_upcoming">Upcoming</span>
-    <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#f4a825;margin:0 4px 0 12px"></span> <span data-t="guide_mixed">Mixed</span>
-    <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#e63946;margin:0 4px 0 12px"></span> <span data-t="guide_past">All past</span>
+    <span class="gdot" style="color:#46c26a;background:#46c26a"></span> <span data-t="guide_upcoming">Upcoming</span>
+    <span class="gdot" style="color:#ffb020;background:#ffb020;margin:0 4px 0 12px"></span> <span data-t="guide_mixed">Mixed</span>
+    <span class="gdot" style="color:#ff5c4d;background:#ff5c4d;margin:0 4px 0 12px"></span> <span data-t="guide_past">All past</span>
   </span>
 </div>
 
@@ -222,16 +896,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div style="position:relative;display:flex;flex-direction:column;flex:1;min-height:0">
   <div id="map"></div>
-  <div id="emptyState" style="display:none;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px 24px;text-align:center;z-index:500;box-shadow:0 4px 16px rgba(0,0,0,.1);max-width:300px;pointer-events:none">
-    <div style="font-size:28px;margin-bottom:8px">🎬</div>
-    <div id="emptyStateMsg" style="font-size:14px;color:var(--text);margin-bottom:8px;font-weight:600"></div>
-    <div style="font-size:12px;color:var(--text-dim);margin-bottom:12px">Try adjusting your filters or selecting different dates.</div>
-    <button onclick="clearAllFilters()" style="background:var(--accent2);color:#fff;border:none;padding:6px 16px;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;pointer-events:auto">Show all cinemas</button>
+  <div id="emptyState" style="display:none;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);padding:18px 26px;text-align:center;z-index:500;max-width:320px;pointer-events:none">
+    <div class="empty-icon">🎬</div>
+    <div id="emptyStateMsg" style="margin-bottom:8px"></div>
+    <div class="empty-hint" style="margin-bottom:12px">Try adjusting your filters or selecting different dates.</div>
+    <button onclick="clearAllFilters()" style="pointer-events:auto">Show all cinemas</button>
   </div>
-  <div id="loadingOverlay" style="position:absolute;top:0;left:0;right:0;bottom:0;background:var(--bg);display:flex;align-items:center;justify-content:center;z-index:400;font-size:14px;color:var(--text-dim)">
+  <div id="loadingOverlay" style="position:absolute;top:0;left:0;right:0;bottom:0;display:flex;align-items:center;justify-content:center;z-index:400">
     <div style="text-align:center">
-      <div style="font-size:32px;margin-bottom:8px">🎬</div>
-      <div>Loading cinema data…</div>
+      <div class="loading-mark">🎬</div>
+      <div class="loading-text">Loading cinema data…</div>
     </div>
   </div>
 </div>
@@ -250,7 +924,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <a href="https://github.com/ravidvr/getlos" target="_blank" class="bottom-source" title="View source on GitHub">⌨ Source</a>
   <a href="https://github.com/ravidvr/getlos/issues/new" target="_blank" class="bottom-source" title="Report an issue">🐛 Report</a>
   <a href="#" onclick="openFeedback();return false" class="bottom-source" title="Send feedback" id="feedbackLink">📧 Feedback</a>
-  <a href="donate.html" class="bottom-source" title="Support getlos">☕ <span data-t="support">Support</span></a>
+  <a href="donate.html" class="bottom-source support-link" title="Support getlos">☕ <span data-t="support">Support</span></a>
   <a href="ical/" class="bottom-source" title="Add your cinema to your calendar">📅 Calendars</a>
 </div>
 
@@ -266,7 +940,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div class="help-overlay" id="helpOverlay" onclick="closeHelp()">
   <div class="help-box" onclick="event.stopPropagation()">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+    <div class="overlay-head">
       <h2 id="helpTitle" style="margin:0">🎬 Berlin Cinema Map</h2>
       <button class="lang-btn" onclick="toggleLang();updateHelpLang()" id="helpLangToggle">DE</button>
     </div>
@@ -277,14 +951,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div>📍</div><div id="helpLoc">Click the pin button to share your location — distance and walking time appear in every cinema tooltip.</div>
       <div>🗺️</div><div id="helpPin">Blue pins = cinemas. After a movie search: green = all upcoming, orange = some already ran, red = all already ran. Click any pin for the full schedule.</div>
     </div>
-    <p style="margin-top:16px;color:var(--text-dim);font-size:11px" id="helpData">Data from berlin.de, English Cinema Berlin, and OpenStreetMap.</p>
+    <p style="margin-top:16px;font-size:11px" id="helpData">Data from berlin.de, English Cinema Berlin, and OpenStreetMap.</p>
     <button class="help-close" onclick="closeHelp()" id="helpBtn">Got it →</button>
   </div>
 </div>
 
 <div class="help-overlay" id="aboutOverlay" onclick="closeAbout()">
   <div class="help-box" onclick="event.stopPropagation()">
-    <h2 style="color:var(--accent);margin-bottom:20px" id="aboutTitle">ℹ About getlos</h2>
+    <h2 id="aboutTitle">ℹ About getlos</h2>
     <p style="line-height:1.6;margin-bottom:12px" id="aboutDesc">getlos is a Berlin cinema map that shows every movie screening across the city — all languages, all cinemas, updated daily.</p>
     <p style="line-height:1.6;margin-bottom:12px" id="aboutData">Data from <a href="https://www.berlin.de/kino/" target="_blank" style="color:var(--accent2)">berlin.de/kino</a> (58 cinemas), <a href="https://englishcinemaberlin.com/7-day-overview" target="_blank" style="color:var(--accent2)">English Cinema Berlin</a> (40 cinemas), and <a href="https://www.openstreetmap.org/" target="_blank" style="color:var(--accent2)">OpenStreetMap</a>.</p>
     <p style="line-height:1.6;margin-bottom:12px" id="aboutTech">Built with Leaflet and vanilla JS. <a href="https://github.com/ravidvr/getlos" target="_blank" style="color:var(--accent2)">Open source on GitHub</a>. No tracking, no cookies.</p>
@@ -296,7 +970,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <a href="ical/" style="color:var(--accent2)">Cinema calendars (.ics)</a> ·
       <a href="digest.html" style="color:var(--accent2)">Weekly digest</a>
     </p>
-    <p style="line-height:1.6;margin-bottom:8px;font-size:12px;color:var(--text-dim)">Like getlos? <a href="donate.html" style="color:var(--accent2)">☕ Buy me a coffee</a></p>
+    <p style="line-height:1.6;margin-bottom:8px;font-size:12px">Like getlos? <a href="donate.html" style="color:var(--accent2)">☕ Buy me a coffee</a></p>
     
     <hr style="border-color:var(--border);margin:16px 0">
     <h3 style="font-size:14px;color:var(--text);margin-bottom:8px">📧 Contact</h3>
@@ -307,25 +981,25 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     
     <hr style="border-color:var(--border);margin:16px 0">
     <h3 style="font-size:14px;color:var(--text);margin-bottom:8px">⚖️ Impressum</h3>
-    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-bottom:4px" id="impressumName">Ravi Dronamraju</p>
-    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-bottom:4px" id="impressumAddr"></p>
-    <p style="line-height:1.6;font-size:12px;color:var(--text-dim);margin-top:8px">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Ravi Dronamraju</p>
+    <p style="line-height:1.6;font-size:12px;margin-bottom:4px" id="impressumName">Ravi Dronamraju</p>
+    <p style="line-height:1.6;font-size:12px;margin-bottom:4px" id="impressumAddr"></p>
+    <p style="line-height:1.6;font-size:12px;margin-top:8px">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Ravi Dronamraju</p>
 
-    <p style="color:var(--text-dim);font-size:11px;margin-top:16px">getlos v1.0 — Berlin</p>
+    <p style="font-size:11px;margin-top:16px">getlos v1.0 — Berlin</p>
     <button class="help-close" onclick="closeAbout()">Close</button>
   </div>
 </div>
 
 <div class="help-overlay" id="contactOverlay" onclick="closeContact()">
   <div class="help-box" onclick="event.stopPropagation()">
-    <h2 style="color:var(--accent);margin-bottom:16px">📧 Send a message</h2>
+    <h2 style="margin-bottom:16px">📧 Send a message</h2>
     <form id="contactForm" onsubmit="sendContact(event)" style="display:flex;flex-direction:column;gap:12px">
-      <input type="text" id="cfName" placeholder="Your name" required style="background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:16px;font-family:inherit">
-      <input type="email" id="cfEmail" placeholder="Your email" required style="background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:16px;font-family:inherit">
-      <textarea id="cfMessage" placeholder="Your message…" rows="4" required style="background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:16px;font-family:inherit;resize:vertical"></textarea>
-      <button type="submit" style="background:var(--accent);border:none;color:#fff;padding:10px;border-radius:var(--radius);font-size:14px;cursor:pointer;font-weight:600">Send →</button>
+      <input type="text" id="cfName" placeholder="Your name" required>
+      <input type="email" id="cfEmail" placeholder="Your email" required>
+      <textarea id="cfMessage" placeholder="Your message…" rows="4" required></textarea>
+      <button type="submit">Send →</button>
     </form>
-    <p style="color:var(--text-dim);font-size:11px;margin-top:12px;text-align:center">Or email directly: <span id="contactEmail2"></span></p>
+    <p style="font-size:11px;margin-top:12px;text-align:center">Or email directly: <span id="contactEmail2"></span></p>
     <button class="help-close" onclick="closeContact()" style="margin-top:12px">Close</button>
   </div>
 </div>
@@ -337,10 +1011,10 @@ var ALL_VENUES = [{"name": "Cineplex Titania", "lat": 52.4641482, "lng": 13.3266
 <script>
 /* ── Translations ── */
 const T = {
-  de: {lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film, Kino oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_all_upcoming:'Alle laufen noch',leg_mixed:'Teilweise gelaufen',leg_all_past:'Alle bereits gelaufen',leg_show_upcoming:'Läuft noch',leg_show_past:'Bereits gelaufen',guide_default:'Alle Kinos',guide_upcoming:'Läuft noch',guide_mixed:'Teilweise',guide_past:'Bereits gelaufen',toast_sparse:'Die kompletten Do-So Kinopläne werden Mitte der Woche aktualisiert. Schau Mittwoch wieder rein für das volle Wochenendprogramm.',support:'Unterstützen'},
-  en: {lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie, cinema or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_all_upcoming:'All upcoming',leg_mixed:'Some already ran',leg_all_past:'All already ran',leg_show_upcoming:'Upcoming show',leg_show_past:'Show already ran',guide_default:'All cinemas',guide_upcoming:'Upcoming',guide_mixed:'Mixed',guide_past:'All past',toast_sparse:'Complete Thu-Sun cinema schedules are updated mid-week. Check back Wednesday for full weekend data.',support:'Support'}
+  de: {header:'Berliner Kinos',lang:'Sprache',date:'Datum',screenings:'Vorstellungen',cinemas:'Kinos',movies:'Filme',all:'Alle',today:'Heute',tomorrow:'Morgen',weekend:'Wochenende','3day':'3 Tage',search:'Film, Kino oder Adresse suchen…',tickets:'Tickets',more:'weitere',online:'Online',no_more:'Keine weiteren Vorstellungen',next_in:'Nächste Vorstellung in',website:'Website',leg_cinema:'Kino',leg_all_upcoming:'Alle laufen noch',leg_mixed:'Teilweise gelaufen',leg_all_past:'Alle bereits gelaufen',leg_show_upcoming:'Läuft noch',leg_show_past:'Bereits gelaufen',guide_default:'Alle Kinos',guide_upcoming:'Läuft noch',guide_mixed:'Teilweise',guide_past:'Bereits gelaufen',toast_sparse:'Die kompletten Do-So Kinopläne werden Mitte der Woche aktualisiert. Schau Mittwoch wieder rein für das volle Wochenendprogramm.',support:'Unterstützen'},
+  en: {header:'Berlin Cinema',lang:'Language',date:'Date',screenings:'Screenings',cinemas:'Cinemas',movies:'Movies',all:'All',today:'Today',tomorrow:'Tomorrow',weekend:'Weekend','3day':'3-Day',search:'Search movie, cinema or address…',tickets:'tickets',more:'more',online:'Online',no_more:'No more shows',next_in:'Next screening in',website:'Website',leg_cinema:'Cinema',leg_all_upcoming:'All upcoming',leg_mixed:'Some already ran',leg_all_past:'All already ran',leg_show_upcoming:'Upcoming show',leg_show_past:'Show already ran',guide_default:'All cinemas',guide_upcoming:'Upcoming',guide_mixed:'Mixed',guide_past:'All past',toast_sparse:'Complete Thu-Sun cinema schedules are updated mid-week. Check back Wednesday for full weekend data.',support:'Support'}
 };
-let lang = 'de';
+let lang = 'en';
 function t(key) { return T[lang][key] || key; }
 function toggleLang() {
   lang = lang === 'de' ? 'en' : 'de';
@@ -387,16 +1061,16 @@ const map = L.map('map', {
   maxZoom: 17
 }).setView([52.5219, 13.4132], 12);
 L.control.zoom({ position:'bottomright' }).addTo(map);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution:'&copy; <a href="https://osm.org/copyright">OSM</a>',
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution:'&copy; <a href="https://osm.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
   maxZoom:19
 }).addTo(map);
 
 // When a popup opens, show per-showtime labels
 map.on('popupopen', function() {
   const leg = document.getElementById('legend');
-  leg.innerHTML = `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_show_upcoming')}</div>
-                   <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_show_past')}</div>`;
+  leg.innerHTML = `<div class="row"><span class="dot" style="background:#46c26a"></span>${t('leg_show_upcoming')}</div>
+                   <div class="row"><span class="dot" style="background:#ff5c4d"></span>${t('leg_show_past')}</div>`;
 });
 
 // When popup closes, restore normal legend
@@ -411,8 +1085,8 @@ map.on('moveend', updateViewportStats);
 const PinIcon = L.DivIcon.extend({
   createIcon: function(oldIcon) {
     const div = document.createElement('div');
-    const color = this.options.color || '#e94560';
-    div.innerHTML = `<svg width="28" height="36" viewBox="0 0 28 36"><path d="M14 0C6.3 0 0 6.3 0 14c0 10.5 14 22 14 22s14-11.5 14-22C28 6.3 21.7 0 14 0z" fill="${color}" stroke="${color}" stroke-width="1"/><circle cx="14" cy="13" r="8" fill="#fff"/></svg>`;
+    const color = this.options.color || '#ff5263';
+    div.innerHTML = `<svg width="28" height="36" viewBox="0 0 28 36"><path d="M14 0C6.3 0 0 6.3 0 14c0 10.5 14 22 14 22s14-11.5 14-22C28 6.3 21.7 0 14 0z" fill="${color}" stroke="#0b0e14" stroke-width="1.8"/><circle cx="14" cy="13" r="7.2" fill="#fff"/></svg>`;
     div.style.width = '28px';
     div.style.height = '36px';
     div.style.marginLeft = '-14px';
@@ -444,7 +1118,7 @@ const START = TODAY;
 let markers = [];
 let userLat = null, userLng = null, userMarker = null;
 const MAX_TIP = 12;
-const LAST_UPDATED = '2026-09-30T09:49+02:00';
+const LAST_UPDATED = '2026-09-30T13:52+02:00';
 const COVERAGE = '93/97 cinemas have websites';
 
 function updateFreshness() {
@@ -453,9 +1127,9 @@ function updateFreshness() {
   const now = new Date();
   const hours = Math.round((now - updated) / 3600000);
   let color, text;
-  if (hours < 6) { color = '#2d6a4f'; text = hours <= 1 ? 'Just updated' : `${hours}h ago`; }
-  else if (hours < 24) { color = '#f4a825'; text = `${hours}h ago`; }
-  else { color = '#e63946'; text = `${Math.floor(hours/24)}d ago`; }
+  if (hours < 6) { color = '#46c26a'; text = hours <= 1 ? 'Just updated' : `${hours}h ago`; }
+  else if (hours < 24) { color = '#ffb020'; text = `${hours}h ago`; }
+  else { color = '#ff5c4d'; text = `${Math.floor(hours/24)}d ago`; }
   el.innerHTML = `<span class="dot" style="background:${color}"></span> ${text}`;
   el.title = `Data from ${updated.toLocaleString()}`;
 }
@@ -513,7 +1187,7 @@ function getUserLocation() {
       // Lightweight refresh: update user marker + refresh open popup/sheet
       if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
       userMarker = L.circleMarker([userLat, userLng], {
-        radius:8, color:'#00d2ff', fillColor:'#00d2ff', fillOpacity:.6, weight:2
+        radius:8, color:'#4dd6ff', fillColor:'#4dd6ff', fillOpacity:.6, weight:2
       }).addTo(map);
       userMarker.bindTooltip('📍 You are here', {permanent:true, direction:'bottom', offset:[0,12]});
       // Refresh bottom sheet (mobile) or popup (desktop) if open
@@ -599,10 +1273,10 @@ function restoreFromURL() {
 function renderLegend() {
   const leg = document.getElementById('legend');
   leg.innerHTML = activeMovie
-    ? `<div class="row"><span class="dot" style="background:#2d6a4f"></span>${t('leg_all_upcoming')}</div>
-       <div class="row"><span class="dot" style="background:#f4a825"></span>${t('leg_mixed')}</div>
-       <div class="row"><span class="dot" style="background:#e63946"></span>${t('leg_all_past')}</div>`
-    : `<div class="row"><span class="dot" style="background:#0077b6"></span>${t('leg_cinema')}</div>`;
+    ? `<div class="row"><span class="dot" style="background:#46c26a"></span>${t('leg_all_upcoming')}</div>
+       <div class="row"><span class="dot" style="background:#ffb020"></span>${t('leg_mixed')}</div>
+       <div class="row"><span class="dot" style="background:#ff5c4d"></span>${t('leg_all_past')}</div>`
+    : `<div class="row"><span class="dot" style="background:#4db8ff"></span>${t('leg_cinema')}</div>`;
 }
 
 function checkSparseData() {
@@ -719,7 +1393,7 @@ function buildPopupContent(v, matching) {
     const shown = evts.slice(0, MAX_TIP);
     shown.forEach(e => {
       const past = isPast(e.date, e.time);
-      const timeColor = past ? '#e63946' : '#2d6a4f';
+      const timeColor = past ? '#ff5c4d' : '#46c26a';
       tip += `<div class="evt">`;
       tip += `<span class="evt-time" style="color:${timeColor}">${e.time || ''}</span>`;
       tip += `<span class="evt-info"><div class="evt-title">${e.title}<span class="evt-lang">${e.lang}</span></div>`;
@@ -737,7 +1411,7 @@ function buildPopupContent(v, matching) {
   });
   const allPastTotal = matching.length > 0 && matching.every(e => isPast(e.date, e.time));
   if (allPastTotal && !nextTime) {
-    tip += `<div class="evt-more" style="color:#e63946">${t('no_more')}</div>`;
+    tip += `<div class="evt-more" style="color:#ff5c4d">${t('no_more')}</div>`;
   }
   if (nextTime) tip += `<div class="evt-more">⏱ ${t('next_in')} ${nextTime}</div>`;
   return tip;
@@ -798,7 +1472,7 @@ function render() {
   // User location marker
   if (userLat) {
     userMarker = L.circleMarker([userLat, userLng], {
-      radius:8, color:'#00d2ff', fillColor:'#00d2ff', fillOpacity:.6, weight:2
+      radius:8, color:'#4dd6ff', fillColor:'#4dd6ff', fillOpacity:.6, weight:2
     }).addTo(map);
     userMarker.bindTooltip('📍 You are here', {permanent:true, direction:'bottom', offset:[0,12]});
   }
@@ -831,11 +1505,11 @@ function render() {
     const allUpcoming = matching.every(e => !isPast(e.date, e.time));
     let color;
     if (activeMovie) {
-      if (allPast) color = '#e63946';           // red — no shows available
-      else if (allUpcoming) color = '#2d6a4f';  // green — all shows available
-      else color = '#f4a825';                   // orange — some available
+      if (allPast) color = '#ff5c4d';           // red — no shows available
+      else if (allUpcoming) color = '#46c26a';  // green — all shows available
+      else color = '#ffb020';                   // orange — some available
     } else {
-      color = '#0077b6';                        // blue — default (matches --accent2)
+      color = '#4db8ff';                        // blue — default (matches --accent2)
     }
     const icon = new PinIcon({color});
 
@@ -1122,7 +1796,7 @@ function selectSuggestion(i) {
     document.getElementById('clearSearch').style.display = 'inline';
     document.getElementById('searchMode').style.display = 'none';
     L.circleMarker([parseFloat(r.lat), parseFloat(r.lon)], {
-      radius:10, color:'#00d2ff', fillColor:'#00d2ff', fillOpacity:.4, weight:2
+      radius:10, color:'#4dd6ff', fillColor:'#4dd6ff', fillOpacity:.4, weight:2
     }).addTo(map).bindTooltip('📍 ' + r.display_name.split(',')[0], {permanent:true, direction:'top'});
     render();
   }
