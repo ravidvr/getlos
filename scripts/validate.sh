@@ -22,22 +22,35 @@ except Exception as e:
     errors.append(f'screenings.json: {e}')
 
 try:
-    resp = urllib.request.urlopen(f'https://ravidvr.github.io/getlos/dashboard.html?v={int(time.time())}')
-    html = resp.read().decode()
+    # Freshness assertion (Sep 2026): the 09:00 refresh must have deployed
+    # TODAY — validating yesterday's site against live thresholds used to
+    # give a false green while the dashboard sat stale.
+    # Race guard (Sep 30 2026): when the refresh runs late (Mac asleep at 09:00)
+    # and validation fires right behind it, GitHub Pages can still be serving
+    # the previous build. Retry up to ~3 min before declaring stale.
+    fresh = False
+    m = None
+    for attempt in range(7):
+        resp = urllib.request.urlopen(f'https://ravidvr.github.io/getlos/dashboard.html?v={int(time.time())}')
+        html = resp.read().decode()
+        if 'ALL_VENUES' not in html:
+            break  # structural problem; don't retry
+        m = re.search('const LAST_UPDATED = .([0-9T:+-]+).', html)
+        if m and m.group(1)[:10] == date.today().isoformat():
+            fresh = True
+            break
+        if attempt < 6:
+            time.sleep(30)
     if 'ALL_VENUES' not in html:
         errors.append('Dashboard missing ALL_VENUES data')
     else:
         print('✓ Dashboard loads with data')
-    # Freshness assertion (Sep 2026): the 09:00 refresh must have deployed
-    # TODAY — validating yesterday's site against live thresholds used to
-    # give a false green while the dashboard sat stale.
-    m = re.search('const LAST_UPDATED = .([0-9T:+-]+).', html)
     if not m:
         errors.append('LAST_UPDATED not found in live dashboard')
-    elif m.group(1)[:10] != date.today().isoformat():
-        errors.append(f'Live dashboard stale: LAST_UPDATED {m.group(1)} — not today ({date.today().isoformat()})')
-    else:
+    elif fresh:
         print(f'✓ Live data is from today (LAST_UPDATED {m.group(1)})')
+    else:
+        errors.append(f'Live dashboard stale: LAST_UPDATED {m.group(1)} — not today ({date.today().isoformat()})')
 except Exception as e:
     errors.append(f'dashboard.html: {e}')
 
