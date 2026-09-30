@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Freiluftkino Neue Zukunft
 BEGIN:VEVENT
-UID:getlos-3cbd98fa452239b2@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T200000
-SUMMARY:the drama (OmU)
-LOCATION:Freiluftkino Neue Zukunft\, Berlin
-URL:https://neue-zukunft.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-86e8628dccf472ba@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 SUMMARY:obsession (OmU)
 LOCATION:Freiluftkino Neue Zukunft\, Berlin
@@ -21,7 +13,7 @@ URL:https://neue-zukunft.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8db97436b4ff7f3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T200000
 SUMMARY:teenage sex and death at camp miasma (OmU)
 LOCATION:Freiluftkino Neue Zukunft\, Berlin

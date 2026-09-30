@@ -4,25 +4,185 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon
 BEGIN:VEVENT
-UID:getlos-61496fe9e8928948@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T174000
+UID:getlos-558cf9b5e31cd173@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T172000
 SUMMARY:Primetime (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8314b3d440cb177f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T201000
+UID:getlos-d45e5f105760e528@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T174000
 SUMMARY:Primetime (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-170fc007fe3c6792@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T201500
+UID:getlos-7ec919289f0c1ec2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T195000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-310fd3ea5a4f6149@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db73cd51473457e1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T231000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a76fca40058ac4be@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T174000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-76b1212a099e91cd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T195000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-339f902d566dedaf@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T201500
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9031c5bd406eda7b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T231500
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fcbece4dffb8c0c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T150000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f80bdff874621cee@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T174000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-919f9fbb5cd87081@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T194000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c30b4e3703a620c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T201500
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d8977f02ccc7c018@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T150000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d012db9adea92dd2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T174000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16f1e449e2cd9d95@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T195000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a5568b4c1572546b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T201500
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6fc3922459919bf@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T174000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bfe5f8cb24b2274@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T201500
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9000edd4bdefa89@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T202000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-275d8093abe20f42@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T174000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-35c438f20658269b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T195000
+SUMMARY:Primetime (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-570c4665508ba2cf@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T201500
 SUMMARY:Primetime (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/

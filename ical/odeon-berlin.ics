@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon Berlin
 BEGIN:VEVENT
-UID:getlos-1967c796ea1a5816@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T174000
-SUMMARY:Primetime (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6d77d3a27bd216dd@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T201500
-SUMMARY:Primetime (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-db57aaab315d5f1e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T172000
 SUMMARY:Primetime (EN)
 LOCATION:Odeon Berlin
@@ -29,7 +13,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee8eaea1eb7d96d3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T174000
 SUMMARY:Primetime (EN)
 LOCATION:Odeon Berlin
@@ -37,8 +21,24 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3e23142e5cb7d83@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Primetime (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e5773e2db9d6faa@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T174000
+SUMMARY:Primetime (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e942dfdb411dc4d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T201500
 SUMMARY:Primetime (EN)
 LOCATION:Odeon Berlin
 URL:https://www.odeon-kino.de/

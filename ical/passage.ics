@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Passage
 BEGIN:VEVENT
-UID:getlos-e645b15208784929@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T144500
-SUMMARY:Coyote vs. Acme (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6e5ca4c7a903f695@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T160000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-99ced07c7d9be9d5@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T162000
-SUMMARY:Das Geträumte Abenteuer (OmenglU)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9f44d760914215d7@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T182000
-SUMMARY:The Invite (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f065992b702920ff@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T193000
-SUMMARY:Avengers: Endgame (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eabe483016609e30@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T195000
-SUMMARY:Das Geträumte Abenteuer (OmenglU)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ef52abf8bef49689@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T200000
-SUMMARY:Resident Evil (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-02fc65755f92a3f0@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T210000
-SUMMARY:Primetime (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4c37a3d43a34f278@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T162000
 SUMMARY:Das Geträumte Abenteuer (OmenglU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -77,7 +13,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1baab7026e806c52@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T182000
 SUMMARY:The Invite (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -85,7 +21,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1f57aa812bfd2be@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T192000
 SUMMARY:Avengers: Endgame (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -93,7 +29,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46fce5799998d14e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T195000
 SUMMARY:Das Geträumte Abenteuer (OmenglU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -101,7 +37,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9ecc5dcb5adb67f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T201000
 SUMMARY:Resident Evil (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -109,7 +45,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69f64361a3dbcd91@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T201500
 SUMMARY:LINKIN PARK: UNSHATTER (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -117,9 +53,257 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-665d388ba5d967fe@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T210000
 SUMMARY:Primetime (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60ba70266bd5dca8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T143000
+SUMMARY:Verity (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-38684945d36452e4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T170000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ec9263dd1565c1b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T184500
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66477684de16d1be@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T193000
+SUMMARY:Verity (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e347c15e39646f0c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T194000
+SUMMARY:The Odyssey (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c25be3836773125f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90f163b3d6ed69fc@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Resident Evil (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5abeb27cb6e263b2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Digger (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fcf094ed5a6e847b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T211500
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-441d4030f9be97a9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T143000
+SUMMARY:Verity (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-564126afb53987c8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T143500
+SUMMARY:Digger (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cdb559a9f5499d10@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T170000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebc0a851aaf0ce5b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T171500
+SUMMARY:Verity (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb3a600b10cbafc3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T184500
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8952295f217a457e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T193000
+SUMMARY:Verity (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-546d506808168b07@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T195000
+SUMMARY:Digger (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2cd38ec7e83ed02c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9f02c847bd8b672@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Resident Evil (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-abcd99dc7011961c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T211500
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-230449cb5d3a4dae@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4db72c3a211f6d33@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T151500
+SUMMARY:Das Geträumte Abenteuer (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-905ac3b5e272ec13@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T170000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65c4cc832a6496b9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9730b8d6ed434344@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T140000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3ae9e1cb77329c9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T151500
+SUMMARY:Das Geträumte Abenteuer (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b260b2ddd081f49b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T170000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a9fe12e0fca35a3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f6418560256ddb5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T170000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-407b8d93302589bd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3397916f059194ae@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T170000
+SUMMARY:Digger (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cff69f18c63032df@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T200000
+SUMMARY:Digger (OmU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT

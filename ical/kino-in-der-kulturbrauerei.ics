@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino in der KulturBrauerei
 BEGIN:VEVENT
-UID:getlos-302a9799fa4b089f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T161500
-SUMMARY:Avengers: Endgame (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7d48135b7521128b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T163500
-SUMMARY:Pressure (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a0470ec0331156aa@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T171000
-SUMMARY:Heart of the Beast (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d81f6a7fbc00e268@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T191000
-SUMMARY:Avengers: Endgame (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8f43dfd0c9b3ebfe@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T192500
-SUMMARY:The Odyssey (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5ed28e58a53cf319@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T193000
-SUMMARY:Mercy (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-da7c7b9b93d340f9@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T194500
-SUMMARY:Practical Magic 2 (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e191410e2010b68c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T201500
-SUMMARY:Heart of the Beast (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9f0b1d61b08d0ebe@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T171000
 SUMMARY:Pressure (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -77,7 +13,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c1bd2cf44c41db72@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T172500
 SUMMARY:Heart of the Beast (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -85,7 +21,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ed4809fe63ed41e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T192500
 SUMMARY:The Odyssey (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -93,7 +29,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37ea32646ccf429f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T194500
 SUMMARY:Verity (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -101,7 +37,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24cf2d162d2c47c8@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Practical Magic 2 (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -109,7 +45,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ccdb5bec35014d4@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T201000
 SUMMARY:Heart of the Beast (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -117,9 +53,161 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05178816388776fc@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T202000
 SUMMARY:The Invite (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-810ee309f2535709@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T145500
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-884922eabd9cef20@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T162500
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1cce911f2c4eced3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T163500
+SUMMARY:Avengers: Endgame (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-804412b73671c55f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T192000
+SUMMARY:The Odyssey (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5e8f21d8cdcd8dac@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1cd68d751c7f2707@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T203000
+SUMMARY:Heart of the Beast (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77831d0f48902b31@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T140500
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b7feb32467b457f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T164000
+SUMMARY:Practical Magic 2 (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c275ea889ce3728b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T170000
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa7b23dbcd14be52@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T195000
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02013750d692c166@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:The Odyssey (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3734016303a21b6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:The Invite (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fe8a74ebc6798cd2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T201000
+SUMMARY:Heart of the Beast (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-500c935a908a51c0@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T215000
+SUMMARY:Avengers: Endgame (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f5df0c92160079ef@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T221000
+SUMMARY:The Odyssey (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b102609ab0838815@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T223000
+SUMMARY:Backrooms (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6963552f3b9d0a0e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T224500
+SUMMARY:Pressure (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52a2805dd9fbbf6a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T225500
+SUMMARY:Verity (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2453ef0f091c2c6e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T164000
+SUMMARY:Practical Magic 2 (EN)
 LOCATION:Kino in der KulturBrauerei
 URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT

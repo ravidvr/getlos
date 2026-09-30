@@ -4,50 +4,178 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-9659c1a61733ebf9@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T140000
+UID:getlos-7ee27c49693fdfb8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T150000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-adcd089be2e5494b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T173000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4914a04a962ae0e9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T181500
 SUMMARY:Vaterland (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-22779f9d70564c16@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T150000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a3e4f3b2b0406062@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T173000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a7a71ee5f5768849@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T180000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-df6d2954139e7e6a@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T200000
+UID:getlos-a02221bc745fac3d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T203000
 SUMMARY:Primetime (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f002c1d8ba9ed48b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T203000
-SUMMARY:Vaterland (DE)
+UID:getlos-d01fcc0f3d9d7410@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2166474b84bfac1b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-093d11096c2037da@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T204500
+SUMMARY:Primetime (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1b9dd8d70c60666@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-31be7c822bba8b2e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ce19c831669d3c8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a12a372cb711ac3c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T204500
+SUMMARY:Primetime (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad6e8fe831d9c058@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0120edaf2a84db5d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c343fd4592e22c2d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-59820309e6287a47@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T204500
+SUMMARY:Primetime (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b846c70d8bd96d31@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85f4b245e034cef5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b845739160678ddf@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-277f2983aaf94420@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T204500
+SUMMARY:Primetime (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2f5048ee6104bd6a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa064a1bebbf4a11@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-efcd4e48e538ad06@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T204500
+SUMMARY:Primetime (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
 END:VEVENT

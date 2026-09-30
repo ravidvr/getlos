@@ -4,82 +4,1274 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia
 BEGIN:VEVENT
-UID:getlos-54fbbbcdcab0922c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T141500
-SUMMARY:Kalter Hund (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39b8cec852d34a96@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T143000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-036492e736fd6e03@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T144500
-SUMMARY:Vaterland (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-29ef59148f1db1a6@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T170000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4f734a39df43334f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T171500
+UID:getlos-be2db13006facda2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T143000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-63a121088b9045f9@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T173000
-SUMMARY:Adams Acht (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39c2461d6e67eafc@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T173000
-SUMMARY:Gentle Monster (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0e0c8b5c3695ec3e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T180000
+UID:getlos-cb543aab7c440ae3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T144500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5f1ace45a112535c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T194500
+UID:getlos-5601a842639ac14a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef11283caf18416e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T170000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac446baee07319ed@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T174500
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0341d68f0f8cd657@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T194500
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fa1337ff61298cc7@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T200000
+UID:getlos-2693ef209a2afae3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e8f90b3d30a6ea1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T134500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4281358de9d7aed6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T140000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef5347f79e8af1c4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b310b33c831a7d6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T143000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e7e47346f45cf9e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-27fa6d0ce92a191a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T163000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de37cab06dd11525@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T163500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-514b88d7ace78df4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T164000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f0b55b14790f6518@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T164500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65580491866c45a8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T165000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-687eccd0ab5c5b4a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T170000
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0073599c2d921495@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T173000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90d135fbffefd299@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bb8bd14909b085d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T180000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cee8ed930e745247@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T181500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28838d018de72bed@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T184500
 SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4f400f4093c81f4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T194500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-deee0523165f26c0@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T194500
+SUMMARY:Das Geträumte Abenteuer (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d6aa6df4f241d51@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T195000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca21fa3bb0d4e92e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T201000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cab136aeaa508b6f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T203000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00c3ef28a72e180b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T210000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f32772d956b701f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T230000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b715ae16a599d940@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T231500
+SUMMARY:Digger (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f07829ff1bf3d61a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c40d5737353001d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T133000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-205b7d19758b6444@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T134500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50498758c5c04ada@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T140000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf0eabbba8f6cad2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T142000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb745bd31d40d4bb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T143000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fea21818c53dd68e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06dd19cabec395e5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T160000
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-683c54ffccbd5d88@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T163000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9aebfc699d319d1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T163500
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fccd3c786e83495@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T164000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-edc2294fcd17f8f4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T165000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc9fd055cfa0cb57@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T170000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3e3ea935d61c5ca@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T174500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8760f2dc68d58f52@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T180000
+SUMMARY:Watching People Watching Birds (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d35d969ab583db1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T180000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97aa5377376ecec3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd2e63332bc023bb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T191500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd2eb01911db2a2e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T193000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2609fc7414a011ca@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T194500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97b0bd741b9814d5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T195000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d28057b1bac22b46@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T201000
+SUMMARY:Digger (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a32a08882438c07@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T204500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-624da742b60501a8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T210000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-653db5b085cf49f5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T230000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c6b17fb1bafc08c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T231500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-585f39bc58b90096@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T123000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-df7382fb7d6453c3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T124500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d994868deb6bf6b1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T133000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2af33051a5036111@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T134500
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8336c704d9a10dd5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T134500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a98e67a95f30bca3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec353cfadeedc1e8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T143000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a8d56cd61bda539@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T144500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6cf81bb401c8ec45@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T150000
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ea93de08de6181f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8c182dcc018b278b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T151500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-86d1ade31ae2de93@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T163000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9876b8d6c46adc3c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T163500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90676cc6037b2f1e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T164000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72bb05daa3edff4b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T165000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a35c876d55c6c0db@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T171500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23824ba22775e938@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T171500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5853be967e6f148@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T173000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-51d1593955ea2d31@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T173000
+SUMMARY:Watching People Watching Birds (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-601d919d912fb138@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T174500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8051ac92e55acfe1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T194500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3cee7ba1dae6b1b9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T195000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-59bb9a6306ab5097@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-250d585e8bf6a8cc@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Das Geträumte Abenteuer (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79d88d557aeded21@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T201000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6918b81df613b3d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T201500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bcafed2442b03783@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f309b30809f4442@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T224000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c51bb87955e3140b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T230000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c1664fd6c4ed4ef@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T231000
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ea92c5ff66b5455@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T100000
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-510755d2723a1774@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T101500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa1a821cd6facdd2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T123000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de7a9d30f0a9bf90@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T130000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-133095a7869b7c7e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T133000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbb3c616c81f7ad1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T140000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-126a1a8724398353@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T142000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f22cd038200c09b7@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T143000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9024152b711db39a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d5b23c55a9d86029@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T151500
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-58337ce07fd0017f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T163000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e43d2f25acd80b49@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T163500
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-347591072bbe7fe8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T164000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9aa06c418bff09e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T165000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a346e317f1e3a0ba@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T171500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8818615639762d51@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T173000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-853a3d50ee5deb39@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T173000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-804b54af829d7698@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T173500
+SUMMARY:Digger (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-82ec5628938246ec@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68d7dcbf9a09442f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T194500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1aa3d572334bdcb7@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T195000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-91fcf7288956a6d5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Das Geträumte Abenteuer (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1735fe203ccfa9c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T201000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-122a996ca2f900cf@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T201500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a597ced501f6f81@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T201500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fc8a3df34760259d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T204500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b504173327ca2bf1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c5b222f15206b51@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d41db2efc0eee4a4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T133000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04cbd07f87196e8f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T140000
+SUMMARY:Digger (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6bcea2b2d919de2d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T142000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1cfd33c6ed3409e8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T143000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4870e4e3dc52dda7@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T144500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bc9bf14a2f1560de@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9355316e9cec980@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T163000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18d412fac573fe17@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T163500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d3624c8a56c48eb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T164000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e76d704124dd504c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T165000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-855edb1f7ec15c28@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T170000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18d35f04ce86b164@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T173000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e14de74b2e29975e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T173000
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-07137d94f13d4e97@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T173000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-95e63a47dd8e26a0@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T183000
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b7e92e63cef90c4a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T193000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1478f66d3f020b4c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T194500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ebe8f51254008dd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T195000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-03f4347123c0d96a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
+SUMMARY:Das Geträumte Abenteuer (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71d8937cb313e2d6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T201000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-311cab142cc5ca2a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T203000
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d311691d1979163a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T204500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-13415afd971ba5d5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-686dd2956e710fc2@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T140000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8788b1133e72604c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T142000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f33d0cd444921d75@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T143000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c23929f101c53c4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39c9365088919c59@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T150000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c0c2027557e17b55@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa183cfa7519012a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T163000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22193b443a0bc078@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T163500
+SUMMARY:Digger (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad8aa024c51ea009@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T164000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a4b44207cedf250@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T165000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f5d5e6a95eff6b34@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T170000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f71cd99063b8dad5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T171500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-87fb9c7f92f699c4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T174500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d8c066c4cf6ee62d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1b4999eb0b86c1a6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T193000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6d30e3c31860864@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T194500
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a81609e553c31831@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T195000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2cd52f142944f470@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3502acf5b638f8d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T201000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f87c73b2b0051e3b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Digger (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa7c8622ac7d8934@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T204500
+SUMMARY:Corpus Delicti (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT

@@ -4,25 +4,169 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-e9d352239b6cb419@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T152000
+UID:getlos-bd909430e3798135@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T152000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
 URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d40571b56013147e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T173000
-SUMMARY:Gentle Monster (DE)
+UID:getlos-97c8e89effa865f9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T201500
+SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
 URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ca08a260a1b7192c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T201500
+UID:getlos-e2b4fe332a63ba44@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42c0872d93ac35b0@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b503218dd561e7b1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T201500
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f781b71dd1201eeb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2afa9a03b6308cb9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b08915e3f43a9eb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T201500
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-647af3c87cd48461@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d17d5255e5ca9c6e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-93c1fa959eb8fa82@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T201500
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8faa52aa1ae682ac@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T132000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2acb157297ce5f03@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41259e40c5f581fb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fe7f2bd35b68b30e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T201500
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-84306fcfc18bd1f3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1539fac81a69df4e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b6f3da905334579@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T201500
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-93da733a612687ca@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a5851e3592a80f0c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b96fe942a77c9cf@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
 URL:https://www.capitol-dahlem.de/

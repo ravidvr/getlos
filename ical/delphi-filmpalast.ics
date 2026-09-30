@@ -2,85 +2,149 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:getlos - Delphi-Filmpalast
+X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-871b1b22ca2e4e95@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-ecbeafdcbd8427f6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T140000
+SUMMARY:Digger (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64c69447ee5fce48@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T170000
-SUMMARY:Digger (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f180f75cd3661ef1@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-e196137dbcfa9650@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T201500
-SUMMARY:Digger (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1c79b957cfa8265f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-9032752ef64417e9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T140000
+SUMMARY:Digger (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3218a7fb0b7bdd5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T170000
-SUMMARY:Digger (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0a0175cde129f864@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-615b65b89a4ec825@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T201500
-SUMMARY:Digger (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5364bf288fa8eb8e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-72e4583b9d6b3275@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+SUMMARY:Digger (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-853e5f24836b9cf3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T170000
-SUMMARY:Digger (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1df93e5cdca04d76@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-e39efb3c5f661058@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T201500
-SUMMARY:Digger (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e35745cd3da37b2c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-d776ea6dbafe9bd3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T140000
+SUMMARY:Digger (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-93bc3ad271ccbebd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T170000
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f852db6ba84d8e27@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T201500
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04153e5f7d7f1676@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T144500
+SUMMARY:Digger (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8a14aadcd88df52@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T174500
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b4b3be457c41fa6a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T204500
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47799673ad0f1c1d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T143000
+SUMMARY:Digger (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fc7cf1875514b68@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T201500
+SUMMARY:Digger (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ed8e413c1d3816fd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T110000
 SUMMARY:Sunset Boulevard (EN)
-LOCATION:Delphi-Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-470ff0a2bc44e95e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T154000
-SUMMARY:Vaterland (DE)
-LOCATION:Delphi-Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-809893b540dea8f4@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T180000
-SUMMARY:Vaterland (DE)
-LOCATION:Delphi-Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-661164dd444ea206@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T202000
-SUMMARY:Vaterland (DE)
-LOCATION:Delphi-Filmpalast
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 END:VCALENDAR

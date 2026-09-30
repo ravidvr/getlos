@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck/New Yorck
 BEGIN:VEVENT
-UID:getlos-a5c136c82d4d1ceb@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T142000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9002cbed96838c21@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-13357b4b4c16ac2f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T164000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-38c6cd9f6b49f7bc@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T182000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-16dfffb8ab5e5412@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T184500
-SUMMARY:Gentle Monster (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9d97b382b0bacd59@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T203000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-350268b047460870@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T164000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -61,25 +13,209 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2389843bd6608c1a@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2480d46e02aeef60@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260930T184500
-SUMMARY:Gentle Monster (DE)
+UID:getlos-5f0067e91ea222dc@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T203000
+SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5f0067e91ea222dc@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260930T203000
+UID:getlos-961723d56a59b039@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T175000
 SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42135ded47e1bc5e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11b58434845d99c1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5a2b76a06137ec26@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c3c68456ba53663@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T175000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2fde75bce9b77fc7@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-480c517b20027c68@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d6a3e0167e0ff1d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-30e7cb9611cecb20@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T175000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d01011b902226f3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6bba7cb735f6709f@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c19e186fbac8efd6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d749ba416d04765@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T175000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-40397ab3b69a58f0@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-421cf3d83f49afff@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e1e7dcc7df3778be@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a742040b7a02a78@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T175000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec609f0e52d80668@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b72225fcd5679913@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6cd8dd00fa4fa35e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T210000
+SUMMARY:Primetime (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8a08e0579c48594@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T175000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d5255fb439abe42@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T183000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52b58f4809e450a7@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T200000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1712a0ac3212dcb7@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T210000
+SUMMARY:Primetime (OmU)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT

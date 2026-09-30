@@ -4,136 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Astra Filmpalast
 BEGIN:VEVENT
-UID:getlos-01ca1e5561a7a274@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T140000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-990e4d3ebcac76f7@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T143000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-228bc947653327f0@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T150000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-469e21bb51554753@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T160000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6b16dca371c7b331@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T160000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4eea986b27167a6b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T170000
-SUMMARY:Vaterland (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-db93aeebf6ad1e82@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T170000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf15fa96b505ae2d@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T181500
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f1c58f43de238b6b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T181500
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4243ff02ed1fd993@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T190000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4e0a86999d5748a0@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T190000
-SUMMARY:Avengers: Endgame Extended 3D (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-91c8c373c4696bde@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T191500
-SUMMARY:Avengers: Endgame Extended 3D (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ba332a7fb2a3c52f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T193000
-SUMMARY:Avengers: Endgame Extended 3D (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee054ce038895221@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T200000
-SUMMARY:Adams Acht (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f0fc2b1c57b462df@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T203000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d22124487cd14f0e@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T203000
-SUMMARY:Resident Evil (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b57b273d54036f92@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T100000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Astra Filmpalast
@@ -141,31 +13,15 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb0a101bb243f9c4@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T100000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c9a1ad3c0204ce00@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260930T100000
-SUMMARY:Adams Acht (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f4986102b274668f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260930T100000
-SUMMARY:Resident Evil (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-25cafb96a2058fd3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -173,7 +29,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-993c1c60d1227940@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T143000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
@@ -181,7 +37,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-880a3935f46e9f57@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T150000
 SUMMARY:Paw Patrol: Der Dino Film (DE)
 LOCATION:Astra Filmpalast
@@ -189,23 +45,15 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d865d2050e68292@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7fccead0e7d402b9@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260930T160000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-442116b0f6f78184@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
@@ -213,7 +61,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb988a751ee55de8@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T181500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Astra Filmpalast
@@ -221,7 +69,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0eb555582363e94b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T181500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
@@ -229,7 +77,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2842d8fa8f1526d4@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T190000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Astra Filmpalast
@@ -237,31 +85,47 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4323b968166fd94@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T190000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-22233f067a0b829b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20260930T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a0264ba0b9b3c77f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-173fe4bdd7dfa773@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260930T203000
-SUMMARY:Resident Evil (DE)
+UID:getlos-27c707c7ee36f40c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5dae08b265bc7d4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T140000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa15eaa528804418@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -269,15 +133,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a129cbf31f63a8a4@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-471694c0e3d157aa@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1d11f3ed6649c1f3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -285,7 +157,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eeb17258a87806b6@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T161500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Astra Filmpalast
@@ -293,23 +165,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24e7eaccdb6208e3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T164500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3bd418f0efebd52b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-82de9b2c1741d694@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T171500
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-862e2b8012136e42@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T180000
-SUMMARY:Adams Acht (DE)
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e972326d63d59f49@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T183000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
@@ -317,7 +197,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-98303d971fb30505@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T190000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Astra Filmpalast
@@ -325,7 +205,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a16388c9c8b4783@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T190000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
@@ -333,15 +213,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6da5c0d2b3d86cf7@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T191000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6573bc8428f34fd4@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a0dad16ea46b53b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f690bf363ee04655@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T203000
 SUMMARY:Avengers: Endgame Extended 3D (OV)
 LOCATION:Astra Filmpalast
@@ -349,47 +245,55 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93c7213157816db2@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fa8b4edbd976d5fb@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261001T204500
-SUMMARY:Resident Evil (DE)
+UID:getlos-20d90e9fef136f6a@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e6780a38183a7d9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T140000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-007206b5c388e886@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4780c20b97743bf3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261002T143000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bd003a7cd0a1d934@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c74f13d9a528a6c3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4e1ccc4263731f8b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -397,7 +301,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0f347890d8d89970@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T161500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Astra Filmpalast
@@ -405,23 +309,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-752c75954e81a320@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T164500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c75538ec35f2e64c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-e21aad1769633722@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T171500
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-732e991d0e25a4a3@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T180000
-SUMMARY:Adams Acht (DE)
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78ced5348cbc36f0@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T183000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
@@ -429,7 +341,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8ed67e9cd78e31f5@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T190000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
@@ -437,31 +349,47 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4c7507f4de48642@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T193000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3857a23bae87ec81@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2c140072e445679@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261002T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-70a723c247a31741@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261002T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-bb4bc1f28dbf86af@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261002T204500
-SUMMARY:Resident Evil (DE)
+UID:getlos-247b869d668c666e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0c1fd796fd2e85d@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T100000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -469,63 +397,71 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69e702e0f112cea8@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T100000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f5e52728b4497818@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T120000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bc542d75512806d7@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T120000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-24e7d599704e84d1@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261003T121500
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0a98fd8336e52923@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T123000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9dc29fad0a55a647@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0a8d79f8bb38b690@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b10af8d3cd0dcafe@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261003T143000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-401abf8f3faead7f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0e55a73392b4f50b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8bba8e46cf2aa792@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -533,7 +469,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a82c8bc25d8a36ce@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T161500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Astra Filmpalast
@@ -541,15 +477,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-773a04ac28c971c1@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T164500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5986adcc86741ae5@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T171500
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32152a598f8dd955@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T180000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d6de7f5cae22d4da@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T183000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
@@ -557,31 +509,47 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-87529f2508f8235c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T190000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ccdc51ccd82f1efb@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0926ef2f061bf440@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-51209a4367182657@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7f6e155f4ef741d0@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261003T204500
-SUMMARY:Resident Evil (DE)
+UID:getlos-00dbfe3ad7818e14@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b296f7ad446c1fb9@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T100000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -589,15 +557,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8125b505f3fb96ff@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T100000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ecff59a13b78ce2e@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T120000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-08bf9c0b975635c6@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T120000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -605,39 +581,47 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32b05ef94a5c6dd2@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T123000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c7061604e388e109@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6dbba82b05f9c7ab@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f9c215671e5c970a@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261004T143000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c7dd55106b818280@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d4bcb5d6991f71fd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5deca009acc1317a@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -645,23 +629,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a84da22588a40fd@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T164500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1a309075ed664b69@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-0347a62a597bb694@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T171500
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa5aa4ed46c09b52@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T180000
-SUMMARY:Adams Acht (DE)
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce4b487123c6d36f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T183000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
@@ -669,55 +661,71 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7685efc10741c266@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T190000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fd58645a3fadd0ab@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-920d49ca3d0d8f4b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e3861ca7841341f8@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b40d192f9c2d6db2@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261004T204500
-SUMMARY:Resident Evil (DE)
+UID:getlos-d658cbfd0ff75d3d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0ff41ae9fa0f2c6@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5226c75e431deb6c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261005T143000
-SUMMARY:Coyote vs. Acme (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5bb054f94c90e66d@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6769e524a0ab5ca8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f90f2af0b870d3cd@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Astra Filmpalast
@@ -725,7 +733,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-801b4ff1965d50db@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T161500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Astra Filmpalast
@@ -733,49 +741,177 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-751afe30aec7c7d2@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T164500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-970687dcd20aaa7b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+UID:getlos-07a0e3cce64bb60d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T171500
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-38c01af7e7b0b4e6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T180000
-SUMMARY:Adams Acht (DE)
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39babbe2c1ca055a@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T183000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c287f07b4f7d76e9@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T190000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-24b3adf92912a6a8@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T190000
 SUMMARY:Avengers: Endgame Extended 3D (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-93309b7143bcdb28@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T200000
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01ddce5a95d86959@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261005T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-99d1540b0a9c9bac@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e94789d3c412692b@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20261005T204500
-SUMMARY:Resident Evil (DE)
+UID:getlos-778eda1c25e7ec4d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5afb4f1760b7672c@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a812408e2d056489@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T144500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11ed7b53e1abaec1@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a952c3cc022bf860@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5d17ca080e56baa6@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b22256fdf0093ce@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T171500
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e76477b005e1952@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T180000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f23196e549a2de55@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T183000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b839f6a78215e90b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T184500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ccb3198e501b1a8@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T200000
+SUMMARY:Digger (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1cb4733886f4513d@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a6b9b9c08831a200@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT

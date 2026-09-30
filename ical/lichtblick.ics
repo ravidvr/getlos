@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick
 BEGIN:VEVENT
-UID:getlos-d695b1d75c7bb9ed@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T173000
-SUMMARY:Disunited Nations - Die UNO und der Nahe Osten (OmU) (OmU)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-730f06489f1d30e2@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T190000
-SUMMARY:Lovebox (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c841ac655081d4d7@ravidvr.github.io
-DTSTAMP:20260929T072533Z
-DTSTART;TZID=Europe/Berlin:20260929T204500
-SUMMARY:The Beauty of Ballroom (OmU) (OmU)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-52bd5b48807a2437@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T190000
 SUMMARY:The Beauty of Ballroom (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -37,7 +13,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38088634faaa0827@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20260930T204500
 SUMMARY:Disunited Nations - Die UNO und der Nahe Osten (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -45,7 +21,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b83cdc9db8966847@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T173000
 SUMMARY:Disunited Nations - Die UNO und der Nahe Osten (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -53,15 +29,23 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ae5f33cb25af215@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261001T190000
 SUMMARY:Vaterland (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-95b17833f1a39fcd@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261001T203000
+SUMMARY:Heart of Light - Eleven Songs for Fiji (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-608ba0f92f432776@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T180000
 SUMMARY:Disunited Nations - Die UNO und der Nahe Osten (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -69,23 +53,39 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba10463d64bf00e8@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261003T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4420385b257cfc09@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261003T210000
+SUMMARY:Heart of Light - Eleven Songs for Fiji (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e31a035d4a2657c1@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T163000
 SUMMARY:Disunited Nations - Die UNO und der Nahe Osten (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0bec1f914044650b@ravidvr.github.io
+DTSTAMP:20260930T074931Z
+DTSTART;TZID=Europe/Berlin:20261004T180000
+SUMMARY:Heart of Light - Eleven Songs for Fiji (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a0b6987af5b0581c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T210000
 SUMMARY:Vaterland (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -93,7 +93,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3b8dfea6b5cd4b4f@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261004T223000
 SUMMARY:The Beauty of Ballroom (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -101,7 +101,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51a0d1bb5eed90e3@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -109,7 +109,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c6b4a28acae5fd6c@ravidvr.github.io
-DTSTAMP:20260929T072533Z
+DTSTAMP:20260930T074931Z
 DTSTART;TZID=Europe/Berlin:20261005T220000
 SUMMARY:The Beauty of Ballroom (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
