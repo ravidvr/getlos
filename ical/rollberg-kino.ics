@@ -4,96 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Rollberg Kino
 BEGIN:VEVENT
-UID:getlos-9a3bd1f0852103dd@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T163000
-SUMMARY:Die Odyssee (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-96efc73e5a8c4d11@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T164000
-SUMMARY:Die Odyssee (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f8489ba17ff5275d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T165000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d849888ca113d671@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T173000
-SUMMARY:Obsession (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e072b2c3704f1c0@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T173000
-SUMMARY:The Invite (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d7bf209060837f0@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T180000
-SUMMARY:Bad Apples (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c79ad78feadcdd98@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T191000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1024a1f2df9fc3e5@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T200000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9ec505ca55a2d94f@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T200000
-SUMMARY:The Invite (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4fab6405735b5889@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T203000
-SUMMARY:Bad Apples (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-87a2d7a3a9865ec2@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T213000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-149850611c475547@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T141000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -101,7 +13,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df750af2d0ca8a7a@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T161000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -109,7 +21,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-979c8ba759ba6a0c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T164000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -117,7 +29,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8b6b66969905732@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T164500
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -125,7 +37,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c900c5e4d837082d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -133,7 +45,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec552a063c369da1@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T183000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -141,7 +53,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-733d1b28332d8445@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T191000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -149,7 +61,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b16041b8789361d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T192000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -157,7 +69,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c41e1b78a3be700@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T194500
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -165,7 +77,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17c4367798f5746d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T200000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -173,7 +85,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-692a67b334f86036@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -181,7 +93,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e53155d69e59589a@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T210000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -189,7 +101,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b06476d61d2d1c67@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T213000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -197,7 +109,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-248ad6c891752f08@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T141000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -205,7 +117,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11fdc935b71b71de@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T161000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -213,7 +125,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-032a821dea4ca83e@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T164000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -221,7 +133,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bedca4b6b63a98fd@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T164500
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -229,7 +141,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e488872239db382d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -237,7 +149,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-caa68babb63f2211@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T183000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -245,7 +157,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-92aa9872cf61c72c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T191000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -253,7 +165,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-311dd61ed543c326@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T194500
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -261,7 +173,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49751173f85eabee@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T200000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -269,7 +181,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0bb02fff47a7ac0c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -277,7 +189,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-555b61ff5034caaa@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T210000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -285,7 +197,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6e07035794548c8@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T213000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -293,15 +205,23 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b17d120be9ca1baf@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T111000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8ee30eabf1789200@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T142000
+SUMMARY:Resident Evil (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1135c05e3f18b341@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T143000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -309,15 +229,31 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-80d427a4d413824d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T144000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dcb76ab091e061b7@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T144000
+SUMMARY:The Odyssey (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-21a14721840d40ed@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T160000
+SUMMARY:The Invite (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0d57c1fbb0c2d464@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T161000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -325,23 +261,47 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d53551379c05b341@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T163000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6f976070b658f3c9@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T164500
+SUMMARY:Bad Apples (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-943aa6c693c007e4@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-50e4f73b7aa2ef1b@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T183000
+SUMMARY:The Invite (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dcc91a5d377b59f9@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T191000
+SUMMARY:Resident Evil (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ba33945e3f1da29c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T194500
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -349,23 +309,47 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-902a9535d1bef4bb@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T195000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-181c43cb8cb7ba31@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SUMMARY:Bad Apples (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bc78c0236486020f@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-41e2a2ae9f248d3b@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T210000
+SUMMARY:The Invite (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b332b684cdf3b13@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261003T213000
+SUMMARY:Resident Evil (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1419070e1e0af92d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261003T223000
 SUMMARY:Beware Boiúna (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -373,7 +357,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f34bf019598038cd@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T104500
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -381,7 +365,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a003c29bd707ac2@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T134500
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -389,7 +373,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ece532c8e239891@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T143000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -397,7 +381,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba9832cbabbe319c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T154000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -405,7 +389,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f137bb21a82b56b1@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T161000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -413,7 +397,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90b25e5d45b06f0c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -421,7 +405,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a67d09bfbad20bc9@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T194000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -429,7 +413,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-87e66b57e42636c9@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -437,7 +421,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-645216c3ae270163@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T140000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -445,7 +429,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0f2db6b62b304e73@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T141000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -453,7 +437,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e536ac103291f4f1@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T161000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -461,7 +445,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca56ab17a513ed5c@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T164000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -469,7 +453,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae8c7c7ed57a8849@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -477,7 +461,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e73ffcc80a5fd3bc@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T194500
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -485,7 +469,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61cf7a016ec22d96@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T195000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -493,7 +477,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4de664343bc472c1@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261005T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -501,7 +485,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63426b7c67195126@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261006T161000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -509,7 +493,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd875c6c25a8b521@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261006T164000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -517,7 +501,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-223e500a5a4a4c37@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261006T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -525,7 +509,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-344cd9747a6a463d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261006T192000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -533,8 +517,40 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce0a50555277de0d@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Digger (OV)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e250a1405102aaf@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261007T140000
+SUMMARY:Die Odyssee (OV)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ad6288a485895c4@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261007T161000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97944926ef2e04ce@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261007T173000
+SUMMARY:Digger (OV)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2f5b8d33bd9bc59@ravidvr.github.io
+DTSTAMP:20261001T070206Z
+DTSTART;TZID=Europe/Berlin:20261007T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg

@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-1788f06f5a445500@ravidvr.github.io
-DTSTAMP:20260930T074931Z
-DTSTART;TZID=Europe/Berlin:20260930T173000
-SUMMARY:Vaterland (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b242dba074e0c607@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T173000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -21,7 +13,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91514555cb40a958@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261001T200000
 SUMMARY:Watching People Watching Birds (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -29,7 +21,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3da1b71763bc7b9@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T173000
 SUMMARY:Watching People Watching Birds (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -37,7 +29,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ffb570b9f1b90e9@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261002T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -45,7 +37,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7afe38f637c1be02@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261004T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -53,7 +45,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b50ba2aa9596894@ravidvr.github.io
-DTSTAMP:20260930T074931Z
+DTSTAMP:20261001T070206Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Pans Labyrinth (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
