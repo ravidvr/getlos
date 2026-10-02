@@ -4,96 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-3f141515c998b096@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-98bb599fcb5d2484@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T144500
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5251e199df838f25@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-06154fffe4b92f5d@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T163000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2b282ab28ba4d077@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5f858928e78eb28a@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T170500
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b5725e0171a32b28@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T171500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-16b3b7872a286bcf@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T190000
-SUMMARY:Meeting the Buddha (EN)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c1987b006dd2bab3@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T193000
-SUMMARY:Das Geträumte Abenteuer (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1ae87d4d3b614cb2@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T193500
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-313b0b703313f1aa@ravidvr.github.io
-DTSTAMP:20261001T070206Z
-DTSTART;TZID=Europe/Berlin:20261001T203000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4eb19dd67ceb2367@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -101,7 +13,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5ee59dcb0c51305@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T144500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -109,7 +21,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cefef174273a126a@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T150000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -117,7 +29,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0dab6dd52ae94b7@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -125,7 +37,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1362baad47be9a42@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -133,7 +45,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d6dd81d7707e3b6@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T163500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -141,7 +53,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3498fd960d510cc@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T171500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -149,7 +61,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7aaf91c5f36d592b@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T180000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -157,7 +69,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-952ca11953f7bf16@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -165,7 +77,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-209dcbc8ad60a6d5@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T194000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -173,7 +85,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-87d50d6f2dd2a36c@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261002T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -181,7 +93,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3385156b4f4f1f40@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T112000
 SUMMARY:Linkin Park: Unshatter (OmU) (OV)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -189,7 +101,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da7dc43e1ffce8c6@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -197,7 +109,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3c9e553ac648014@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T140000
 SUMMARY:Linkin Park: Unshatter (OmU) (OV)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -205,7 +117,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c27518e6eddc0fcc@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T144500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -213,7 +125,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50295715368156e9@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -221,7 +133,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-725b7321a540c980@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -229,7 +141,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90cedf12dce1918e@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -237,7 +149,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d32fc6595c9667e@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T163500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -245,7 +157,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-989a3cf1286e81a7@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T170000
 SUMMARY:Linkin Park: Unshatter (OmU) (OV)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -253,7 +165,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-64e2892acd510e2e@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T171500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -261,7 +173,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b39356dc614de8b1@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T180000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -269,7 +181,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-298d2244dad527d5@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -277,7 +189,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-43c0e6db52051be3@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T194000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -285,7 +197,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9cf1e2395d358a3@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T195000
 SUMMARY:Linkin Park: Unshatter (OmU) (OV)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -293,7 +205,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-56a0914494fa28ff@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261003T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -301,7 +213,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b1ca51c475df176@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T111500
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -309,7 +221,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1bca85de8be969ee@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T113000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -317,7 +229,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-21616d45dfb9b27c@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -325,7 +237,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6886b16f10ef0a2e@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T144500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -333,7 +245,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a0d77b112ee8f9c@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -341,7 +253,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5281a23604901fe9@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -349,7 +261,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89aa0e7387b70b80@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -357,7 +269,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-415b038c92e3e9be@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T165500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -365,7 +277,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6456ab86e69e291@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T171500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -373,7 +285,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-445ce99a4517ff08@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T173000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -381,7 +293,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f05787a973bb8bc9@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -389,7 +301,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8f2379975cc70c49@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T195000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -397,7 +309,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3553788970d0ce85@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -405,7 +317,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-729daed343b18b7c@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261004T200000
 SUMMARY:Oasis: Don't Look Back in Anger (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -413,7 +325,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4acc17d620ff14e9@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T144500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -421,7 +333,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5fe5258716a9ab34@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -429,7 +341,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ddb6958a519e9e68@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -437,7 +349,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd3f0306c5d39854@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -445,7 +357,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e34226ed6296070@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T170000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -453,7 +365,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66d9f51f73550a55@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T171500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -461,7 +373,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b5918ba0235cfc4@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T180000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -469,7 +381,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1bf4dad45630eca0@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -477,7 +389,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79a1c3ad19ff1c8b@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T194000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -485,7 +397,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3b8767553ea4223@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261005T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -493,7 +405,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2a71c8183a7b9670@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T134500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -501,7 +413,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44ce228766021199@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T144500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -509,7 +421,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad6cc55b14720dbc@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T150000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -517,7 +429,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-036674f2be53ad93@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -525,7 +437,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e67540bf01e26868@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -533,7 +445,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6d68f88e7a6980c@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T171500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -541,7 +453,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce7a717c6812ba0a@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T173000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -549,7 +461,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f956a50a677c303b@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T173500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -557,7 +469,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-460883b931e009ac@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T193000
 SUMMARY:Pans Labyrinth (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -565,7 +477,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fee78e225250dab8@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T193000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -573,7 +485,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6176b57135ceed69@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T194000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -581,7 +493,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d4b1d21ffdf1515b@ravidvr.github.io
-DTSTAMP:20261001T070206Z
+DTSTAMP:20261002T072018Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
