@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-23aae1a2930cedb7@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T170000
-SUMMARY:Vaterland (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-542c2d35b0ae3471@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T183000
-SUMMARY:Von Scham und Geld (OmU) (OmU)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0a6e8ec073c01922@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T204500
-SUMMARY:Das Geträumte Abenteuer (OmU)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-482f8518c20510b7@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T170000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6dca07c8e1c033e4@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T183000
 SUMMARY:Von Scham und Geld (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c6e5c490ffd33a4@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T204500
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -53,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1fade3fc616ebc4@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T143000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -61,7 +37,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-463a625c4416c275@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T160000
 SUMMARY:Wohin mit mir? (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -69,7 +45,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5165b80e8784d082@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T173000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -77,7 +53,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4d47e36e84a9bc7@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T203000
 SUMMARY:Von Scham und Geld (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -85,7 +61,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c26343335141474d@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T164500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -93,7 +69,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a91d96ff15ef7b3@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T181500
 SUMMARY:Von Scham und Geld (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -101,7 +77,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3034e685ba73f2ef@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T203000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -109,7 +85,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0126293ccbd9f18@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T164500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -117,7 +93,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fc0f38073d7dd65@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T181500
 SUMMARY:Von Scham und Geld (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -125,7 +101,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5f0a741ef4a050a2@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -133,7 +109,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-011551194b8c4d9f@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T181500
 SUMMARY:Von Scham und Geld (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -141,7 +117,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afeb01691630fd4e@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T203000
 SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437

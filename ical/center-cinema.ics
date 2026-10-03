@@ -4,15 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Center Cinema
 BEGIN:VEVENT
-UID:getlos-cf966bbcb42250eb@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T190000
-SUMMARY:ziemlich beste freunde (OmU)
-LOCATION:Center Cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3937d91ce6762c94@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T190000
 SUMMARY:good bye\, lenin! (OmU)
 LOCATION:Center Cinema

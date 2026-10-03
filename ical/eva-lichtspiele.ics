@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-b3a91391ee9b0929@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T153000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f91b3f6da2ee2390@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T180000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-559f3b93e42d64d5@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T203000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e53233b7218622f0@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T130000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -37,7 +13,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78b22697386e79ad@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -45,7 +21,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38f7e3e1d73c6ea6@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T151500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -53,7 +29,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-870a2d7545658268@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T174500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -61,7 +37,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f860714a4fb2013@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T151500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -69,7 +45,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f586dbc3ed580a0@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -77,7 +53,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f591b851afa23dde@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T153000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -85,7 +61,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a938d2b97a39af4d@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T180000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -93,7 +69,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ad93abc1c8d53b7@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -101,7 +77,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3df2d243efc0cbb4@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T203000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713

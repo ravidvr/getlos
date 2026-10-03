@@ -4,104 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmtheater am Friedrichshain
 BEGIN:VEVENT
-UID:getlos-5b7f04f81cfd6638@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T143000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-05f5ed54a7c641b2@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T154000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-be02284ccd3466ad@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T160000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-137711a8fa7c4e68@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T161000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8086387b4ed74b43@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T163000
-SUMMARY:Das Geträumte Abenteuer (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9349f361c920d222@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T172000
-SUMMARY:Vaterland (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5305fa1217e293ad@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T174500
-SUMMARY:Primetime (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4fac69d4ea1fb969@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T183000
-SUMMARY:Bad Apples (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-53e6d1c8b77b9578@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T193000
-SUMMARY:Vaterland (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7038464f602bccbf@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T200000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-936e301b335c7980@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T202000
-SUMMARY:Primetime (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b7e50fed9f391588@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T210000
-SUMMARY:Bad Apples (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-14234360cf46f47b@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T133000
 SUMMARY:The Invite (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -109,7 +13,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e2830f3b347d452f@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T134000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -117,7 +21,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4e99ee70fed97279@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T135000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -125,7 +29,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c511fcd5e16a9b68@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T141500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -133,7 +37,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07c5409a0c000b2a@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T151500
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -141,7 +45,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25618e9d2333cf19@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T154000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -149,7 +53,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0299c5bb96bf6f6@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T160000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -157,7 +61,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af7717642f6faf95@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -165,7 +69,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e30e0193c7269eee@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T163000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -173,7 +77,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46abab3318f7217d@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T172000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -181,7 +85,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-caeb1ae2a9ec3ce1@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T174500
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -189,7 +93,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3687fced5a905502@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T183000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -197,7 +101,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-791ead279c04dfdc@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -205,7 +109,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0eb0ef96f812315e@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -213,7 +117,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d7a9b026032e16eb@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T202000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -221,7 +125,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-690810a56f6dda80@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -229,7 +133,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0e96b8e13b4fe41f@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T112000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -237,7 +141,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-59c0d5f62623b471@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T113000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -245,7 +149,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc30302636fb3242@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T114000
 SUMMARY:The Odyssey (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -253,7 +157,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ed88ff5b82aeb15@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T133000
 SUMMARY:The Invite (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -261,7 +165,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0bfbbc1040e9ed76@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T134000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -269,7 +173,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9282dc504cbbca19@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T135000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -277,7 +181,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dae1597772a19a61@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T141500
 SUMMARY:Vaterland (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -285,7 +189,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc2338d98c1592dd@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T151500
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -293,7 +197,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9913df31074296fb@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T154000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -301,7 +205,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd9dcae1f6ba0b32@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T160000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -309,7 +213,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc0e35813b4a8ca9@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -317,7 +221,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e935231983682da@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T163000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -325,7 +229,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc1bc97d9442bf71@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T172000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -333,7 +237,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1540193cf4fd14b7@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T174500
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -341,7 +245,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-442c719aeff73242@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T183000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -349,7 +253,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c1235531ad49dfcb@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -357,7 +261,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d60be116789319c@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T200000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -365,7 +269,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-942bf37f1a28f51a@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T202000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -373,7 +277,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cabcda7150ff6034@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261004T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -381,7 +285,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a36fee44a2e49ae@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -389,7 +293,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7afaa43ec12a8328@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T154000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -397,7 +301,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2d5e58628ca1182@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T160000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -405,7 +309,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7bcf0d2a98cb2b07@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -413,7 +317,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12065f3dbd9fc491@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T163000
 SUMMARY:Das Geträumte Abenteuer (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -421,7 +325,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-01a74795603c1d97@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T174500
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -429,15 +333,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d026cf97cb57ae3a@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T174500
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dd8703ecc08c324d@ravidvr.github.io
+DTSTAMP:20261003T075217Z
+DTSTART;TZID=Europe/Berlin:20261005T183000
+SUMMARY:Bad Apples (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-77bb1195db30b782@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T195000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -445,7 +357,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd9f9bf21ce15594@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T200000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -453,15 +365,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40e629d7f9ca672a@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261005T202000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-468dca05f84eb9b3@ravidvr.github.io
+DTSTAMP:20261003T075217Z
+DTSTART;TZID=Europe/Berlin:20261005T210000
+SUMMARY:Bad Apples (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e998afb1d1d256de@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -469,7 +389,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-587177c3c17d7043@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T144500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -477,7 +397,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b43fcaf859761a4f@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T151500
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -485,7 +405,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f09120c8800171c9@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T151500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -493,7 +413,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-613995dd496178c5@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -501,7 +421,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-951590ed95a36825@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T172000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -509,7 +429,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0ede83e186a9b1e@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T174500
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -517,7 +437,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74e6f5d97eb05de3@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -525,7 +445,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-772792b796e7f889@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -533,7 +453,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2f7efd16140a3cf2@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261006T202000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -541,7 +461,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-841a68f03cdd8283@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T160000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -549,7 +469,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2132f44e9d7af051@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T172000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -557,7 +477,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1da4cece1349b32@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T174500
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -565,7 +485,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e62e3eb30a818a19@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -573,7 +493,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bfe326d7a7e5d068@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -581,7 +501,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e02227d7703f82d@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -589,7 +509,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1dde84d0c23ae3c2@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261007T202000
 SUMMARY:Primetime (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407

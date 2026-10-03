@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino International
 BEGIN:VEVENT
-UID:getlos-b6115d887761d16b@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T173000
-SUMMARY:Digger (EN)
-LOCATION:Kino International
-URL:https://www.kino-international.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aee62e3bc8e60262@ravidvr.github.io
-DTSTAMP:20261002T072018Z
-DTSTART;TZID=Europe/Berlin:20261002T203000
-SUMMARY:Digger (EN)
-LOCATION:Kino International
-URL:https://www.kino-international.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a2a52f66c2e65f00@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T153000
 SUMMARY:Digger (EN)
 LOCATION:Kino International
@@ -29,8 +13,32 @@ URL:https://www.kino-international.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ac8a720841626ce@ravidvr.github.io
-DTSTAMP:20261002T072018Z
+DTSTAMP:20261003T075217Z
 DTSTART;TZID=Europe/Berlin:20261003T183000
+SUMMARY:Digger (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9e3eaaaddc160c7@ravidvr.github.io
+DTSTAMP:20261003T075217Z
+DTSTART;TZID=Europe/Berlin:20261003T213000
+SUMMARY:Digger (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ab565b6d752e196@ravidvr.github.io
+DTSTAMP:20261003T075217Z
+DTSTART;TZID=Europe/Berlin:20261004T143000
+SUMMARY:Digger (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-079df5c95e7eeb4c@ravidvr.github.io
+DTSTAMP:20261003T075217Z
+DTSTART;TZID=Europe/Berlin:20261004T173000
 SUMMARY:Digger (EN)
 LOCATION:Kino International
 URL:https://www.kino-international.com/
