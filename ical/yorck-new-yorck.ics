@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck/New Yorck
 BEGIN:VEVENT
-UID:getlos-a34c86b6295ceb0c@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T134000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d3a564031e7e319d@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T135000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c9f8e249439afb39@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8a5c6282b82d651e@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T161000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-30e7cb9611cecb20@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T175000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2d01011b902226f3@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T183000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6bba7cb735f6709f@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T200000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c19e186fbac8efd6@ravidvr.github.io
-DTSTAMP:20261003T075217Z
-DTSTART;TZID=Europe/Berlin:20261003T210000
-SUMMARY:Primetime (OmU)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a72aaa9f05830c86@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T134000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -77,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61fcd7b0395b96f4@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T135000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Yorck/New Yorck
@@ -85,7 +21,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e546ae6486246448@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Yorck/New Yorck
@@ -93,7 +29,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-895e469a1c18b76c@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -101,7 +37,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d749ba416d04765@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -109,7 +45,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40397ab3b69a58f0@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T183000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Yorck/New Yorck
@@ -117,7 +53,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-421cf3d83f49afff@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -125,7 +61,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1e7dcc7df3778be@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261004T210000
 SUMMARY:Primetime (OmU)
 LOCATION:Yorck/New Yorck
@@ -133,7 +69,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b59398a810160837@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T135000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Yorck/New Yorck
@@ -141,7 +77,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d8c7eab44c438c8e@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Yorck/New Yorck
@@ -149,7 +85,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2afff85d3ac5f5f6@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -157,7 +93,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a742040b7a02a78@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -165,7 +101,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec609f0e52d80668@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T183000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Yorck/New Yorck
@@ -173,7 +109,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b72225fcd5679913@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -181,7 +117,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cd8dd00fa4fa35e@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261005T210000
 SUMMARY:Primetime (OmU)
 LOCATION:Yorck/New Yorck
@@ -189,7 +125,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c9d4cfa00f20f208@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T135000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Yorck/New Yorck
@@ -197,7 +133,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b885ed7b3a41f22@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Yorck/New Yorck
@@ -205,7 +141,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37084f1a2538a56d@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T161000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Yorck/New Yorck
@@ -213,7 +149,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e8a08e0579c48594@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -221,7 +157,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d5255fb439abe42@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T183000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Yorck/New Yorck
@@ -229,7 +165,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52b58f4809e450a7@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -237,7 +173,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1712a0ac3212dcb7@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261006T210000
 SUMMARY:Primetime (OmU)
 LOCATION:Yorck/New Yorck
@@ -245,7 +181,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2406f892cee80f79@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261007T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -253,7 +189,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a71305c48d46d69a@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261007T183000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Yorck/New Yorck
@@ -261,7 +197,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7367bdb7b939641a@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -269,7 +205,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0fc7b69624cfb0f7@ravidvr.github.io
-DTSTAMP:20261003T075217Z
+DTSTAMP:20261004T070218Z
 DTSTART;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Primetime (OmU)
 LOCATION:Yorck/New Yorck
