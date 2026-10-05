@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-d776ea6dbafe9bd3@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T140000
-SUMMARY:Digger (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-93bc3ad271ccbebd@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T170000
-SUMMARY:Digger (OmU)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f852db6ba84d8e27@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T201500
-SUMMARY:Digger (OmU)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-04153e5f7d7f1676@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T144500
 SUMMARY:Digger (DE)
 LOCATION:Delphi Filmpalast
@@ -37,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8a14aadcd88df52@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T174500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
@@ -45,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b4b3be457c41fa6a@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T204500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
@@ -53,7 +29,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47799673ad0f1c1d@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T143000
 SUMMARY:Digger (DE)
 LOCATION:Delphi Filmpalast
@@ -61,7 +37,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fc7cf1875514b68@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T201500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
@@ -69,7 +45,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a60bb7bb238b5aca@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261007T140000
 SUMMARY:Digger (DE)
 LOCATION:Delphi Filmpalast
@@ -77,7 +53,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d78d4b9f1b08e88d@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261007T170000
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
@@ -85,17 +61,17 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99940484910f4191@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261007T201500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ed8e413c1d3816fd@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T110000
-SUMMARY:Sunset Boulevard (EN)
+UID:getlos-627ce6aae46e1dcb@ravidvr.github.io
+DTSTAMP:20261005T070144Z
+DTSTART;TZID=Europe/Berlin:20261011T110000
+SUMMARY:Some Like It Hot (EN)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT

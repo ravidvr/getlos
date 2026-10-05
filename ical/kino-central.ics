@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Central
 BEGIN:VEVENT
-UID:getlos-d9923b326508f2e7@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T113000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b5473638a26f0c2f@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T124500
-SUMMARY:Primetime (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-02c720b36277c7ea@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T133000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6f87e580aa5b5748@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T151500
-SUMMARY:Obsession (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0eec49d9818a3623@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T153000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2683dff8922f4e43@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T173000
-SUMMARY:Primetime (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8c88c3e4a10cdc3e@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T193000
-SUMMARY:Jim Queen (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fd282a62efd2d913@ravidvr.github.io
-DTSTAMP:20261004T070218Z
-DTSTART;TZID=Europe/Berlin:20261004T200000
-SUMMARY:Primetime (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c13becd96b0014e4@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -77,7 +13,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91fd1d267e41f130@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T173000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -85,7 +21,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e3553b878830202@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -93,7 +29,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-41cc65c00539b729@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261005T210000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -101,7 +37,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0799db74fe6e0d93@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -109,7 +45,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-43f124bcf5c168d1@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T163000
 SUMMARY:Obsession (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -117,7 +53,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac6d955c2a36f11d@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T180000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -125,7 +61,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9976f36edfee2740@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T190000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -133,7 +69,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f255032802cd02b3@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -141,7 +77,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ce0332e53b1929a@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261007T173000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -149,7 +85,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b323d91e18954fb@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261007T190000
 SUMMARY:Jim Queen (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -157,15 +93,23 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec052a0de070eac9@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Primetime (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ec385d764aa2cb57@ravidvr.github.io
+DTSTAMP:20261005T070144Z
+DTSTART;TZID=Europe/Berlin:20261007T210000
+SUMMARY:Obsession (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1f92b70cf64e134c@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261008T180000
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -173,7 +117,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e6571ad948a6df2a@ravidvr.github.io
-DTSTAMP:20261004T070218Z
+DTSTAMP:20261005T070144Z
 DTSTART;TZID=Europe/Berlin:20261008T203000
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
