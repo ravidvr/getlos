@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon Berlin
 BEGIN:VEVENT
-UID:getlos-a9a19abfa6b6d12e@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T174000
-SUMMARY:Primetime (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e04ce7a2ebf4979@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T201500
-SUMMARY:Primetime (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-492053e735b6ebbf@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T174000
 SUMMARY:Primetime (EN)
 LOCATION:Odeon Berlin
@@ -29,7 +13,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6730762aa1f75804@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T201500
 SUMMARY:Primetime (EN)
 LOCATION:Odeon Berlin
@@ -37,7 +21,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a36d1ffecd9935a@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T172000
 SUMMARY:Primetime (EN)
 LOCATION:Odeon Berlin
@@ -45,7 +29,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28cce5f8acf8d320@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Breakin' 2: Electric Boogaloo (EN)
 LOCATION:Odeon Berlin

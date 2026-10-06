@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-3f860714a4fb2013@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T151500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7f586dbc3ed580a0@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T174500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f591b851afa23dde@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T153000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -29,7 +13,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a938d2b97a39af4d@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T180000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -37,8 +21,112 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ad93abc1c8d53b7@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a87d5579f22f2436@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T180000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3df2d243efc0cbb4@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T203000
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9d2071cbfdb6dd5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5a772b720cd59da2@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c77ff94a5772bc25@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d457ba51bdb651c@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65ea79b9c32c8a27@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T110000
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c83dc751c0d2dcf5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db52512bca53cd97@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f34b0be18bea1cd6@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97e6e9477d714135@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T174500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e7e097b119be4eb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69662b18b4c6b2e5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
 URL:http://www.eva-lichtspiele.de

@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Colosseum Filmtheater Berlin
 BEGIN:VEVENT
-UID:getlos-fde35f4d10eab283@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b904d643eef18596@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-02a14856cd70ef73@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T203000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2d86c4a6332d4e54@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -37,7 +13,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0adefb8bc5bf1b93@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T183000
 SUMMARY:Vaterland (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -45,8 +21,256 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e049678f30652f85@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44fc5572a8156914@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3f16d265ec3b946@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T183000
+SUMMARY:Vaterland (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e01db46a3ae63cd8@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d2f03c7aa92ede5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T141500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fc30a568ab4a662@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c30bd81e3514cc0@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T183000
+SUMMARY:Vaterland (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68b2036b4db1cf31@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48554ca652c516a8@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T141500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f00143ed565a11b0@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4cea611eb5cb960f@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T183000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad8d2613c3f4ef20@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8f6d4ffcd0763e6@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b0a514d45d7ed2f@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T141500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ef19d0ffeefb9d1@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01d39f00d2958cb4@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T183000
+SUMMARY:Vaterland (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42a9289359889c8c@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3be6a0558e78b569@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T120000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2740744e38320c85@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e6b8cbcc513c844@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5d50603cdf4577ff@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T141500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a82db4a6fa37c5bc@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e9d11940271fa90@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T183000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6dfdf5cb6f47737b@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T184000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a07866169b3bc490@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T184500
+SUMMARY:Vaterland (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e77466dd3d49b2f3@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fde8f26e5d0cddc0@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2a7e46b36708696@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28bb036229c3b7bb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T170000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85109faa6b2dc533@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T180000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9e2c4dfb6acb6b7@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
+URL:https://colosseum.premiumkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ccd4e92464104c5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
 URL:https://colosseum.premiumkino.de/

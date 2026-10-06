@@ -4,34 +4,154 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-88966a0ee2fe8aef@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T160000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-559fdb016e85fba5@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T183000
+UID:getlos-4b65bbca8df9cc18@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261006T163000
 SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-30047a16e50e6921@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T203000
+UID:getlos-9d295aa0a521b316@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261006T181500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9d295aa0a521b316@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261006T181500
+UID:getlos-51b8c00917c8ce04@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Watching People Watching Birds (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-915113d4150fa66c@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T143000
+SUMMARY:Vaterland (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e266b4e727d43fa0@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T161500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5fbc752d148915b5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T183000
+SUMMARY:Watching People Watching Birds (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab6e559a98dfa85d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T203000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eda0436cb7792dbb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T163000
+SUMMARY:Vaterland (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e9e8ad124e7e728@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T181500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a536643e68c39c50@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T143000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2cbc35b0f51d31d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T163000
+SUMMARY:Vaterland (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ef19063b0ddc7e1@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T181500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dbe3010b02f5a80c@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T181500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44844deb0ab24ea6@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+SUMMARY:Das Geträumte Abenteuer (OmU)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-717f2cfde0dc590e@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T110000
+SUMMARY:Watching People Watching Birds (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00185ff2febbbecb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T130000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ad4454ae22c2eb9@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T181500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d40ccd7ad257f9a4@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T161500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-07b77af08fc73921@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T183000
+SUMMARY:Vaterland (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT

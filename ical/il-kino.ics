@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-ad52a705b3b41885@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T203000
-SUMMARY:Primetime (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fd6427a5454c4840@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T153000
 SUMMARY:Vaterland (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -21,7 +13,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e230bd81e947d4f@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -29,15 +21,23 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-546619e04aee752b@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T185000
 SUMMARY:Primetime (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c06a1c276e9545c5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T161000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6b58f1b32271351a@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
 SUMMARY:Vaterland (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -45,7 +45,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-560a327c3e911fab@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T193000
 SUMMARY:Bad Apples (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -53,9 +53,81 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-121795371102131e@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T212000
 SUMMARY:Primetime (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a25c466c212a7d6@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T160000
+SUMMARY:Das Geträumte Abenteuer (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d379f299956607a@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T190000
+SUMMARY:Primetime (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2c3c1e99cd95bdfa@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cd98604878a68cc5@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T180000
+SUMMARY:Vaterland (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02d331bc4fa95383@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85f218e821bfe8dd@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T160000
+SUMMARY:Primetime (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1bea20fbbccd0a63@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T125000
+SUMMARY:Das Geträumte Abenteuer (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5df7dc55462739f@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T150000
+SUMMARY:Primetime (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4da95c27f3d47a85@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T170000
+SUMMARY:Das Geträumte Abenteuer (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT

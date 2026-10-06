@@ -4,34 +4,114 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali-Kino
 BEGIN:VEVENT
-UID:getlos-6ef7f928af8f783e@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T160000
+UID:getlos-5254c184d579ec28@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261006T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9f6bd9ccb0e845b6@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T180000
+UID:getlos-d91269aa81babcc2@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261006T180000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f808dc988997a822@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T203000
+UID:getlos-ba908a402ee6b51e@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261006T203000
 SUMMARY:Heart of Light - Eleven Songs for Fiji (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ba908a402ee6b51e@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261006T203000
-SUMMARY:Heart of Light - Eleven Songs for Fiji (DE)
+UID:getlos-825eb8213404e5ea@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e4cb60b6a66e9fd6@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d704ec53590e4b7@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3865c3f0fc048c80@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a5737a9105a816d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ea397140f9c8d7ea@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d96d706233b2842@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c2fef1a67c7152c@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c2e169e3929ed18@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fcfcc700359ad197@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T203000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9dabee658578ed9@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T180000
+SUMMARY:Pressure (EN)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT

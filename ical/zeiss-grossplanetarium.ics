@@ -5,9 +5,25 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Zeiss-Großplanetarium
 BEGIN:VEVENT
 UID:getlos-0a5c9ea0db37ffe6@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
 SUMMARY:Lovebox (OmU) (OmU)
+LOCATION:Zeiss-Großplanetarium
+URL:https://www.planetarium.berlin/zeiss-grossplanetarium
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7637505f90cd295f@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T160000
+SUMMARY:Watching People Watching Birds (DE)
+LOCATION:Zeiss-Großplanetarium
+URL:https://www.planetarium.berlin/zeiss-grossplanetarium
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e1b5c614ded81b2@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T223000
+SUMMARY:The Beauty of Ballroom (OmU) (OmU)
 LOCATION:Zeiss-Großplanetarium
 URL:https://www.planetarium.berlin/zeiss-grossplanetarium
 END:VEVENT

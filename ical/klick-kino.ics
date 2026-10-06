@@ -4,26 +4,58 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-a4573c79c2707293@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T173000
-SUMMARY:Watching People Watching Birds (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-54b1b82a2a7c8d06@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261006T173000
-SUMMARY:Watching People Watching Birds (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6b50ba2aa9596894@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Pans Labyrinth (OmU)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4074fd713a1622c4@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T173000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-82c76c15505cfe76@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c93ac539fd10346@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T150000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-715002f65426193a@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T150000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10e7614ad145db5a@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9a6e7e8434e8fdc@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT

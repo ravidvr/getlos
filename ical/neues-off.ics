@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neues Off
 BEGIN:VEVENT
-UID:getlos-cfc81b5a111a610e@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T180000
-SUMMARY:Primetime (OmU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-33d94375690d9e54@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T204000
-SUMMARY:Primetime (OmU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ba34fd7a1739c0cc@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T181500
 SUMMARY:Primetime (OmU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b68ebf4897f2251b@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
 SUMMARY:Primetime (OmU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -37,7 +21,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce1cdaa43ce2b0d0@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T204000
 SUMMARY:Primetime (OmU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049

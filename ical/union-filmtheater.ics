@@ -4,64 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Filmtheater
 BEGIN:VEVENT
-UID:getlos-635608da4bc0c158@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-78c93ec82a870401@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T154500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-422ef36cec634afa@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ec035c499d4db012@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T173000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-84e9a6bf89375ecd@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T181500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9ba66c05709045cf@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T200000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-568c6b0d79418122@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T200000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-652056d79e3aa527@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -69,7 +13,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-edb33903b3d59567@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
@@ -77,7 +21,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-be1dcd9150a141d8@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -85,7 +29,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc5aad41a0b12364@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T173000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -93,7 +37,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72ae89c62fa10977@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T181500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -101,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e72277eaf4250eea@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -109,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-657fb912071c3c32@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
@@ -117,23 +61,47 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-314bfc47476f7e46@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-df52114c598517bb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b38c75db5b250579@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1fe22e8446000ece@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T173000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5b682813d7e1b56a@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e28b3509ff56e227@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T181500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -141,9 +109,313 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e2fb124bd06e7f5@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-123f9f70e374c085@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261007T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-046ef35006b3cb07@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c39b36d48c28b84@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8eb0b25733247d1c@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9dabfb144624593d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T173000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-539d55cc2336e65d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a1adc86fd3f1277@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47756203d644ed9e@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9a5adaf8208a9df@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32bed8592d90fcea@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-899f2c92d07675b4@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-298ae1fb8180a1eb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T173000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fdd8004887618a65@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7558300bc4e817d0@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-89304550ec1999a8@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cea9f631f2097912@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c71079e30bf43793@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T134500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ccc8af42a80b30d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e023fe7dc3ef834@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7d53b2d8ebd7845f@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff1cb824e77de92f@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T173000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f864f04b8245462@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f6bd7f3ee7a81c7@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-daeb7ed09643b3f2@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261010T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c2b768b89d2a9001@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ecf1aef6ad3ab3e6@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-837547768fac03fd@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa40df82f59c1771@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94d3f0c396f6b4c9@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T173000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c80f867e71861b2d@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T174500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb6d12d65d5233ed@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e474c47650606d27@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5c3d3acfe6d3f89@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02df3c48b6fe69ed@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f79789bc5d28ef8e@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05e28cd6a9ec1193@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T173000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-087fe07c8278a842@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-213d8fd178a214eb@ravidvr.github.io
+DTSTAMP:20261006T070139Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT

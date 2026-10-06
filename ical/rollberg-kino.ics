@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Rollberg Kino
 BEGIN:VEVENT
-UID:getlos-212faac0dab16a84@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T164000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ae8c7c7ed57a8849@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T173000
-SUMMARY:Digger (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-43fcf3be0007fc70@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T183000
-SUMMARY:The Invite (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d82c657644008dd2@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T191000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-04e5e7be91e08bb8@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T200000
-SUMMARY:Bad Apples (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4de664343bc472c1@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T203000
-SUMMARY:Digger (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-120c9e4d7f3697b0@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T210000
-SUMMARY:The Invite (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1dc51d5c6a4e9b2f@ravidvr.github.io
-DTSTAMP:20261005T070144Z
-DTSTART;TZID=Europe/Berlin:20261005T213000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3ee189051144c6ae@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T164000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -77,7 +13,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-223e500a5a4a4c37@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -85,7 +21,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00fac4ce9a0f076d@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T173000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -93,7 +29,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d8905a81110eed5@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T183000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -101,7 +37,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d32248a0410184c9@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T191000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -109,7 +45,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-745dce95afb4da6c@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -117,7 +53,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce0a50555277de0d@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -125,7 +61,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c9f71291e425d5d4@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T210000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -133,7 +69,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8bd84ab942bd79e2@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261006T213000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -141,7 +77,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4fdd3127580a381@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T164000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -149,7 +85,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97944926ef2e04ce@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T173000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -157,7 +93,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93d3de41afa1bd18@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T173000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -165,7 +101,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7b3abae1bc827842@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T183000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -173,7 +109,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e095758a4aba3df@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T191000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -181,7 +117,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5dcd23e82c088d47@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -189,7 +125,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2f5b8d33bd9bc59@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T203000
 SUMMARY:Digger (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -197,7 +133,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-666c58b8ba81313a@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T210000
 SUMMARY:The Invite (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -205,7 +141,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-369c1521492166be@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261007T213000
 SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -213,7 +149,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9acc19ce05439142@ravidvr.github.io
-DTSTAMP:20261005T070144Z
+DTSTAMP:20261006T070139Z
 DTSTART;TZID=Europe/Berlin:20261010T223000
 SUMMARY:Trick 'r Treat (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
