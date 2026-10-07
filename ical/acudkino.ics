@@ -4,10 +4,98 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-43add2960a610448@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T201500
+UID:getlos-37689706dcd36488@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T201500
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-401476ac18a45f7b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T180000
 SUMMARY:Watching People Watching Birds (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0715541dc81a9a96@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T190000
+SUMMARY:Vaterland (OmenglU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9335d8ae70345b4@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T204500
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06ba6f36e965e325@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T180000
+SUMMARY:Watching People Watching Birds (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7058345dc254cdb@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T184500
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad64bc798d620261@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T184500
+SUMMARY:Vaterland (OmenglU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bd5bffac7937748@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e61d5c34f31c020@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T183000
+SUMMARY:Vaterland (OmenglU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7913981f61f3dd07@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T211500
+SUMMARY:Vaterland (OmenglU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dc71e230bccff563@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T201500
+SUMMARY:Watching People Watching Birds (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1bf9d9349ce2637@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T211500
+SUMMARY:Vaterland (OmenglU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT

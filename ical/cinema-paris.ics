@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-de7caf4102e27664@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T144000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9e0c101595cf4f6c@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T172000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cd019211e9b465a4@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T200000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-35de3a8425ddb4fc@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T144000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -37,7 +13,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7134d9910af2fd7e@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T172000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -45,8 +21,152 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcdaf44eb2be99b9@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-734d60cc81878513@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T144000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af56ffdb27cbf600@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T172000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a0034fa89b1fc16@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9040103af847f174@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T144000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dcce2fc202e74c81@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T172000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-929925c3bc2be336@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af29f308a14a5923@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T144000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2fc4b7fe92f28fb1@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T172000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90bf8a24320f67f9@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78d85f139695f5d5@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T120000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8748b6c14103d6d0@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T144000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7200a93459df94a6@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T172000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c9cc2f76f6c32f4@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06dc0898d2bcae1b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T144000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b07e330153f7a7cd@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T172000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d1078fa215ddbcc@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-711ada0aa48dbe9d@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T151500
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c18fff23ca2bdb46@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T175000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris

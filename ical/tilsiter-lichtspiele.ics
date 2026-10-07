@@ -4,96 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Tilsiter Lichtspiele
 BEGIN:VEVENT
-UID:getlos-6ad308faeab286af@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T144500
+UID:getlos-4315232e456b36b5@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T140000
 SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3f5a39db877489d5@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T160000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8525375b764d7ad7@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T170000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6b9da0d743c6824c@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T171000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-922e9dad8baca231@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T180000
-SUMMARY:Bruno - Der junge Kreisky (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-de589c8d3c9c22b9@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T180000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b4fab9f5f9c4a5c9@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T200000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-11eb8c3a374fadc5@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T201000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-34359bd6b0ac4c16@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T201500
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-72826b518d19c787@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T203000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-23df2202d0bbd419@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T222000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7124e4ced6246fba@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T144500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -101,7 +21,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e7e252e2462b575@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T160000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -109,7 +29,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28fad30a190a1872@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -117,23 +37,39 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f3b752c60fb637c@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ab174cd8eb37b85a@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T200000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d89dc0aa911f3516@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T201000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-95fea62e1c4a85c2@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T201500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c455f9804481d629@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -141,7 +77,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34e86637f5a2ad89@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T222000
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -149,81 +85,385 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0944258bb2fa12d@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261008T160000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ef18656f7f6c5e31@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T170000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a1610ee3b4b5025@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T171000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e15193fa8ddd2ab7@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-502a972692cea8ed@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261008T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-51fc9f0c1963b5d3@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T182000
+SUMMARY:Until We Talk (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80635fa745f69a1b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T194500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-24e4089f7092b2f7@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5c228ee2af567b05@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261009T160000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-71ab9a98947c9b86@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T170000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a793546dc33ab9a@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T171000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5dbe06a1fefa284b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6bc3e54b3f9430ad@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261009T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-019004fba6d3b16c@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T182000
+SUMMARY:Until We Talk (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2987a248b50978d4@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T194500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1ddf0dd8f12f930@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a749e392bfc6c92@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T201000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ea0bc6fdf019d4ba@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261010T140000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2d5df53315cbe0b9@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T170000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d660569ae1434724@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T171000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e649a7c8ad259705@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-498d10ea4d6bd573@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261010T173000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c0d77faf908cf049@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T194500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-37337524e5e80d6e@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T194500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-988e97cb10e25bbf@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261011T140000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0001eb9e2a9dbea8@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T170000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-581fb1c1147213cb@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T171000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55f41b07ee53f333@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cb3f9aef067d6333@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261011T173000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5e031206a50b96b6@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T194500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41295a4e0dc571d9@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T194500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b406c7728d7de301@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T201000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-42f02e03e5ec27d2@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261012T160000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c77a6ef1ef33b34a@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T170000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-096faee48d1de1d5@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T171000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad8daa0f0c982472@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8aa1acb72ecbe7e3@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a920513b997f38f@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T182000
+SUMMARY:Until We Talk (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-553e331d83c98a27@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T194500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08ccfee504d50a74@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e964b6cd8513adff@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T160000
+SUMMARY:Bruno - Der junge Kreisky (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-345f1a23e584ca5f@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T170000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-49f7257f3d306656@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T171000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fec90cd077257b5f@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fb02a5cf83aed93@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T174500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-424854d1f723e35d@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T182000
+SUMMARY:Until We Talk (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28ce49e3c6237d25@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T194500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a3d294927242912@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T200000
+SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT

@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-4c30fee981266cf7@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T151500
-SUMMARY:Bruno - Der junge Kreisky (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-06069f003a91f794@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T180000
-SUMMARY:Vaterland (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3f4976da7ff25fb2@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T153000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -29,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5cba216bfb2a5613@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T174500
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Cosima-Filmtheater
@@ -37,7 +21,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8018030173cc34c4@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261008T151500
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Cosima-Filmtheater
@@ -45,7 +29,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb31f705e12e10e7@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261008T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -53,7 +37,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-87a2d1420f1ef717@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261009T151500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Cosima-Filmtheater
@@ -61,7 +45,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1dc26788df48ff52@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261009T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -69,7 +53,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a937ba5f88e96456@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261010T151500
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Cosima-Filmtheater
@@ -77,7 +61,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a8447dcf0df400e@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261010T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -85,7 +69,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb976461a1de46c1@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261011T110000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:Cosima-Filmtheater
@@ -93,7 +77,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1693e8601af235d2@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261011T153000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -101,7 +85,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5d4feb9eb7dfb0d@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261011T180000
 SUMMARY:Spaziergang nach Syrakus (DE)
 LOCATION:Cosima-Filmtheater
@@ -109,7 +93,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8dda3913c271ff9@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261012T154500
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
@@ -117,9 +101,25 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f00f8e6580cd2acd@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261012T180000
 SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6de0775ac5cb2e47@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T153000
+SUMMARY:Spaziergang nach Syrakus (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf84476bed3cb534@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T180000
+SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
 URL:https://cosima-filmtheater.de/
 END:VEVENT

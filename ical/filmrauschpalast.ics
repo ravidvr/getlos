@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmrauschpalast
 BEGIN:VEVENT
-UID:getlos-eeda46526755831e@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a1a2df197048a801@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T200000
-SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b2a25ad5e065f668@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261007T184500
-SUMMARY:Maspalomas (OmU) (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-8a961385d77ca366@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T204500
 SUMMARY:Vaterland (DE)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -37,41 +13,33 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f37053bd30f5a008@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261008T190000
 SUMMARY:Resident Evil (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5e55b9e992e5502a@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261008T204500
-SUMMARY:Maspalomas (OmU) (OmU)
+UID:getlos-399b92c798e63374@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T190000
+SUMMARY:Resident Evil (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52b4615874b9a43f@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261009T204500
 SUMMARY:Teenage Sex and Death at Camp Miasma (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e1bb36666a3bbc1a@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261010T180000
-SUMMARY:Maspalomas (OmU) (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2d4c7101e96a66ae@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261012T183000
-SUMMARY:Maspalomas (OmU) (OmU)
+UID:getlos-f2dfdd2d78384b37@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T190000
+SUMMARY:Vaterland (DE)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT

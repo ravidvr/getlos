@@ -4,26 +4,170 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-93da733a612687ca@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T153000
+UID:getlos-9dae9b5b1d7396ea@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T153000
 SUMMARY:Vaterland (DE)
 LOCATION:Capitol Dahlem
 URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a5851e3592a80f0c@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T174000
+UID:getlos-5da5593afe9e5434@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T174000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Capitol Dahlem
 URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0b96fe942a77c9cf@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T201500
+UID:getlos-c84a90ee973c23df@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T201500
 SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d132d7a922e710e8@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T150000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99f017f18277758f@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7117162c34be3540@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec08ba248f6e6e10@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T150000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c79372669a23f73@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c18183ed00201ee5@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-780cb3a76a7f34ed@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T150000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-95119be53af9cd58@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T174000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-54ecd4ebbc72f461@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T201500
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d941e8a73d8ed61@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T120000
+SUMMARY:Vaterland (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0cc609f6444c9618@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T140000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69eed066ec3d18ac@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T164000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42f13875882ae033@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T191500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a14287aaa7af66b7@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T150000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6daaf6d6bae36ea@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T174000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a84e057634dc985@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11e442f7252cde64@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T150000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b4d0140115f9d98@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T174000
+SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem
 URL:https://www.capitol-dahlem.de/
 END:VEVENT

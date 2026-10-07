@@ -4,64 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck/New Yorck
 BEGIN:VEVENT
-UID:getlos-c9d4cfa00f20f208@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T135000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2b885ed7b3a41f22@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-37084f1a2538a56d@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T161000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e8a08e0579c48594@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T175000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9d5255fb439abe42@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T183000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-52b58f4809e450a7@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T200000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1712a0ac3212dcb7@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T210000
-SUMMARY:Primetime (OmU)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2406f892cee80f79@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T175000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
@@ -69,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a71305c48d46d69a@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T183000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Yorck/New Yorck
@@ -77,17 +21,281 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7367bdb7b939641a@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Vaterland (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0fc7b69624cfb0f7@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261007T210000
-SUMMARY:Primetime (OmU)
+UID:getlos-b6a80c03534c7853@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T151000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7402427098944684@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T163000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09e8b7bf41184d6c@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T175000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2b498572d34889d7@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09c03a8160748b5b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T210000
+SUMMARY:Vaterland (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fdbca1794c550f7b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T151000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a6ecaed32846a693@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T163000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-31661a7e71b1f119@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T175000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8968448fb1db973d@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9e6ba96b2ab1fb5@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T203000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-152da1723a659a22@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T210000
+SUMMARY:Vaterland (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26e08a2f5e0ab1d7@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T151000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c1ee4a8917b09184@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T163000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b8c22ac9f414036@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T175000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac6fefdfb86ac7e1@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a597ee4ef7b9e459@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b92f613cf368d468@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T210000
+SUMMARY:Vaterland (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b612f6d3716bf7f8@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T151000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9237e48094f94eaa@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T163000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-abdfb39b48f3f378@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T175000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cde6f524aa37f29d@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05a72311e30bbe50@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T210000
+SUMMARY:Vaterland (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a5323c7111a2d7c@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T151000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f7ddf6178f6df263@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T163000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9f57a1e636b67cb@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T175000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6ff8a447a0f6fe5@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a51bd68717b2ff3@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T203000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2116f2a7877599db@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T210000
+SUMMARY:Vaterland (OmU)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e393468e2ce6bd9b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T151000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9407535320c6fe6c@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T163000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b363f04ee57364e3@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T175000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-deff5e7e8c767c0d@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T190000
+SUMMARY:Vaterland (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18b741e7c155fac9@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T203000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-185d117be76350db@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T210000
+SUMMARY:Vaterland (OmU)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT

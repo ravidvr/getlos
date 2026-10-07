@@ -4,24 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
-UID:getlos-520f0c0dc357eb4e@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T164500
+UID:getlos-2bfbd95423bf1698@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261007T170000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0b0d8b8ff5282564@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T204000
-SUMMARY:Pans Labyrinth (OmU)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3029ddd6141abcaf@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T190000
 SUMMARY:Bad Apples (EN)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
@@ -29,9 +21,33 @@ URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00ec9549071f4120@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Vaterland (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77d8abceb8e443a2@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T180000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20064fe3fce6a97a@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Vaterland (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-540f89d413cb8e92@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T190000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT

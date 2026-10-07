@@ -118,9 +118,20 @@ def main():
     has_format = sum(1 for v in d for e in v['events'] if e.get('format'))
     chk(f'formats: event format field ({has_format}/{event_count})', True)  # always passes — informational
 
-    # Outdoor venues marked correctly
+    # Outdoor venues marked correctly.
+    # Off-season (Oct-Apr) openair-kino.net publishes nothing, so outdoor venues
+    # legitimately drop to 0. Only fail when the source HAS events but outdoor
+    # venues didn't survive the pipeline (a real regression, e.g. summer).
+    try:
+        oa_raw = json.load(open(BASE / 'data/venues-openair.json'))
+        oa_events = oa_raw if isinstance(oa_raw, list) else oa_raw.get('events', [])
+    except Exception:
+        oa_events = []
     outdoor = [v for v in d if v.get('outdoor')]
-    chk(f'formats: outdoor venues ({len(outdoor)})', len(outdoor) > 0)
+    if oa_events:
+        chk(f'formats: outdoor venues ({len(outdoor)})', len(outdoor) > 0)
+    else:
+        chk(f'formats: outdoor venues ({len(outdoor)}) — skipped (openair source empty, off-season)', True)
 
     # Valid format values
     valid_fmts = {'IMAX','70mm','35mm',''}

@@ -4,26 +4,114 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neues Off
 BEGIN:VEVENT
-UID:getlos-ba34fd7a1739c0cc@ravidvr.github.io
-DTSTAMP:20261006T070139Z
-DTSTART;TZID=Europe/Berlin:20261006T181500
-SUMMARY:Primetime (OmU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b68ebf4897f2251b@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
-SUMMARY:Primetime (OmU)
+SUMMARY:Primetime (EN)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce1cdaa43ce2b0d0@ravidvr.github.io
-DTSTAMP:20261006T070139Z
+DTSTAMP:20261007T100234Z
 DTSTART;TZID=Europe/Berlin:20261007T204000
-SUMMARY:Primetime (OmU)
+SUMMARY:Primetime (EN)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4afe4354f436944@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T170000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5257544875fd24ef@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261008T203000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-742d66815c55e772@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T170000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a977c8264daeb47d@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261009T203000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac49e4380423bbbe@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T170000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac649a42f4bd8185@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dea8025ce7ccba48@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T170000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-954684b2e9aae740@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261011T203000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-648f0513ec92a43b@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T170000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12ae0b1d804aa70e@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261012T203000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-34179d3be535e8de@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T170000
+SUMMARY:Hope (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c76ea99a04bcc508@ravidvr.github.io
+DTSTAMP:20261007T100234Z
+DTSTART;TZID=Europe/Berlin:20261013T203000
+SUMMARY:Hope (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
