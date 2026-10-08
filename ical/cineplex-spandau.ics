@@ -4,120 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cineplex Spandau
 BEGIN:VEVENT
-UID:getlos-8675de034121d2b4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-78a715b07a00c1d1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T100000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-68188322b81cf37f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T121500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9d02ce363abc1911@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T134500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-32369c2fa65fd23a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T143000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-203e5749ccf28fbb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T164500
-SUMMARY:Digger (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f6d7a75659366418@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T164500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-16d2b14d38f2b9f1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T170000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9792e77437c71f17@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T173000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-45675c0af3acabd8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T193000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2686709af8feeac3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T200000
-SUMMARY:Queen Budapest (OV) (OmU)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9fbdd64cb447de12@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T200000
-SUMMARY:Queen: Budapest (EN)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d05a7b3d86771388@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T202000
-SUMMARY:Digger (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a8721c537c0a85de@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-409cb4d000bb4e72@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34465fe053947829@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -125,15 +21,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd19c2eb4e08e01d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-66441386fd7c22b5@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-84a54998704c7f94@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T121500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6ad4c68816a46c87@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T121500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -141,7 +53,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d8e75ff02160397c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T122000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -149,15 +61,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c34180bb138ba596@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T141000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9e57fb303548097b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T142000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a9de8646994f5d13@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T143000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -165,15 +85,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-110008417a3ee56b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-596a81a539a9f9b2@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T143500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-410d7f18d218d6e3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T145000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -181,7 +109,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74d4f8ce1d2daa04@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T163000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -189,7 +117,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e38e3febffddde4d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T164500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Spandau
@@ -197,7 +125,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b037db8eb32bb116@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T170000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -205,7 +133,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38a86e4260ac782c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -213,7 +141,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a45cac8ea9b69500@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T171000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -221,7 +149,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7527877becb10d25@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T171000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -229,7 +157,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-681eb543002d5d5c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T171500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -237,7 +165,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d488fc93316bcdc2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T171500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -245,7 +173,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf28c8e3d3064c1a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T173000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -253,7 +181,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6401529ea3a9d95c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T191500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -261,7 +189,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-487dc8e1f9efa79c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T193000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -269,7 +197,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9dbc82d750abbd10@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T193000
 SUMMARY:Digger (DE)
 LOCATION:Cineplex Spandau
@@ -277,7 +205,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-234cc774de6cf411@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -285,7 +213,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5e54a94fa55a223@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -293,7 +221,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d532ca555df5e6c5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -301,7 +229,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e61dcc2c36f0ba6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -309,7 +237,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d514bee50cad2457@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194500
 SUMMARY:LINKIN PARK: UNSHATTER (EN)
 LOCATION:Cineplex Spandau
@@ -317,7 +245,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5db81f329762418c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T195000
 SUMMARY:Forgotten Island 3D (OV)
 LOCATION:Cineplex Spandau
@@ -325,7 +253,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3236f2ab8bb762bc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -333,15 +261,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-720bbc5261bad9b9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-deafb7c08f59c177@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d7e82924bd3fd3ce@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T224000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -349,23 +285,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ca8327c2aaa03f6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T100000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-acf9cf08849ed7b4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-69e4fec05cf40cca@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1ce48caf8e25a55a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -373,15 +309,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b838937c21f85708@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ebdb12f7b0b67dc5@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c8fb27fecdef0d63@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T122000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -389,23 +333,39 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2670fae99c50738d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T122500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-56fe4718894ea150@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T134000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2451d539944b28b4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T142000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4594d8e0d72af62c@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-72a3f53a5f043974@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T143000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -413,7 +373,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a06ae7ffa4e37257@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T143000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -421,7 +381,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0b50aec2a8dd416@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T150500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -429,7 +389,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-42f2686ca61ed87b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T162000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -437,7 +397,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-822bf9a03803cc3f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T165500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -445,7 +405,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4c37120ca6d5830a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T170000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -453,7 +413,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b368e650afccd48@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T170000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -461,7 +421,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f60ac0f36d63ad57@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T170500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Spandau
@@ -469,7 +429,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb8f48a57969a979@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T171000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -477,7 +437,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-55f9bd0d0352aa2e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T171500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -485,7 +445,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-893f21647c3fd9c2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T171500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -493,7 +453,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47702e0dd1bc70b9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T172000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -501,7 +461,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5d002d29669fa9b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -509,7 +469,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40d2872397177897@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T191500
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Spandau
@@ -517,7 +477,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0062837b0450d231@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T191500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -525,7 +485,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07102449bc28aaff@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -533,7 +493,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa4c0becbd0b6085@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T194000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -541,7 +501,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7f7cfb7dbba5d9b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T194000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -549,7 +509,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3fa514350dde23ef@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T194000
 SUMMARY:Digger (DE)
 LOCATION:Cineplex Spandau
@@ -557,7 +517,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7585cf73b4c5447@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -565,7 +525,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bfa67e8c02689eae@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T195000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -573,7 +533,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3ce116118740cdd@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T200000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -581,15 +541,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7b6b76ae129b08f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T201500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-12041b4e9097ab2b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-689e23b22a5c3a64@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T222000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -597,15 +565,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0525ab100c9c8147@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T223000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b6aeb1c0138c524c@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T224500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dc1916fd7d4ba76c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T224500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -613,23 +589,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c41247bdcde477d5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T225000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-476499829ff2060a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-1fb073af5bb6b038@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9cae1140413436e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -637,7 +613,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aeebe9d6be922665@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -645,15 +621,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5d121a15df5cc47@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T120000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-62188231fc202c18@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T121500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-33fd9b2c180ca309@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7ab46d0d8f9c8764@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T122000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -661,7 +653,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd9fe5109ca9b4e0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T123000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -669,7 +661,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b19d4eedf3b62982@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T141000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -677,15 +669,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11f203aeb3aa9dd9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T142000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-36e717e3e4d5fbb6@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T142500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-437f000bb295836b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T143000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -693,15 +693,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9844d4cf9ccd2b14@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T143000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5fd5fc8a7368f49f@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T144000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8700026ab4ea233b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T150500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -709,7 +717,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d3e24d8fa8cfd28@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T163000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -717,7 +725,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81a598174ad64b4c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T165500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -725,7 +733,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b55e52bc865807df@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Spandau
@@ -733,7 +741,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9bcf807a9755268a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -741,23 +749,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f592cfb120e94a3a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c91b0435a3ada7f9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-7ced1dd5946b5031@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
-SUMMARY:Queen Budapest (OV) (OmU)
+SUMMARY:Queen Budapest (OmU) (OmU)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2eaae4632443a36a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
 SUMMARY:Queen: Budapest (EN)
 LOCATION:Cineplex Spandau
@@ -765,7 +773,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f0eca371b3ba397@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T171500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -773,7 +781,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8de3867477c8b6fc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T172000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -781,7 +789,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a61d110228a90d6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T174000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -789,7 +797,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-145892ed9c0d0b76@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T191500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -797,7 +805,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d3dc72df68f7e6e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -805,7 +813,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86fe18c544e5808b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T194000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Spandau
@@ -813,7 +821,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-315c76890b2a0cfb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T194000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -821,7 +829,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-907711545a63600e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -829,7 +837,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e234ebd117f0377@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T195000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -837,7 +845,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e67ce92ed5d82d2d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T195500
 SUMMARY:Digger (DE)
 LOCATION:Cineplex Spandau
@@ -845,7 +853,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd72d32fda778007@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -853,7 +861,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd5a472c119d110f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T200500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -861,15 +869,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a2630ac785bf818@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T201500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a53734cc5391d295@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8e525dfc9cd9a1d2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T202000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -877,7 +893,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-636ba20248fa867a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T223000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -885,15 +901,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da5cb68ac088c004@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T223000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8bdebe9969190ed8@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T224500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-79ccc8f192599a15@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T224500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -901,7 +925,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-454a80cdf6d1d05c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T225000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -909,23 +933,15 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9dcd0c58f57993e1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T230000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ad96db2a4215d294@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261011T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
-LOCATION:Cineplex Spandau
-URL:https://www.cineplex.de/berlin-spandau/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6d4662600537210d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -933,7 +949,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-313418c09f933e07@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -941,15 +957,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67d79421a310e1af@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T114500
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1a570197dd4f53e5@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-62b2aae93a21d580@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T121000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -957,7 +981,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6f662ca75266b09@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T122500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -965,15 +989,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b3851e78b03c3a2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T124500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-385e21303a2871f1@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T142500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b14077ba04008f98@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c27526a2215fb158@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T143000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -981,7 +1021,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-14ce952b555c0a41@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T144500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -989,7 +1029,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07fcfddf1f796bb2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T145000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -997,7 +1037,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc4edbb9fb909e00@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -1005,7 +1045,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b38dd2087fbd399@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T163000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1013,7 +1053,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-27bb7b3998ef550c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T164500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1021,7 +1061,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-719442f21974d139@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T165000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1029,7 +1069,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac1250b968661cb9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1037,7 +1077,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8bd754b7fce1e3c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1045,7 +1085,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-14e782a3e8d28738@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T171000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -1053,7 +1093,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cfd233d9c0374dc4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T171500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1061,7 +1101,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e8c22ca6787b844b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T172000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -1069,7 +1109,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7103b9c4d4dbb6f2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T173000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -1077,7 +1117,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bbf19146eddc4245@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T173500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1085,7 +1125,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c59e238083687aa@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T191000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1093,7 +1133,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4143f44c619827ae@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T191500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1101,7 +1141,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cbabb56d5eb00ea9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T193000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1109,7 +1149,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11b6ffa9458240cc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T194000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Spandau
@@ -1117,7 +1157,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-413490d266f07ffb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T194000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1125,7 +1165,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11bbb552c709d78a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T194500
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -1133,7 +1173,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ecbd376280b48e2e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T194500
 SUMMARY:Digger (DE)
 LOCATION:Cineplex Spandau
@@ -1141,7 +1181,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63517776a4f2dc95@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T195000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1149,7 +1189,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1a0cb1819dad2ac@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T200000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1157,7 +1197,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9690ed6f69d03d0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T201000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -1165,23 +1205,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff9db2fb7b3e6cc7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T202000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ff80b6725c4086ff@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-4bcadb4cb5d7e2b5@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T203000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a18050223c04697@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afa0f08909af4654@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1189,15 +1237,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca5d981380ff0172@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-836640c56506fa35@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8dadf7ab0a85b93f@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T121500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4cb2ce9f7acbbb95@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T123000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1205,23 +1269,39 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a149c9ff99074e70@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T124000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c5433dc7857f5e59@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9a247a653d3aa1a8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T143000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4ef32542fc6f1507@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T143500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4ee331f0ca457f16@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T144500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1229,7 +1309,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-58f2137a63bc6cba@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T150500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -1237,7 +1317,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f6c6d7f969e9a76@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T163000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1245,7 +1325,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d925b1bde1b6e77a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T164000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1253,7 +1333,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3781ffafc28f7d98@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T164500
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1261,7 +1341,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9e66c623e7fc4c1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T170000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1269,7 +1349,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b1825ad1ff0679df@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T170000
 SUMMARY:Digger (DE)
 LOCATION:Cineplex Spandau
@@ -1277,7 +1357,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed93658c27b9eb00@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T172000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1285,7 +1365,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d055e3a7eb1e79d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T172000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1293,7 +1373,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e577af75998d287e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T172000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -1301,7 +1381,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bb947eae0a2db10@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -1309,7 +1389,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53c53b8f5dc6eca6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T191500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1317,7 +1397,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-21c7bb77eafc12b1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T193000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1325,7 +1405,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c8dcf038a8d2a1a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T193000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1333,7 +1413,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d3832e30ff718fa@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T194000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1341,7 +1421,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37b409e5d64f7af3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T194500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1349,7 +1429,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-26605b78cd942c80@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T195000
 SUMMARY:Forgotten Island 3D (OV)
 LOCATION:Cineplex Spandau
@@ -1357,7 +1437,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25eb5751864514cf@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T195000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -1365,7 +1445,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a1da16c95dfa1f33@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 SUMMARY:Always Lalisa (OmU) (OmU)
 LOCATION:Cineplex Spandau
@@ -1373,15 +1453,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c6b70ad0b017244@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 SUMMARY:Always Lalisa (EN)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2ff62a5860a9f81c@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T200500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fd96a199c8e200bb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1389,23 +1477,23 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fcc9bab95e8a3c6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T202000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-362978a90cb4a00b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261013T100000
-SUMMARY:Paw Patrol: Der Dino Film (DE)
+UID:getlos-06639991164ad328@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T093000
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec728746c8f765a3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1413,15 +1501,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf69c6e999a1ba7f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-40be75e441554a12@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T115500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7bf4da78f54cb133@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-38ff062cfe896f3d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T121500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -1429,7 +1533,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1191abc26cefba1d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T122000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1437,15 +1541,31 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c526725af2753aee@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f223a3a336fafb3a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T142500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-760ba2642cb9fa24@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-893ec2f9e9ef93e8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T143000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1453,7 +1573,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9889c63a86f57bb2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T145000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1461,7 +1581,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6493f275ceba3c5a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T145000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1469,7 +1589,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bcbd8de7ca32fb50@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T161000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1477,7 +1597,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-930f812bfec10eb8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T163000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1485,7 +1605,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1ccc95323ee0f79a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1493,7 +1613,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81a9ba5a6515fa1c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1501,7 +1621,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-819495c52979253a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -1509,7 +1629,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea09c581a390054a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T171000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1517,7 +1637,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5616bb29563d13b3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T171500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1525,7 +1645,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf0ba9ebf5b2a357@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T173000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Cineplex Spandau
@@ -1533,7 +1653,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b7565d1d965e72c9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T173000
 SUMMARY:The Social Reckoning (OV)
 LOCATION:Cineplex Spandau
@@ -1541,7 +1661,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a67fa4d46e81efb8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T173000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Spandau
@@ -1549,7 +1669,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72ffcc7333be3e50@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T191500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1557,7 +1677,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a533366efbe6dcaa@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T193000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Spandau
@@ -1565,7 +1685,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aded9eabf633d96c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T193000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1573,7 +1693,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ff1d00cfafd6a45@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T194000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Cineplex Spandau
@@ -1581,7 +1701,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c79cf2ed39ff1f16@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T194500
 SUMMARY:Digger (DE)
 LOCATION:Cineplex Spandau
@@ -1589,7 +1709,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-235b2dce1a195292@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Spandau
@@ -1597,7 +1717,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-004faf43d98067b9@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T195000
 SUMMARY:Forgotten Island 3D (OV)
 LOCATION:Cineplex Spandau
@@ -1605,7 +1725,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-910b21ec6e0b516f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T195000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1613,7 +1733,7 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09f23caf6689c49f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T200000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
@@ -1621,17 +1741,145 @@ URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac9515e276e1c5d1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2b1194549b75075b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f4a4343cc6bd910e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T202000
 SUMMARY:The Social Reckoning (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-36a45d3c04327d13@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T100000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-609912ee489d6392@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T100000
+SUMMARY:Forgotten Island (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2dea72502c944685@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-40fd0f1c19bc8b89@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbe542c1164f6d1b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7610cc86e8209a44@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T122500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a50334e5754af6c0@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9749490d4074f419@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8918d31d9b08eaff@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T143000
+SUMMARY:Forgotten Island (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-173ef7bd32e6570d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T163000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90aaeff25b556d06@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T171000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f34d346bdd1f6c6@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T172000
+SUMMARY:Forgotten Island (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-89b1d6013b79441e@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T172000
+SUMMARY:The Social Reckoning (DE)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d9a38fee76019d6@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Always Lalisa (OmU) (OmU)
+LOCATION:Cineplex Spandau
+URL:https://www.cineplex.de/berlin-spandau/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-171645203af504a2@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Always Lalisa (EN)
 LOCATION:Cineplex Spandau
 URL:https://www.cineplex.de/berlin-spandau/
 END:VEVENT

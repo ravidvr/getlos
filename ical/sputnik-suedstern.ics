@@ -4,40 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-db651254147282dc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T170000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-07cfa1e1a4a4396d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T190000
-SUMMARY:Vaterland (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fa0f9baea2d4a120@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T190000
-SUMMARY:Frau Winkler verlässt das Haus (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bd3652ba1149a366@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T150000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e8e41aa4d7f28c3e@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T170000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ba6af7dbb52ba4c1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T190000
 SUMMARY:Vaterland (OmU)
 LOCATION:Sputnik Südstern
@@ -45,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a467d3fb5c72a944@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194500
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -53,7 +37,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-626ebd9442c39e05@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -61,7 +45,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d0139c48fb74ccd@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T203000
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -69,7 +53,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0063a894094ef53a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T222000
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -77,23 +61,15 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5bc63e999a6419fd@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T151000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1fab65ec33020f88@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261009T160000
-SUMMARY:Spaziergang nach Syrakus (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-46c7552e8cf148d7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T180000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Sputnik Südstern
@@ -101,7 +77,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-335e9926d5c6b0a6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T180000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Sputnik Südstern
@@ -109,7 +85,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bbae11e11a039271@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T184500
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -117,7 +93,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15a7a8fc3bcdac02@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T192000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -125,7 +101,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d584be81dde38e86@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -133,7 +109,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee186d8e719a1df7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T194000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -141,7 +117,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a38f5a06f2e8ce16@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T200000
 SUMMARY:Vaterland (OmU)
 LOCATION:Sputnik Südstern
@@ -149,7 +125,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-081dc48ef56b7311@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T201500
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -157,7 +133,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e596809b865f68e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T222000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -165,7 +141,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-238e9beb6fb0960b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T113000
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -173,7 +149,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6bfc95d7ea2437d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T140000
 SUMMARY:Vaterland (DE)
 LOCATION:Sputnik Südstern
@@ -181,7 +157,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff25d19e0e3ae33a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T174500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Sputnik Südstern
@@ -189,7 +165,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0dcfd0415a77c2d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -197,7 +173,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b315adab9ca1710d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T194000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -205,7 +181,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d5be3d9408c38f3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T194500
 SUMMARY:Frau Winkler verlässt das Haus (OmU)
 LOCATION:Sputnik Südstern
@@ -213,7 +189,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0c92d9c4225ee4b4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T204000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -221,7 +197,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac26ec309967a5bc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T222000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -229,7 +205,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec5441186f276c42@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T140000
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -237,7 +213,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fab31515398a5859@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Sputnik Südstern
@@ -245,7 +221,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d21a00c4edc244f7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T174500
 SUMMARY:Vaterland (OmU)
 LOCATION:Sputnik Südstern
@@ -253,7 +229,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-edacd5e7c0d7e65d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T191500
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -261,7 +237,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3fb48b862f297b07@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T193000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Sputnik Südstern
@@ -269,7 +245,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6af815f50271c409@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T202000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -277,7 +253,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eba5c5a0cbec0711@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T205000
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -285,7 +261,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9de46bbcb0400e0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T170000
 SUMMARY:Vaterland (DE)
 LOCATION:Sputnik Südstern
@@ -293,7 +269,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52cd8a944b079d70@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T170000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Sputnik Südstern
@@ -301,7 +277,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c23c7b2ca8c9768b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T183000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Sputnik Südstern
@@ -309,7 +285,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae4e1cbc8871a856@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T192000
 SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
@@ -317,7 +293,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b557823c19408d4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -325,7 +301,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4514228d3ab0507c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T150000
 SUMMARY:Vaterland (OmU)
 LOCATION:Sputnik Südstern
@@ -333,7 +309,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7eff711f91395f97@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 SUMMARY:Frau Winkler verlässt das Haus (OmU)
 LOCATION:Sputnik Südstern
@@ -341,7 +317,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1bf3d6ead3fab4f8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T191500
 SUMMARY:Hope (OmU)
 LOCATION:Sputnik Südstern
@@ -349,9 +325,25 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-21cb1f3b54d4d109@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T202000
 SUMMARY:Hope (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-45e51297d09796d9@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T190000
+SUMMARY:Vaterland (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8523b69f82876450@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T192000
+SUMMARY:Hope (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT

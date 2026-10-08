@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
-UID:getlos-7281d6f5640d0ad2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T204000
-SUMMARY:Bad Apples (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-54cd95174d249f45@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T210000
 SUMMARY:Coyote vs. Acme (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967

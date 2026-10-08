@@ -4,112 +4,56 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Zoo Palast
 BEGIN:VEVENT
-UID:getlos-d6cac7362be6a7c2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T141000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5f4f064ae92acf7b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T145000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cd4c37088e35fce6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T151500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-218e03eb488e78b1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T153000
-SUMMARY:Die Odyssee (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-66374151b1a15291@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T164500
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-07c01834955157ab@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T170000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-df80f4ce821033a4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T171500
-SUMMARY:Digger (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf73cbdc58cd3c8a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T193000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eda629b78be9eb18@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T201500
-SUMMARY:Queen Budapest (OV) (OV)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1a952cfd910701a0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T201500
-SUMMARY:Queen: Budapest (EN)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a61cb94ba701a911@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T203000
-SUMMARY:Digger (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-580efc599ac642e1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T140000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-34901bd54f18bf04@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d06bce78ccf019ff@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T142000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72e7cfa8b269925c@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T145000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0103c8043a511c0c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T153000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fac40fe784c2c58d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T170000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c3cd9daea8d38666@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T170000
 SUMMARY:Verity (EN)
 LOCATION:Zoo Palast
@@ -117,15 +61,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3181bde060ce807@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T171500
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c2f8f6c006732651@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T173000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-97d93879fe46f0ff@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T181500
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -133,7 +85,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b1399f4f0322649e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T193000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -141,7 +93,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-697863cb93240b2b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
@@ -149,7 +101,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-802e33b99668d9d7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -157,7 +109,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40173f35ccee6305@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -165,31 +117,63 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c38fef8f80a6637c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T203000
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c16c668f5483f747@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T204000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-57b38022be29c648@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T210000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-adecfd1570858cc2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T140000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-821e089ad7cf4a21@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bb40f155f3523c8f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T144500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-801d00dc3200b14f@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T145000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-191831202295421c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T153000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -197,7 +181,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e369e9fd727aa46c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T165000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -205,7 +189,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fafe558f5d084449@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -213,7 +197,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-641f7d30d264eac1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T171500
 SUMMARY:Digger (OV)
 LOCATION:Zoo Palast
@@ -221,7 +205,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca7990b24410af0e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T172000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
@@ -229,7 +213,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c92f322a6f050f79@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Zoo Palast
@@ -237,7 +221,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-552f59f242d9dcbc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
@@ -245,15 +229,31 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e00f3c6b96548771@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 SUMMARY:The Odyssey (EN)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ad21eef55cdae294@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f60cea50e5bf1178@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T195000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b109bffbdc351d73@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -261,7 +261,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-726cc049a3dd5397@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -269,7 +269,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d244d93ff5f5ef7f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T203000
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
@@ -277,7 +277,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e85877c088fa1eed@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T221500
 SUMMARY:Verity - Dunkle Geheimnisse (OV)
 LOCATION:Zoo Palast
@@ -285,7 +285,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0e77c24c7f7bc564@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T221500
 SUMMARY:Verity (EN)
 LOCATION:Zoo Palast
@@ -293,31 +293,39 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3ff768130f6ee88@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T230000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a9d49dad267bbeaa@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T231000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bd0db228dfbb955d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T110000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0e97677a5c1d5766@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-845900373bcbb0ad@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T111500
-SUMMARY:Queen Budapest (OV) (OV)
+SUMMARY:Queen Budapest (OmU) (OV)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d647b61dd44755a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T111500
 SUMMARY:Queen: Budapest (EN)
 LOCATION:Zoo Palast
@@ -325,7 +333,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ffd84d1d13ef4200@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T112000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Zoo Palast
@@ -333,7 +341,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93f6cda1fc869d31@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T132000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
@@ -341,23 +349,47 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6b3aa694a0ecdc5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T140000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b295e908cd4f0d21@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-51e4a0966b1c2d9a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T145000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-785617f637d1b998@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T153000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-638bffd624e5fb5a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T153000
+SUMMARY:The Odyssey (EN)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6661da1bd07de79d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T165000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -365,7 +397,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1401bd4c19b146b3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -373,7 +405,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6be06c5c492128ff@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T171500
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
@@ -381,7 +413,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd569dad79e29e6d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T190000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
@@ -389,7 +421,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3cc240bf5529929e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -397,15 +429,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00f8e3c937e27514@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-da537adba1c81850@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c2c269b64b870560@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -413,7 +453,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7b77ba99dd9e2f3f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -421,31 +461,55 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-436065a8e9838086@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T203000
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-09998d2e9fe70265@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T213000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c76ac6c63777a3e4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T221500
 SUMMARY:Verity - Dunkle Geheimnisse (OV)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-764f519256d44175@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T221500
+SUMMARY:Verity (EN)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4901574f1afc4d02@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T230000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b0ff6b501cca5967@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T231000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7121bcf39d1e3b77@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T112000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Zoo Palast
@@ -453,31 +517,55 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb63ebb0cd687de5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T112000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3c8e6f69777f1d9a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T114500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-40185480fdc4da4b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T140000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d2fa867a45cdfa2b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e4cc438075f3320c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T144500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-514b0f6a6ca68074@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T145000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b91414e5e21eb45e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T163000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -485,7 +573,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-707e17d1703bbe7f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T165000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -493,7 +581,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-721b93b415cf7aa3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -501,7 +589,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4de8f62414cdc3e1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T171500
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
@@ -509,23 +597,47 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec74337ff9646150@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T172000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-365beefe36c4e734@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T173000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2d8b988518b72421@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e68fe5d550ae4a8a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b30f140cd73c345@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T195000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-69a447a5c5b4f804@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -533,7 +645,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b63469e26f72e78@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -541,7 +653,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-acd0c864ba4c0930@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:Die Odyssee (OV)
 LOCATION:Zoo Palast
@@ -549,7 +661,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1dafbd03088fb28e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
@@ -557,7 +669,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d61028f011143148@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T140000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -565,15 +677,31 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb6329b1ca88d9ca@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T141000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7c0049cd756fce81@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f13f14eea5d192ba@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T145000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d490e7384864d2a7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T164000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
@@ -581,7 +709,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ebf9461fa7a16aa8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T164500
 SUMMARY:Digger (OV)
 LOCATION:Zoo Palast
@@ -589,15 +717,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-710609fc108519fb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T165000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-07d2e00537ae9cd6@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T170000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b4850fb0461d3194@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -605,7 +741,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7aaf2f2a1eef0a4c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T193000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -613,15 +749,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b0a339e8cfeec2bb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cc23dc25eafd6825@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b304893fe9baf306@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T194500
 SUMMARY:Always Lalisa (OmU) (OmU)
 LOCATION:Zoo Palast
@@ -629,7 +773,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ffb847ca8e9ddd3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T194500
 SUMMARY:Always Lalisa (EN)
 LOCATION:Zoo Palast
@@ -637,7 +781,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76e0020a7540bc2d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -645,7 +789,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e2e656d499be1b5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -653,15 +797,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1c3c9b8336af824@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e0a2076836e7ec6b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cf29770a91383e84@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T144500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Zoo Palast
@@ -669,7 +821,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c6a9132188b6b16@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T153000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -677,15 +829,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b4957c58925dbf4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T165000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cdb2f2b2218ef6ce@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T170000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9cb3b6c3639de21e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T171500
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
@@ -693,15 +853,23 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6a16d8fb8776e30@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T172000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6a1d5088ec4358b1@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T173000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a331d7657155d09a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T174500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
@@ -709,7 +877,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8acb9d76d30aa359@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T193000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Zoo Palast
@@ -717,15 +885,31 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22d16dd87cd728cd@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-21e51a6358f9e359@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62a24177cdc0efd2@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T195000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-97a36c4345ff7c82@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T201000
 SUMMARY:The Social Reckoning (DE)
 LOCATION:Zoo Palast
@@ -733,7 +917,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91ff44f2ed13c9c0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T203000
 SUMMARY:Digger (DE)
 LOCATION:Zoo Palast
@@ -741,9 +925,145 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d34d9c9b904e93f2@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T204500
 SUMMARY:Verity - Dunkle Geheimnisse (OV)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfbfb62a275415fd@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T130000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d8f7a79a6db4afcf@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T140000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dcfa4b51e798f458@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a19684371f35d321@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T144500
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d6c150485bcaa40@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T153000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8990ca8bab204f57@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T164500
+SUMMARY:Digger (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4b5cd7add8d9c956@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T165000
+SUMMARY:The Social Reckoning (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a03daeaecbed4992@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T170000
+SUMMARY:Resident Evil (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca8771ccbf549ffa@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T170000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0467bc0100f1c63b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T172000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e1b4543c01ee62da@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T193000
+SUMMARY:Die Odyssee (OV)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50ac25c0d14852a3@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T193000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-31e2f4d33284ff3d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T194000
+SUMMARY:The Social Reckoning (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d19df6d0c1538f84@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T194500
+SUMMARY:Always Lalisa (OmU) (OmU)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d8786e837807528@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T194500
+SUMMARY:Always Lalisa (EN)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9713e1f0558625f@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T195000
+SUMMARY:Digger (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4b6f68e3e7bbf7c@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT

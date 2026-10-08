@@ -4,88 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Spreehöfe
 BEGIN:VEVENT
-UID:getlos-6d25ad0906a368ef@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f1b022ca46197f58@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T144500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a49c603aebe278d1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-57d88dd9ad5a382b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T170000
-SUMMARY:Digger (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e93811b8042d938e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T173000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-00943dbaf3776d35@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T181500
-SUMMARY:Vaterland (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4790242728f0c75f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T190000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cbdb64331e57223e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T193000
-SUMMARY:Digger (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aacbb0bfc679dfa7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T194500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6e3b9d98d9ce3c82@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T200000
-SUMMARY:Corpus Delicti (DE)
+UID:getlos-72c18b655f6d361f@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T140000
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f15b80eaaf93e3c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T150000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -93,23 +21,39 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d55d6e71f7edf985@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6bbf2ad471b2c905@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-630e2b338f4d6925@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-025d38aa6fcea446@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T171500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e351b36187ab58d6@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T171500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -117,7 +61,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3cd253a1cba11f21@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -125,7 +69,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9a995a2a0f5ada0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -133,7 +77,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0b56b9027cc4682@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T193000
 SUMMARY:Digger (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -141,23 +85,39 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d9c4441c2112023@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0705067a8ab44280@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ee9ea60dbf60ba33@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7286fcb7d6460c92@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-43a5bb0c6dd49c4d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T150000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -165,23 +125,47 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62834262e6b18b61@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bf4ac2fd194c9521@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-502865909ecbc2c5@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d1e28c21baf2d762@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0633c8482b11f57a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T171500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-86234c9e5b79a930@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T171500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -189,7 +173,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd713853ed5619da@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -197,7 +181,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-718ea310f59bd274@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -205,7 +189,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4646bc1190e381da@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 SUMMARY:Digger (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -213,31 +197,63 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-863cc55462b621e5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e01899610e76db3d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-da87e0c24fe3e6c4@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e6d871fa961e178a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d174cd22feea8882@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d38b884172d78037@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T130000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d94cd65caf414a93@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T134500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-34333814010cb955@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T144500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -245,31 +261,47 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb5a40bd927cdf62@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-45cd46b3230923b9@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79bfc5a5035986ac@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1eb67dee4eb801ef@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ad047d21a5c037dc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-76734b15736ff15b@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T171500
-SUMMARY:Vaterland (DE)
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3216d1af40c53c51@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -277,7 +309,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-70f8d823a02cf7ca@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -285,7 +317,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63b45764077e3ade@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 SUMMARY:Digger (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -293,15 +325,23 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d8e992bda0994a59@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-acc7061c6e9a2476@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-960754db56d41c72@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -309,15 +349,31 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-217cb8597f38ec31@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T124500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-05707d854d5a5db8@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ceb21f1b58e070a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T134500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-617f62e2fd087161@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T144500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -325,15 +381,31 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d4843c1bc1d4ef1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-92a046abf4c24905@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aac965ddd92becb8@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fe85259c07b94121@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -341,7 +413,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46ad1482e3f5625f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -349,7 +421,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a92de149a88d2c81@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -357,15 +429,23 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-be02bc171db7b40e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b1668d526faf1834@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b110d9fab3af176f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -373,15 +453,31 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2d88e4b218d1be0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e5a83212cf74487e@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T150000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b26ac001bbcb75c7@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a8f6ab076a6a565b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T153000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -389,7 +485,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7821a4a17de55e74@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -397,7 +493,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d269d972fe679c9f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -405,7 +501,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6d9df3b33ab6d15@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -413,15 +509,23 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7b6d270a46b6dd9e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b72bec9752b1abcd@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e0e053069a78a689@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -429,15 +533,31 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f46e69152638c24@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5db12b4844bfb06e@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T150000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a5fac8962fb5ec9@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0b41f4cad264aad3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T153000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -445,7 +565,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-267f9c0264980a24@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -453,7 +573,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e04f066221b777db@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T173000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -461,7 +581,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d12fd282df282f0e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T174500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -469,15 +589,23 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2507f457840deb62@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T194500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-06b92916b9de86df@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-db486dc089db458b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459

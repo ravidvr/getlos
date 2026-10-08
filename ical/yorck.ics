@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-4c6414b4d57cab8f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T210000
-SUMMARY:Primetime (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ada4d2187d99a716@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T203000
 SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -21,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2cc8c01856f97de7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T210000
 SUMMARY:Primetime (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -29,15 +21,23 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19cd720467ec4c43@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T210000
 SUMMARY:Primetime (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6cf0736067ac3c23@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T210000
+SUMMARY:Primetime (EN)
+LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6ff16fec7ef1b7b3@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965

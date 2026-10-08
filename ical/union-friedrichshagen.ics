@@ -4,96 +4,40 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Friedrichshagen
 BEGIN:VEVENT
-UID:getlos-9f72f7cf822df226@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T100000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c21eb05c97b2be2b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T101500
-SUMMARY:Digger (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8ec619560c6d812f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T124500
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e983a831c35502bd@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T131500
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-735c0b493038b319@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T174500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f652579b67eb26b1@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T200000
-SUMMARY:Vaterland (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fa234bf3e8db1644@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T200000
-SUMMARY:Digger (OV)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a8e7863a8217c0dd@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261007T201500
-SUMMARY:Queen Budapest (OV) (OmU)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b96955e84604e980@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T121500
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-eeaaf91c529ef10e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261008T123000
-SUMMARY:Spaziergang nach Syrakus (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b397047237f01705@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T130000
 SUMMARY:Vaterland (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-53a5c4f458631240@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ff0269f62be695d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261008T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-719bac4b8679c7bb@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -101,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66a0d0c66f6a9b79@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T173000
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -109,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a604476ca685b21f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
@@ -117,7 +61,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e295e6666352cc7e@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
@@ -125,7 +69,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c641ca15da44d89d@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -133,7 +77,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19745fa54d51f7ed@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261008T203000
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -141,7 +85,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3049cb7dd85d4f0b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T121500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -149,7 +93,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4ec9768e5175e92@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T130000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Union Friedrichshagen
@@ -157,15 +101,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cef905321b3bc36@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T144500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-10f8ceaa0a36103d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e27ef656a5472b18@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261009T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7e9c2a0222185c26@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T171500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -173,7 +133,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e6bed3e97f48e60@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T173000
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -181,7 +141,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ebb2d2cd33d88f8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T181500
 SUMMARY:Vaterland (DE)
 LOCATION:Union Friedrichshagen
@@ -189,7 +149,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9fe6c38c15c2816@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T200000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
@@ -197,7 +157,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19e84b228c1fc916@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
@@ -205,7 +165,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c9463032d76082d7@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261009T203000
 SUMMARY:Digger (OmU)
 LOCATION:Union Friedrichshagen
@@ -213,23 +173,47 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b204bfdbcb893b77@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T103000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dbdde5cb73cbcc25@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T104500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b87a70ed85c1e3a1@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T123000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7b1e2e684fd6694c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T133000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d29951949742dd69@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261010T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c46beafeecfa6323@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T154500
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -237,23 +221,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dcb7ae86926ae5aa@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T161500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d66e416b15c16117@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+UID:getlos-2be0e1c1bf44c2c2@ravidvr.github.io
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T170000
-SUMMARY:Queen Budapest (OV) (OmU)
+SUMMARY:Queen Budapest (OmU) (OmU)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-608018c448a39286@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T190000
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -261,7 +245,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8477c8dd832d48f@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
@@ -269,7 +253,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5c84b062264d295@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T100000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -277,15 +261,47 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d491c00a22eb7041@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T101500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7965dc9b8c9716d3@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad65a5250e280ab4@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T123000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b8638dd7046e438@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9be9026899fc899f@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261011T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5eb467a778320bcc@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T153000
 SUMMARY:Vaterland (DE)
 LOCATION:Union Friedrichshagen
@@ -293,7 +309,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99f466fbdc79bb15@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -301,7 +317,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24a37af67a33a74c@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T194500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
@@ -309,7 +325,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3230ea4f64b77808@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T201500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
@@ -317,7 +333,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-191399f02b4d51fe@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -325,7 +341,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ef22af7816c0aff5@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T123000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -333,23 +349,39 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0acf03e762eb01e0@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T123000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c0e3fe1e67cb4e0a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-93bb23ae91d58d84@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T151500
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6eb023bddd33cb9d@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0fcfee7ef1791c5a@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T171500
 SUMMARY:Digger (OmU)
 LOCATION:Union Friedrichshagen
@@ -357,15 +389,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-968d9d04c8f7f961@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fc7566bc223f0c37@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261012T180000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5cbc1087d1792099@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -373,7 +413,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1e9e4a1cd44fc1b@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
@@ -381,7 +421,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d01a87f9f9898e8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T123000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -389,31 +429,39 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3911132abd272401@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T123000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9747f81faadd7977@ravidvr.github.io
-DTSTAMP:20261007T100234Z
-DTSTART;TZID=Europe/Berlin:20261013T130000
-SUMMARY:Spaziergang nach Syrakus (DE)
+UID:getlos-bafb6e1918ff150a@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-288d5d7ae6401c31@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T151500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-14a8cf8874c181f6@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261013T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-35351a3be9073881@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 SUMMARY:Digger (DE)
 LOCATION:Union Friedrichshagen
@@ -421,7 +469,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d39047a9042ab808@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -429,7 +477,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eff8e31c978c2856@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Union Friedrichshagen
@@ -437,7 +485,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-309fc025136209c8@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T200000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Union Friedrichshagen
@@ -445,7 +493,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0339ae191b0d7f98@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Vaterland (DE)
 LOCATION:Union Friedrichshagen
@@ -453,9 +501,17 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-caa4ff2223c28f82@ravidvr.github.io
-DTSTAMP:20261007T100234Z
+DTSTAMP:20261008T072402Z
 DTSTART;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Digger (OmU)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-288997b2055a62e7@ravidvr.github.io
+DTSTAMP:20261008T072402Z
+DTSTART;TZID=Europe/Berlin:20261014T130000
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
