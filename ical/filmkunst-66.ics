@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - filmkunst 66
 BEGIN:VEVENT
-UID:getlos-ca8280a0ae678931@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T140000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0b64e2ec23629902@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T150000
-SUMMARY:Digger (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1b6ff20a0401a1dc@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T174500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-179b30c202dd7cf8@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T183000
-SUMMARY:Eine Krankheit wie ein Gedicht (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6897df12a2b7f614@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T201500
-SUMMARY:Digger (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-870b4cdff71431b5@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T203000
-SUMMARY:Bruno - Der junge Kreisky (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c672e9afbf3c9323@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -61,7 +13,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac8fd3d840fea46e@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T150000
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -69,7 +21,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17cd9e95bddf7234@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -77,7 +29,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-095941890e66ce43@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T201500
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -85,7 +37,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7fcc9f884b57fe5e@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T203000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -93,7 +45,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-02728a1b0de59652@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -101,7 +53,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b60e120188e429dc@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T150000
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -109,7 +61,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69e27acf2c8ea1a8@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -117,7 +69,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5925d516700a83e@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T183000
 SUMMARY:Eine Krankheit wie ein Gedicht (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -125,7 +77,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b9954bb42b08c76@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T201500
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -133,7 +85,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38210bc3b2b96153@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T203000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -141,7 +93,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f28a72498c443b6d@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T120000
 SUMMARY:Eine Krankheit wie ein Gedicht (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -149,7 +101,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51714546e551bb7d@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -157,7 +109,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-54391f57aea761aa@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T150000
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -165,7 +117,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd44c1eaa8d031e5@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -173,7 +125,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc5f0bb02b0eaabc@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T201500
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -181,7 +133,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4db3c74258696cab@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:The Pawnbroker (EN)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -189,7 +141,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-20eba1725f9e6162@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -197,7 +149,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-06e79b108877ed0b@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T150000
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -205,7 +157,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-879065d573b47336@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T160000
 SUMMARY:Eine Krankheit wie ein Gedicht (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -213,7 +165,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8b00973f6340c45@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -221,7 +173,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d7771d561f7c180@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T201500
 SUMMARY:Digger (OmU)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -229,7 +181,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c4a30430d50cdbb@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -237,7 +189,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-256d70a0e960f19b@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -245,7 +197,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6240782e870435d1@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T150000
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -253,7 +205,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad3d555ebf192629@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -261,7 +213,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb7801028c5fb105@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -269,7 +221,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-228cd3647eea9526@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T203000
 SUMMARY:Bruno - Der junge Kreisky (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -277,7 +229,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1dc3b712088e4e60@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261014T150000
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -285,7 +237,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f53237ce4d400e9d@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261014T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -293,7 +245,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b566e77ffacabe8e@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261014T201500
 SUMMARY:Digger (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623

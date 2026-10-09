@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - fsk - Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-8f11b080885accf0@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T183000
-SUMMARY:Watching People Watching Birds (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0f158074a6a2b417@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T200000
-SUMMARY:Sternbrücke Forever (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5e7d62a13f30db78@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T181500
 SUMMARY:Sternbrücke Forever (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -29,7 +13,7 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94d169b267b119ba@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T131500
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -37,23 +21,23 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c2237722106189c@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T160000
 SUMMARY:Sternbrücke Forever (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5714c137cef550c0@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+UID:getlos-edf2b66394227fb5@ravidvr.github.io
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T181500
-SUMMARY:Watching People Watching Birds (OmU) (OmU)
+SUMMARY:Watching People Watching Birds (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a33563e894e01d8a@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T131500
 SUMMARY:Vaterland (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -61,17 +45,17 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2bbdb6d8ac5267e8@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T160000
 SUMMARY:Sternbrücke Forever (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f210e66cb3b98491@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+UID:getlos-5a9cc5bdaf01cafa@ravidvr.github.io
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T181500
-SUMMARY:Watching People Watching Birds (OmU) (OmU)
+SUMMARY:Watching People Watching Birds (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT

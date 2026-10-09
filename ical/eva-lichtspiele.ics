@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-d9d2071cbfdb6dd5@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T130000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d6ae597054c147bc@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-043b8d110e03846e@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T174500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5a772b720cd59da2@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T174500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c77ff94a5772bc25@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -45,7 +13,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-678aa93f76a274d1@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -53,7 +21,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fbcb3a4d09882558@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -61,7 +29,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d457ba51bdb651c@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -69,7 +37,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c83dc751c0d2dcf5@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -77,7 +45,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c19b937d26e02d96@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -85,7 +53,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f1c76cb2bb09c85@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -93,7 +61,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-db52512bca53cd97@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -101,7 +69,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f34b0be18bea1cd6@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -109,7 +77,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94c6a98d6d65ed06@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -117,7 +85,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-927fe10db9fcc3b1@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -125,7 +93,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97e6e9477d714135@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -133,7 +101,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e7e097b119be4eb@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -141,7 +109,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c8ce919ae99844e@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -149,7 +117,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dbcece142b88116a@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -157,7 +125,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69662b18b4c6b2e5@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T174500
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -165,7 +133,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-624966e739933505@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -173,7 +141,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24e3201a4a5fb3de@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -181,7 +149,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-239d343cec2af4cb@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -189,7 +157,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa4fad0797f584e6@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261014T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713

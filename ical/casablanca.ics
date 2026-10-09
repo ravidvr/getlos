@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Casablanca
 BEGIN:VEVENT
-UID:getlos-ffc3bec9b163ac17@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T100000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d11481f46803e5ee@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e3da0a512aec55ce@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T203000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-8e4ead31c6db8dca@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -37,7 +13,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb05201a73086664@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261009T203000
 SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -45,7 +21,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d702ee6f941475b2@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -53,7 +29,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb9f3998ce599374@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T180000
 SUMMARY:Pans Labyrinth (OmU) (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -61,7 +37,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-691b4f26876c7646@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -69,7 +45,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33c8a61e39e5f41a@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -77,7 +53,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1ef0be9a2ed1f69c@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Pans Labyrinth (OmU) (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -85,7 +61,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec3163ae863115a9@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261013T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -93,7 +69,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9fd654dffc75824@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261014T203000
 SUMMARY:Pans Labyrinth (OmU) (OmU)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489

@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick
 BEGIN:VEVENT
-UID:getlos-e49b5946249508bd@ravidvr.github.io
-DTSTAMP:20261008T072402Z
-DTSTART;TZID=Europe/Berlin:20261008T180000
-SUMMARY:Vaterland (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-dbbc21535a00e2b1@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T163000
 SUMMARY:Vaterland (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -21,7 +13,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c5cff10d80797dc@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261010T180000
 SUMMARY:Heart of Light - Eleven Songs for Fiji (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -29,7 +21,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96e41f2299b956e5@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261011T150000
 SUMMARY:Heart of Light - Eleven Songs for Fiji (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -37,7 +29,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24dc4cb6fd1922fb@ravidvr.github.io
-DTSTAMP:20261008T072402Z
+DTSTAMP:20261009T071333Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 SUMMARY:Vaterland (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
