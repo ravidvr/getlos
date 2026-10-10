@@ -4,10 +4,18 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - UCI Am Eastgate
 BEGIN:VEVENT
-UID:getlos-f2fcd27c3728fee3@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+UID:getlos-6184d6c535a1b945@ravidvr.github.io
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
-SUMMARY:Queen: Budapest (EN)
+SUMMARY:Queen: Live in Budapest (EN)
+LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
+URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2fa950a28883e65f@ravidvr.github.io
+DTSTAMP:20261010T083146Z
+DTSTART;TZID=Europe/Berlin:20261011T201500
+SUMMARY:The Social Reckoning (EN)
 LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
 URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44
 END:VEVENT

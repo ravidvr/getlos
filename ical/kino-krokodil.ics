@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-d698b5062f57cc6b@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T170000
-SUMMARY:Vaterland (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-856423bf5329fe7e@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T183000
-SUMMARY:Wohin mit mir? (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8199ec38ed1a107a@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T200000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-287133151f77a393@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T153000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7bb3ae70ec36aba6@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e7d9131e04940384@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T153000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -53,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8764ec232c84f103@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -61,7 +37,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8d12b3b83aad49e@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T171500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -69,7 +45,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b48a7593e06b8e99@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T210000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437

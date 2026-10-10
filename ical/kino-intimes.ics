@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Intimes
 BEGIN:VEVENT
-UID:getlos-40e65720afdb6c80@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T140000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7dfd8090b879e454@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dc6408941e2b6427@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T155000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9319319390836bfa@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T164500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3b070e98a7b1385f@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T175000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-96b080b8caff2bfa@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T183000
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-29a54a8194533ebf@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T193000
-SUMMARY:Digger (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cc619b53cf88d86d@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T201500
-SUMMARY:Primetime (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b5c7d46c2d288292@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T220000
-SUMMARY:Die Odyssee (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0910835074299506@ravidvr.github.io
-DTSTAMP:20261009T071333Z
-DTSTART;TZID=Europe/Berlin:20261009T220000
-SUMMARY:The Odyssey (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7c5fd2a68d93d7b0@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T120000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -93,7 +13,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d517e35a1a149154@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T135000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -101,7 +21,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9110dc4072ad2b5b@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T141000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -109,7 +29,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-20df303bc0ed7cc8@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -117,7 +37,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-334f9a9c21078e51@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -125,7 +45,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a3e989a7a9d5abd@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T173000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -133,7 +53,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d4a6e81dc6a36fe@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T181000
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -141,7 +61,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bfbc24e92da0aa9c@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T191500
 SUMMARY:Digger (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -149,7 +69,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4987c6ca97cbf6b7@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:Primetime (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -157,7 +77,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f983ac26a586cb13@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T215000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -165,7 +85,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b9d0596e542b935@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T215000
 SUMMARY:The Odyssey (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -173,7 +93,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85e54fca106142e4@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261010T221500
 SUMMARY:Obsession (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -181,7 +101,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-657cf7440a3b1d37@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T120000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -189,7 +109,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c672c8769b783a89@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T135000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -197,7 +117,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69eda24ecc729543@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T141000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -205,7 +125,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd16b2a77caffe6e@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -213,7 +133,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-101af2c1c54e3eda@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -221,7 +141,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-237debacf4c6147a@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T173000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -229,7 +149,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b3c22012abfe531@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T181000
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -237,7 +157,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b543428ed34e0aba@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T191500
 SUMMARY:Digger (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -245,7 +165,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-293cef0cae42a693@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T200000
 SUMMARY:Primetime (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -253,7 +173,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28c32203a3999959@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T215000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -261,7 +181,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c74fb2ca831d025a@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T215000
 SUMMARY:The Odyssey (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -269,7 +189,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3285925ff0866bb9@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261011T221500
 SUMMARY:Obsession (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -277,7 +197,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e312334efbbff4f@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -285,7 +205,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39504931abe9b263@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -293,7 +213,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5bd1767a28abf4a1@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T155000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -301,7 +221,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e42618409ec0217b@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -309,7 +229,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cfb7af47d8acd19@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T175000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -317,7 +237,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-131b993f84272885@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T181500
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -325,7 +245,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33efcd5e9597c016@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T193000
 SUMMARY:Digger (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -333,15 +253,31 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e23f9836bda121a@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261012T220000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2fea59b56c24dfbf@ravidvr.github.io
+DTSTAMP:20261010T083146Z
+DTSTART;TZID=Europe/Berlin:20261012T220000
+SUMMARY:The Odyssey (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5b922f48649c6ae4@ravidvr.github.io
+DTSTAMP:20261010T083146Z
+DTSTART;TZID=Europe/Berlin:20261012T220000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1a39c4ad8004ad59@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -349,7 +285,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47f1de96e662885c@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -357,7 +293,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ccacf869f468456@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T155000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -365,7 +301,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-143c9f9c0f597e18@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -373,7 +309,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-991be1a97ee4426b@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T175000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -381,7 +317,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5f1a25470971031b@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T181500
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -389,7 +325,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bee91dbb7d4a0628@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T193000
 SUMMARY:Digger (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -397,7 +333,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-382727b72c8f126e@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261013T220000
 SUMMARY:Die Odyssee (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -405,7 +341,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c827df4b4d600a1@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261014T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -413,7 +349,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0cb2bb25474135e@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261014T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -421,7 +357,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d6e6e6c5d1d7a4f@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261014T175000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -429,7 +365,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-601e0755aa4630a7@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261014T181500
 SUMMARY:Vaterland (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -437,7 +373,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3041a293966c78b@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261014T193000
 SUMMARY:Digger (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -445,7 +381,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a30e65a57b28ed6@ravidvr.github.io
-DTSTAMP:20261009T071333Z
+DTSTAMP:20261010T083146Z
 DTSTART;TZID=Europe/Berlin:20261014T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
