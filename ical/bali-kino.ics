@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali-Kino
 BEGIN:VEVENT
-UID:getlos-ea397140f9c8d7ea@ravidvr.github.io
-DTSTAMP:20261010T083146Z
-DTSTART;TZID=Europe/Berlin:20261010T160000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2d96d706233b2842@ravidvr.github.io
-DTSTAMP:20261010T083146Z
-DTSTART;TZID=Europe/Berlin:20261010T203000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4c2fef1a67c7152c@ravidvr.github.io
-DTSTAMP:20261010T083146Z
+DTSTAMP:20261011T072512Z
 DTSTART;TZID=Europe/Berlin:20261011T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Bali-Kino
@@ -29,7 +13,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c2e169e3929ed18@ravidvr.github.io
-DTSTAMP:20261010T083146Z
+DTSTAMP:20261011T072512Z
 DTSTART;TZID=Europe/Berlin:20261011T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Bali-Kino
@@ -37,7 +21,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcfcc700359ad197@ravidvr.github.io
-DTSTAMP:20261010T083146Z
+DTSTAMP:20261011T072512Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Bali-Kino
@@ -45,7 +29,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-754e3cebf550f111@ravidvr.github.io
-DTSTAMP:20261010T083146Z
+DTSTAMP:20261011T072512Z
 DTSTART;TZID=Europe/Berlin:20261013T203000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Bali-Kino

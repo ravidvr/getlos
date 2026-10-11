@@ -4,17 +4,17 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Union
 BEGIN:VEVENT
-UID:getlos-2c4b3df3bc0eea0b@ravidvr.github.io
-DTSTAMP:20261010T083146Z
-DTSTART;TZID=Europe/Berlin:20261010T170000
-SUMMARY:Queen: Live in Budapest (EN)
+UID:getlos-73cb61715255e4e4@ravidvr.github.io
+DTSTAMP:20261011T072512Z
+DTSTART;TZID=Europe/Berlin:20261012T171500
+SUMMARY:Digger (EN)
 LOCATION:Kino Union
 URL:https://www.kino-union.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-73cb61715255e4e4@ravidvr.github.io
-DTSTAMP:20261010T083146Z
-DTSTART;TZID=Europe/Berlin:20261012T171500
+UID:getlos-b6f04d61e000e304@ravidvr.github.io
+DTSTAMP:20261011T072512Z
+DTSTART;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Digger (EN)
 LOCATION:Kino Union
 URL:https://www.kino-union.de/
