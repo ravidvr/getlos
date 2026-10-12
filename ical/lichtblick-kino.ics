@@ -4,26 +4,34 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick Kino
 BEGIN:VEVENT
-UID:getlos-517cd2f5f02963ce@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T150000
-SUMMARY:Heart of Light: Eleven Songs for Fiji (EN)
-LOCATION:Lichtblick Kino
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0dafa1d3c59df56a@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Trainspotting (EN)
 LOCATION:Lichtblick Kino
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-07b02796609435ef@ravidvr.github.io
+DTSTAMP:20261012T073630Z
+DTSTART;TZID=Europe/Berlin:20261015T180000
+SUMMARY:Barbara Forever (EN)
+LOCATION:Lichtblick Kino
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d45e81295b1eccb7@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261017T151500
 SUMMARY:Heart of Light: Eleven Songs for Fiji (EN)
+LOCATION:Lichtblick Kino
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-079484ba72c63fcb@ravidvr.github.io
+DTSTAMP:20261012T073630Z
+DTSTART;TZID=Europe/Berlin:20261018T000000
+SUMMARY:Casablanca (EN)
 LOCATION:Lichtblick Kino
 URL:https://www.lichtblick-kino.org/
 END:VEVENT

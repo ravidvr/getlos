@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-157fd24cdbf90745@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T210000
-SUMMARY:Hope (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c5df7dc55462739f@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T150000
 SUMMARY:Primetime (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -21,7 +13,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff410c32a89fcbb8@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T213000
 SUMMARY:Hope (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -29,7 +21,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e89bb6bb1ab82809@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T153000
 SUMMARY:Vaterland (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -37,7 +29,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9dc03a1d1a325c12@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T184000
 SUMMARY:Hope (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -45,15 +37,31 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a69c8b2bbc0eef0@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T213000
 SUMMARY:Primetime (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d7a705e24359ea93@ravidvr.github.io
+DTSTAMP:20261012T073630Z
+DTSTART;TZID=Europe/Berlin:20261014T143000
+SUMMARY:Bad Apples (EN)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c2929b874c5e915d@ravidvr.github.io
+DTSTAMP:20261012T073630Z
+DTSTART;TZID=Europe/Berlin:20261014T163000
+SUMMARY:Primetime (EN)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2d600ff4f68f43e2@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261015T173000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -61,7 +69,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6de06cb9891bee0@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261016T143000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -69,7 +77,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f472ec13e5d794ce@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261016T173000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -77,7 +85,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4849889253fb9a24@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261017T153000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047

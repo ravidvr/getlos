@@ -4,80 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-0e130cae5a97c8bb@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T110000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a5c9eb9d54c19017@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T133000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-07a67eeb7ba062da@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T135000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c76e5c7000dc7e05@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T153000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bb0e0a309cda4566@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T161000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0c69c97d0fb577b4@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T174000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c62c988712a83fba@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2928809b23e7a6b8@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T201500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c48ddeca3b431c5a@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T203000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-884762cce5d4a445@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -85,7 +13,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c46f43ee8d3e586@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T134000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -93,7 +21,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcc550e523f5c7a1@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -101,7 +29,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2e0c32f2701002d@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T160000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -109,7 +37,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b1620a51e7a3306d@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T174000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -117,7 +45,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-75bf41ba5892de74@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T183000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -125,7 +53,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b3dee6bbf2c3a51@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -133,7 +61,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f632b8ce221d2adf@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T203000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -141,7 +69,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab29578e6646b100@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -149,7 +77,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b174251ff64092b3@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T134000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -157,7 +85,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-670c5349c2213af6@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -165,7 +93,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f215022ba0b500b6@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T160000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -173,7 +101,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d04581674b0313de@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T174000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -181,7 +109,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ada40d7a96fc01c@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T183000
 SUMMARY:Vaterland (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -189,7 +117,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf7d173bd256c2ae@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -197,7 +125,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1e301cd76d4732e@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T203000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -205,7 +133,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49ae211a2876281d@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261014T160000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -213,7 +141,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7dc909b537d23500@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261014T174000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -221,7 +149,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca6c1531131785fd@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261014T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156

@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-a23945ece4c02cf5@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T140000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf0bf9bc17f92b6d@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T164500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c65007b4310b11e8@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T193000
-SUMMARY:Digger (OmU)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7d6597b737d27db3@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T144500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Delphi Filmpalast
@@ -37,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-655207c5be20dfcd@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Delphi Filmpalast
@@ -45,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78afa5839a8da6aa@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261012T201500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
@@ -53,7 +29,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c6d7b5c70804daa@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T144500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Delphi Filmpalast
@@ -61,7 +37,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46909bd8a7be29cc@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Delphi Filmpalast
@@ -69,7 +45,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f3e3b666af9490f@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
@@ -77,17 +53,17 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-443ecc2020d96886@ravidvr.github.io
-DTSTAMP:20261011T072512Z
+DTSTAMP:20261012T073630Z
 DTSTART;TZID=Europe/Berlin:20261014T201500
 SUMMARY:Digger (OmU)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-627ce6aae46e1dcb@ravidvr.github.io
-DTSTAMP:20261011T072512Z
-DTSTART;TZID=Europe/Berlin:20261011T110000
-SUMMARY:Some Like It Hot (EN)
+UID:getlos-3f92bc49ec62701b@ravidvr.github.io
+DTSTAMP:20261012T073630Z
+DTSTART;TZID=Europe/Berlin:20261018T110000
+SUMMARY:A Foreign Affair (EN)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
