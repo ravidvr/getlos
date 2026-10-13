@@ -4,17 +4,25 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-b8dda3913c271ff9@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T154500
+UID:getlos-cf84476bed3cb534@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261013T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
 URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cf84476bed3cb534@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261013T180000
+UID:getlos-7420127ee87c9ce0@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261014T153000
+SUMMARY:Vaterland (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec2289266935c66e@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261017T110000
 SUMMARY:Vaterland (DE)
 LOCATION:Cosima-Filmtheater
 URL:https://cosima-filmtheater.de/

@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Internationales Theaterinstitut Deutschland
 BEGIN:VEVENT
-UID:getlos-4f8d9f24ec7cf8df@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T155000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
-URL:https://www.iti-germany.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4dbf815d7710af17@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T184000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
-URL:https://www.iti-germany.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e5a407c249727d48@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -29,7 +13,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5966764ee75b1722@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T175000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -37,7 +21,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69d1158e1f0a0cf8@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T204000
 SUMMARY:Digger (OmU)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -45,7 +29,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81b2ab9fbedc6937@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261014T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -53,7 +37,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47716ba5248436ea@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261014T175000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -61,7 +45,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e974b3bb4851bcf4@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261014T204000
 SUMMARY:Digger (OmU)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997

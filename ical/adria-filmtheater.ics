@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Adria Filmtheater
 BEGIN:VEVENT
-UID:getlos-76712f8d3150a6fe@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T144000
-SUMMARY:Vaterland (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-028dac042abb2761@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T164500
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9eb9d0fce3d4e56a@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T193000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-eedbdb9292c55351@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Vaterland (DE)
 LOCATION:Adria Filmtheater
@@ -37,8 +13,64 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce5d6db6b7b3cd06@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T162000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9767585e98ad1e6@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261014T164500
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1cb0210926ffafed@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261014T193000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c2ce20b0a6b77cf@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261015T165000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ac34c15f3902abe@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261016T140000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08738a96144e1194@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261017T165000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db837bdfeb53fb72@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261018T140000
+SUMMARY:Corpus Delicti (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dcefc85b65e927e4@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261019T165000
 SUMMARY:Corpus Delicti (DE)
 LOCATION:Adria Filmtheater
 URL:https://www.adria-filmtheater.de/

@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-3e4f6cdcb07cc5b0@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T160000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c6302f3bc0c775ed@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T200000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movieland

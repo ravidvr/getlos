@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-aaa3abe5a475e396@ravidvr.github.io
-DTSTAMP:20261012T073630Z
-DTSTART;TZID=Europe/Berlin:20261012T210000
-SUMMARY:Primetime (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-139247851fe10451@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T210000
 SUMMARY:Primetime (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -21,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f79edba5fa6d03d@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261014T210000
 SUMMARY:Primetime (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -29,9 +21,17 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5da55b90c6a65219@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261018T113000
 SUMMARY:Gentlemen Prefer Blondes (EN)
+LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-34d147273e1c0d3d@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261018T203000
+SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
 URL:https://yorck.de/kinos/yorck
 END:VEVENT

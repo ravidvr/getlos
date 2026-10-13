@@ -4,18 +4,98 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
+UID:getlos-8dab1bfdaf293f0e@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261013T173000
+SUMMARY:Vaterland (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-540f89d413cb8e92@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261013T190000
 SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8c43d6b81982d8b4@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261014T173000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-83d3db46fd982713@ravidvr.github.io
-DTSTAMP:20261012T073630Z
+DTSTAMP:20261013T072825Z
 DTSTART;TZID=Europe/Berlin:20261014T193000
 SUMMARY:Bad Apples (EN)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-394b90a656ef677a@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261015T173000
+SUMMARY:Watching People Watching Birds (OmU) (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-61726e66f707ab32@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c726fabd6bb66663@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261017T150000
+SUMMARY:Watching People Watching Birds (OmU) (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-27535671c899dc6c@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261017T154500
+SUMMARY:Watching People Watching Birds (OmU) (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c6391202a1ec23e8@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261017T210000
+SUMMARY:Bad Apples (EN)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12ec4cc6426be5b5@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261018T154500
+SUMMARY:Watching People Watching Birds (OmU) (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ed8377abfb34388@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261018T182000
+SUMMARY:Vaterland (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d81d706466a9c97@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261019T180000
+SUMMARY:Frau Winkler verlässt das Haus (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT

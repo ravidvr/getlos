@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Zeiss-Großplanetarium
+BEGIN:VEVENT
+UID:getlos-56fd49078bab3c3e@ravidvr.github.io
+DTSTAMP:20261013T072825Z
+DTSTART;TZID=Europe/Berlin:20261018T193000
+SUMMARY:Watching People Watching Birds (OmU) (DE)
+LOCATION:Zeiss-Großplanetarium
+URL:https://www.planetarium.berlin/zeiss-grossplanetarium
+END:VEVENT
+END:VCALENDAR
