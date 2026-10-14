@@ -4,25 +4,153 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-711ada0aa48dbe9d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T151500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c18fff23ca2bdb46@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T175000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c9c0554253bc2dfc@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1727ac210a13f01a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4cb208b8dfdb1e89@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1513324e071c05c3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01a8d81397aafacb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-241ee43953f1fdcc@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d4dac22f0217fc1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a4d18ce6c9194a9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4134db1c5aaeb797@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b340c0bcb3057b8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-211c960f0a6b3a12@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2677201c7c72d089@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c793ab4c127368f2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08e9dc6dc4f909a4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-507291395a626020@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e202f724bd9dc442@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0157643629f20fc5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb7f9dc25281e6cb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e42092e855f185e1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris

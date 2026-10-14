@@ -4,448 +4,72 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia - Movie Magic
 BEGIN:VEVENT
-UID:getlos-173635d4393e4641@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T140000
-SUMMARY:Resident Evil (OV)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-50632ace12a06804@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T140000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f08ba45cc3896261@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T141000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-abd7eae05b3dedde@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T142000
-SUMMARY:Resident Evil (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-941cb8c620a44525@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T142000
+UID:getlos-c1179974e8ebf27b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T140000
 SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-705a95f153993470@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T142000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3f8d97a833ec35a9@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T143000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6389c1d650227e9@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T143000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2f16aee3e11a99fc@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T144000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f4509d677a008745@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T144500
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b223a742a904e97c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-406c39d5d9ce3e01@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T154500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0cc68f85e0e8f81c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T154500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-85cc6bac874bb9f0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T154500
-SUMMARY:Forgotten Island 3D (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7b27d1900ecc9e73@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T162000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f5c09e4c1b8f1a9e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T163000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3c47aba532518324@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-421f63c9202be6d0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T163000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d6943d4deab31562@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T164500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-53ac2dc7e1c77692@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T164500
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0c6cc7499754e25a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T164500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-17ebf1fc6ea2402a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T165000
-SUMMARY:Resident Evil (OV)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7eb319ac2a5537c3@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T170000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-773e49055d091526@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T170000
-SUMMARY:Forgotten Island 3D (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4dc9e0a009f0e08f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T170000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d469cbcc29a69668@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T171000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cbb644fa22256d72@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T171000
-SUMMARY:Forgotten Island 3D (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-763c75895883e863@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T171500
-SUMMARY:Verity - Dunkle Geheimnisse (OV)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9d76388c713a5044@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T172500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-99fa4eb927838c22@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T173000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b97da1eccafe1417@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T173000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7fc088d7dc57ae4d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T180000
-SUMMARY:Forgotten Island (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-13d74f936564462a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8fc06ae47f00f135@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T183000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c449073218dd76f1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T192000
-SUMMARY:Resident Evil (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-46f236c028fab12c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T193000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-da99c0a06b7209bf@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T194000
-SUMMARY:Spider-Man: Brand New Day (OV)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-63af256f74dad86a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T194500
-SUMMARY:Resident Evil (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-62cd99aa8a8a8739@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T194500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5566982cd558083b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T194500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5c2290510e7ba2d1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T200000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-58f104983884d8d1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T200000
-SUMMARY:Forgotten Island 3D (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6499115bc0b73543@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T200000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d4351a0ebb306b75@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T201000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6cd9aa2a77d16119@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T201500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2176ddd16c0c4f64@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T202000
-SUMMARY:Resident Evil (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a5bf8f84b952f9fa@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T203000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-447de3140a46ae3c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T203000
-SUMMARY:Das gewisse Etwas (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-33c6a93400c31e8f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1e59f2bc92f94712@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T203500
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcb3726a01ca0a5f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T141000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a3d602ab1de99913@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T141000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dbc6ce324dd6c287@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T142000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9b6cc77f72233072@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-ac5499ba27db3bbb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T142000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7d0fac2a68629e01@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T142000
+SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7a94a6216c79612@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T144000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1810aa2c8d126943@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-0b0054bc0b60e3e5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T144500
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-996ddbf9ae3dccec@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T153000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -453,7 +77,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96cbf63431390c45@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T153000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
@@ -461,47 +85,71 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b0b17e2d8106ec09@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f0f7c2db0222206a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T163000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-84cc86869806f0cd@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T164500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2185d278e5d883d0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-d68f5a8a44258783@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T164500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4930dc7f7167d5f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T165000
 SUMMARY:Resident Evil (OV)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ceeb9c88b436a0ae@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T171500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+UID:getlos-f3918ebb727169ec@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ecf1688a03481075@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T170000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66e80e6a9895ff88@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T171000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f64846c06a064417@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
@@ -509,39 +157,87 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca362f9bbcc67aaa@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T180000
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6cdd990d4c2346cc@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fc7ba2e762828655@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T183000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cce0d82a80bcd953@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-0c3dc97d56bf5f57@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T194500
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-30b2afe378accdd3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c36ecbe1bee19fd1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af7fc32d5e7eaff4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09f0a2a59f995648@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-001e6fb5e0e0aac9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T201000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af388b6a91821196@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T201000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67a2c5eec23825d8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T202000
+SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5cf44083f7d84bf@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
@@ -549,23 +245,15 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0a4d6f768f4ff48@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1a4352a3c123136e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c8c48eaf7d4d016a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T203500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (OV)
 LOCATION:Thalia - Movie Magic
@@ -573,7 +261,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed92ecfb4bced2ba@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T134500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -581,23 +269,47 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-75fe24a57bcc5a44@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e46693179d55853a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-15c6006175b4a759@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ba8fccda1adc823@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T140000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67cd4867109dc2db@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T141000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d195498419c00315@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T141500
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e4873eec72ee3c1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -605,7 +317,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-58017f4e3b74249f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -613,7 +325,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8944d6391be112ce@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T154500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
@@ -621,47 +333,255 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5c4efaa352d671b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-568549a171b8900f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261015T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-b7b4a672db014ad4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T162500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66b84904ff2e2fef@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T164000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8acd59937d8b0c7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T164500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a20a6bd663bd5d8e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T165000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f30c073d4b81604@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-91074a5a8d52c54a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T170000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4dd0ee955ed1bc45@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T170000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-61443fdea9d92b5a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T171000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-daceeebbd2451cda@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T171500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29fc4d9920c0a075@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T173000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd5f3837db302cf7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T173000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-958c412546d8a0da@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T175000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77a3999b4bf0ff47@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T180000
+SUMMARY:Street Fighter (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-302c8ca9d2938619@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-94a84e0910019393@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261015T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-eeb4ba4093dd07a3@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T181500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c3b6fe75d5f8d2b9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T193000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba979b74e3ba0494@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T193000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3d0f2df3351965b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T194000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d02298e7d429fd4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T194500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5033278c9cc005c1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ffaba0e947e0cee@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T194500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69bdded0fb7b68fe@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T195000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b07039d8e78e896a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1286b0f75ec12482@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2507a758cd7af0d3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3ef3193239aeec9f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbdbd15f6b17375c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T201000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1b2962c2bc109c09@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2410540060e28730@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T201500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0477cd4eb8139524@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-de3e0a45c5e698bc@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
@@ -669,23 +589,111 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f95be04d2e909b11@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-30e014cea915d112@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-f0cf29067f36fe9b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c4d2c94222f9d7c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T205000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb08d7e8e1325239@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T224000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79e1f6611d9c63e3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T224000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-610b92526e17e961@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T224500
+SUMMARY:Resident Evil (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-088d7796610ec21b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T225000
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a67e1132ca2566c0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T231500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b356d29bd3526b22@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T140000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3020d990a9af355@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T140000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9949c5d25959bcf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T141000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a97544267d535fe0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T141500
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9daf9a103ff35cd@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T142000
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09d9d23f7581598a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -693,7 +701,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc7ba3ac99bf0600@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T154500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
@@ -701,47 +709,303 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44d062381ac8ecd7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f2e34e0f358faaa3@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-f126636c49e0f04c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T162500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bd25342865c496c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T164000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f94224af0a859997@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T164500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2900231c6e69fdeb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T165000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1cc9c09ee2c5634@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T165500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3f044b6f0d9c880@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28a69f68bb99dfde@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ed602c45e5e55f79@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8e10031ade6f3b0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f60fba3619022f38@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T171000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b6e355ed4065910@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T171000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-abaec1abeeeca4d3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T171500
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5af2d08190ab8496@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T172000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a6247564eec00a71@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T173000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22527ee1bf7afda4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T173000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2085bc0ca4a9a822@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T175000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a137500b734bca4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T180000
+SUMMARY:Street Fighter (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-513d4eb93857803f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-805be185dd812cca@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c1da8f37b2c18938@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T181500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-26fd0280a7ace6f9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T193000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3da7a750c2701ef@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-543d328e5bfbe466@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-14713db6bd11c2d8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f870b9bd663e2e7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-53217c3f3f6d9a4f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f045c9c59fe3052b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80c63cec3b307d1f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T195000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2c44fb6a635805d7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ee30193999d1f5e9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3eca02bc1a3e70d0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf38b3d35980b968@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7fe686c59c3d227b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T201000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1606f01fc2f6c33@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-251d689090a2e1c8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T201500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eaf99ea71ab0fdcc@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18c534b501e38a7b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T202000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9d7aa073956df4b9@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
@@ -749,23 +1013,143 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50cd59109635dbb0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0a2b89a21d706766@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-94564d86b3e9781b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-35e8e462dbd57d6d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T205000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-941927ed888e2656@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T222000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a97beb4ec3e42be@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T224000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dfab9fd5970a7734@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T224000
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd4d2db9bcb90bf2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T225000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5408d2091652a691@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T225000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-941c9128d82b6933@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T230000
+SUMMARY:Resident Evil (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64fd39fe3031fa21@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T230000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69dea4b644b68226@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T231500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50d8e3345a1ea4de@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T231500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3299b09d2667d545@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T231500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e82ef65d9b65abfa@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T110000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a124cd2e39f570e1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T113000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f9f576ece3ca381@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T114000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08df7a1396df5055@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T133000
+SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e140fa6ba5181115@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T134500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -773,23 +1157,63 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe62ee12bc87ee8f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d5f2e7b83f145ee5@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-6ddcdcdf6c8b8d6f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-243ad18264c7a296@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T140000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d505035ccd8110e6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T141000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70d6d5086aa809a6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T141500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e0d42b2c2aba75c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T141500
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-521fdea662955ff0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T142000
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a81c13417aeac46b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -797,7 +1221,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-092576b46dc0c49c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T154500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
@@ -805,47 +1229,271 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f273e67abe70eb48@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c0ed270c62f3b3c5@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261017T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-0aa5bb173f30d8bb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T161000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9940a532283df8d2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T163000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-baf43c18b5b181c4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T164000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b9a58cbacc9b13c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T164500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f06e33f50471d1af@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T165000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9113673f9df4bcf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T165500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9eec9e1dab671ad2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-36e96ed9375a5368@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0365d517001242b8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a9525a07a69900c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d39955c077621647@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T171000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8d4b762baefdad9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T171500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9104e4e3b06d8dc8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T180000
+SUMMARY:Street Fighter (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5f270c3480afa669@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2203ebaa8754aada@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261017T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e072ac85604e0f1a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T181500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6b7137ef35399a32@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T193000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fe6f467141c13f0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T193000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5917421980dc4e81@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60ae2e991872cbe3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T194000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b4b7d004f8af1f54@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T194500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c8d4e565a4d3fd5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00f02583b8c3a785@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T194500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d7109225a756c404@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T195000
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ee0804b9bea9813@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5dfdad880e24dfa3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-104974e3ceac5752@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e18b0e0aba5276e9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aee2d48fc3436951@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T201000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-648653cf57f40044@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T201500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf688a85f6a87869@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T201500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5cef071146b41ea8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79c7570d4a1f846f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T202000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a0372faa6b9e819a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
@@ -853,23 +1501,127 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-309ab80ea28a1ecf@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f964355881bce142@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-f39a6a9ff1287e8c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b5d41814fc2041f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T222000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5484a2a27fc670e0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T224000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-15b0964b2f13ce0c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T224000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d2dd55b07ad205e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T225000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfd089fe44eb803d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T225000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a08e5edf5a76fef2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T225000
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da3a5b49e0884db7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T230000
+SUMMARY:Resident Evil (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-157fea2ebeed68fe@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T230000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e877d64d58b0f660@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T231000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9c8c1c3044484d1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T231500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6a9139b7971e95a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T231500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-263a48adfc4a18f6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T231500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d49ce7d70c81ee3f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T110000
+SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8db9b6fe4d4661b1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T111500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia - Movie Magic
@@ -877,23 +1629,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d164dd070cc93aa@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T111500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ec97fc85dc412ead@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T120000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-ba4663f31a315e2a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T133000
+SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-272e60555374ecb7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T134500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -901,23 +1653,47 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76ecdc53bcbce1f2@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fe39f22fe6fc8b09@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-e7e0172afd103daa@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d217171995923ba@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T140000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf69c7a4ca9e56a9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T141000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e106124dbdcdb080@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T141500
+SUMMARY:Das gewisse Etwas (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dcad6647ef86adb2@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -925,7 +1701,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51a4d93e605dd792@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T154500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
@@ -933,47 +1709,287 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-92be6f67d8cb0f3b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-19bed10bdefd1581@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-db9fdb07c85b1537@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T161000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-337b5eb39adee60a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T163000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-597aa36bb162d441@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T164000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9aad3ccbed51748b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T164500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-59435f4e12d94ee2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T165000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4da24a2e3c1d6b8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T165500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd63d727b6d446c7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba9cd7063d5efbcd@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T170000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-621e018a3e4c4fcd@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T170000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-34f88b4ece89d0c8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T170000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d1d293ec5d64627@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T170000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72e442d6208333ea@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T171000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db65f47098ecb86b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T171000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ab501b9b7a2ebda@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T171500
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ee65b3adae2a6f3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T172000
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d35fb3ebef8933c4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T173000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-88258b51a41d95a2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T180000
+SUMMARY:Street Fighter (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40d36ced8de61bec@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d519f63e2961da19@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bceb765932142a33@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T181500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c58e311c406c59da@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T193000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2316cf5fd5ec6467@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T193000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44c909073f31963a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4312d7b2b695e1ba@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9f8af07275fc6a0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6adc37831307f6ce@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-104db20a0f5d1094@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d347c6467b4d78ab@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d71905d33c78e9b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d157886581acb498@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7607df6f7592fe43@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9c85e57f8029865@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T201000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a12832de83d8b62@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T201500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-704e7b83b4e087e7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06dc4ece95d3b097@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T202000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b61a56b68e1f48d3@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T203000
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
@@ -981,23 +1997,39 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-752fca58803d7f80@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-39a813075dbc2b17@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-a8585a008e2bcaf6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-881d365776ec9075@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T204000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c132fd9cf205f25@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T133000
+SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-18611403a7e5a3f0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T134500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -1005,23 +2037,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8567a8457c33f6db@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f9fd457050bc93b2@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-2b08b32ddfa45374@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6df40326ac5c56ed@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T140000
+SUMMARY:Street Fighter (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dec49750db516320@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -1029,7 +2069,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d5cfb2d40fbf1de@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T154500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Thalia - Movie Magic
@@ -1037,49 +2077,665 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bcd63ea31bbbcb7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T160000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4e71163b824e3101@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261019T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-93c128e7e822834b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T162500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2eca3373f5769019@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T164500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6db265725c265d13@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T165000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-897246661972d138@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T165500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2efcd6fb8ee1c8d2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a25540708528750@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T170000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6775298545634a1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T170000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f76baa8c235f7b93@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T170000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-829b8d1690498dba@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T171000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9334b038fe1f4c93@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T171500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-068ce7213358f601@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T173000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74ef407065e36154@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T175000
+SUMMARY:Street Fighter (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca7ac45f2c3cd7c0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T180000
+SUMMARY:Street Fighter (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d9ad30e977049e1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d7ca8bc68770ca1c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261019T180000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+UID:getlos-ac069460e3698de0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-267e2d8ac69f7f46@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T194500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77993d00a10b900f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48b7b0d72526f79f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T194500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c6e071897e15fcd@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T195000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-192ac619e39fdba1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T195000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-776972eca89f0c91@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d320b61f9c6a3a2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce902b4ce697135b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2f59544583068324@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a5e015bea91d4b3f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T201000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8ed667e742c2bbf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T201500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fccccff609a2dd25@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T201500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16d9e16c5cfa52ae@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-933a82c0aa7d715d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T202000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ead026be66e8ea1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T203000
+SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e7cd8d2f748d532@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ae9b472a9d70331f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+UID:getlos-1f8113052b1aa840@ravidvr.github.io
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b99163b3d175c944@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T204000
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-960be13357924bf2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T205000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22b995074c401f76@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T100000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-73447f7ffa269958@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T100000
+SUMMARY:Forgotten Island (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ca93d36e7132022@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T114500
+SUMMARY:Forgotten Island 3D (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aac8b635091cacf2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a2b54651edcedb4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T133000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a3f40d28ccc17e07@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T140000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4bd40c319971ab7d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3449cd09a2ed855d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e9779cd7addd7f6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T140000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-53e51ad47ffa1b84@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T141500
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9065cf6b970f709@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T154500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5029547670e6210d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81da2cfe59755a12@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5da7425baaa4cfd@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T162500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f247469fc63668e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T164500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb269fae631f67fc@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T165000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-daffa35001673e23@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T165500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1632acb73575e0ff@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T170000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3fd353ecc9078045@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T170000
+SUMMARY:Das gewisse Etwas (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ede7c8fb264e8c7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T170000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca22e1b213cf85ef@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T170000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32bb6f3b8751b028@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T171000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42b43df337d38245@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T171500
+SUMMARY:Whalefall (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0111a622691bd75@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T173000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c362334bfe18885@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T173000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2402164f6799a1c0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T175000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-494b884bc5ae5110@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T180000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-deafe648737d2978@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T180000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ee4c38ae0fb26bc@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T194000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-84d4ffb1137dc6b3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T194500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-030ab3d170a9be00@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T194500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9186436a2f4c1473@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T194500
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29038bb58b970fd5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T195000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8c3fbc5660446b8e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T195000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d1fd6bc6a1124971@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28074ff939e90606@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab0047913083122e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2f3c212ac2d9a2ac@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cd8326cf81ba70f7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T201000
+SUMMARY:Street Fighter (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ffa49f4f5f00735@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T201500
+SUMMARY:Street Fighter (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-141c621465a73477@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T201500
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b7e66d3d69c3b42a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2b9c2d53b8aeeca4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T202000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-43b62b1b403d91cf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T203000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-45cd6a7111ad4f3c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T203000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c936d3d4c771c36@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T203000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cde8ad324e20f478@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T204000
+SUMMARY:Whalefall (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7351d2c203cbb328@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T205000
+SUMMARY:Street Fighter (OV)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT

@@ -4,80 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Kulturhaus Spandau
 BEGIN:VEVENT
-UID:getlos-e8ee598ef0b400e5@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T133000
-SUMMARY:Vaterland (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-adfe91608468e913@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T142500
-SUMMARY:Vaterland (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d85bb29915b789f6@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T144000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8bbfc45dc30754ac@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ea7673ae8df5dd80@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T164500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4596180e9f589bb5@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T173000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b4bc11912dd9df43@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T182000
-SUMMARY:Vaterland (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39e910da92cd73d7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T193000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-803de4f1584c59c7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T202500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f35e77c3a40dfeea@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T141500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -85,7 +13,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-731434e4b47f4e0c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T143500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -93,7 +21,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a5b2fde3a8d0c76@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T150500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -101,23 +29,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-43c34d57996e1ccd@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0ba9a984165bdbd8@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T173000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-03c4f0cd94fb8e73@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T182000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -125,7 +45,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d749ae868042bd0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -133,7 +53,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-06fe0ee6c2c2fb49@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -141,7 +61,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3a70ad8e647d22fb@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T152000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -149,31 +69,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-101b2ea14c560258@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T153000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f98482c52b367604@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261015T162500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c27011a44a682612@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261015T173000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-391b2e8d764488fe@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -181,7 +85,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79040712289ece25@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -189,7 +93,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6a9473ddb487192@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T201000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -197,7 +101,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b4036081749b78e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T134500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -205,7 +109,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c51e0cddabfbf12@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T141000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -213,7 +117,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-954d8d7323c5c717@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T153000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -221,31 +125,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74dd7834681ae5f1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T165000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a86198b807a7f453@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T170500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f40fa9581d98467b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T173000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a799234139643171@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -253,23 +141,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7edad2f73b3a6f3e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T195000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-86935f240cd45d93@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261017T115500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c0c668104d8b711d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T134500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -277,7 +157,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa8ed448ba9f7361@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T135500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -285,7 +165,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc821f729adcf752@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T153000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -293,23 +173,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d7d9ca77c497e41a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T173000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-82a9fd4f52b3c421@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261017T173000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-75c9d37f52a0f0c1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -317,31 +189,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7a4ae3cbd6fb1ca@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T195000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3714c719edf533c7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T124000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e7a2d256f01753d4@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T131500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6d98696d0400dd71@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T145000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -349,7 +205,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1435ade75b487987@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T173000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -357,7 +213,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac72ef7adde2eb51@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -365,7 +221,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-de291f4927952e53@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T193000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -373,7 +229,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8dcdab8a3b25aaf2@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T194000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -381,7 +237,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fb7eac8bc8a6c7c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T134500
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -389,31 +245,15 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ffc729968252888@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T152000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ff658cdd4e831e38@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261019T153000
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-897b5e6cf98563a4@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261019T162500
-SUMMARY:Frau Winkler verlässt das Haus (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b5c6937c13b29910@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -421,7 +261,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4927bca90df6ff52@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T180000
 SUMMARY:Vaterland (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -429,8 +269,48 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39cb40da15ef9b1e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T201000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a8959a413efbe0b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T144500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-27816ebca062c3c1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T173000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50a7b319ff111724@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T180000
+SUMMARY:Vaterland (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77a283e8231a3699@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T193000
+SUMMARY:Vaterland (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23eface063195f3a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T201000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/

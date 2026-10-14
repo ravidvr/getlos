@@ -4,120 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-bda3bdf5398d7576@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T143000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-069a8ab0f01fd8e4@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T144000
+UID:getlos-16d7daac9432693f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T144000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-40795ce37b4c35d0@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T150000
+UID:getlos-08f6f2e39868acec@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T150000
 SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7747ee0cf30036b9@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5e400360f4835ed9@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T164000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c264b74c6b8cc27f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T170000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-914fe96f02cb4c1f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T171000
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6ebd5f7343fb197c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T171500
-SUMMARY:Meeting the Buddha (OmU) (OmU)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b390a974b7d999d7@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T171500
-SUMMARY:Meeting the Buddha (EN)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b3ed64b322ba6dd5@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T173000
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e711a742d2f37fb1@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T195000
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6b33cdc9a743b9f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T200000
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cdd1f5f74dd25d5d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T203000
-SUMMARY:Corpus Delicti (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-46221ded8f7fd84a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T170000
-SUMMARY:Corpus Delicti (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15ab03492bdce25c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T171500
 SUMMARY:Meeting the Buddha (OmU) (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -125,7 +29,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b47251fef5d81164@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T171500
 SUMMARY:Meeting the Buddha (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -133,104 +37,616 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c68495a7ee56296@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T172000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e3321c7c68b2c4d5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T173000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-48e0af8f6a8c7e9e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T200000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-01b0f5caf542f213@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5e5893b2a4e37512@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff00cc37a93a71c5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T150000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e87749506989de4e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T150500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-889a464a58600155@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T163000
+SUMMARY:Meeting the Buddha (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f658e1cb8db923eb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T163000
+SUMMARY:Meeting the Buddha (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d92593865bee8dff@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T165000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-051c4c760d9fb2bb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c94a8a0bbfbaff1c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T172000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad8b351d302a7071@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T194000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-787048f263a3afd5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T194000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b18f2b18d6951127@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0c7bcf066cbe379b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T202000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-169b1aae93debaca@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b7cc14c37e9c19ad@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f5196c65f1324b3d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T142500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f702429ca457d4d9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T150000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65192922f9869fd9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T163000
+SUMMARY:Meeting the Buddha (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2abdcea913ec3926@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T163000
+SUMMARY:Meeting the Buddha (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-515e1fce0cbcbfcf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T165500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ab9f4430d5c61d4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04cb42a1764eed45@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T172000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebeca9957f249d6b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T192000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-929b6e6226b0b133@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T194000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc06d64771d80092@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-177d2ca90a1cefad@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T201000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-79d0e5e189560c9f@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T225500
-SUMMARY:Corpus Delicti (DE)
+UID:getlos-c3fd3eabeb67a235@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5716268f7d23c34c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T140000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-208685dd8e56d8da@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3096e079c6002a3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T150000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b6eab10a84b4318e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T161500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f470f27984c22eec@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T163000
+SUMMARY:Meeting the Buddha (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b7ccac3761375e4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0217f60c2594e134@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T172000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8e4c9cec61e36aa8@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T191500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8e272f49bacf8635@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T192000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfa0de1981dcd2b8@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T194000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b518604b152ce10a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-871d16b5fdeb34be@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-076020431260189f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-713153840a8d5628@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T141500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-831c78886eb5057f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T150000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3112447bc284cb02@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T163000
+SUMMARY:Meeting the Buddha (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f25d5f4622541aeb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T163500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b4b4fcb1b46b7e2a@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f5bf8d10c71c0a6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T172000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e07c12715de0bb2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T193000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66386453d78e98bf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3966af40a03f3001@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8b1b82039ad22769@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T202500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cfab443d4432b7bc@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-434785b414e134f9@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T145500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-320598bc17586635@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T150000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67e1d83fef32d609@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T150000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b9ee05c800c1528@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T163000
+SUMMARY:Meeting the Buddha (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-816dcfc83f4a5e07@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T165500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-021c0c3cdda0bce0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T172000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5093a75bf63ecba4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T180000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eda2804c2b866644@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T194500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0897f40e6d14a64e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-188af2e74e8550af@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261019T202000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26212bbf08405c5e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T203000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-478deb19d4366865@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T135000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-46eba5cb471696d2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fec64f47fc56678f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5331272126ff822c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T150000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e11a89fb034c3609@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T163000
+SUMMARY:Meeting the Buddha (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-defe6f9ee78fe7b0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T165500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c5989c1d34dcf57@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3145a80554d5a578@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T172000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a4109e259d7a9e3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T194000
+SUMMARY:Lügen über meine Mutter (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a16ff3c2a805880@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T194500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eca2af6586eb046c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a09a45993bf7f5fa@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T202000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino

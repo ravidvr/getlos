@@ -4,26 +4,58 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-b8c417d54a6ebc6b@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T201500
-SUMMARY:Watching People Watching Birds (OmU) (OmU)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f1bf9d9349ce2637@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T211500
-SUMMARY:Vaterland (OmenglU)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-53c54155763776a3@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T180000
 SUMMARY:Vaterland (OmenglU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-267ddbdd43300be2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T180000
+SUMMARY:Whistleblower (OmU) (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75203aaa1858664e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T201500
+SUMMARY:Vaterland (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-736e5b75e392f170@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T164500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-54ae1c0a9189821b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T180000
+SUMMARY:Whistleblower (OmU) (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-429d4800320619d4@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T190000
+SUMMARY:Vaterland (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-318227aaea397213@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T180000
+SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT

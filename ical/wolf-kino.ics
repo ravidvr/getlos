@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-8f356b58ed2de444@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T190000
-SUMMARY:Barbara Forever (OmU) (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-afe7043e6c670a0e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T190000
-SUMMARY:Barbara Forever (EN)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3746c38f13b7c9af@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T211000
-SUMMARY:Eine Krankheit wie ein Gedicht (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5965c9c28e92e177@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T164000
 SUMMARY:Barbara Forever (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -37,7 +13,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d69903aab2a580ba@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T164000
 SUMMARY:Barbara Forever (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -45,113 +21,145 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a570a5f7b604347@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T211000
 SUMMARY:Vaterland (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5d33f0a4f781350d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261015T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-f32d6a7831f34223@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T190000
+SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6fbc6284632d0b6@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261015T190000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d448b1f9bb0a9e3d@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-183f42482bec3647@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T210000
+SUMMARY:London (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ed1f172a428c6288@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261016T170000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-e654841762c311c0@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T182000
+SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-368818ea9a01f589@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261016T182000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b2c1f814ce7cb37a@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261017T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39b5e4b8c356892e@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261017T170000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-84072baf5f215c3f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T204500
+SUMMARY:London (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e39c907c11055fd@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T173000
 SUMMARY:Eine Krankheit wie ein Gedicht (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-74f3225224ee48a9@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T190000
+SUMMARY:Call Me Queen (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-787c9802b08d8e7c@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261017T190000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-31d73d63fb51e815@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-07dc4e7365a96dcf@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T210000
+SUMMARY:London (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-71540d127828bb04@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261018T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-8a0f2c2a400c7787@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T142000
+SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e437bb1e6e51ba05@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261018T183000
 SUMMARY:Barbara Forever (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-37e2713cc08028d5@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261019T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-cbe4d87bf5db261f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T210000
+SUMMARY:London (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb868e049634e063@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T204500
+SUMMARY:London (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-718c95dae0bf9009@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T210000
+SUMMARY:Call Me Queen (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70a03cb1c204979d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T204500
+SUMMARY:London (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-719ef645a2f7895c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T210000
+SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT

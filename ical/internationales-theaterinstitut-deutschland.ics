@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Internationales Theaterinstitut Deutschland
 BEGIN:VEVENT
-UID:getlos-e5a407c249727d48@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T150000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
-URL:https://www.iti-germany.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5966764ee75b1722@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T175000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
-URL:https://www.iti-germany.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-69d1158e1f0a0cf8@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T204000
-SUMMARY:Digger (OmU)
-LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
-URL:https://www.iti-germany.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-81b2ab9fbedc6937@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -37,17 +13,121 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47716ba5248436ea@ravidvr.github.io
-DTSTAMP:20261013T072825Z
+DTSTAMP:20261014T070203Z
 DTSTART;TZID=Europe/Berlin:20261014T175000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
 URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e974b3bb4851bcf4@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261014T204000
-SUMMARY:Digger (OmU)
+UID:getlos-72c13ee30dcaf74d@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-606d8855e189f451@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8caaab4e1893853f@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T201500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a8c4298ffbcc641@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-57019ccd6c830df2@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d1ddfd376ef0c642@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T201500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-153545a37e4ef22b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T140000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f389e0206552bc26@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T165000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18007d32dcda6360@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T194000
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e911214964ba32c6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T155000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb00384975dbc9d5@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T184000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c077709ee56246c@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f1252696291a4ca@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5d0af737f87a403@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T201500
+SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
 URL:https://www.iti-germany.de/
 END:VEVENT

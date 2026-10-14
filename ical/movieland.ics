@@ -4,9 +4,137 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-c6302f3bc0c775ed@ravidvr.github.io
-DTSTAMP:20261013T072825Z
-DTSTART;TZID=Europe/Berlin:20261013T200000
+UID:getlos-2c5746dc73b4e7a1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T153000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8d0270fb939f320@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3fab2208ae06c0cb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72c04c52e3e91a88@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T171500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ee82ae1f1f79436b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261015T180000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09d09cdec7f09ceb@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f76104c1baf1bea6@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T171500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42993f8b6b6bdf3b@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261016T203000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6932f5a85d440ee7@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-03fb6fbdc3aac5a1@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T171500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5b2ba46716c5070e@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261017T180000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb06ce9a30439c34@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1f09d2d00d356cad@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T171500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d235bd2e1248845@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261018T203000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d0d218ea0f520e3@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261019T183000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0125bdf23c52c483@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T171500
+SUMMARY:Forgotten Island (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e67e41c7aebeef17@ravidvr.github.io
+DTSTAMP:20261014T070203Z
+DTSTART;TZID=Europe/Berlin:20261020T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
