@@ -4,96 +4,40 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia
 BEGIN:VEVENT
-UID:getlos-4c5e4321a387515d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T143000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b16f0a03a82f114a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T144500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7cfb328e0c98c65a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a96e059cd6f11461@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T171500
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-43d2b7db08528fa3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T173000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e44e47b65d392937@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T195000
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ab46bc5608d61bbc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-be0189d6a85c5fe0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T140000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-88aa745e4ffc1485@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261015T141500
-SUMMARY:Monster Mia (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c766965f94286bc4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T141500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8b48358a5922ef33@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-88aa745e4ffc1485@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T141500
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2fc0fb5123967ea6@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T142000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f5ac92d3165ffb40@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T144500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -101,23 +45,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d98c372f7d125fc0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T145000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-edf4c97badac34c9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-cced162a99e717cc@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-887951cd407d499b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T164500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0dfcb8bf26e18970@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -125,7 +77,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f610b6c110f27a05@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -133,31 +85,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea735580190f3fb1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T190000
 SUMMARY:London (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6cabd40723c85a66@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261015T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OV)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-290bb48014291c4d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-be5797cbe1e7c4d3@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Sinn und Sinnlichkeit (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7eb34a18f2704eb1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -165,23 +117,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac102327b48da767@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T201500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-dfc0f93651e5100a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-d62247fb0dd438ef@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T204500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c81ee718985f15ff@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd2d53832017ee26@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T140000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -189,7 +149,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc9e3786e52239f4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -197,31 +157,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd473aea1c4cf465@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T141500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3d24ad3dcf687212@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-be7a1049c2799671@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T141500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c6001fb2b7dff7eb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-a2af7d6e43f5490d@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T142000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac8d61ecc0a0910d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T143000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -229,7 +189,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f74e81bfec78e12@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T150000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -237,23 +197,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-946f2dd907f5d414@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T160000
 SUMMARY:Whistleblower (OmU) (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f4ec614cccad93f6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-fa949e18b7bc5b17@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T164500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OV)
+SUMMARY:Sinn und Sinnlichkeit (OV)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c186123840f1c438@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -261,7 +221,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78676a2b01c71a81@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -269,7 +229,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5a82734f9d20f5d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T181500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
@@ -277,31 +237,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22ab48655a69dccb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T190000
 SUMMARY:London (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5b4c2ee8738bc878@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261016T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1ff037513e8ca5f3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4ecac075f7a78d2e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-644554e7c72d1034@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -309,23 +269,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50cb6b830f9cda4a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T201500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9dae00a95fc36c40@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-e5bb33f4fd941b90@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0950463ec1c8751@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T113000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -333,7 +293,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-998447df14429dbb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T120000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -341,7 +301,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4e3ab0f6ce99643c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T121500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia
@@ -349,7 +309,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b4b39627e376ef9b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T123000
 SUMMARY:London (DE)
 LOCATION:Thalia
@@ -357,7 +317,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce6be31d4d7f90ff@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T123000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -365,7 +325,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a495a822dcfae87f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T134500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -373,7 +333,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bebb588e5bbbfe65@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -381,63 +341,71 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df28c8bdf5fed270@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T141500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8d7e1d998ed41be5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-f099ba28f6df5bae@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T142000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19182445216c91b5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T143000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f5368d1d5c293c39@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261017T144500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f8fe382a3b22aeff@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T144500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4ad6485a31b73c42@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T144500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d307bf540b525683@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6dd39ea8c9da7e1a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T151500
 SUMMARY:Whistleblower (OmU) (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8d5938c4b6a2ef4b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-0bac5cf51fc26197@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T164500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-517cff444a8e7e14@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -445,7 +413,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-001d9bf9ac54d86d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -453,7 +421,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1034e4b64176b7db@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T174500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
@@ -461,63 +429,63 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-108365efa0ae6d82@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T193000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f3da4f45a32c2570@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261017T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OV)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-109303d68ce8077d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6bdeecee32e4f500@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Sinn und Sinnlichkeit (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-db99824b8291848e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0cd6002d06ae7a08@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-596f20b6fa26834f@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T203000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-70b01dcdb3c02093@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T100000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a4f0320dda70dddb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261018T100000
-SUMMARY:Vaterland (DE)
+UID:getlos-0ea8eb793f50c47b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T103000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33b300843a292b14@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T113000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -525,7 +493,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3dbe685de90db0d7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T120000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -533,7 +501,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d0c88b39d30f9211@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T123000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -541,7 +509,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f8b8cdfb5501e83@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T134500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -549,7 +517,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b91cffc3fa70f06@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -557,23 +525,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-618f3babfc82ed1c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T141500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e0c2368456bfdac3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-38a5d416e92d1acc@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T142000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7c3a64b478c6076@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T143000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -581,79 +549,79 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e409d914f452ff0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T143000
 SUMMARY:Whistleblower (OmU) (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6b1d2dc1f065299d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-b0f5bbeaaea60211@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T144500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1aa8847dddbbd513@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-daa5f33d44c8afaa@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-5c8b2be0c8658e43@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T164500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OV)
+SUMMARY:Sinn und Sinnlichkeit (OV)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12c46c4cdd271cb9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T170000
 SUMMARY:La Graciosa - Kanarische Träume (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7fa1f6921ceea2b0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261018T174500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-37937a14daed587d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7fa1f6921ceea2b0@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T174500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5c8f2362ff3914ab@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T194500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e808e5c7700dee7c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-4ed61f4e95ac36e0@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81b1a11a1145abbc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T201500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
@@ -661,23 +629,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52ea39feae403f59@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6e1d97699deccd6c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-f0fc97541829f8bf@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T204500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fcb288d8bc35e48@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T121500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia
@@ -685,23 +653,15 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-58ede205b78e818e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T123000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cd45c056ab3fc7ba@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261019T131500
-SUMMARY:Vaterland (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9d5604214f41e312@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T140000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -709,7 +669,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b6488f550a16a41@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -717,23 +677,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89b19a1a1ed0dc62@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T141500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-35ce6bca10a11b05@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-beee06440038eaf9@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T142000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a672382c4cfe0f7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T143000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -741,31 +701,39 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65c16cc403739e5c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T144500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-97789bd6162834f7@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dfa509ab41223dd6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T153000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-95d39f9534d22259@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-5240feb022285029@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T164500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-391891be47d3916d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -773,23 +741,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f82a531b6d2a8da7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T183000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-77665ff5b8c4279d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-8bcc96860efcca56@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OV)
+SUMMARY:Sinn und Sinnlichkeit (OV)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d66e905bfd4a2dd3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -797,7 +765,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-57987bb9d136993e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T201500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
@@ -805,39 +773,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-013a53f30543e6d1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1c1ca20c7adfb740@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-cad0b92c41fc1303@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-710e3aa5345cf08d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T123000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c8005e9b0089928d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261020T123000
-SUMMARY:Vaterland (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4eca5c1fff127353@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T130000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia
@@ -845,7 +805,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-98ba5547b3c3cdcf@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T140000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -853,7 +813,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15322a3289fe6d39@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -861,23 +821,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e44e71218af136c3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T141500
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-890097bbc4e7bd06@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-eed8e0eece4d6a85@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T142000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd0ae9717c567b02@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T143000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
@@ -885,31 +845,39 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c841d40a35d5ed5b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T144500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-126ad7fe347f50e6@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ca31626f6ac3d944@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T153000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7f192d9ea93a3b12@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-c30493164ab5448d@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T164500
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OV)
+SUMMARY:Sinn und Sinnlichkeit (OV)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-370a441afbe51953@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -917,31 +885,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bec3cb7d0bc2f78c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5d5461a3406aaaf4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261020T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f902902a13879198@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-61fca96651a909df@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a1b5bf0f16b81eab@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -949,17 +917,73 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aa4875f61d44947b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T201500
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cbd13fd3bc90551c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-bc934ffc7cecd58e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T203000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c78a8e338c733fa@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T142000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cbdb1bfe647bc7ed@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T150000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e8950335b834281@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T164500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b21b614883175e5a@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T174500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fae3b9345aede29e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T180000
+SUMMARY:Whistleblower (OmU) (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8b3abc6ca4e237f@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T200000
+SUMMARY:Sinn und Sinnlichkeit (OV)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19e8a1ece8d5481d@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T203000
+SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT

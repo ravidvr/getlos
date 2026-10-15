@@ -4,120 +4,64 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Intimes
 BEGIN:VEVENT
-UID:getlos-fb4a57dd02b9c03a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T140000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-08438f43da41b53a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T155000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-601e0755aa4630a7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T181500
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f3041a293966c78b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T193000
-SUMMARY:Digger (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4bfb851f9f41d339@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6a30e65a57b28ed6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e0ec53e8cb2baa1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T220000
-SUMMARY:Primetime (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4a38046fa2f7448e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T224000
-SUMMARY:Obsession (EN)
+UID:getlos-924d2e7730fe0b67@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13529f81ee9d5b91@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0adef2e64b4cdd9b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-3403e63330a26f02@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99a1f5754e043376@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T172000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cdb9bb30ea32043@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T172000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-53aa62239c951e09@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261015T180000
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9b250b162b7c1a33@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T194500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4de49dd1342386e5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-a0edc8906462f469@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4adbc8d1d33061a4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -125,7 +69,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99932154c573a411@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T220000
 SUMMARY:Digger (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -133,63 +77,71 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09fdbcd2ebe1ca4b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T224000
 SUMMARY:Obsession (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-be8e68ba1182cece@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b5987b3326f9c8e4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ea064fb5fe05c5ca@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-d7104fe538296531@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6f197380ae0ff31a@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T172000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ccfd505919d87751@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T172000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-54f459ec688febd2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261016T180000
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2dcfc6ca6bbff5d5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T194500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-67f71e1a0bcb0d69@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-4c560516e72c373f@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4cb62d3f01ed2ae@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -197,7 +149,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-348c0885625d7ee2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T220000
 SUMMARY:Digger (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -205,7 +157,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53af6538e9b63c48@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T224000
 SUMMARY:Obsession (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -213,137 +165,241 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6210f9765007e9d3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T115000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-636c532fa667dc9b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T120000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e5ba7382eabb2ad@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f6a84179981e5360@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5a76b7437aa651ba@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-a7e836ec646d1099@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c59772fc7fa914cc@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T172000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-08cdbddb8d02bc2b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261017T180000
-SUMMARY:Vaterland (OmU)
+UID:getlos-78b3d133884a5e49@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T172000
+SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7dfcfdc25bc8f24d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-fdbcbed1f499a732@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T194500
+SUMMARY:Primetime (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9dd232983e70f83@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f84c969f11f632a@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-37f6a3d17ed3b7eb@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T220000
+SUMMARY:Digger (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2897e6e94369666@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T224000
+SUMMARY:Obsession (EN)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6818c2b49780bf37@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T120000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-91435162d8a86b21@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67a76965b60d16cd@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-61b242ac08e17ecc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-a0892f6e7e80fe98@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94cb9176818d92db@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T172000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-077c7c41e0aed67e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261018T180000
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e4da7fcfef8767ac@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-8fe74a5adc035eed@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b5e8cc0f95010cc@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a3a7fb1f4b1e3ea@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-35a0181c5d55d140@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-db252b07bb0999ab@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19fa975dbbd3019e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T172000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-51299c01bd6e2d6c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261019T180000
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-213a90270197d2b5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-a461c481e2628ae8@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-58919e1024621fe1@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f5b30a1a46866fa@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cc1253fdf52a620d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-d6f9c47c46072657@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fadc205099659d44@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T172000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0deeeed6bb2cda5b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261020T180000
-SUMMARY:Vaterland (OmU)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-243d89fae1c33ec8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-17e24e7bdea9affe@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (OmU)
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f4e410aad1f6a50@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T172000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c7a79933a7db6965@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT

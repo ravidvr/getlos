@@ -4,24 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-d7a705e24359ea93@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T143000
-SUMMARY:Bad Apples (EN)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c2929b874c5e915d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T163000
-SUMMARY:Primetime (EN)
+UID:getlos-a534199771f4eead@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d600ff4f68f43e2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T173000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -29,23 +21,39 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d271407cbbdf3ea@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T205000
 SUMMARY:Digger (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-460c4c8f37b041fe@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b6de06cb9891bee0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T143000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d2ab1b612c70bfc0@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f472ec13e5d794ce@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T173000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -53,23 +61,47 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-669e4ad7a473e1b6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T212000
 SUMMARY:Digger (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d24a061fedc24386@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4849889253fb9a24@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T153000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-17801b543645de82@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T212000
+SUMMARY:Digger (EN)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b52204f9b88c1d87@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c68896a671c69a41@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T211500
 SUMMARY:Hope (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -77,17 +109,25 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ace2273bd64726d9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ba8949b93e685077@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261020T183000
-SUMMARY:Vaterland (OmU)
+UID:getlos-6097f4c3ed45a241@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T173000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5a3a85d2bdbecd25@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT

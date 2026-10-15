@@ -4,96 +4,40 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Passage
 BEGIN:VEVENT
-UID:getlos-340338b01d4db304@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T173000
-SUMMARY:Digger (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a044912d7e973eef@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T183000
-SUMMARY:The Invite (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0f18987910047c4b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T194000
-SUMMARY:Verity (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ed3a33049d5c2a02@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Resident Evil (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a9ff29020cfcc98@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Always Lalisa (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-49db397906d140c7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T203000
-SUMMARY:Digger (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-27039afa82daf4c5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T210000
-SUMMARY:The Invite (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0d325d944dd9a1e7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T143000
 SUMMARY:Forgotten Island (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1ec78196525e9484@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-9c9b8c9c310380ca@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-daa71a75e4f19475@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261015T170000
-SUMMARY:Sense and Sensibility (EN)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0f262b2d906dee68@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T170000
 SUMMARY:Street Fighter (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-daa71a75e4f19475@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T170000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b73ff2ef7bce6144@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T174000
 SUMMARY:Digger (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -101,23 +45,23 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c9f9b82cfdad0b0f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T194500
 SUMMARY:Street Fighter (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3832aada32ccfe4e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-02dac44dbdcbee3b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-715a3c59278d0c81@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -125,7 +69,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d4b86fd805261a3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T203000
 SUMMARY:Digger (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -133,7 +77,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f90877649e97b987@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T210000
 SUMMARY:The Invite (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -141,39 +85,39 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c16e5f93ec9b6a73@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T141500
 SUMMARY:Forgotten Island (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2231da188ca1e379@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-5f9c90eac834d687@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0ec41a8d829381cf@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261016T170000
-SUMMARY:Sense and Sensibility (EN)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd1f5b47121486ee@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T170000
 SUMMARY:Street Fighter (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0ec41a8d829381cf@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cb15657b9dd0f5b4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T174000
 SUMMARY:Digger (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -181,23 +125,23 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81187fadbc3d15e9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T194500
 SUMMARY:Whalefall (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4eec13743905809b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-260017abf0d3c978@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f54f5cffee871f7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -205,7 +149,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-02e5c7d400a0a87f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
 SUMMARY:Digger (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -213,39 +157,79 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0991b50f9d2eda82@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T210000
 SUMMARY:The Invite (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2ad40726bd176c3f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-4ec1656ee5eb34bf@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T121000
+SUMMARY:Forgotten Island (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ee8dd48e8b9cad08@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T140000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cba497030ce79cf6@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T140000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99b3551b31d0555b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T141500
+SUMMARY:Forgotten Island (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8277b8cc97e959b3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T150000
 SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a5d751a3b91c1ee2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-42d9c3da70bbd433@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T160000
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fb171efd9b6c926@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6663e730115ce8c6@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Sense and Sensibility (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f982de908491f705@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T170000
 SUMMARY:Always Lalisa (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -253,89 +237,121 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7336c5023460802e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T173000
 SUMMARY:Street Fighter (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0b5a6c97bb290c20@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-fc65f09a1718c250@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T174000
+SUMMARY:Digger (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cbc9932606846628@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63ee37e5aa933193@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 SUMMARY:Street Fighter (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fe5cf674f4bf60ca@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-2de7baf86491ab0f@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce5dc8745327f7e9@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T203000
+SUMMARY:Digger (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb2b81101b4f53d7@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T210000
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c85642aa4eae1bd5@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T140000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b75e293ea464fbb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ff4a540f8a64afa7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-2115e2147f725148@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1bd3bd6ae2dbd44d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-9ee65b4d6f941f6e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a9017e3c8be783a1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-b2f07bdb0a3edb47@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a6e348a8ba567c50@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-b604e2bf454c4ba4@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-39bcd4e5982b7941@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-b82f201ccf6164a5@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f4ee4a0b09d61d57@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+UID:getlos-7315fb597c447535@ravidvr.github.io
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU) (DE)
+SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT

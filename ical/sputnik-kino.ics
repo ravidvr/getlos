@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
-UID:getlos-1611b498d8b1bf8f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T204500
-SUMMARY:Coyote vs. Acme (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4b8c9d3debba5171@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T213000
 SUMMARY:The Thing with Feathers (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
@@ -21,7 +13,7 @@ URL:https://www.sputnik-kino.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cca4d040671d60dc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T214500
 SUMMARY:The Thing with Feathers (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967

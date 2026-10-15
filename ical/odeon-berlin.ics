@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon Berlin
 BEGIN:VEVENT
-UID:getlos-b52db2fc842efa97@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T172000
-SUMMARY:Primetime (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1687cee34a8e3b4f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Lee (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7282ec85269955d1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T170000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -29,7 +13,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d7a9bcdef31786a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T201000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -37,7 +21,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e75075964a68d10c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T170000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -45,8 +29,32 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fba06c35e0501c1a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T201000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a68ebe2c3a50038b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T140000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25f447cf40dffb99@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T170000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8d06d3a4d2f0eaa@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T201000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
 URL:https://www.odeon-kino.de/

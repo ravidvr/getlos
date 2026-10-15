@@ -4,17 +4,17 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino International
 BEGIN:VEVENT
-UID:getlos-e553fc8c122ed134@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T204000
-SUMMARY:Digger (EN)
+UID:getlos-930f2c622b941ab7@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T201500
+SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino International
 URL:https://www.kino-international.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-930f2c622b941ab7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261016T201500
+UID:getlos-c42149b56ba4c063@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T201500
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino International
 URL:https://www.kino-international.com/

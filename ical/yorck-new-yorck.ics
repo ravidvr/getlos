@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck/New Yorck
 BEGIN:VEVENT
-UID:getlos-834db03a2ae81b11@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T151000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-488ab562e4e8b3ff@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T175000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-493328f884fd5589@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T190000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cbf7cc9e4a9d0bfb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T203000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-51be14eb084fca86@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T210000
-SUMMARY:Vaterland (OmU)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-30a1e275383cb5f8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T144000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -53,23 +13,15 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1d1865dc53f3b44@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9c3e7bd14ba955ed@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261015T190000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-63d707ff916ace13@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -77,7 +29,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0dcbe99425d5a4d5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T144000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -85,23 +37,15 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8f94a4a191122a8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b357f10b59cecac7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261016T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a46df00ed3c8d3d5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -109,7 +53,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e685dccf2b7beb0a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
@@ -117,7 +61,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9dc2d27c9652e574@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T144000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -125,23 +69,15 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9da6c1698d2c4eb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f0c25fbed609fe23@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261017T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d30bf96316e56821@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -149,7 +85,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb3d729fd4a45a62@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
@@ -157,7 +93,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4c32a8f447501f7f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T142000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -165,23 +101,15 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3602cf1c5fe5a10d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1520d8121d91542f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261018T183000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-89fc8fe4b0763dc9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T190000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -189,7 +117,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51ff54d986d6a67b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T144000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -197,23 +125,15 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea7cd5024e987368@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-08e3f17ede748c1b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261019T190000
-SUMMARY:Vaterland (DE)
-LOCATION:Yorck/New Yorck
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-be29ead1adb0642e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -221,7 +141,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f832df2920c7e9e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T144000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
@@ -229,24 +149,40 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f03f561c624d7d55@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8ddfa439fffc9419@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261020T190000
-SUMMARY:Vaterland (DE)
+UID:getlos-23b95b3c132be0e0@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-23b95b3c132be0e0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261020T200000
+UID:getlos-dddecbb84915fa51@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T144000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80b549428a9cfee8@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81643dfa866ea418@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck

@@ -4,112 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Hof
 BEGIN:VEVENT
-UID:getlos-9ec48a45b672c67a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T141500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6f3c8598d83cf248@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T143000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-db73bc1b6b9081aa@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T144000
-SUMMARY:Forgotten Island (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-349ded0d283c5202@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T150000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-795f58e0481c1404@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T150000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3f8ffc23cf82cccb@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T151500
-SUMMARY:Forgotten Island (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-72c356c166421463@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T165500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-25238439c92b1f41@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T171500
-SUMMARY:Forgotten Island 3D (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8bd042ae6eb22a73@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T173000
-SUMMARY:Forgotten Island 3D (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a9e0d58c2301e87c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T193000
-SUMMARY:Hope (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-67c8548df064ddf3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Resident Evil (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f0bf64c2bb79620a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T200000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9cd755660ebeca33@ravidvr.github.io
-DTSTAMP:20261014T070203Z
-DTSTART;TZID=Europe/Berlin:20261014T203000
-SUMMARY:Forgotten Island (OmU)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-56cec3ddaf09ecea@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -117,7 +13,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4523daf7107af39f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -125,7 +21,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aa561688f982e97b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T142000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -133,15 +29,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63a44c23d3fd4ccf@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T145000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bca3876e1fc986b7@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-92b8aa231242c6d5@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -149,15 +53,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab553c5e9acb4bd8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T150000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b207458f25f5b416@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d8708f3d656a07c9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -165,15 +77,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-025edec2a9d3dae3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T151500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9124c9a83414e837@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T171500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c808c93eeeb77185@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T171500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-82a84263dd7e136d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T171500
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -181,31 +109,55 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-028c83dd8a2ca275@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2c33bb4e39a763a1@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T174500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c8100a39e7a0e0f2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T174500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a3eb820ac6c4bec5@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T193000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e8656bce0dbf9551@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T193000
 SUMMARY:Hope (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-940e7504d490ea0f@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0909014f57abbb49@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Kino im Hof
@@ -213,7 +165,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1be5cfa2879592c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
@@ -221,7 +173,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f9532cf49dd4d29@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Kino im Hof
@@ -229,15 +181,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f95e1196366f9856@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T140000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-26861126fec2c137@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T141000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5d0e31dec596dc16@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T141500
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -245,7 +205,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d46b2892841724d3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T142500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
@@ -253,7 +213,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8f96b71ff6f1026@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T143000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -261,7 +221,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8013baeee648ae4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -269,15 +229,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2fdaf4e3dd8dff46@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T150000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1cfefbcda0a9acdb@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0d2d3938e610525b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -285,7 +253,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47094e34db62f9e9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T151500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
@@ -293,15 +261,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-efcfee5905a4a889@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T163000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-41e395f137c68d86@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T170500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7647fc49178d88f@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T171500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a09c54b41981c602@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T171500
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -309,23 +293,47 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cafd13d57872a52@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8b0766987c77b33e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T174500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-844a3ba0efc8d194@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T193000
 SUMMARY:Hope (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c1472f3e8036fdff@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T194500
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-194a5990c500c6a0@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-540af471a4ac0ef8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Kino im Hof
@@ -333,7 +341,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed2cd7f7ef45f58e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -341,15 +349,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a472bb053005daa8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-74ce22138ecb573b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261016T225000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-75b19e70fa011825@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261016T230000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (OmU)
 LOCATION:Kino im Hof
@@ -357,7 +373,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24abe6887468cc64@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T113000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -365,7 +381,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e0e00518753e7b4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T113000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -373,15 +389,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-726e06870106e7aa@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T113500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-45d1578435b3622a@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T114000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e7d5c164114a440@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T121500
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d49913185788ec58@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T135000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -389,7 +421,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c9e898f11586d601@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -397,7 +429,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-759efb120e1229df@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T142500
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -405,7 +437,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e33a6dd48fe9a309@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T145000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
@@ -413,7 +445,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ed847fa09227717@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -421,15 +453,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f4936cb7331c5a6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T150000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-39aeb92cab6c0edc@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T150500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1994a2a84a228f57@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-84d2df4ac74134a2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -437,7 +485,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ad111885c3d7613@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T151500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
@@ -445,39 +493,79 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-614b2ac26d9d1c8a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T163000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9e9e76c994a17737@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T171500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2850b4e4e02e0075@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T171500
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c6a16e690a0ebebb@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T172500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f85d20b1636adfb6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e62c9a4afe973b66@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T174500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-325912ebf8d375ea@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T193000
 SUMMARY:Hope (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-88c59e85d749c7aa@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T194500
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e5404bae5717dae@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ba5f55e9bcc8cd0e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Kino im Hof
@@ -485,7 +573,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c539f11255905aa@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
@@ -493,15 +581,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7aa5a3f0bc683626@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1463d48f0cc90cef@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261017T225000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bfa9d6d97a2043f6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261017T230000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (OmU)
 LOCATION:Kino im Hof
@@ -509,7 +605,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a489b08d4798637@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T114000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -517,7 +613,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8e925e6f9252fad@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T115000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -525,15 +621,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c52f9ed44ff975f@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T115000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-796f2d517f7d080c@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T120000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-914d44fb007e79fe@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T135500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
@@ -541,7 +645,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d40d86cf2b971d0b@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T142000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -549,7 +653,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6e578840537336e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T142500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -557,7 +661,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33abce40a5330e7c@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -565,7 +669,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f207d47fb0d33ce6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -573,15 +677,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a348b6f48d26a4a@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T150500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a54f33973421fbfb@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cf650d56351f537d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -589,23 +701,39 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-814569e546d6c4d4@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T151500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d465846a79d2247d@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0bfe548fdffe54fc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T165000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c15ccc735379d699@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T171500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2fa18a3e4227a954@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T171500
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -613,23 +741,39 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6adbba5611317e87@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7d8d11a44bb5fac6@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T174500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-43b03d5eb816fae1@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T193000
 SUMMARY:Hope (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-350071aae6085705@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f4e0cd1cbf857aa7@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Kino im Hof
@@ -637,7 +781,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a1dc524d306942d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -645,15 +789,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d02e0b0bd16b2168@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b419feae729ca177@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261018T201000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f9dd12f94d3e0d47@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -661,7 +813,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fdf4e4e231091c2@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -669,15 +821,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e87498ca587057af@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T143000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a310dc44e2772bdd@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0a10e9edc2ded340@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -685,7 +845,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09d52cc05634cf46@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T150000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -693,15 +853,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f34a42c82bfe93e3@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T150000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7c279d24b1e11f6e@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5f4a36050b258d05@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -709,15 +877,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff0ab74bad366d05@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T151500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4efe5ae6dc61bee3@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T171500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c5def0dbb6536b9@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T171500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-11d772e1875409dc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T171500
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -725,7 +909,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c25938f59471f031@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
@@ -733,23 +917,47 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1e06bca34852a57@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T173500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bad26eeebeebb83b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T174500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c6da6d72be8da196@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T193000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0fbd1df283e40868@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T193000
 SUMMARY:Hope (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3ca7c78c11ed7e44@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-50abdd418b3304ee@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Kino im Hof
@@ -757,7 +965,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-35d18f9d19c900ab@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
@@ -765,15 +973,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf79d3a361001523@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-979c521feb01c4f5@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-091ea67867b79123@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T100000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -781,15 +997,23 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08c23477856a6519@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T100000
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7f539e841e9e538b@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T113000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1e3fa643fbc60ffc@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T113000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -797,7 +1021,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f10b3063844f1c17@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T114000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -805,15 +1029,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28bf91e7b9ebc374@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T115500
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6c89987af86f8bb5@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T121000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f67bd2e6322d4792@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7e1ce0b217ce0e1e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T121500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -821,7 +1061,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-192c7c21ef1d7585@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T121500
 SUMMARY:Forgotten Island 3D (DE)
 LOCATION:Kino im Hof
@@ -829,7 +1069,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2cf305c9cd9639b6@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -837,7 +1077,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-137a7889db2d73c9@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T141000
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
@@ -845,7 +1085,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8cd2dd6677599c4d@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T143500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
@@ -853,23 +1093,39 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0dc22b44cbeff380@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T144500
 SUMMARY:Monster Mia (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fcd40be84b1e3999@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-becb247451fe2929@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c4c5a294793a8307@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ff2b101c23987ac8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
@@ -877,7 +1133,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c8d09a4e674510e@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T151500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Kino im Hof
@@ -885,15 +1141,31 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-672a87c6634038b0@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T162500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d11d87f49614e561@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T171500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5001b25dec2f6c98@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T171500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d53f851fb0b97785@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T171500
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -901,23 +1173,47 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78e2210b51625e35@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T173000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-299592217aa47df8@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T174500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a2189f7f739233a@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T193000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b946e7dcc41bb8b8@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T193000
 SUMMARY:Hope (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9b187299cfe92ba7@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c0c6391bb8288369@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Kino im Hof
@@ -925,7 +1221,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e23381b4b0ae1ca@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Street Fighter (DE)
 LOCATION:Kino im Hof
@@ -933,9 +1229,17 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb93dccff763d089@ravidvr.github.io
-DTSTAMP:20261014T070203Z
+DTSTAMP:20261015T070908Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Whalefall (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c7f26effd8957386@ravidvr.github.io
+DTSTAMP:20261015T070908Z
+DTSTART;TZID=Europe/Berlin:20261021T193000
+SUMMARY:Verity - Dunkle Geheimnisse (OmU)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
