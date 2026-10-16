@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
-UID:getlos-d39b650e8db1f478@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T193000
-SUMMARY:London (DE)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1d28759b29510037@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T210000
 SUMMARY:London (OmU)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
@@ -21,7 +13,7 @@ URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d37be756481e744@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T164500
 SUMMARY:London (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
@@ -29,7 +21,7 @@ URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c6391202a1ec23e8@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
@@ -37,7 +29,7 @@ URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9387bfff8597bb20@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T200000
 SUMMARY:London (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
@@ -45,7 +37,7 @@ URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-782372d84c952d88@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T194500
 SUMMARY:London (OmU)
 LOCATION:City Kino Wedding im Centre Français\, Berlin

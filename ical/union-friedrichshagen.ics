@@ -4,64 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Friedrichshagen
 BEGIN:VEVENT
-UID:getlos-0015b7ccac4a91ba@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T124500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-92a84975c2d8556d@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T130000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f4c287721a827421@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f4c748c81f3ec62e@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T171500
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-75a3bce32e4077f7@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T180000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c863e7fe833d1963@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T201500
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-01adf211eed7525e@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T203000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-67b98fe765192263@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T130000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -69,15 +13,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d243f4c4c478ea89@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0848f58be8e31035@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261016T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7961e914b7bc4839@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -85,7 +37,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3267e0e48ca9652d@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T171500
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -93,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9147103549992580@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -101,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8fef2fedc525cee5@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -109,7 +61,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b3ccacc79f362ed0@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -117,15 +69,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73f0c2aacfa1c94f@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-371a9c9659b0c7a1@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261017T141500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ea556733f386ca04@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T151500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Friedrichshagen
@@ -133,7 +93,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6824d0898f242fe8@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T160000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -141,7 +101,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81edeaaf87955b89@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T163000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -149,7 +109,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19cfb875f21eaafa@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T173000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -157,7 +117,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc07b16aa10d434e@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T190000
 SUMMARY:Met im Kino: Macbeth (DE)
 LOCATION:Union Friedrichshagen
@@ -165,7 +125,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-980688a36a023d2b@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T191500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -173,7 +133,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ff72bc788ac72a7@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261017T203000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -181,7 +141,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4677322bd784f0a5@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T120000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -189,15 +149,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba8b532130986e4a@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T121500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a4514583d5050a2a@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261018T130000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78abaf818c0c86de@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261018T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7103922dd187811d@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Friedrichshagen
@@ -205,7 +181,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-012a5e4e668030cb@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -213,7 +189,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd762bdf6255391b@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T171500
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -221,7 +197,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40806608a1f966e1@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T194500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -229,7 +205,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-859bd7a1de0119f2@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -237,15 +213,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d1b3cae997f2cc3@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T124500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5fef67a1b8feefa9@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261019T131500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-385a70e548817de4@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T133000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -253,7 +237,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-756a6a162126166e@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T151500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Friedrichshagen
@@ -261,7 +245,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2563af5b9b7da446@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Friedrichshagen
@@ -269,7 +253,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a326c3f29184b257@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T163000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -277,7 +261,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2267fee08acbc5e3@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T173000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -285,7 +269,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c6db181f99a24c68@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T174500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -293,7 +277,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86bab3a637394455@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -301,7 +285,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c7b443c093a2653f@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T121500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -309,15 +293,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9f4913f3d9d085c@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T124500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-01b2d9c1f14b50fe@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261020T131500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8505ede864da459d@ravidvr.github.io
+DTSTAMP:20261016T070209Z
+DTSTART;TZID=Europe/Berlin:20261020T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3a4282d8c630b598@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Friedrichshagen
@@ -325,7 +325,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7050179b51cd4634@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -333,7 +333,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-672e0d856ac08a20@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T173000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Union Friedrichshagen
@@ -341,7 +341,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00a2a57822aca18c@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -349,7 +349,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c1147246ffaee1e5@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Friedrichshagen
@@ -357,7 +357,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9542d8e87cadc12@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261020T201500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Union Friedrichshagen
@@ -365,7 +365,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-760324684daa6f8a@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261021T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Friedrichshagen

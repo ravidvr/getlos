@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - fsk - Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-8dfd7d2abd14aac8@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T181500
-SUMMARY:Barbara Forever (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-af1d529e1a84a917@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T181500
 SUMMARY:Barbara Forever (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -21,23 +13,15 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96cc76e951c62ded@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261018T131500
 SUMMARY:Sternbrücke Forever (OmU) (OmU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-aed43c1d27cb477c@ravidvr.github.io
-DTSTAMP:20261015T070908Z
-DTSTART;TZID=Europe/Berlin:20261015T181500
-SUMMARY:Barbara Forever (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-64845955cb22b12e@ravidvr.github.io
-DTSTAMP:20261015T070908Z
+DTSTAMP:20261016T070209Z
 DTSTART;TZID=Europe/Berlin:20261016T181500
 SUMMARY:Barbara Forever (EN)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
