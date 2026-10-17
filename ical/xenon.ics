@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Xenon
 BEGIN:VEVENT
-UID:getlos-868c573c119340f4@ravidvr.github.io
-DTSTAMP:20261016T070209Z
-DTSTART;TZID=Europe/Berlin:20261016T180000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
-URL:http://www.xenon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-61a24c2d5ee3023a@ravidvr.github.io
-DTSTAMP:20261016T070209Z
+DTSTAMP:20261017T071013Z
 DTSTART;TZID=Europe/Berlin:20261017T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
@@ -21,7 +13,7 @@ URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aeb4b72bc4ab0a7c@ravidvr.github.io
-DTSTAMP:20261016T070209Z
+DTSTAMP:20261017T071013Z
 DTSTART;TZID=Europe/Berlin:20261018T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
@@ -29,7 +21,7 @@ URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22b1c0ea3b717b3d@ravidvr.github.io
-DTSTAMP:20261016T070209Z
+DTSTAMP:20261017T071013Z
 DTSTART;TZID=Europe/Berlin:20261019T180000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
@@ -37,7 +29,7 @@ URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-052dd01fec7e496b@ravidvr.github.io
-DTSTAMP:20261016T070209Z
+DTSTAMP:20261017T071013Z
 DTSTART;TZID=Europe/Berlin:20261020T180000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
