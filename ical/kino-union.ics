@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Kino Union
+BEGIN:VEVENT
+UID:getlos-1f85a576f8aa76ab@ravidvr.github.io
+DTSTAMP:20261018T081204Z
+DTSTART;TZID=Europe/Berlin:20261020T201500
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Kino Union
+URL:https://www.kino-union.de/
+END:VEVENT
+END:VCALENDAR

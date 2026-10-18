@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-e0f0303818090a29@ravidvr.github.io
-DTSTAMP:20261017T071013Z
-DTSTART;TZID=Europe/Berlin:20261017T150000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3838f0f0be78f51c@ravidvr.github.io
-DTSTAMP:20261017T071013Z
-DTSTART;TZID=Europe/Berlin:20261017T174000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f086a27d1a9f2841@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261018T140000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem
@@ -29,7 +13,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f9e9bad432c887e@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261018T191500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem
@@ -37,7 +21,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3adc4883c55237d0@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261019T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem
@@ -45,7 +29,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d21b528ec07bd196@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261019T201500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem
@@ -53,7 +37,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13209e1d7c0a90e1@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261020T174000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem

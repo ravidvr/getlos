@@ -5,8 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - UCI Am Eastgate
 BEGIN:VEVENT
 UID:getlos-b6ed730ff4fbf11f@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261018T200000
+SUMMARY:Street Fighter (EN)
+LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
+URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79d6b30af78cbc40@ravidvr.github.io
+DTSTAMP:20261018T081204Z
+DTSTART;TZID=Europe/Berlin:20261020T201500
 SUMMARY:Street Fighter (EN)
 LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
 URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44

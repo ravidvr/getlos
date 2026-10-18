@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-6925307350aeceaa@ravidvr.github.io
-DTSTAMP:20261017T071013Z
-DTSTART;TZID=Europe/Berlin:20261017T184500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9c33e77f6aea91e2@ravidvr.github.io
-DTSTAMP:20261017T071013Z
-DTSTART;TZID=Europe/Berlin:20261017T204500
-SUMMARY:London (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9392f22d107f3bca@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261018T143000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -29,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed637ceb00dfda5f@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261018T193000
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e526264dbbf870c9@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261019T184500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05cccb5f1618276c@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261019T204500
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -53,7 +37,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e20b105fcf347c13@ravidvr.github.io
-DTSTAMP:20261017T071013Z
+DTSTAMP:20261018T081204Z
 DTSTART;TZID=Europe/Berlin:20261020T204500
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
