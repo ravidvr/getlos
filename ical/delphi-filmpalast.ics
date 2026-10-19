@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-cd10c960979911d7@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T140000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-574bf2a448809acb@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T170000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a725e274aa4469a7@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c47aa89bcbd1bcd6@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T144500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -37,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79c1552add5d1625@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -45,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1e2fa8fb82ac968@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -53,17 +29,17 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fab4215c8d595023@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3f92bc49ec62701b@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T110000
-SUMMARY:A Foreign Affair (EN)
+UID:getlos-879f83a3f3282e4a@ravidvr.github.io
+DTSTAMP:20261019T070243Z
+DTSTART;TZID=Europe/Berlin:20261025T110000
+SUMMARY:The Seven Year Itch (EN)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT

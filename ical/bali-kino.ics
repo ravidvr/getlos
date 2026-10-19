@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali-Kino
 BEGIN:VEVENT
-UID:getlos-8bbbedcdc72be570@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-28c83c81a8a8bf68@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T180000
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c72c744ba4e88bc2@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T203000
-SUMMARY:La Graciosa - Kanarische Träume (OmU)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4a93fa9f16682609@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Bali-Kino
@@ -37,7 +13,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aec763537e98608a@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
 SUMMARY:La Graciosa - Kanarische Träume (OmU)
 LOCATION:Bali-Kino
@@ -45,7 +21,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-342030f6d9cb77c8@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T160000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Bali-Kino
@@ -53,7 +29,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94033e84e5ba816f@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T180000
 SUMMARY:Lügen über meine Mutter (DE)
 LOCATION:Bali-Kino
@@ -61,7 +37,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ffcdf6dee2cfc53b@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T203000
 SUMMARY:La Graciosa - Kanarische Träume (OmU)
 LOCATION:Bali-Kino
@@ -69,7 +45,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b43fadff2ab2ebc@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261021T203000
 SUMMARY:La Graciosa - Kanarische Träume (OmU)
 LOCATION:Bali-Kino

@@ -4,32 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-1d9f60ccbfc93438@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T171500
-SUMMARY:Whistleblower (OmU)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b8afa092cd46969e@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T203000
-SUMMARY:La Graciosa - Kanarische Träume (DE)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-735d1045076e314e@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+UID:getlos-1a5c767f63222830@ravidvr.github.io
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T171500
-SUMMARY:Whistleblower (OmU)
+SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9827f77bd6716f4a@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
 SUMMARY:La Graciosa - Kanarische Träume (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
@@ -37,25 +21,25 @@ URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94172e442be9d037@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T183000
 SUMMARY:La Graciosa - Kanarische Träume (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-eb9acb4b63a3509b@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+UID:getlos-addc788dbbad1961@ravidvr.github.io
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T203000
-SUMMARY:Whistleblower (OmU)
+SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c3007ca78c556e2d@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+UID:getlos-73343990ebf6d18f@ravidvr.github.io
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261021T203000
-SUMMARY:Whistleblower (OmU)
+SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT

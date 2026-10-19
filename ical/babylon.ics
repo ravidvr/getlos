@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Babylon
 BEGIN:VEVENT
-UID:getlos-5087f007dd600d63@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T144500
-SUMMARY:Stop! That! Train! (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a0135d58aa6fb07d@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T154000
-SUMMARY:The Social Reckoning (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7aa3e6d3d0cb8f28@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T154500
-SUMMARY:Shadow of a Doubt (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1f51f3a1f60b8aab@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T182000
-SUMMARY:The Social Reckoning (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-32b83d6f76565616@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T200000
-SUMMARY:2001: A Space Odyssey (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-25cdb5a8ea18a387@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T201500
-SUMMARY:Rebecca (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b79c737a716bdd22@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T201500
-SUMMARY:The Trouble with Harry (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-796a6b381a6a51b6@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T210000
-SUMMARY:The Social Reckoning (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a209ad70975d6b28@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T180000
 SUMMARY:Strangers on a Train (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -77,7 +13,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c819d7e1bcdf627@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T182000
 SUMMARY:The Social Reckoning (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -85,7 +21,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-45d06a92b981f6c9@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T210000
 SUMMARY:The Social Reckoning (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -93,7 +29,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b2ab21a1e444b95d@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T220000
 SUMMARY:Marnie (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -101,7 +37,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-84bcdd34a36e7e48@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T221500
 SUMMARY:Psycho (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -109,7 +45,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89db762b17e838f2@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T173000
 SUMMARY:Paths of Glory (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -117,7 +53,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ee88748099be1db@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T180000
 SUMMARY:To Catch a Thief (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -125,7 +61,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad85315a36fb7c09@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T182000
 SUMMARY:The Social Reckoning (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -133,7 +69,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-443203c1adcb3b71@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:The Birds (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -141,7 +77,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1af3dbc11d2b9834@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T210000
 SUMMARY:The Social Reckoning (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -149,7 +85,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3980169c3990200b@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T221500
 SUMMARY:Vertigo (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -157,7 +93,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cfb7c90efb06865a@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261021T170000
 SUMMARY:Lolita (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178

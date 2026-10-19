@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-dc499cd0b886899f@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T110000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-989dc48b005f8af4@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-caa9a758bc9da889@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T203000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-222a93c19bca48ce@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -37,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8efbf7e6878f5217@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b6499756d62944a@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +29,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-374921ea01a6bcce@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino

@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Adria Filmtheater
 BEGIN:VEVENT
-UID:getlos-d09e5895ee0d4b89@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T110000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-29eaca7b9132931f@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T163000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ca0255918e97be2d@ravidvr.github.io
-DTSTAMP:20261018T081204Z
-DTSTART;TZID=Europe/Berlin:20261018T193000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1a49d0529e30d437@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -37,7 +13,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2293458d110c4182@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261019T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -45,7 +21,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99c76b4bf6c90569@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T163000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -53,7 +29,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61b5ac15061e2cd9@ravidvr.github.io
-DTSTAMP:20261018T081204Z
+DTSTAMP:20261019T070243Z
 DTSTART;TZID=Europe/Berlin:20261020T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
