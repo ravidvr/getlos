@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-c47aa89bcbd1bcd6@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T144500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-79c1552add5d1625@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T201500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f1e2fa8fb82ac968@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -29,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fab4215c8d595023@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -37,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-879f83a3f3282e4a@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261025T110000
 SUMMARY:The Seven Year Itch (EN)
 LOCATION:Delphi Filmpalast

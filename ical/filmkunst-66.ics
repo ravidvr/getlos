@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - filmkunst 66
 BEGIN:VEVENT
-UID:getlos-a835173216103591@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2becba9346ed14f7@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1001a08366fb7716@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T203000
-SUMMARY:Digger (EN)
-LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
-URL:http://www.filmkunst66.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fb1d9add1793a67d@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -37,7 +13,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0c5b1792cc1a828c@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -45,7 +21,7 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ede68a5cc4e30206@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261021T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
@@ -53,9 +29,193 @@ URL:http://www.filmkunst66.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dcab9a3de012419f@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261021T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85011f1e5a392227@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261022T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-88ea78185e911309@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261022T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7cdfcdd08b23d75c@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261022T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-114081f5e8f5dcd5@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261022T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c83ee32e2c76aa77@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3a7302e8e1e38b9@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b0948fc068c629c@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff22dfa16c82ceb2@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-939ba32b87744d78@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-35f173a077cd768d@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T151500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af8f9903deb9453d@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b0fe8540cca7c02e@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78aa54668d1e7d69@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0e78239107ab896@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T120000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e188a50ffdf2ea2d@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e057dbfdb780f21@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d1b9a66a113a0602@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T174500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbcd09f9e963d1fa@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f43670271da7a817@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da0986f5ee740a1e@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T151500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-283e38f0cc4cdede@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6489215d93b908eb@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
+LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
+URL:http://www.filmkunst66.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8b06e90037297a8@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T203000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:filmkunst 66\, Bleibtreustraße 12\, Berlin\, 10623
 URL:http://www.filmkunst66.de
 END:VEVENT

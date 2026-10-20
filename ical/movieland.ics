@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-cf36f647e7b8d435@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T163000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d0d218ea0f520e3@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T183000
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-40f0d78a97396662@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -29,7 +13,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0125bdf23c52c483@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T171500
 SUMMARY:Forgotten Island (DE)
 LOCATION:Movieland
@@ -37,7 +21,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e67e41c7aebeef17@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T203000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Movieland

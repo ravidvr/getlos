@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-fff2034d0b5d8885@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T180000
-SUMMARY:Sternbrücke Forever (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-318227aaea397213@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T180000
 SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -21,7 +13,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb2db3a49f1485ed@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261021T201500
 SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119

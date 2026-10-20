@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-e206f9b6c1a45cfa@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T173000
-SUMMARY:Call Me Queen (OmU) (OmU)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-098009f30ea5ecf1@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T200000
-SUMMARY:La Graciosa - Kanarische Träume (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b8729701646d268f@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T173000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -29,7 +13,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34f9096fed1c71db@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261021T173000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -37,8 +21,24 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0b832aea7f9caf1@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261021T200000
+SUMMARY:La Graciosa - Kanarische Träume (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2630031e3c3f3eb2@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T150000
+SUMMARY:La Graciosa - Kanarische Träume (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06954df1f7c6138d@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T173000
 SUMMARY:La Graciosa - Kanarische Träume (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/

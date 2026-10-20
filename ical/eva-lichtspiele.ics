@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-9e5cca53650ede94@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T130000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-14afedb2d3cfbbad@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-266300004c09d458@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T174500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dc583a65c60afd99@ravidvr.github.io
-DTSTAMP:20261019T070243Z
-DTSTART;TZID=Europe/Berlin:20261019T201500
-SUMMARY:La Graciosa - Kanarische Träume (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-93ccb246f7b6dcc1@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -45,8 +13,128 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-23aa3e7e94da9eb1@ravidvr.github.io
-DTSTAMP:20261019T070243Z
+DTSTAMP:20261020T080417Z
 DTSTART;TZID=Europe/Berlin:20261020T174500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-969685731a015593@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261020T201500
+SUMMARY:La Graciosa - Kanarische Träume (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3e343078b8a7205@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261021T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2b155b537f430043@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261021T180000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9f89d97425de2b7@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261022T151500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e06fbbc0864f36bd@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261022T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26925fec8a30f2ce@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4456c72eba3b8ceb@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T151500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9cc1e721d2b96c99@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261023T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d0214989c5a50b6d@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97c41ae299532daf@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T151500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3ebc8b20df6e852@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261024T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ca85ecce4954013@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T130000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef97a5f0abb05e2a@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261025T151500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-802d7c69e14ee820@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T151500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
+URL:http://www.eva-lichtspiele.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-862f944329c9fa1b@ravidvr.github.io
+DTSTAMP:20261020T080417Z
+DTSTART;TZID=Europe/Berlin:20261026T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
 URL:http://www.eva-lichtspiele.de
