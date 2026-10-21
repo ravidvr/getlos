@@ -4,24 +4,31 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol
 BEGIN:VEVENT
-UID:getlos-0ac22e338b13b59f@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261022T200000
-SUMMARY:Lügen über meine Mutter (DE)
+UID:getlos-467237494b8890c2@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Capitol
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5848d708d64bc851@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261023T200000
-SUMMARY:Lügen über meine Mutter (DE)
+UID:getlos-449fb780641eee0d@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Capitol
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1893dc7512acfd9c@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261024T200000
-SUMMARY:Lügen über meine Mutter (DE)
+UID:getlos-0a266d5ac0eb26cc@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Capitol
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4dc31a8f44ceba89@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T200000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Capitol
 END:VEVENT
 END:VCALENDAR

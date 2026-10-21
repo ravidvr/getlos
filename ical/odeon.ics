@@ -4,25 +4,121 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon
 BEGIN:VEVENT
-UID:getlos-298bc4840e0a0412@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8732d04e1ce86407@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T201000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-07de1a79f9333e77@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1872542208da7524@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7bbc9f2db255fdfa@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c91cc88eb4dce4bc@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c588628cb7e49aec@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ce60e98a74752fb@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c653b0e6e00356d7@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8715f3368403d4cd@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d270b306dea95bf1@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T140000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a31c7809aeb1c36b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cbfa438f382337d6@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2c0464373af7ee2@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6733b9bba217a904@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T200000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-89e830b0d77683f3@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d5e7d3ef066e6c5b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/

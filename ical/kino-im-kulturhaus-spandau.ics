@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Kulturhaus Spandau
 BEGIN:VEVENT
-UID:getlos-2a8959a413efbe0b@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T144500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-27816ebca062c3c1@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T173000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-23eface063195f3a@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T201000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bd598d8a0b331e83@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T144500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -37,7 +13,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8af944cf57f8a5b7@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -45,7 +21,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-488ef98b6c9108ff@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T201000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -53,31 +29,63 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d97799ec88e4aa75@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261022T141500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3502e4a7c97291cf@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T141500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c573d2e8b0e585c4@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261022T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2c23edd9fb6846f9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T193000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4de63b2eee4ce9be@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261022T193500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7f538e82b135be5c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T202500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-744760a6cad473d1@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T134500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9ae0f317699085c6@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261023T141500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -85,7 +93,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bfca9937ef4bcd04@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261023T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -93,23 +101,47 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0cd9f86600660a78@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d7447042e48e4bf5@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T193000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-785bc03a05fd77db@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ffaa0172d8f7d4ed@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261024T111500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-205de02d6570a701@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T134000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-77c6d92402c7417b@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261024T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -117,23 +149,55 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e13d6dabf7cabfa@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261024T191000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-98222ff1eee9592b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T193000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02830f41691c2a32@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7b8543680f2dd5d5@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261025T115000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-af7244cb43ff9b26@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T131500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10ba3e1e9b2e7a2e@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T144000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ee00fa0e4066a962@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261025T171500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -141,15 +205,39 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96cc6e45a4dfd9d9@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261025T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-540cea54798db454@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T193000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22ae21168c1de0ff@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb9e68d1bb5e3852@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T135000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7be6dfa3db375435@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261026T141000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -157,9 +245,73 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b590a183ecb6f635@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261026T192000
 SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0012e81a09061000@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T193000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-570b1376f8773406@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T195000
+SUMMARY:Chopin - Eine Sonate in Paris (OmU)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebf59758c812e03b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T134500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d53302b99eb96d5a@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T135500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9387bf000337d41c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T140500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3be04c5b4cde1b6@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T192000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1f936f322b01f607@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T193000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-694aaeca3ba4f24f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT

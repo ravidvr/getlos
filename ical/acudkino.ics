@@ -4,18 +4,98 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-318227aaea397213@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T180000
-SUMMARY:Whistleblower (OmU) (OmU)
+UID:getlos-523d1c3eb762c8e0@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T201500
+SUMMARY:Whistleblower (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-bb2db3a49f1485ed@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261021T201500
-SUMMARY:Whistleblower (OmU) (OmU)
+UID:getlos-5f78abde69dcb087@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T201500
+SUMMARY:Materia Prima - New Energy. Old Powers? (OmU) (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0666d0c7e9861a30@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T204500
+SUMMARY:Chopin - Eine Sonate in Paris (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62f6a3b1beb49959@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T164500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eba7591be6c412b7@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T180000
+SUMMARY:Materia Prima - New Energy. Old Powers? (OmU) (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d2deef8536ac1a6@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T183000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-136bb3022f8b48c1@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T164500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8cbe93f18d4a3bd9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T183000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9bdd93d1a3148e10@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T200000
+SUMMARY:Chopin - Eine Sonate in Paris (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dbdeb735fbc95f7f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T190000
+SUMMARY:Materia Prima - New Energy. Old Powers? (OmU) (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39ae12ae86877497@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T180000
+SUMMARY:Whistleblower (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a7c5ef3ee0ffd2e9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T184500
+SUMMARY:Chopin - Eine Sonate in Paris (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT

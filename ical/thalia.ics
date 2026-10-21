@@ -4,120 +4,56 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia
 BEGIN:VEVENT
-UID:getlos-710e3aa5345cf08d@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T123000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4eca5c1fff127353@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T130000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eed8e0eece4d6a85@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T142000
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c841d40a35d5ed5b@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T144500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-126ad7fe347f50e6@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T150000
+UID:getlos-466e0d2240ebb19f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ca31626f6ac3d944@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T153000
+UID:getlos-c2250459249fb043@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T101500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e75a1dba4904e32@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T103000
 SUMMARY:Monster Mia (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c30493164ab5448d@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T164500
-SUMMARY:Sinn und Sinnlichkeit (OV)
+UID:getlos-ed7ba6335998fb66@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T124500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-370a441afbe51953@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-f5b95886e1e0b4ef@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T130000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-bec3cb7d0bc2f78c@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T173000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f902902a13879198@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T200000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-61fca96651a909df@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T200000
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a1b5bf0f16b81eab@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T201500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aa4875f61d44947b@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T201500
-SUMMARY:Lügen über meine Mutter (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bc934ffc7cecd58e@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T203000
-SUMMARY:Sinn und Sinnlichkeit (DE)
+UID:getlos-e8517362d1b9d9d7@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T130000
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c78a8e338c733fa@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T142000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
@@ -125,15 +61,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cbdb1bfe647bc7ed@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8b79def5726fc171@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T154500
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4e8950335b834281@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T164500
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Thalia
@@ -141,33 +85,873 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b21b614883175e5a@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fae3b9345aede29e@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+UID:getlos-c91aa5693bcaca1e@ravidvr.github.io
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T180000
-SUMMARY:Whistleblower (OmU) (DE)
+SUMMARY:Whistleblower (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8b3abc6ca4e237f@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T200000
 SUMMARY:Sinn und Sinnlichkeit (OV)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-06b03dc1b8bda89c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-19e8a1ece8d5481d@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T203000
 SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2b2c8cef8f1c925@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261021T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-51df38611e377692@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T120000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-faf109521b5d051c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T121500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef8c12eb0eb5d937@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-858bc3db8cd01b4b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T140000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bbb69d03e399d0b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T144500
+SUMMARY:Der Zauber der blauen Geige (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0dfef5b47f1bfb63@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f25bbf6e1db9f3ae@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T150000
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8c713a9e25717eff@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T151500
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c8644c938135b9c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fdc7538db68504ef@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff7c16b3498dbe64@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T173000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-15099da9c7433b98@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T174500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c55a3634a6ae3cbd@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T194000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c82ed6a9f8cd713@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebdb4aad55a13beb@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T200000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-31b7d7a6bf3b0f32@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0151d43e65954913@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75037b916eea32f7@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261022T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28c4089bb48e7421@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T120000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-716eabae034367b0@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ed68e7de174555b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T121500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e3380fea512a5e2@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T123000
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a690a09c1710b109@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T140000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1117c5d674de774f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T143000
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-61d244665a330f60@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T144500
+SUMMARY:Whistleblower (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c08e8f770aa4a8a@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00b3a71a37e2abc9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T153000
+SUMMARY:Der Zauber der blauen Geige (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44c8ddeb014745b4@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19a842caa2d211d6@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10622d2728443d6f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eae8cfc5619db195@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T174500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-53165bf0d0dc11b3@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T194000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62983a8ec0c8867c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T194500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fee51a6249dbd81b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f6a015ff1f2573e@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T200000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-07347f38633e0a9c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23fe81832c4b9859@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261023T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-525af1e159d8c6bc@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-40e3a0cf76fcb12d@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T121500
+SUMMARY:Der Zauber der blauen Geige (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb1f39e47f79023e@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T124500
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11b6c5eacf1db340@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T140000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-91603804555f89cb@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T143000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f4e2ecf97b862652@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T144500
+SUMMARY:Whistleblower (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-771827ec261d3550@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01f3d5df5a234291@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T150000
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e108654a006abeb@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10383030652248ae@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3ab17a1577553a34@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T173000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a504a9467bab745@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T174500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa4b45dbb814a782@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T194000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2265ac9b87989c8b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4727e57b001d68f7@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff61579654d2e517@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-92d4876fc84bcfbc@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e015dce671bf452b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261024T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67380b87476c2fb5@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T100000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e93a54fee0347b23@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T101500
+SUMMARY:Der Zauber der blauen Geige (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-114b25dc2317f356@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T123000
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c49e6e1fbc1cb171@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T123000
+SUMMARY:Whistleblower (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-712adda2d6f11745@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T124500
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a56a62a962bf10db@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T140000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9686f64435af58d@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T143000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfa983054af8df17@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T144500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8cadeb20d3cce7a2@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T144500
+SUMMARY:La Graciosa - Kanarische Träume (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bcb0ae6c125dcaa@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5d214ad31cd3a2a@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c86f8ab8eb29092b@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T173000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0113c6495d9c7a3d@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T173000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d00be79e816905f7@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T174500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-051780d6e0b0da29@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T194000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0afc5bd721fd668@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-56ec99653c793166@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T200000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1cd99165e57f561@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de721cf8cf01a1f9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-016f3db5b557e655@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261025T203000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a7c4510e268466de@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T120000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52676fa1ac97f0cb@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T120000
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3ade5535641c463@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-df1ff1c94cdf83b4@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T134500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0535d7a9e5182f4@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T141500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-56246bc8bcf259db@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T143000
+SUMMARY:Chopin - Eine Sonate in Paris (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab14a565f727f758@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T143000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b0ee6aa7f97b5a9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T144500
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-778d100c82c52e1f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85671a6c44e26d10@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7bb8242e7ec7008@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd0b03fd23be90fd@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T173000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3cd84645e03de6c5@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T194000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2e9af7d8237b1dc@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261026T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72f6a4dfc0d1bb3e@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T121500
+SUMMARY:Der Zauber der blauen Geige (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71ebc09c516bcafd@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T134500
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-63f874d50ce513b5@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T144500
+SUMMARY:Monster Mia (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ba8943633a37ed9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-58d33ca5bc781260@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T150000
+SUMMARY:La Graciosa - Kanarische Träume (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6adc4bdef0247fa9@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T153000
+SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e56fbde81450734c@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T170000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c2afd8ad432d36d@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab9eb8dda4a71fa4@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T181500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a7d254d55458105@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T194000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99d3616a94427bef@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T195000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ee67b8417c5d2d8@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T200000
+SUMMARY:Sinn und Sinnlichkeit (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b2dcfb192eef7878@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da647d304ab78e3f@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT

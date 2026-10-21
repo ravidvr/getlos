@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-b7c80e42dd33cc34@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T184500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e20b105fcf347c13@ravidvr.github.io
-DTSTAMP:20261020T080417Z
-DTSTART;TZID=Europe/Berlin:20261020T204500
-SUMMARY:London (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9d4a3b4aefdb3aac@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261021T174500
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -29,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0905aa7c6c265024@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261022T194500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-338652ee12c9ea9c@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261023T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5fe0717179ac4231@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261023T190000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -53,7 +37,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e7bdf1cb317e3da@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261023T211500
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -61,7 +45,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3474bd6e50041309@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261024T140000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -69,7 +53,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f76e7e247080a5f3@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261024T180000
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -77,7 +61,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37f17809ed1fc40b@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261024T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -85,7 +69,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ac9982caf78b7f8@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261025T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -93,7 +77,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ed4003d9a8c6e59@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261025T190000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -101,7 +85,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96f899fe59b6f455@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261025T211500
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -109,7 +93,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32904ea13ee1849b@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261026T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -117,7 +101,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8ffe44708c0e4bed@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261026T190000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -125,8 +109,32 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c033febdb2793052@ravidvr.github.io
-DTSTAMP:20261020T080417Z
+DTSTAMP:20261021T080153Z
 DTSTART;TZID=Europe/Berlin:20261026T211500
+SUMMARY:London (DE)
+LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
+URL:https://kino-krokodil.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dca40eec8323ad17@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
+URL:https://kino-krokodil.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9980de72209912e6@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T190000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
+URL:https://kino-krokodil.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f79aa043ac4c3a44@ravidvr.github.io
+DTSTAMP:20261021T080153Z
+DTSTART;TZID=Europe/Berlin:20261027T211500
 SUMMARY:London (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
