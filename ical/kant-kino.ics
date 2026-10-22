@@ -4,80 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-4596003e948d401c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6aaae588ec469dea@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T140000
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ad1d51a07dc109e6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1a39f23899d98d97@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f31d2e1cda3379d4@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T161500
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1ef7eecdf05a5a2f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T163000
-SUMMARY:Meeting the Buddha (EN)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0540395adb999873@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T170000
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e7dfde06a15d39ec@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T194000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3721f3d61dc70b02@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T200000
-SUMMARY:Sinn und Sinnlichkeit (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-834a5585411dc192@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -85,7 +13,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bbd67665b0c2670b@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -93,7 +21,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d21069806a4ea1d@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T144500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -101,7 +29,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d11bf74bd8ff8621@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T151500
 SUMMARY:Meeting the Buddha (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -109,7 +37,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79265662c3a876b3@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -117,7 +45,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8bb5fb82720273ad@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T163000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -125,7 +53,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bdfba57bd7796913@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T173000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -133,7 +61,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-26f0e7179fee6944@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T193000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -141,7 +69,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d5334ad89ce9ac7@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T200000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -149,7 +77,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-794bc5e2c2c68112@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T200000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -157,7 +85,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-54ce62cf632541d0@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -165,7 +93,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d139ebfb56df8da2@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -173,7 +101,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0c29dc4e20ebea84@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T144500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -181,7 +109,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df45c52f1e5e533f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T151500
 SUMMARY:Meeting the Buddha (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -189,7 +117,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c5559473d7ff829@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -197,7 +125,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d8672f18a2f2b95@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T163000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -205,7 +133,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-621b1194059e12ee@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T173000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -213,7 +141,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b4b8c1e7cc46055@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -221,7 +149,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d78a6bc13b6cf49@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T195000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -229,7 +157,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-305c13708a0a0abb@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -237,7 +165,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-144f54af97139e44@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -245,7 +173,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6ff15fab9f16bd7@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -253,15 +181,23 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1da9daa6eb3cd654@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T141500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a75d4205d1287151@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T151500
+SUMMARY:Meeting the Buddha (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7095a98cb7bf18be@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -269,7 +205,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ecafe983090da8bd@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T163000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -277,7 +213,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b0ac9de1d8baccd@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T193000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -285,7 +221,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc59e04ae12d5384@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -293,7 +229,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-be133ab780dab55f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -301,7 +237,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-341b9391838e272d@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T202000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -309,7 +245,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-04f2339efb479d08@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T121500
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -317,7 +253,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fd9f6cd6a1d22b9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -325,7 +261,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88f29e2b2ece9d41@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -333,7 +269,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73f5f3476490f4c1@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T144500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -341,7 +277,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb56b40caa0738cc@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -349,7 +285,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50f35b783bd39755@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T163000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -357,7 +293,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-03c362bc75d1e920@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T173000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -365,7 +301,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-074f96278b37beac@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T193000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -373,7 +309,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16f54f4437687eab@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -381,7 +317,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39e3ed427acc3fee@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -389,7 +325,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9422bc413696e1ac@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -397,7 +333,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-920181ca402372ae@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T154500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -405,7 +341,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ee8b746f1722197@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T163000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -413,7 +349,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-42d1447ced241e0e@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T183000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -421,7 +357,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4bae576ad76e84f9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T193000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -429,7 +365,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fcb15c151f112796@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -437,7 +373,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd54c2a902312724@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -445,7 +381,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f81b111f92ef34f5@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -453,7 +389,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad4159ee3dd43ce9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -461,7 +397,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-576033f1a2c95e9a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T144500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -469,7 +405,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-567a3d1a1dc6a3ea@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -477,7 +413,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-790db46976fea565@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T163000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -485,7 +421,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49f8900555c94b36@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T173000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -493,7 +429,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5cb1b7447265b76@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T193000
 SUMMARY:Sinn und Sinnlichkeit (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -501,7 +437,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a16b99f6d3dd9add@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -509,9 +445,41 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dcb6ae5aa7c5dfa2@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9875f657f786f385@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T151500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7dfd4cf79db0c80f@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T180000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d43e27d5edea49f@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T194500
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f7f88b38fb499dd@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT

@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmgalerie
 BEGIN:VEVENT
-UID:getlos-491a5726e7a544ff@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-48f0677ae8cc5314@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -21,7 +13,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61a70cf92453c44c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -29,7 +21,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d4dba80807917233@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -37,7 +29,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0c653dee932e801@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmgalerie
@@ -45,7 +37,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32a16caf20158d07@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -53,7 +45,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e6e431e27ca2d05@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -61,7 +53,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-513af38226f9dfdb@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -69,7 +61,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7774f06765795729@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -77,7 +69,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e2096472b443235@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmgalerie
@@ -85,7 +77,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0f8a6246f39c912d@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -93,7 +85,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7cfa11b13e06c63f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -101,7 +93,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-17d9e96719957e18@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -109,7 +101,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9141a77f38175d0c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -117,7 +109,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95e7192ab719fedf@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmgalerie
@@ -125,7 +117,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f336dcae57fa9e92@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -133,7 +125,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72186f914741ee30@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -141,7 +133,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f411b49340c46ef3@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -149,7 +141,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b62010f0699e543a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -157,7 +149,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f18a30d9bfc42c7a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmgalerie
@@ -165,7 +157,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44b9e21d78455e80@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -173,7 +165,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62bcf80c6f90fe6f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -181,7 +173,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25d6c46150abc9e9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -189,7 +181,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea21b2a09dc41546@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -197,7 +189,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a46c017933e87f6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmgalerie
@@ -205,7 +197,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff14d52464287ce0@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -213,7 +205,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3175c10d0467cbcc@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -221,7 +213,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d691b8b6cab5cde3@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -229,7 +221,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ffc3a21f47345593@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -237,7 +229,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51e54905e93f6156@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -245,7 +237,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-321cf29f349a4ae4@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Royal Ballet & Opera 2026/27: Manon (DE)
 LOCATION:Filmgalerie

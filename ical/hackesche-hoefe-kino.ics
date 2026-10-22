@@ -4,136 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Hackesche Höfe Kino
 BEGIN:VEVENT
-UID:getlos-63eefb0a3f72e6ff@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T110000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-368b3add8ce7a90d@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T111500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c9295e9c6d22c427@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T114500
-SUMMARY:Monster Mia (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-01bf770f12ebdce7@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T133000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1d72177693243d0b@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T155000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7b1bed736cd63447@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5e555fb28a33b395@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T170000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-78b91df5e73c4e81@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e0c142be0d85f290@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T174000
-SUMMARY:Forgotten Island (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d36c0ccb2c2fd38@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T193000
-SUMMARY:The Social Reckoning (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d1ebec5de0ba71de@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T194500
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c4183fcd2c52f7e8@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T194500
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c5307cb7a5a40f77@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-422b3f451be7f9b9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T200000
-SUMMARY:Primetime (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5053daa624ddf250@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T214000
-SUMMARY:Digger (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6a4caf08ecb6a3d6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261021T222000
-SUMMARY:Primetime (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-17182f17469c943c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T111500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -141,7 +13,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4c24d81f6ceacf27@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T111500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -149,7 +21,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cfe7845502f6875c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T131500
 SUMMARY:Monster Mia (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -157,7 +29,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-585fd76a1c50a87b@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T143000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -165,7 +37,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-530960c21d75e956@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T151500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -173,7 +45,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-626e207c6b900a55@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -181,7 +53,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a1944642a2731dc@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T163000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -189,7 +61,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85222057e025742f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T164000
 SUMMARY:Forgotten Island (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -197,7 +69,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72f770cf0d64e616@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T164500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -205,7 +77,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-20fc64deb32fbb8f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T164500
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -213,7 +85,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da84ee333a536cc6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -221,7 +93,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6edf69f085400d56@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T191500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -229,7 +101,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3b205b52f5d4ddf@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T193000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -237,7 +109,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e7020c7d2948fac@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T193000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -245,31 +117,31 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d44929a511f6806b@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T214500
 SUMMARY:Digger (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4e18bcfd93d263e9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
-DTSTART;TZID=Europe/Berlin:20261022T220000
-SUMMARY:The Social Reckoning (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c664f91a5b0ec92a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261022T220000
 SUMMARY:Primetime (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4e18bcfd93d263e9@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261022T220000
+SUMMARY:The Social Reckoning (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-905d7064e4c89a64@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T111500
 SUMMARY:Monster Mia (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -277,7 +149,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-098f33dcc558d3aa@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T131500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -285,7 +157,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86a0d68f2ee3e78d@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T134500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -293,7 +165,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-264cf1956dcd1b11@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T141500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -301,7 +173,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-481c30fbfed242ee@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T151500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -309,7 +181,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4eb5fc5e0c68ea04@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -317,7 +189,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-92362ed724a0e7c4@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T163000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -325,7 +197,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d8c60bf29a163c5c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T163000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -333,7 +205,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a781829b713cab75@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T164000
 SUMMARY:Forgotten Island (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -341,7 +213,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d9d3213217571da@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -349,7 +221,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-406d53d51ab64b79@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -357,7 +229,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c67b0196d334c304@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T191500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -365,7 +237,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0eba12b9a09d31c6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T191500
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -373,7 +245,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ecbc6372202f1e0@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -381,7 +253,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22a8d6e6aa689410@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Digger (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -389,7 +261,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e6d430c5edc5849@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T214500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -397,7 +269,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3024812efa7f66d2@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T214500
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -405,7 +277,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f20d0df09f3be979@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261023T220000
 SUMMARY:Primetime (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -413,7 +285,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25a95dd22fc0d148@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T110000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -421,7 +293,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e42fdaa68fe69c83@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T114500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -429,7 +301,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-55ca77e791515719@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T130000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -437,15 +309,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-033ddb4b4bb89d7c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T141500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7df7206a9a0a1125@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T141500
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5b6b1f514ff518af@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T145000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -453,7 +333,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c61236dfe0e6ba0@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T151500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -461,15 +341,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ef39c05de05cd78@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9dca0749f712baae@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T164000
+SUMMARY:Forgotten Island (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d7f6bf327ae5072a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -477,15 +365,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-acc9b06092628dcb@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a85e4e1f663ea4b3@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T170000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a6a621657fff0b83@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -493,7 +389,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad2a0d66c37c7737@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -501,15 +397,47 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ece1c17d14eefc12@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261024T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6fde15e7599cf5ab@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T194500
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1a6bbf565a09717@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+SUMMARY:Primetime (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4742643a5c41723e@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T214500
+SUMMARY:Digger (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbd1ba01c61cfd80@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261024T220000
+SUMMARY:The Social Reckoning (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-03ff6815cff54048@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T110000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -517,7 +445,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25ee23a1d8d48c6a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T111000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -525,7 +453,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76db05adf3bff47f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T113000
 SUMMARY:La Graciosa - Kanarische Träume (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -533,7 +461,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-59393266c572e674@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T131500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -541,7 +469,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-336b38f9dfbe1153@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T140000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -549,7 +477,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76ade8ac51c71bfd@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T143000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -557,7 +485,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-21b4dfc481e560b6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T145000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -565,7 +493,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88038b2904c2a4ad@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -573,7 +501,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7de54b7131e778f3@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -581,7 +509,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ad511958fb64164@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -589,7 +517,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a821c1b5d5a4006b@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -597,7 +525,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ca31432f6c6780d@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -605,7 +533,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc00886694d06758@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261025T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -613,7 +541,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb9a70467b812705@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T111500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -621,7 +549,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-60038009f16fd1a5@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T111500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -629,7 +557,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74a631c8673f6a4a@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T131500
 SUMMARY:Monster Mia (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -637,7 +565,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb66f44b2041463c@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T143000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -645,7 +573,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9ae1462be2a9681@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -653,7 +581,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-71bcdeebc6fa2dd0@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T151500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -661,7 +589,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e66c5be36fd0d963@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -669,7 +597,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d02df0105089694f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -677,7 +605,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9bb91095025f1f7f@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -685,7 +613,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78ff526ffdbb7fcd@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -693,7 +621,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e0cef270d73feb4@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -701,7 +629,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d58bfa6bf65ce14@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261026T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -709,7 +637,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74b826602c4be9ed@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T111500
 SUMMARY:Monster Mia (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -717,7 +645,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7be3d4255484a1d9@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T131500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -725,7 +653,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62ba13b088d866e7@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T133000
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -733,7 +661,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a2db509de724aa6@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T141500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -741,7 +669,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9f8091fd38e3a23@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T144500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -749,7 +677,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a318a310030831e2@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T151500
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -757,7 +685,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-06f66d8d68a7e409@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -765,7 +693,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe38a6842da7f1d5@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -773,7 +701,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9e459c4002f51c5@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -781,7 +709,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d7a1536c0c0d407@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -789,7 +717,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f5b7670ea382aca4@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -797,8 +725,56 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61e46c6f5b2cec50@ravidvr.github.io
-DTSTAMP:20261021T080153Z
+DTSTAMP:20261022T070614Z
 DTSTART;TZID=Europe/Berlin:20261027T194500
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d023fd0ba77598f@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T143000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e4a583ad96f85423@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T170000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b0ff856ad8f2c84@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T170000
+SUMMARY:Sinn und Sinnlichkeit (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2198acb771dd0c2@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T190000
+SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b13c5a325d53a93@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f0068f71fbd7c50@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T194500
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/

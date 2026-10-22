@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - UCI Am Eastgate
+BEGIN:VEVENT
+UID:getlos-e94ce88707af881e@ravidvr.github.io
+DTSTAMP:20261022T070614Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+SUMMARY:Back to the Beginning: Ozzy's Final Bow (EN)
+LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
+URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44
+END:VEVENT
+END:VCALENDAR
