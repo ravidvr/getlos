@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - UCI Luxe Gropius Passagen
+BEGIN:VEVENT
+UID:getlos-c53a039480243cfe@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T195000
+SUMMARY:Clayface (EN)
+LOCATION:UCI Luxe Gropius Passagen
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/
+END:VEVENT
+END:VCALENDAR

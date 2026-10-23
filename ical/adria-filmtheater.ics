@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Adria Filmtheater
 BEGIN:VEVENT
-UID:getlos-bd6b4139efb66a5a@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T140000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b6c374d58744ca25@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T164500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3c2322eac0db8815@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-30c4571e379cf1f4@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -37,7 +13,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7134208e4f8cdf1e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -45,7 +21,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2aeb03e60f8e0c69@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -53,7 +29,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ddf62c94786de28@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -61,7 +37,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-feceaf9e1638b13b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -69,7 +45,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ed874b5a4ce910e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -77,7 +53,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dde958e64540c665@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T110000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Adria Filmtheater
@@ -85,7 +61,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b309369652d4e039@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T134000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -93,7 +69,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d54de0c08b2f7280@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T163000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -101,7 +77,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73c246f722969374@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Adria Filmtheater
@@ -109,7 +85,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f5566cf1f424e33a@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -117,7 +93,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39632d13ba9d8083@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Adria Filmtheater
@@ -125,7 +101,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d8ba23031ba30825@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -133,7 +109,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37b4ea89b68c46a0@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -141,7 +117,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-01d45097a585473d@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -149,7 +125,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-def9978b1ed5667e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -157,7 +133,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1083ae3656475d2e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -165,7 +141,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f90ee64a0d4f814d@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater

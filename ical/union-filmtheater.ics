@@ -4,104 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Filmtheater
 BEGIN:VEVENT
-UID:getlos-6cd5254112bc6645@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T100000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ae28db7c62656055@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T120000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5e321938173c013e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T134500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-acc614474940670a@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T134500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fddcfce9f7eec0dd@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T151500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d222707b986f7a00@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T173000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eff645888f1d6ece@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T174500
-SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3fd88cf25052ad7c@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T174500
-SUMMARY:Whalefall (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dd0fdde9fc61deb1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T200000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bca9f98c8f04db3c@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-95da17ceac533ada@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T200000
-SUMMARY:Street Fighter (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c7d0b0dc2e1da06e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T131500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-46b3f7c5e1b54f6d@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261023T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-83ac117259fcc15e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -109,15 +29,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-adf7f3c1fea80859@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T151500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e649d55d7b4f042d@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261023T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-67332a64dfdb5800@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -125,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-035e71367903f0d2@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T173000
 SUMMARY:Street Fighter (DE)
 LOCATION:Union Filmtheater
@@ -133,7 +61,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4681455c30e35e8@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T174500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
@@ -141,7 +69,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa717aeb3af98793@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -149,7 +77,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f75201d83520d705@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -157,7 +85,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a876d11bdf739a44@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Union Filmtheater
@@ -165,15 +93,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86198ff212176e14@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T131500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9dccc3ca9937850d@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261024T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ccdc9e89e6375c22@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -181,15 +117,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b968d8de5aa230d1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T151500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6ba499110bbaa288@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261024T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6128c36ce5127855@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -197,7 +141,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53b541fcd2435019@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T174500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Union Filmtheater
@@ -205,7 +149,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4b8a7217d297e0f@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T174500
 SUMMARY:Whalefall (DE)
 LOCATION:Union Filmtheater
@@ -213,7 +157,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0db56a41ce1ef20b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -221,7 +165,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-953e354035a6e2c9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -229,7 +173,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dadd0be4c9ef3ba2@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Street Fighter (DE)
 LOCATION:Union Filmtheater
@@ -237,15 +181,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99f2f2df77136db2@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T131500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0540df31d23a78d3@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-952443d5ba739f34@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -253,15 +205,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2149d3963e92a8ac@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T151500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2c17153bcd78432e@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2f1cd65eaea374c5@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -269,7 +229,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3a7c85743565e346@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T173000
 SUMMARY:Street Fighter (DE)
 LOCATION:Union Filmtheater
@@ -277,7 +237,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-775d9cd096d60e98@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -285,7 +245,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c49caebf3b2b6bbb@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -293,15 +253,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-062c975b4f5ea042@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ae61c91c8e6eed1e@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261026T131500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c4e39922fedfb21b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T131500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
@@ -309,7 +277,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d4f45633d6d97dd5@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -317,15 +285,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-01092516eb868b3c@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-acfd5f3108765098@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261026T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-616104423ecb3ea2@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -333,7 +309,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-262908581494f648@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T173000
 SUMMARY:Street Fighter (DE)
 LOCATION:Union Filmtheater
@@ -341,7 +317,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f53de246a5441f92@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -349,7 +325,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9277e0e876df2994@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -357,15 +333,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c9b195431a334e6@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Whalefall (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8b05870e4226629e@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261027T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7982a8a2560bb1bf@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T100000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
@@ -373,7 +357,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0871c4b699803400@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T120000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -381,23 +365,39 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee8d8f743551db80@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c44a95ebbd239eb0@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261027T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-59e3cfc8c1c6160d@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-351be2e00219e16a@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261027T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5ddb30abdb1736c9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T154500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -405,7 +405,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2501c963ab0cdd38@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -413,7 +413,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67b648bed3603c80@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T174500
 SUMMARY:Street Fighter (DE)
 LOCATION:Union Filmtheater
@@ -421,7 +421,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4982a79b4fce8d20@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -429,7 +429,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5f7a7f0608cc17d1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Union Filmtheater
@@ -437,7 +437,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46b14c6f95c77db8@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Whalefall (DE)
 LOCATION:Union Filmtheater
@@ -445,7 +445,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99bebbc431bbd750@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T100000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -453,15 +453,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-730fe1ab5ac98dd1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T120000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c1926ef595223260@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261028T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba90e8cec0980525@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261028T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e670e6d8ceb00bf9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T134500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Union Filmtheater
@@ -469,7 +485,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-865701ceb4cfbaf5@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -477,15 +493,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f41d3d4a98478a9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T151500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fbfb9a0d0092b1ef@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261028T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-262e31b096b62d13@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T174500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -493,7 +517,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a70737a319ed6c51@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T201500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater

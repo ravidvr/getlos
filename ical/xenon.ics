@@ -4,24 +4,64 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Xenon
 BEGIN:VEVENT
+UID:getlos-7f46eccb75a064ff@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261023T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e0e696e719d08367@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Quir (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
 URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f8df2d19033122f4@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261024T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ab74e41b130a9be@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0661b6f7a3711286@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261026T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8012ee83c602d422@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T173000
 SUMMARY:Quir (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
 URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b9247cc9be1619df@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261027T153000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cddd17162c0d7d77@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T173000
 SUMMARY:Quir (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
@@ -29,7 +69,7 @@ URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d457131ab4ec1f6@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T173000
 SUMMARY:Quir (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827

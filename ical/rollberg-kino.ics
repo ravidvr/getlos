@@ -4,96 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Rollberg Kino
 BEGIN:VEVENT
-UID:getlos-e99e4f4c722994ad@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T164500
-SUMMARY:Resident Evil (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1987339d26ab4493@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T170000
-SUMMARY:Primetime (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0e903eb056cb625b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T170000
-SUMMARY:Digger (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dff61c49871df4f9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T175000
-SUMMARY:Clayface (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a1dd5f1ae9c7c749@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T183000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e55b3bbd8145b1d4@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T184000
-SUMMARY:Resident Evil (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-09063c272eb82ad3@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T193000
-SUMMARY:Resident Evil (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-73dab19c40d48114@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T202000
-SUMMARY:Resident Evil (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8877fa6e4db312e8@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T203000
-SUMMARY:Clayface (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b5343b6077615560@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T204500
-SUMMARY:Primetime (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-45b0433957a2afc4@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261022T230000
-SUMMARY:Resident Evil (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b03679fe0acbe871@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T160000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -101,7 +13,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2522750768e87db@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T170000
 SUMMARY:Digger (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -109,7 +21,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-196a9c12dc856682@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T175000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -117,7 +29,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d56e10c1b293d748@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T183000
 SUMMARY:Primetime (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -125,7 +37,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72cfa148f4660d4c@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T184000
 SUMMARY:Resident Evil (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -133,7 +45,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9782d23f59fc4e2a@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T194500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -141,7 +53,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5fc7cfbd2b2defca@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T195000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -149,7 +61,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6e9e4d252beec9b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -157,7 +69,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed338a1245610009@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 SUMMARY:Digger (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -165,7 +77,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce96dd5eaeedca3d@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -173,7 +85,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63c58a34738fc975@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T202000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -181,31 +93,31 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fba61f21784bea9d@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T203000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0627ff57b82f57f9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261023T210000
-SUMMARY:Primetime (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bbf5f0d9fae62c7b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0627ff57b82f57f9@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261023T210000
+SUMMARY:Primetime (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8511585576cdf0d1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T225000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -213,7 +125,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c6f136bab6d7419@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261023T230000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -221,7 +133,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7654de7d4bbc5e78@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T135000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -229,7 +141,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3690f37d2658141b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T151000
 SUMMARY:Clayface (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -237,7 +149,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-670e04654bf576a5@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T152000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -245,7 +157,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e7d8ad1258140bdc@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T170000
 SUMMARY:Digger (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -253,7 +165,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-30835c6e6a035082@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T172000
 SUMMARY:Primetime (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -261,7 +173,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95d589c656efc2a5@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T175000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -269,7 +181,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b57d6bd1f08014f@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T184000
 SUMMARY:Resident Evil (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -277,7 +189,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0f0921b68c694b80@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T194500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -285,7 +197,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0618432feae019b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T195000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -293,31 +205,31 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd3e1a0508d473f7@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b5a7fe304375a283@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261024T200000
-SUMMARY:Primetime (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-be391cb545fdd3c1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 SUMMARY:Digger (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b5a7fe304375a283@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+SUMMARY:Primetime (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4165c4811d58996b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -325,7 +237,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3f5f5a783bccf72@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T202000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -333,7 +245,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0794cb4eb8b74a2c@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T203000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -341,7 +253,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-18196fb5d0b7d950@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T210000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -349,7 +261,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-955a385fcf32f542@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T223000
 SUMMARY:Prom Night (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -357,7 +269,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74195eaf66da15a4@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T225000
 SUMMARY:Prom Night (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -365,7 +277,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3eceb33b0d72ca9@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261024T230000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -373,47 +285,95 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40fead2e270f9043@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T134000
-SUMMARY:Resident Evil (OmU)
+SUMMARY:Resident Evil (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3de539357364f1fa@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T134000
+SUMMARY:Call Me Queen (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1374d9ea9e59337@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T135000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-104a78fd2a3579f3@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T141000
+SUMMARY:Digger (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-404524a11416bb3b@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T151000
+SUMMARY:Clayface (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-916759e8a49c52c1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T152000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-796bdfd434d0be3b@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T161000
+SUMMARY:Bad Apples (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17e7d741ab189739@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T170000
+SUMMARY:Digger (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-55a6dd1c6d9a731e@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T175000
-SUMMARY:Clayface (OmU)
+SUMMARY:Clayface (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c503c270d4fab4cc@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T183000
+SUMMARY:Primetime (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07ed03de674cda1f@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T184000
-SUMMARY:Resident Evil (OmU)
+SUMMARY:Resident Evil (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ad14a31e9af37fb@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T193000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -421,15 +381,23 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4aebf38b7d948c55@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T195000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-aeedf3c45a3ef809@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T200000
+SUMMARY:Digger (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-54201b8d92867493@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T202000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -437,15 +405,31 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9748be305c4081f@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261025T203000
-SUMMARY:Clayface (OmU)
+SUMMARY:Clayface (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff9d1d1f1e220af5@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T210000
+SUMMARY:Bad Apples (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6f1ca01fe3cfecab@ravidvr.github.io
+DTSTAMP:20261023T073144Z
+DTSTART;TZID=Europe/Berlin:20261025T210000
+SUMMARY:Primetime (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12968891a7111907@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T164500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -453,7 +437,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-adc63fbfee059a3c@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T171500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -461,7 +445,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8405e0acd678e01b@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T175000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -469,7 +453,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ccc9b58f14451fa1@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T184000
 SUMMARY:Resident Evil (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -477,7 +461,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0e640c6a12c8e8df@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -485,7 +469,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1037293387a3ed82@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261026T203000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -493,7 +477,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5155643ff87ece56@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T164500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -501,7 +485,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b92908e86c92e47@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T171500
 SUMMARY:Resident Evil (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -509,7 +493,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5f33226f91b9078@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T175000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -517,7 +501,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5109e5ae64562e86@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T184000
 SUMMARY:Resident Evil (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -525,7 +509,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a75224d2fbfe4d5@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261027T203000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -533,31 +517,15 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c796ed42aac655c8@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T175000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-04301fe76de40040@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261028T193000
-SUMMARY:Die Tribute von Panem - Mockingjay Teil 1 (OmU) (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9fd5cd90c63f8099@ravidvr.github.io
-DTSTAMP:20261022T070614Z
-DTSTART;TZID=Europe/Berlin:20261028T201000
-SUMMARY:Die Tribute von Panem - Mockingjay Teil 1 (OmU) (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-55b078eeef5f3e71@ravidvr.github.io
-DTSTAMP:20261022T070614Z
+DTSTAMP:20261023T073144Z
 DTSTART;TZID=Europe/Berlin:20261028T203000
 SUMMARY:Clayface (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
