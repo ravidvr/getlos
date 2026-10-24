@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-1bbf18e0c7200498@ravidvr.github.io
-DTSTAMP:20261023T073144Z
-DTSTART;TZID=Europe/Berlin:20261023T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-36011cbcff07a6ac@ravidvr.github.io
-DTSTAMP:20261023T073144Z
-DTSTART;TZID=Europe/Berlin:20261023T165000
-SUMMARY:Die Andere Seite (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c139f32f68f26f2c@ravidvr.github.io
-DTSTAMP:20261023T073144Z
-DTSTART;TZID=Europe/Berlin:20261023T190000
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-894ce6deb3bde83d@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T141000
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -37,7 +13,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-de5bffb1c4b3100f@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T142000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -45,7 +21,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89fc184b1f803835@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T142000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -53,7 +29,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32dc796fbf0e3c60@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T163000
 SUMMARY:London (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -61,7 +37,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab87cc4f8307f63c@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T171000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -69,7 +45,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e67a560734ac908c@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -77,7 +53,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b6e8150c499aafb@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T211000
 SUMMARY:Die Andere Seite (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -85,7 +61,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d52a40c3378da8b9@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T140000
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -93,7 +69,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c20282da0a4ad61b@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T165000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -101,7 +77,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a325721f719b6e7d@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T170000
 SUMMARY:Die Andere Seite (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -109,7 +85,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a63ad1442de72cab@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T191000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -117,7 +93,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b7d7208e2f78c29@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T211000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -125,7 +101,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37d3cfba7e15e5e0@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T211000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -133,7 +109,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab48bee36107558e@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261026T162000
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -141,7 +117,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae68fbbcf83e39be@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261026T170000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -149,15 +125,23 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ebf317bc3753ec3f@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261026T191000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-034191b251bcedbc@ravidvr.github.io
+DTSTAMP:20261024T072517Z
+DTSTART;TZID=Europe/Berlin:20261026T204500
+SUMMARY:Call Me Queen (EN)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5d91eb8fcb7c9e02@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261026T204500
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -165,7 +149,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc9043fdc317b2c9@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261026T211000
 SUMMARY:London (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -173,7 +157,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e499062f278f936@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261027T161000
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -181,7 +165,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8270a7d8f560292@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261027T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -189,7 +173,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad0e320f34a6eca5@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261027T210000
 SUMMARY:Die Andere Seite (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -197,7 +181,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fd153e0e3b62eb0@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261028T171000
 SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -205,7 +189,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-272e7c4ac6b53f0d@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261028T182000
 SUMMARY:Die Andere Seite (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -213,9 +197,17 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-60a8bd66a37f663d@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261028T210000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1187d4f188e40b1@ravidvr.github.io
+DTSTAMP:20261024T072517Z
+DTSTART;TZID=Europe/Berlin:20261030T221000
+SUMMARY:The Devils (EN)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT

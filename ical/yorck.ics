@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-b56cb32bf42779c7@ravidvr.github.io
-DTSTAMP:20261023T073144Z
-DTSTART;TZID=Europe/Berlin:20261023T210000
-SUMMARY:Vertigo (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c77256d0b437fbf7@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261024T210000
 SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -21,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-806d437013905a21@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261025T203000
 SUMMARY:Angel Heart (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -29,7 +21,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce121680acd3099f@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261026T210000
 SUMMARY:Angel Heart (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -37,7 +29,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ab0d14efa77447b@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261027T210000
 SUMMARY:Angel Heart (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965

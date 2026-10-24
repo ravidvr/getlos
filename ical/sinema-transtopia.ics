@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sinema Transtopia
 BEGIN:VEVENT
-UID:getlos-cf40862fbae80903@ravidvr.github.io
-DTSTAMP:20261023T073144Z
-DTSTART;TZID=Europe/Berlin:20261023T180000
-SUMMARY:Ish (EN)
-LOCATION:Sinema Transtopia\, Lindower Straße 20/22\, Berlin
-URL:https://sinematranstopia.com/de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-acfd8296492ef082@ravidvr.github.io
-DTSTAMP:20261023T073144Z
+DTSTAMP:20261024T072517Z
 DTSTART;TZID=Europe/Berlin:20261028T200000
 SUMMARY:Ish (EN)
 LOCATION:Sinema Transtopia\, Lindower Straße 20/22\, Berlin
