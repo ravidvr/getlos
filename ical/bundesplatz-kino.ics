@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-5f840b2094026fb0@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T153000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b7d71263bbcd8742@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fa74c631b7875b45@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -29,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0109d7c532d4d03@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -37,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47f1d98213d9a06d@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +29,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cebe9a24609379bf@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261027T153000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +37,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5df919dfec11267b@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261027T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino

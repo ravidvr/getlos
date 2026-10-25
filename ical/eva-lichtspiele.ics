@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-d0214989c5a50b6d@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T130000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-97c41ae299532daf@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e3ebc8b20df6e852@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T201500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6ca85ecce4954013@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -37,7 +13,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ef97a5f0abb05e2a@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -45,7 +21,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-802d7c69e14ee820@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -53,7 +29,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-862f944329c9fa1b@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -61,7 +37,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1064caf49611832a@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261027T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -69,7 +45,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c928e798af3b4737@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261028T201500
 SUMMARY:La Graciosa - Kanarische Träume (OmU)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713

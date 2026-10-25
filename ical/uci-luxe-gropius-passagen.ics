@@ -5,8 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - UCI Luxe Gropius Passagen
 BEGIN:VEVENT
 UID:getlos-c53a039480243cfe@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T195000
+SUMMARY:Clayface (EN)
+LOCATION:UCI Luxe Gropius Passagen
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8bb70fb967e3759@ravidvr.github.io
+DTSTAMP:20261025T091502Z
+DTSTART;TZID=Europe/Berlin:20261027T195000
 SUMMARY:Clayface (EN)
 LOCATION:UCI Luxe Gropius Passagen
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/

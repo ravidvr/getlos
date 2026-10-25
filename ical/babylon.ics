@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Babylon
 BEGIN:VEVENT
-UID:getlos-c90a4ff53cc8855c@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T153000
-SUMMARY:Killer's Kiss (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1f4dfea19d281a7f@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T154500
-SUMMARY:Fear and Desire (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f8b48bdeaf5b2c17@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T161500
-SUMMARY:Spartacus (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-277fe76a9dc532c8@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T170000
-SUMMARY:Lolita (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-35c68a7a2ce1f19d@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T200000
-SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-564a4c5583a90516@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T200000
-SUMMARY:Eyes Wide Shut (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d28ba0db9d443b26@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T220000
-SUMMARY:A Clockwork Orange (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e47b88a73c0abbe7@ravidvr.github.io
-DTSTAMP:20261024T072517Z
-DTSTART;TZID=Europe/Berlin:20261024T230000
-SUMMARY:The Shining (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ab40d2b0e90c8a1a@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T163000
 SUMMARY:Fear and Desire (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -77,7 +13,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4639ecb42a53eef2@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T180000
 SUMMARY:Full Metal Jacket (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -85,7 +21,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ce2242349efc607@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T201500
 SUMMARY:Barry Lyndon (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -93,7 +29,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c76df91a490a58b2@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T203000
 SUMMARY:Spartacus (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -101,7 +37,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7168779345030a45@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261025T210000
 SUMMARY:2001: A Space Odyssey (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -109,7 +45,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66c3ed0fc175cd37@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T181500
 SUMMARY:Paths of Glory (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -117,7 +53,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94912b0f14768330@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T181500
 SUMMARY:The Killing (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -125,7 +61,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-48c4a25f239ed608@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -133,7 +69,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ecd3f1cd2440c77b@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Lolita (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -141,7 +77,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a728d08cd83aeb8d@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261027T213000
 SUMMARY:Full Metal Jacket (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -149,7 +85,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f4b7a1771d95df11@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261027T220000
 SUMMARY:The Shining (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -157,7 +93,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc1f676a22acd573@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261028T171500
 SUMMARY:Killer's Kiss (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -165,7 +101,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7708d167449ea72b@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261028T213000
 SUMMARY:Queens of the Dead (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -173,7 +109,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ef5ae0655f141d03@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261028T214500
 SUMMARY:Eyes Wide Shut (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -181,7 +117,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9db5c70073d20ae@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261028T220000
 SUMMARY:Spartacus (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -189,7 +125,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33eca7ac463a86eb@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261029T210000
 SUMMARY:The Devils (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -197,7 +133,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e95e029cc21c0b1@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261029T213000
 SUMMARY:The Exorcist (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -205,9 +141,49 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d7edc4b1de66881@ravidvr.github.io
-DTSTAMP:20261024T072517Z
+DTSTAMP:20261025T091502Z
 DTSTART;TZID=Europe/Berlin:20261030T210000
 SUMMARY:The Devils (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48cb2c26bc45ac50@ravidvr.github.io
+DTSTAMP:20261025T091502Z
+DTSTART;TZID=Europe/Berlin:20261030T210000
+SUMMARY:The Rocky Horror Picture Show (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17f5adac1aea79f2@ravidvr.github.io
+DTSTAMP:20261025T091502Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+SUMMARY:Halloween (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4807bf3e5743ec83@ravidvr.github.io
+DTSTAMP:20261025T091502Z
+DTSTART;TZID=Europe/Berlin:20261031T210000
+SUMMARY:The Devils (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80a30ecdda857904@ravidvr.github.io
+DTSTAMP:20261025T091502Z
+DTSTART;TZID=Europe/Berlin:20261031T214500
+SUMMARY:Halloween II (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b56913d06f8f5d6@ravidvr.github.io
+DTSTAMP:20261025T091502Z
+DTSTART;TZID=Europe/Berlin:20261031T230000
+SUMMARY:The Rocky Horror Picture Show (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
 URL:http://www.babylonberlin.de
 END:VEVENT
