@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-153e5cee64c54f6f@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T110000
-SUMMARY:Das Ding mit Federn (OV) (OV)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c56cd6847f0e25bf@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9728c52730ba9024@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T163000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a8a1c45ef5d281c8@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T183000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-948e8b1bde533d94@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T203000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a17e406b2bfbc44d@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Sputnik Südstern
@@ -53,7 +13,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a656ac95b527c4a0@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T163000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Sputnik Südstern
@@ -61,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a748a7d6e4baee39@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Sputnik Südstern
@@ -69,23 +29,23 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0cece9e07d3a1ac2@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T150000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1ed357d88069450a@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+UID:getlos-479594ceec0cee74@ravidvr.github.io
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T162500
-SUMMARY:Whistleblower (OmU)
+SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-64cf41e8c44f2285@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T191500
 SUMMARY:Alte Liebe (OmU)
 LOCATION:Sputnik Südstern
@@ -93,15 +53,23 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0cf1ef8a82c38763@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-556039a52a0568c0@ravidvr.github.io
+DTSTAMP:20261026T080147Z
+DTSTART;TZID=Europe/Berlin:20261027T210000
+SUMMARY:Das Ding mit Federn (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-03fbd0ec4f7f7f64@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261028T180000
 SUMMARY:Alte Liebe (OmU)
 LOCATION:Sputnik Südstern

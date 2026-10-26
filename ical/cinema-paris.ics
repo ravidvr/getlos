@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-2d5d256b5b069078@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T121500
-SUMMARY:Chopin - Eine Sonate in Paris (OmU)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8bc85d5954846d20@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T150000
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a799f149ee717673@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T174000
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-34b23ff0e2a85637@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T201500
-SUMMARY:Moscas - Fliegen und andere Gäste (OmenglU)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c6cb4ea0ca4264d2@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T150000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -45,7 +13,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4e9117221fe22522@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T174000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -53,7 +21,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad682322eaf58542@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T201500
 SUMMARY:Moscas - Fliegen und andere Gäste (OmenglU)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -61,7 +29,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12e449e9b68c1394@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T150000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -69,7 +37,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-733a0a4ef401feaa@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T174000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -77,7 +45,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63960e01826008b2@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261028T190000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -85,7 +53,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fd614e19072db3a@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261030T200000
 SUMMARY:Ghostbusters (EN)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719

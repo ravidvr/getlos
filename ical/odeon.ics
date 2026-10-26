@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon
 BEGIN:VEVENT
-UID:getlos-d270b306dea95bf1@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T140000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a31c7809aeb1c36b@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T170000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cbfa438f382337d6@ravidvr.github.io
-DTSTAMP:20261025T091502Z
-DTSTART;TZID=Europe/Berlin:20261025T200000
-SUMMARY:Sinn und Sinnlichkeit (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f2c0464373af7ee2@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Odeon
@@ -37,7 +13,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6733b9bba217a904@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261026T200000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Odeon
@@ -45,7 +21,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89e830b0d77683f3@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Odeon
@@ -53,7 +29,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5e7d3ef066e6c5b@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Odeon
@@ -61,7 +37,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25b81c13065425e7@ravidvr.github.io
-DTSTAMP:20261025T091502Z
+DTSTAMP:20261026T080147Z
 DTSTART;TZID=Europe/Berlin:20261028T170000
 SUMMARY:Sinn und Sinnlichkeit (OmU)
 LOCATION:Odeon
