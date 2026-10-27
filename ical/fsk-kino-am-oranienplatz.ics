@@ -4,32 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - fsk - Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-344c0cb802250dad@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T164500
+UID:getlos-4303042e8bc5146d@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261027T164500
 SUMMARY:Die Andere Seite (DE)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee374d3074ccf244@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T181500
-SUMMARY:Die Andere Seite (DE)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-074e0fb9a3d78665@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T203000
-SUMMARY:Liebhaberinnen (DE)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd6a59a1af754a43@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T181500
 SUMMARY:Die Andere Seite (DE)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
@@ -37,9 +21,121 @@ URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-293c155889127abf@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T203000
 SUMMARY:Liebhaberinnen (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-257adb2aa5d89346@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T171500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1f232729d7b07bb3@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T181500
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bbf43a027ab5b80@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T203000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d868ab14837c8476@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T180000
+SUMMARY:Liebhaberinnen (OmenglU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-105489bac0356c09@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T200000
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-faacfab46c72f210@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T180000
+SUMMARY:Liebhaberinnen (OmenglU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db689a65a0148c93@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79a57198e92b01b8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T124500
+SUMMARY:Liebhaberinnen (OmenglU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32e3c31bd8f938d2@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9168d6bd149b5a2a@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T203000
+SUMMARY:Liebhaberinnen (OmenglU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ef73c12dd56b52b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T123000
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e6e667452b2f3b7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T203000
+SUMMARY:Liebhaberinnen (OmenglU)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2cac6b1d051e71e@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T200000
+SUMMARY:Die Andere Seite (DE)
+LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://fsk-kino.peripherfilm.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17532a7522e453a7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T203000
+SUMMARY:Liebhaberinnen (OmenglU)
 LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
 URL:https://fsk-kino.peripherfilm.de/
 END:VEVENT

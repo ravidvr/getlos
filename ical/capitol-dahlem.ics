@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-2f0a7c0aa79c5eaa@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T140000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3b085b03c51efc94@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T172000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b4253e2131115c02@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T193000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-936c7f3f05e8af2d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-04e5292ea5d9fd28@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Capitol Dahlem
@@ -45,7 +13,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c447a03f50d1cd1b@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Capitol Dahlem
@@ -53,7 +21,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f38f178af248ab87@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Capitol Dahlem
@@ -61,7 +29,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-690e748a004fa81c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Capitol Dahlem

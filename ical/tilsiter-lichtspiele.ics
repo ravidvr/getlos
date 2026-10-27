@@ -4,17 +4,73 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Tilsiter Lichtspiele
 BEGIN:VEVENT
-UID:getlos-6bc8c95553220a7a@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T193000
+UID:getlos-4cef6221fb493051@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261027T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4cef6221fb493051@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261027T193000
+UID:getlos-046925a6adc0701f@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261027T200000
+SUMMARY:Possible Love (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f41f18951999979@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T193000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-644c2c55346f385f@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+SUMMARY:Possible Love (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-21a9525c26ce6ddf@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T183000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ae2cbaec376d6a78@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T183000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b377582d8a1045e@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25464cda1c1143b6@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-187d3ff184c77e9b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T183000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/

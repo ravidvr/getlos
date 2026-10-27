@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-c1d27235d0fdae06@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T143000
-SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3fe3fc7c68aa4f4d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T143000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-019dd0f1383ed920@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T173000
-SUMMARY:Whistleblower (OmU) (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7683314e4b731fcd@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T205000
-SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a9f83a17b85f044f@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T153000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -45,7 +13,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4725a092ed52f1c9@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -53,7 +21,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1844d43b4732493e@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Bad Apples (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -61,7 +29,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12a61981339356f5@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T190000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -69,23 +37,39 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b66d8fb5aeaf73d8@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T205000
 SUMMARY:Primetime (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-431fc233b3943afe@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T133000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-04d5475b0453417a@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T152000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f3f5b104622fd8e1@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T152000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b420c447d8540d32@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T165000
 SUMMARY:Whistleblower (OmU) (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -93,9 +77,89 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8395f79bf73ea11@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T211000
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c813018264fe42ae@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e64b25e8d9da1e2@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T170000
+SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8c2ecfda13a11df1@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T140000
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55cec14b8666b36e@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1b82dc0eb0265fa7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T190000
+SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3613d7fddf8127b3@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T193000
+SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74c8c278b0a3dbc2@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T155000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a3dd511ac1cf011b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T210000
+SUMMARY:Moscas - Fliegen und andere Gäste (OV)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5320c58d0a99e6c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T191000
+SUMMARY:Moscas - Fliegen und andere Gäste (OV)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-14d84c2cb8e06472@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T211000
+SUMMARY:Quir (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT

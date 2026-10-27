@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-2c5972eb6c6de54a@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T140000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3a88cd094757d95c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T170000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fbf1a057c4ec254c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b8eb8c6e21e3f821@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -37,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd76eb89e0babd4d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -45,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99dab64ebe667911@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Delphi Filmpalast
@@ -53,7 +29,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4528d5c43151d300@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261101T110000
 SUMMARY:The Apartment (EN)
 LOCATION:Delphi Filmpalast

@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Central
 BEGIN:VEVENT
-UID:getlos-91f0e27ab6934140@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T163000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0307cc9446475eb0@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T200000
-SUMMARY:Primetime (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bfc8a698fadf3e9c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T210000
-SUMMARY:The Social Reckoning (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-53fb9202c84520e8@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T163000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -37,7 +13,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df6cd028d7477889@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -45,15 +21,23 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e83ecf4ea28e9e78@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T203000
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-094ddd15d64e561c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T163000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c121c70afabdd60a@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T200000
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -61,9 +45,65 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-541d7a43ac2bd7c5@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T203000
 SUMMARY:The Social Reckoning (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d1694fd5b224976@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T164500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fff263d69bfc7ecc@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T173000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f2bd82e3576bcf7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T204500
+SUMMARY:Klara and the Sun (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f118d69a9fe4934d@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T164500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e56e9ce93e5feee8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T204500
+SUMMARY:Klara and the Sun (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16bba4332c9ecac4@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T164500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75d1cbeb087c9929@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T204500
+SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT

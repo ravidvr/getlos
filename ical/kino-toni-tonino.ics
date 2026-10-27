@@ -4,160 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Toni & Tonino
 BEGIN:VEVENT
-UID:getlos-4f74db620d2bf16e@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T120000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-312c879940a3b931@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T131500
+UID:getlos-8b72387512f42577@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261027T123000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ec2db380fb972235@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T141000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d2fc83b768a57d2@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b295eb29ceaedfbd@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T141500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bcda1958b34ed363@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T141500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7069da1047217889@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T142500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cf669f564c9882c3@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T144500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bc53c549afa32fe3@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T145000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-244b7b0c3e0ce772@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T151000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-71ca84c54ae75ed1@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7cfb925c36a502b1@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T161500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-45dbb52bda415194@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T170000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-62b8f2f8a33e8e0b@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T170000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-29f9b3f1d7eafc40@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T173000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ce69b30617428f81@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T173000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-45f6e6a2bd192842@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T191500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bdcb1960dc2263ec@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T193000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-56c8eaf91bed2b0a@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T201500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61701eb047c8f3d8@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T124500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -165,7 +21,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3de067772a8a4a21@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T134500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -173,7 +29,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1043ad70cce5ac2e@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T140000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -181,7 +37,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f74f2e4752e07e52@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T141000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -189,7 +45,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c6fde7ecd7dba67@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T141000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -197,7 +53,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-471f741fd123572c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T141500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -205,7 +61,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3ebb4542b942180@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T141500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -213,7 +69,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b68f62aa970b6835@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T142000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -221,7 +77,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-380b9f9c327003b9@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T142500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -229,7 +85,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5848a62d0e53d3f6@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T143000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -237,7 +93,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-894c9e4efb11dcc1@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T151000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -245,7 +101,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e071f32f3e293a4d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T161500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -253,7 +109,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a618ddbffdb4a04f@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -261,7 +117,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e36549527b7b5f70@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -269,7 +125,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c9f773a7dd68a3f@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T171000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -277,7 +133,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-31efe5aa1810f56c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -285,7 +141,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6d04a66ae5acca0@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T191500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -293,7 +149,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fda4b4c96d0b178d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T193000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -301,7 +157,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d3db64d52ebf8cc@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -309,15 +165,31 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fdf784f3bebb7ebf@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T123000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7a20640195f96a9e@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T130000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6f3cf186de46ff9c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3c6722ad306399cb@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T161500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -325,7 +197,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d7126e541c74892@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -333,8 +205,264 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7e54383140e4f93@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T191500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a12668f179c9c0c0@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a300a1d91c37abcd@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T131500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd398087f602c23f@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-477ab9f15ee536f8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2da4535d5de6531@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T173000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da7c0b07fce14315@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b6da13122f1d08aa@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T123000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-078440d23c22046d@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T131500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80bfe224501341b6@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a383e498f22491b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-122ae2119b670271@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T174500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd80ac514177db1a@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T203000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65b72d57a4593282@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T101500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77ecf812a51c73b6@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T104500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-703a3eb3b506f067@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6951ea57f9a1d6d7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T133000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac46463eaabf3dbf@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fc306dd06e4205ed@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-402d9b66c931d21c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T174500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba1f28ee5b822287@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T203000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7bfef6a8c673a4e9@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T100000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5de1c5e6e1e0b74a@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b58554e819553fc0@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T131500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d44e3df25084f596@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T141500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-56636e60176aa360@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T151500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2cddf5504bd5a5c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T173000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d6f81da02802f92@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T201500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a02092b5da4562f5@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T123000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c125ff08955cabad@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T143000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff0a84b8af5fd3f8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T153000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-129ab461dda6b180@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T174500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c75b8438766bf76d@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/

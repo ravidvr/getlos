@@ -5,9 +5,41 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
 UID:getlos-2a4be66b67226a59@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T210000
 SUMMARY:The Thing with Feathers (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d92cf53a57579fdd@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T204500
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1abefd8fa4752ea5@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T210000
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a5493a26b73bf07b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+SUMMARY:Dawn of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab9d47e14933cf99@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T235000
+SUMMARY:Night of the Living Dead (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
 URL:https://www.sputnik-kino.com/
 END:VEVENT

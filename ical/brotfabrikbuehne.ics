@@ -4,25 +4,49 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-d44ced203acbb98b@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T170000
+UID:getlos-a6e42d1c228a601a@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ca07c15b5e8b2980@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T200000
-SUMMARY:Chopin - Eine Sonate in Paris (DE)
+UID:getlos-195b777dd8109850@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T170000
+SUMMARY:Alte Liebe (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a6e42d1c228a601a@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261027T170000
+UID:getlos-7a3b96917839b158@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T171500
+SUMMARY:Alte Liebe (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-36766b6477b0cb0b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16b3c8f1400c19cb@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T181500
+SUMMARY:Alte Liebe (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b43c75152cfcf11e@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T204500
 SUMMARY:Alte Liebe (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/

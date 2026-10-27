@@ -4,42 +4,82 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
-UID:getlos-bfbfc7fe517a62be@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T180000
-SUMMARY:Alte Liebe (DE)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-62e8858452cfdc97@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-58f97fe0db9fef1f@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Alte Liebe (OmU)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c9a13d759ff346a7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T150000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48ce0620a6744c41@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e555fa5bec36d02b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T190000
+SUMMARY:Alte Liebe (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2f2895c612830c71@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261029T210000
 SUMMARY:Queens of the Dead (EN)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e5af0e2d2fbd3447@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-94ae9bffe877a0d8@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261031T210000
 SUMMARY:Pet Sematary (EN)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-07ca4fe7fbc8b571@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T183000
+SUMMARY:Alte Liebe (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16f66b0071751d05@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T203000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d63a4bc952c7d1ad@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T210000
+SUMMARY:London (OmU)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT

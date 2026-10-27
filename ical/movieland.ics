@@ -4,40 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-e83ebb55d55dbe67@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T160000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1236a447bf589ec1@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T183000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f24597f826c5d5be@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T190000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9d82cfecccb25da2@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T143000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-22fac9a5d7ac0433@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261027T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4bf3c01d00661dea@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -45,7 +29,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff0b43b557a53346@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -53,9 +37,281 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0aa847d6443c6a2@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T200000
 SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8ab78b1530f6e1c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90bcc33dbfa31bcc@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T160000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d58762d23b62e971@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32cd001d02a51e18@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-298406b8d2208898@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T204500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a61ddaea20308786@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-744f6a24b0b78008@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd977a517949dff1@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d20f3ba750cd8638@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T180000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d4a7a274b899f1f@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-54ccf4b9b78c616c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T203000
+SUMMARY:Whalefall (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c142c0da1e3271f7@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b4c99a210e5f326@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f152d9b3f066bdc@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3820472b26a75bb6@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T180000
+SUMMARY:Whalefall (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5dca5971a9a3e786@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6dd0a7130e18c58e@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T203000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5d8966a57b56344b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T203000
+SUMMARY:Whalefall (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60f588b681781b44@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5cbeb3439379ed9a@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-082caf232b631945@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4b58281eb033f774@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T180000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c18271d03f9e3ce@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb40de15cb77d74a@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T203000
+SUMMARY:Whalefall (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da43e20c36696b62@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74d85dd8daf4e357@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5d3e30599e0e81a8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10dbac0855a91dc8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T180000
+SUMMARY:Whalefall (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c855c783c50bedc2@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-784f42f795930977@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T203000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c87e9a50734da909@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T203000
+SUMMARY:Whalefall (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-576892db67c8159c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T154500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d25e2d9cb4c46c19@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T183000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Movieland
+URL:https://www.movieland-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e4d8a74c2b53937c@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T191500
+SUMMARY:Whalefall (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
 END:VEVENT

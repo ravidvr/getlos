@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmrauschpalast
 BEGIN:VEVENT
-UID:getlos-1b04166563db15b6@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T183000
-SUMMARY:Call Me Queen (EN)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-846455f3541cbd70@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T183000
-SUMMARY:Call Me Queen (OmU) (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-29ced094968f09b9@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T203000
-SUMMARY:London (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3792cc6bc90111df@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T183000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -37,23 +13,15 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5a449ef13f4cb49@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T183000
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-eeb702adeea397f4@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261028T183000
-SUMMARY:London (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ebf42dffcfc796f2@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T204500
 SUMMARY:Call Me Queen (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -61,7 +29,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e77578dd52672f9@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T204500
 SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -69,7 +37,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c355ba8746c1c14@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261029T183000
 SUMMARY:Queens of the Dead (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -77,17 +45,41 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af257cf401034903@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261029T203000
 SUMMARY:The Nightmare Before Christmas (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0ac88ffbb2d90ee6@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261031T201500
-SUMMARY:Queens of the Dead (EN)
+UID:getlos-75f2d0e2707bb917@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T144500
+SUMMARY:London (OmenglU)
+LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
+URL:https://www.filmrausch.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a6a347c4a702b4ac@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T144500
+SUMMARY:London (OmenglU)
+LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
+URL:https://www.filmrausch.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-665c2773fab45c79@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T183000
+SUMMARY:Call Me Queen (EN)
+LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
+URL:https://www.filmrausch.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a1a39874b01f316@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T183000
+SUMMARY:Call Me Queen (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT

@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-9993b93af01d674e@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T142000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1e51544f08c71114@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T152000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-778570469a5a0715@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T170000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c27bb1af8e94a617@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T173000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-de81e78d8de87ee9@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T194000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c8d0938152721663@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T201500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6040b699eccb1cbe@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T142000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -61,7 +13,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb1d1147e1e5f3f6@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T152000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -69,7 +21,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-377fb2cb31ecbb0c@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -77,7 +29,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f8f2ba6ac713202@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -85,7 +37,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8acb45909354fd5d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T194000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -93,7 +45,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3972ee2cba530fa2@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -101,7 +53,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-649de8f646637708@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T142000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -109,7 +61,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cbc4b29f9df52fd0@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -117,7 +69,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34611603f40ab0b0@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261028T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156

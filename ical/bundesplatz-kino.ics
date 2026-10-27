@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-c0109d7c532d4d03@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-47f1d98213d9a06d@ravidvr.github.io
-DTSTAMP:20261026T080147Z
-DTSTART;TZID=Europe/Berlin:20261026T203000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-cebe9a24609379bf@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T153000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -29,8 +13,56 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5df919dfec11267b@ravidvr.github.io
-DTSTAMP:20261026T080147Z
+DTSTAMP:20261027T082311Z
 DTSTART;TZID=Europe/Berlin:20261027T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b928dc19f859de47@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a914ac5570e6771@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T154500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2cd837740f5a2590@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-53eb113eef002cbe@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-24e21c9cb160e512@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261101T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-631bab80a6141ce4@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261102T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Neue Kammerspiele
+BEGIN:VEVENT
+UID:getlos-8c54acae49db962b@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T100000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c3e6e58e0d7b20a8@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261028T194500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e24aa44d3e0d9984@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261029T161500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbe4619a4f3a4eb3@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261030T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-918ebfb8fc67cbc5@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T110000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e1a744871623b73@ravidvr.github.io
+DTSTAMP:20261027T082311Z
+DTSTART;TZID=Europe/Berlin:20261031T171500
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (OmU)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+END:VCALENDAR
