@@ -4,32 +4,56 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali-Kino
 BEGIN:VEVENT
-UID:getlos-247c9299031933ca@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T180000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-60eb3d8bca550413@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261029T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-95cb9ab08214b31c@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T180000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-184eb9ae93ccec96@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T203000
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-178b0b49649ca913@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261030T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-202766044a18704c@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T180000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fb07e3692b81034@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T203000
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-da449ef1d4029222@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261031T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Bali-Kino
@@ -37,23 +61,79 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b0e15dc088c6e94c@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261101T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a1a2929d471ff7b1@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T180000
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b02187af45a885fe@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T203000
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f1f44a627f533334@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261102T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c48bc9afe3387092@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261102T180000
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b0d5ca32baf4c98@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261102T203000
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-63e06e9d4459123a@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d52b2c5cf673df9@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T180000
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b47d30c220b61571@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T203000
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d6b86138c6195459@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261030T224500
 SUMMARY:Stop Making Sense (EN)
 LOCATION:Bali-Kino

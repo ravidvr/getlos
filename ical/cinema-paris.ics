@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-12e449e9b68c1394@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T150000
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-733a0a4ef401feaa@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T174000
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-63960e01826008b2@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261028T190000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fd614e19072db3a@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261030T200000
 SUMMARY:Ghostbusters (EN)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719

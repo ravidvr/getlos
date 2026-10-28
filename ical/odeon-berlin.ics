@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon Berlin
 BEGIN:VEVENT
-UID:getlos-f2f09a160578ed7f@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T170000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c0c00a064532c46e@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T200000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a9601f76111da562@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261028T170000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -29,7 +13,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50aa8a387f806edd@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261029T171500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Odeon Berlin
@@ -37,7 +21,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-977da381b140a090@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261029T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -45,15 +29,23 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-610d5d4b928c70fa@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261030T171500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Odeon Berlin
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c1868c987b894767@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-be845d3d22aa19b6@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261031T171500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Odeon Berlin

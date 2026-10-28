@@ -4,18 +4,18 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Xenon
 BEGIN:VEVENT
-UID:getlos-cddd17162c0d7d77@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T173000
+UID:getlos-5d457131ab4ec1f6@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261028T173000
 SUMMARY:Quir (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
 URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5d457131ab4ec1f6@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261028T173000
-SUMMARY:Quir (OmU)
+UID:getlos-19b130356746e7a4@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T200000
+SUMMARY:Rocky (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
 URL:http://www.xenon-kino.de/
 END:VEVENT

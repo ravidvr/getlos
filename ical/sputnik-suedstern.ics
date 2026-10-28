@@ -4,50 +4,194 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-0cece9e07d3a1ac2@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T150000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-479594ceec0cee74@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T162500
-SUMMARY:Whistleblower (OmU) (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-64cf41e8c44f2285@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T191500
-SUMMARY:Alte Liebe (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0cf1ef8a82c38763@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T201500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-556039a52a0568c0@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T210000
-SUMMARY:Das Ding mit Federn (OmU) (OmU)
+UID:getlos-c74227d6eb983218@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261028T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-03fbd0ec4f7f7f64@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261028T180000
 SUMMARY:Alte Liebe (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c702026b767a1bd@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f53d9d6b9848cc61@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T184500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d816ecce349960a0@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T204500
+SUMMARY:Queens of the Dead (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d71f8b4e53ce014f@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c2f1f263b8b6dc2@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T190000
+SUMMARY:Alte Liebe (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e681606f26773e4@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T210000
+SUMMARY:Queens of the Dead (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81c92bf901afd7b1@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T213000
+SUMMARY:The Killer (1989) (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2add2300b0009707@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261031T160000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be63a42e9e7740b8@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261031T180000
+SUMMARY:Queens of the Dead (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c0607be4488036c@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261031T214500
+SUMMARY:The Killer (1989) (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbac0a2d9f3194d7@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T180000
+SUMMARY:Alte Liebe (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9665802205e2225@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T200000
+SUMMARY:Queens of the Dead (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8aeb69286514a242@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261102T170000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b27e4b6922bddfd8@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261102T210000
+SUMMARY:Queens of the Dead (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16e8eba4133a3d52@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T163000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1449af5bd13ce9df@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T163000
+SUMMARY:Rocky (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-299e8cfa53e51b61@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T165000
+SUMMARY:Rocky (OV)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec68ed8135c239e2@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T170000
+SUMMARY:Rocky (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41f73595ac9a1176@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T200000
+SUMMARY:Rocky (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a941fe73419e3741@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T202000
+SUMMARY:Rocky (OV)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64ca88913c966f80@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T203000
+SUMMARY:Rocky (OV)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3dd6b25ef4b2a85d@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T210000
+SUMMARY:Queens of the Dead (OmU) (OmU)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT

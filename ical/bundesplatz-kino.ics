@@ -4,66 +4,82 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-cebe9a24609379bf@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T153000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-edfd2011be827a8d@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T181500
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5df919dfec11267b@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-5180f79fde60d16b@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T153000
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b928dc19f859de47@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261028T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-e6c3f3fe3010f6ac@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T203000
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8a914ac5570e6771@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261029T154500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-4bd9ebb9f3482751@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261031T153000
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2cd837740f5a2590@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261030T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-b5c03cc11d4c748c@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261031T203000
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-53eb113eef002cbe@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261031T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-2dc250038269845c@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T110000
+SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-24e21c9cb160e512@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261101T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-2db438c14e4de0c2@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T131500
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-631bab80a6141ce4@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261102T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-797028c1bcc77c30@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T203000
+SUMMARY:Biermann (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04faa2c026c78efc@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261102T203000
+SUMMARY:Biermann (DE)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d1e33a3382df998@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T181500
+SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT

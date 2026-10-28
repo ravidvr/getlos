@@ -4,98 +4,74 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-dca40eec8323ad17@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T170000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9980de72209912e6@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T190000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f79aa043ac4c3a44@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261027T211500
-SUMMARY:London (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2f691d6b631432e8@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261028T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f93d825933f713f8@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261028T190000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-da87bf857188e463@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261029T163000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d36eb4b0efbacdfd@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261029T183000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-c98af625f46a4f77@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261029T204500
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-255e8b3d3090920b@ravidvr.github.io
-DTSTAMP:20261027T082311Z
+DTSTAMP:20261028T080215Z
 DTSTART;TZID=Europe/Berlin:20261030T163000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cb608dc623648d77@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261030T183000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-9c5489ccb51888e5@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261030T204500
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-aa516fc4c9964542@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261031T183000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-56ac64e98067062e@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261031T204500
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-15e6a8f49fb4d784@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261101T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-d2f046a8e4088e02@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261101T201500
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ea1676504340226c@ravidvr.github.io
-DTSTAMP:20261027T082311Z
-DTSTART;TZID=Europe/Berlin:20261102T211000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-3db08de33ce494f1@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261102T190000
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
+URL:https://kino-krokodil.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a71bb1c6c07b283@ravidvr.github.io
+DTSTAMP:20261028T080215Z
+DTSTART;TZID=Europe/Berlin:20261103T190000
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
