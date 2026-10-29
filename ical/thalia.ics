@@ -4,96 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia
 BEGIN:VEVENT
-UID:getlos-bfdb7024a2cc8123@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T103000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a66fbf256920b358@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T104500
-SUMMARY:Der Zauber der blauen Geige (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5c9da288eb6c1a8@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T123000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fe0c05b43fc629d1@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T130000
-SUMMARY:Der Zauber der blauen Geige (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-96dd2827890c58ee@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-df19cb4e19a88218@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T151500
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e362c0dc34b9bb16@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T170000
-SUMMARY:Chopin - Eine Sonate in Paris (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-975c2d7b42b6657c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T174500
-SUMMARY:Chopin - Eine Sonate in Paris (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-40475633baeb803c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T180000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-81b76993c14fc948@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T181500
-SUMMARY:Die Andere Seite (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-20fb79ebf9db0039@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T195000
-SUMMARY:Chopin - Eine Sonate in Paris (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4684c55f00c2e3c7@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T123000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Thalia
@@ -101,7 +13,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2aa6b6626f5882b@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T124500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
@@ -109,7 +21,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-364d9fad5941dfd5@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T134500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -117,7 +29,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0e2c9c0a307aee2@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T143000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia
@@ -125,7 +37,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1aaf9510ec1a51d6@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T150000
 SUMMARY:Glaube (DE)
 LOCATION:Thalia
@@ -133,7 +45,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9dc598e0eabf67a1@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T150000
 SUMMARY:Die Andere Seite (DE)
 LOCATION:Thalia
@@ -141,7 +53,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f98f555e3b19c33@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T171500
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -149,7 +61,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a93279938dff6526@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -157,7 +69,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c10e9d08687b0af5@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T180000
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -165,7 +77,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37c71c0c56f72b5c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T200000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -173,7 +85,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-db56fb8ebd0b643e@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T121500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
@@ -181,7 +93,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3137927d3feb0b0d@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T121500
 SUMMARY:Der Zauber der blauen Geige (DE)
 LOCATION:Thalia
@@ -189,7 +101,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bee1a66046ba1c6d@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T123000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Thalia
@@ -197,7 +109,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b18362c9a746e0e@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T134500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -205,7 +117,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4408801635b78616@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T143000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -213,7 +125,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d8d6aac24a583de@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T150000
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -221,7 +133,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4cebff04a2e87830@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -229,7 +141,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-060ec620c6486dcc@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T180000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -237,7 +149,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e56be3c305322aa@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T201500
 SUMMARY:Glaube (DE)
 LOCATION:Thalia
@@ -245,7 +157,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a926d7ea1bf96afa@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T121500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
@@ -253,7 +165,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a85c3ae1eb475a1@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T123000
 SUMMARY:Der Zauber der blauen Geige (DE)
 LOCATION:Thalia
@@ -261,7 +173,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b437432b0ee7271c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T140000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -269,7 +181,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f95cb772817481a@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T143000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -277,7 +189,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-98fcdef011412c46@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T144500
 SUMMARY:Die Andere Seite (DE)
 LOCATION:Thalia
@@ -285,7 +197,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69dbac3372c57861@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T151500
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -293,7 +205,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d380028b82fcda8c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T173000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Thalia
@@ -301,7 +213,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e04770028e0165c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T201500
 SUMMARY:Glaube (DE)
 LOCATION:Thalia
@@ -309,7 +221,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-600969197adbd5aa@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T203000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -317,7 +229,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c21e5ba2df084d28@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T101500
 SUMMARY:Der Zauber der blauen Geige (DE)
 LOCATION:Thalia
@@ -325,7 +237,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d3f45c2e39c8571@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T104500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
@@ -333,7 +245,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-de9857973ec4f9bb@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T123000
 SUMMARY:Die Andere Seite (DE)
 LOCATION:Thalia
@@ -341,7 +253,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-180af7a5081190ce@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -349,7 +261,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6848ee227fcec9e9@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T151500
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Thalia
@@ -357,7 +269,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b4818e192afebcf6@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T164500
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -365,7 +277,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f23d651faedaca1@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T173000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -373,7 +285,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ab037d9310fc281@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T194500
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -381,7 +293,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-83e174e5b1105a3e@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T203000
 SUMMARY:Glaube (DE)
 LOCATION:Thalia
@@ -389,7 +301,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2870c646569b3e7@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T140000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -397,7 +309,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-055d74d57d04ef8f@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T143000
 SUMMARY:Die Andere Seite (DE)
 LOCATION:Thalia
@@ -405,7 +317,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b09ed4dbea8a8006@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T144500
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -413,7 +325,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f9b1cc7dac6cc87@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T144500
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -421,7 +333,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c148527615a0b035@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T171500
 SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
 LOCATION:Thalia
@@ -429,7 +341,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c32bf0dcfcb4d5b@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -437,7 +349,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e89af9130de4e51e@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T200000
 SUMMARY:Glaube (OmU)
 LOCATION:Thalia
@@ -445,7 +357,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e2b1ebf89eec5e2b@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T200000
 SUMMARY:Chopin - Eine Sonate in Paris (OmU)
 LOCATION:Thalia
@@ -453,7 +365,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8cf91d7b98bfa0d@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T140000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -461,7 +373,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-70e7e433535e9dec@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T141500
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -469,7 +381,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50f56575b00f2302@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T144500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Thalia
@@ -477,7 +389,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66d55c004dd60aa9@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T173000
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -485,7 +397,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ae786930bad420f@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -493,7 +405,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e7b6d545a785ea62@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T200000
 SUMMARY:Glaube (DE)
 LOCATION:Thalia
@@ -501,9 +413,17 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50651e1c70ed7122@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Die Andere Seite (DE)
+LOCATION:Thalia
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-43e8694771a91769@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T170000
+SUMMARY:Glaube (DE)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT

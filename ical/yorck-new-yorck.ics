@@ -4,9 +4,105 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck/New Yorck
 BEGIN:VEVENT
-UID:getlos-3127e268c7c225b7@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T163000
+UID:getlos-545873f2d4324bad@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T163000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-835bbbf7e53a4a59@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T171000
+SUMMARY:Biermann (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a5f069295c1f471@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T163000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8acc80b591dea8c@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T171000
+SUMMARY:Biermann (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9098c92287b4a47d@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T163000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b4b671248442d032@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T171000
+SUMMARY:Biermann (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-935e260ebc6d1982@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T142000
+SUMMARY:Biermann (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a06f33724d0dd84a@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T160000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b4ad9c97b8395712@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T163000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-299f3226e5d483e0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T171000
+SUMMARY:Biermann (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dddab8358a2e7769@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T163000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4179baf42d007dc2@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T171000
+SUMMARY:Biermann (DE)
+LOCATION:Yorck/New Yorck
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-63855d98bcf55255@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T163000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Yorck/New Yorck
 URL:https://yorck.de/kinos/yorck

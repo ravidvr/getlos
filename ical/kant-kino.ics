@@ -4,50 +4,426 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-63e838bd09bd58aa@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T151500
-SUMMARY:Meeting the Buddha (EN)
+UID:getlos-fa343d46cb9ddafd@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9875f657f786f385@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T151500
+UID:getlos-5ee816440084f166@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T143000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7dfd4cf79db0c80f@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T180000
+UID:getlos-bd708be7c0e78e12@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T150000
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f75cfe394b5c4ad0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T155000
 SUMMARY:Liebhaberinnen (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4f7f88b38fb499dd@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T200000
+UID:getlos-e1ad7a9685442d21@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T171500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25012a59d9d34191@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T174500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f507a4eb1f802189@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T200000
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b52259d33ee94bf@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1c20e2796ebe059@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T143000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a44dcea75fdda8be@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T150000
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09c770e45ba25f85@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T155000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d080cc9ee961adc@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T171500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fe1f55b60bf4a189@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T174500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd01b18077e404bc@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c4a6b232a4685740@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T225500
 SUMMARY:Hereditary (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4cfebc3d20a3721f@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T133000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b4af11a4d9b5a96@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa2d088d8ee49bd0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T134500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b670dc03c4cb0da@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T143000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-abe3d389aa44bb4e@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62ee3b669c989f7d@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T155000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f043c7f5d5fcd086@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T171500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-adc092f62aafaa6c@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T174500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01ed3d0ef431add7@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-336ecf63b8b119bf@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T110000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-baa5b67f0cac834f@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T114500
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-962a863a8273b068@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-56ee752ea97c32a0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T134500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fc15a2faebe0b38@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T143000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f41e6952ff1c4859@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6782565cf8ab8a6e@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T155000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-843e9c3fa07fafb8@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T171500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-012f4d6b5e8ee0d0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T174500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-24505d2b4e65aad0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T202000
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ba05b26a3277b41@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d49c3170a7d46865@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T150000
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a3c8e6b9d88801ba@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T151500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47513076ae2412cd@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T155000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3b07de501babc51@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T174500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3d31de375fb8688@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T181500
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a4fb96e92698993d@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T202000
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-758d6ace59edd86d@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a77e984f8456075@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T150000
+SUMMARY:Glaube (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-14a2c9e9fce01cb0@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T150000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aaecc990bcba355d@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T155000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7075bb8949cb9c55@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T174500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c47ebc1e4c80997@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T193000
+SUMMARY:Rocky (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5b52975ac7f1b2c@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T200000
+SUMMARY:Glaube (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0865c88cc68cd04d@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Rocky (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-14f3ef0cbe8fd7ed@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T143000
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-723c449396088dc6@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T155000
+SUMMARY:Liebhaberinnen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-92bfe794d065b3ca@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T174500
+SUMMARY:Chopin - Eine Sonate in Paris (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2609e815e036a875@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T200000
+SUMMARY:Glaube (OmU)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT

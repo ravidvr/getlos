@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-b8ab78b1530f6e1c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-90bcc33dbfa31bcc@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T160000
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d58762d23b62e971@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T171500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-32cd001d02a51e18@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-298406b8d2208898@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T204500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a61ddaea20308786@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -53,7 +13,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-744f6a24b0b78008@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movieland
@@ -61,7 +21,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd977a517949dff1@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -69,7 +29,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d20f3ba750cd8638@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -77,7 +37,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d4a7a274b899f1f@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261029T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -85,7 +45,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c142c0da1e3271f7@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -93,7 +53,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b4c99a210e5f326@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movieland
@@ -101,7 +61,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9f152d9b3f066bdc@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -109,7 +69,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5dca5971a9a3e786@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -117,7 +77,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6dd0a7130e18c58e@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -125,7 +85,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-60f588b681781b44@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -133,7 +93,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5cbeb3439379ed9a@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T154500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Movieland
@@ -141,7 +101,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-082caf232b631945@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -149,7 +109,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b58281eb033f774@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T180000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -157,7 +117,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c18271d03f9e3ce@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261031T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -165,7 +125,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da43e20c36696b62@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -173,7 +133,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74d85dd8daf4e357@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Movieland
@@ -181,7 +141,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d3e30599e0e81a8@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -189,7 +149,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c855c783c50bedc2@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -197,7 +157,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-784f42f795930977@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261101T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -205,7 +165,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-576892db67c8159c@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T154500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -213,7 +173,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d25e2d9cb4c46c19@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261102T183000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -221,7 +181,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-548c50272950f3ac@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T140000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -229,7 +189,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61cbf28cd5eb3927@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -237,7 +197,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4711b0d69f5e0256@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -245,7 +205,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-094d3e6fcc7b7d4a@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland

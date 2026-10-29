@@ -4,18 +4,66 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neues Off
 BEGIN:VEVENT
-UID:getlos-cc24d76172deb12f@ravidvr.github.io
-DTSTAMP:20261028T080215Z
-DTSTART;TZID=Europe/Berlin:20261028T203000
-SUMMARY:Possible Love (OmenglU)
+UID:getlos-5345e75a62b771b2@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261029T170000
+SUMMARY:Possible Love (OmU) (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c006d44cf191996@ravidvr.github.io
-DTSTAMP:20261028T080215Z
+DTSTAMP:20261029T080239Z
 DTSTART;TZID=Europe/Berlin:20261030T174500
 SUMMARY:The Devils (EN)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4145df2b11b40bb5@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261030T203000
+SUMMARY:Possible Love (OmU) (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f28d2aec482aceb7@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261031T170000
+SUMMARY:Possible Love (OmU) (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ccbdbea185f1c6e@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261101T160000
+SUMMARY:Possible Love (OmU) (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ae75ce60bceccd3@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261102T203000
+SUMMARY:Possible Love (OmU) (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ddd63e5997c49e8@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261103T210000
+SUMMARY:The Killer (1989) (OmU) (OmU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f498501cd5c1592a@ravidvr.github.io
+DTSTAMP:20261029T080239Z
+DTSTART;TZID=Europe/Berlin:20261104T203000
+SUMMARY:Possible Love (OmU) (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
