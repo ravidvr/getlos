@@ -4,8 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Xenon
 BEGIN:VEVENT
+UID:getlos-48975f580ae1ab82@ravidvr.github.io
+DTSTAMP:20261030T084457Z
+DTSTART;TZID=Europe/Berlin:20261031T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-19b130356746e7a4@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261103T200000
 SUMMARY:Rocky (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827

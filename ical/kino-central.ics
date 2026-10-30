@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Central
 BEGIN:VEVENT
-UID:getlos-0d1694fd5b224976@ravidvr.github.io
-DTSTAMP:20261029T080239Z
-DTSTART;TZID=Europe/Berlin:20261029T164500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fff263d69bfc7ecc@ravidvr.github.io
-DTSTAMP:20261029T080239Z
-DTSTART;TZID=Europe/Berlin:20261029T173000
-SUMMARY:Primetime (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9f2bd82e3576bcf7@ravidvr.github.io
-DTSTAMP:20261029T080239Z
-DTSTART;TZID=Europe/Berlin:20261029T204500
-SUMMARY:Klara and the Sun (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d595a27da9b6eedb@ravidvr.github.io
-DTSTAMP:20261029T080239Z
-DTSTART;TZID=Europe/Berlin:20261029T204500
-SUMMARY:Klara und die Sonne (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f118d69a9fe4934d@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261030T164500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -45,7 +13,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72c39496344ef24b@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261030T201500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -53,7 +21,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e56e9ce93e5feee8@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261030T204500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -61,7 +29,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b2a42f7ef4c98134@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261030T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -69,7 +37,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-178af95181129817@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261031T141500
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -77,7 +45,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16bba4332c9ecac4@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261031T164500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -85,7 +53,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3108122cba847c97@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261031T201500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -93,7 +61,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-75d1cbeb087c9929@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261031T204500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -101,23 +69,55 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d64adc521a6e6bc@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261031T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7efaab37bd3b48dd@ravidvr.github.io
+DTSTAMP:20261030T084457Z
+DTSTART;TZID=Europe/Berlin:20261101T130000
+SUMMARY:The Social Reckoning (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8969fa3c101f899e@ravidvr.github.io
+DTSTAMP:20261030T084457Z
+DTSTART;TZID=Europe/Berlin:20261101T143000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-720dafdf03a899ba@ravidvr.github.io
+DTSTAMP:20261030T084457Z
+DTSTART;TZID=Europe/Berlin:20261101T190000
+SUMMARY:Klara and the Sun (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e663979449289e08@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261101T190000
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b27c7a01427abf57@ravidvr.github.io
+DTSTAMP:20261030T084457Z
+DTSTART;TZID=Europe/Berlin:20261101T200000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-aca6715dda69a6c4@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261102T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -125,7 +125,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-59c9b6e33c365ae5@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261103T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -133,7 +133,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-890cdb7b6aa0be96@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261104T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178

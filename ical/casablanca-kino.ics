@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Casablanca Kino
+BEGIN:VEVENT
+UID:getlos-7fb32cc3720bc2c4@ravidvr.github.io
+DTSTAMP:20261030T084457Z
+DTSTART;TZID=Europe/Berlin:20261105T203000
+SUMMARY:On the Sea (EN)
+LOCATION:Casablanca Kino
+URL:http://www.casablanca-berlin.de/
+END:VEVENT
+END:VCALENDAR

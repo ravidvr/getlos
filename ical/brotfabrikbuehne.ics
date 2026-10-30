@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-7a3b96917839b158@ravidvr.github.io
-DTSTAMP:20261029T080239Z
-DTSTART;TZID=Europe/Berlin:20261029T171500
-SUMMARY:Alte Liebe (DE)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0a55855b301c5f64@ravidvr.github.io
-DTSTAMP:20261029T080239Z
-DTSTART;TZID=Europe/Berlin:20261029T203000
-SUMMARY:The Killer (1989) (OmU) (OmU)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-36766b6477b0cb0b@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261030T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
@@ -29,7 +13,7 @@ URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd5723d2c7fbad21@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261030T203000
 SUMMARY:The Killer (1989) (OmU) (OmU)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
@@ -37,7 +21,7 @@ URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1314a717aad92fd0@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261031T210000
 SUMMARY:The Killer (1989) (OmU) (OmU)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
@@ -45,7 +29,7 @@ URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16b3c8f1400c19cb@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261101T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
@@ -53,7 +37,7 @@ URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b43c75152cfcf11e@ravidvr.github.io
-DTSTAMP:20261029T080239Z
+DTSTAMP:20261030T084457Z
 DTSTART;TZID=Europe/Berlin:20261102T204500
 SUMMARY:Alte Liebe (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
