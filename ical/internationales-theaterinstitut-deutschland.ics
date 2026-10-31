@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Internationales Theaterinstitut Deutschland
 BEGIN:VEVENT
-UID:getlos-2d6ab0b0424b8d4c@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T170000
-SUMMARY:Biermann (DE)
-LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
-URL:https://www.iti-germany.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9147f4e6d2ae1ecf@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T170000
 SUMMARY:Biermann (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -21,7 +13,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09d529d6aa65af1e@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T170000
 SUMMARY:Biermann (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -29,7 +21,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9527b131b71fe064@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T183000
 SUMMARY:Biermann (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
@@ -37,7 +29,7 @@ URL:https://www.iti-germany.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4620471f6f4dec71@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261103T170000
 SUMMARY:Biermann (DE)
 LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997

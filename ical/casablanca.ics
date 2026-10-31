@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Casablanca
 BEGIN:VEVENT
-UID:getlos-213454b78846ead4@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T154500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2791281f8b635b2f@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
@@ -21,7 +13,7 @@ URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c935824c916f47a6@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489

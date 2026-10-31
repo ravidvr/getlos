@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-5180f79fde60d16b@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T153000
-SUMMARY:Biermann (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6c3f3fe3010f6ac@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T203000
-SUMMARY:Biermann (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4bd9ebb9f3482751@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T153000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -29,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5c03cc11d4c748c@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T203000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -37,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2dc250038269845c@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T110000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +29,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2db438c14e4de0c2@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T131500
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +37,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-797028c1bcc77c30@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T203000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -61,7 +45,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-04faa2c026c78efc@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T203000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -69,7 +53,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d1e33a3382df998@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261103T181500
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino

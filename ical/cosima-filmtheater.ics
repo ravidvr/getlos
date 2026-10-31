@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-697a6d4c12f689c6@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T150000
-SUMMARY:Chopin - Eine Sonate in Paris (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b1850135de79f6c1@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T174500
-SUMMARY:Biermann (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-60ab63e13cc5b027@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T150000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Cosima-Filmtheater
@@ -29,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90ca982288ff228d@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T174500
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater
@@ -37,7 +21,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cdc16ad57bb9f4f1@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T104500
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Cosima-Filmtheater
@@ -45,7 +29,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9b4d0393ebfe476@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T174500
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater
@@ -53,7 +37,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5b90151438dc8ab@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T150000
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater
@@ -61,7 +45,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3c1d8fae1050271@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T203000
 SUMMARY:Chopin - Eine Sonate in Paris (DE)
 LOCATION:Cosima-Filmtheater
@@ -69,7 +53,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc595e9838d35d9a@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater

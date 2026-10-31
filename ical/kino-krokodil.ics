@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-255e8b3d3090920b@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T163000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9c5489ccb51888e5@ravidvr.github.io
-DTSTAMP:20261030T084457Z
-DTSTART;TZID=Europe/Berlin:20261030T204500
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-56ac64e98067062e@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T204500
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -29,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2f046a8e4088e02@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261101T201500
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3db08de33ce494f1@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T190000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a71bb1c6c07b283@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261103T190000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437

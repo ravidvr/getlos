@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmrauschpalast
 BEGIN:VEVENT
 UID:getlos-0ac88ffbb2d90ee6@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T201500
 SUMMARY:Queens of the Dead (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -13,7 +13,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-748acb308f6e7f9a@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261031T201500
 SUMMARY:Queens of the Dead (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -21,15 +21,23 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-665c2773fab45c79@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T183000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4b38d37a41e84887@ravidvr.github.io
+DTSTAMP:20261031T082133Z
+DTSTART;TZID=Europe/Berlin:20261102T203000
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
+URL:https://www.filmrausch.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bb50a1f9cc308ad7@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261102T203000
 SUMMARY:Queens of the Dead (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -37,7 +45,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cce4f0575026ec9d@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261103T183000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -45,7 +53,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1c77bb0f0e22cf7@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Queens of the Dead (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -53,7 +61,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c9ca0703b17d5f09@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261104T183000
 SUMMARY:Call Me Queen (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -61,9 +69,17 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-839496d005d08553@ravidvr.github.io
-DTSTAMP:20261030T084457Z
+DTSTAMP:20261031T082133Z
 DTSTART;TZID=Europe/Berlin:20261104T203000
 SUMMARY:Queens of the Dead (OmU) (OmU)
+LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
+URL:https://www.filmrausch.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a7db88ce25554045@ravidvr.github.io
+DTSTAMP:20261031T082133Z
+DTSTART;TZID=Europe/Berlin:20261106T194500
+SUMMARY:The Killer (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
