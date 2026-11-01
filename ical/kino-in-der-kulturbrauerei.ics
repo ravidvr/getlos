@@ -4,112 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino in der KulturBrauerei
 BEGIN:VEVENT
-UID:getlos-5761611b36470f9a@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T161500
-SUMMARY:Klara and the Sun (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6c9be1ff1dc24fbc@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T163000
-SUMMARY:Wildwood (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d2e10e3a03c2ddc1@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T191500
-SUMMARY:The Odyssey (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-497b03f07c601e26@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T194500
-SUMMARY:Klara and the Sun (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-71438b57cd55d0a2@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T195000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-45c751c36973eba5@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T200000
-SUMMARY:Digger (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2efc753bd3e33ebd@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T201500
-SUMMARY:Verity (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dcc2900c8e8d905f@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T223000
-SUMMARY:Spider-Man: Brand New Day (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-29c13a0a65f3d44a@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T223000
-SUMMARY:The Odyssey (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f97339736d27d5e1@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T225500
-SUMMARY:Practical Magic 2 (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4008f2fc9bf8c88a@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T230000
-SUMMARY:The Invite (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9b1a190696fc1ef5@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T230000
-SUMMARY:The Social Reckoning (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c931488feafe81ff@ravidvr.github.io
-DTSTAMP:20261031T082133Z
-DTSTART;TZID=Europe/Berlin:20261031T230000
-SUMMARY:Heart of the Beast (EN)
-LOCATION:Kino in der KulturBrauerei
-URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-85fbeb56fda62a89@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261101T161500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -117,7 +13,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f35882b961ee68a@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261101T191500
 SUMMARY:The Odyssey (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -125,7 +21,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f2cb8b3d7234e2b2@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261101T194500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -133,7 +29,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e6523701f2674214@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261101T195000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -141,7 +37,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e233cec5e66912c3@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261101T200000
 SUMMARY:Digger (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -149,7 +45,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9965693bbcc2523@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261101T201500
 SUMMARY:Verity (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -157,7 +53,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f2d5875d4012332@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261102T163000
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -165,7 +61,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a3091a0bd7a80ff@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261102T192000
 SUMMARY:The Odyssey (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -173,7 +69,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97800c95e36ac9f0@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261102T194500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -181,7 +77,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-31f23a532a61c1c6@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261102T194500
 SUMMARY:Digger (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -189,7 +85,7 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2498670422c29938@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261102T200000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Kino in der KulturBrauerei
@@ -197,25 +93,57 @@ URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8be808e1c6fe3ea@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261102T201000
 SUMMARY:Verity (EN)
 LOCATION:Kino in der KulturBrauerei
 URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1c31ba4ec0ef5955@ravidvr.github.io
+DTSTAMP:20261101T082038Z
+DTSTART;TZID=Europe/Berlin:20261103T161500
+SUMMARY:Klara and the Sun (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18086b614a6d1d73@ravidvr.github.io
+DTSTAMP:20261101T082038Z
+DTSTART;TZID=Europe/Berlin:20261103T164500
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f3627481cec4ae6d@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261103T190000
 SUMMARY:The Hunger Games: Mockingjay - Part 2 (EN)
 LOCATION:Kino in der KulturBrauerei
 URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2226d02c6097fea0@ravidvr.github.io
+DTSTAMP:20261101T082038Z
+DTSTART;TZID=Europe/Berlin:20261103T191500
+SUMMARY:The Odyssey (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-515ade6b07ee8c80@ravidvr.github.io
-DTSTAMP:20261031T082133Z
+DTSTAMP:20261101T082038Z
 DTSTART;TZID=Europe/Berlin:20261103T193000
 SUMMARY:Rocky (EN)
+LOCATION:Kino in der KulturBrauerei
+URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83394003efa33264@ravidvr.github.io
+DTSTAMP:20261101T082038Z
+DTSTART;TZID=Europe/Berlin:20261103T200000
+SUMMARY:Verity (EN)
 LOCATION:Kino in der KulturBrauerei
 URL:https://www.cinestar.de/de/kino/berlin-kino-in-der-kulturbrauerei
 END:VEVENT
