@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-215826b5093611ab@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T173000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-28efcdafd8c23180@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T200000
-SUMMARY:Free at Heart (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b02d8377772c206f@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261102T173000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -29,7 +13,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-04f2d67c8dcb11c3@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261104T173000
 SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627

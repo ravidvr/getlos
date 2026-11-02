@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Lichtblick Kino
+BEGIN:VEVENT
+UID:getlos-2094e06b4d896fcd@ravidvr.github.io
+DTSTAMP:20261102T080128Z
+DTSTART;TZID=Europe/Berlin:20261108T000000
+SUMMARY:Casablanca (EN)
+LOCATION:Lichtblick Kino
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+END:VCALENDAR

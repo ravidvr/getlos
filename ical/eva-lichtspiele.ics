@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-0f5a187fbf3a4299@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T130000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c346c531257b91e6@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-308ac58fdf535032@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T174500
-SUMMARY:Glaube (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c7f551ba5f0d980b@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261102T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -37,7 +13,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-56030f3e42a30abe@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261102T201500
 SUMMARY:Glaube (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -45,7 +21,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da74905ef2fa6da6@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261103T174500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -53,7 +29,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e85ab0898c08f60b@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261103T201500
 SUMMARY:Glaube (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -61,7 +37,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d7265be9d573d12@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261104T201500
 SUMMARY:Glaube (OmU)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713

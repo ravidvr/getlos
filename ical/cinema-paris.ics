@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-0bb2f777d4a625c2@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T150000
-SUMMARY:Biermann (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5db69a323873bc10@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T180000
-SUMMARY:Biermann (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1a4b7eb9eb20d926@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261102T150000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e75103da1a304948@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261102T200000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -37,7 +21,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-647bfc1c18acec8d@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261103T150000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -45,7 +29,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ba5f82211f37738@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261104T140000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -53,7 +37,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-705b347faba91e04@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261104T170000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -61,7 +45,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38082902c2832da0@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261104T200000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719

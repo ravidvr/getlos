@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-ca5923c8e91b508a@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T200000
-SUMMARY:Vertigo (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0407f704d45e52f2@ravidvr.github.io
-DTSTAMP:20261101T082038Z
-DTSTART;TZID=Europe/Berlin:20261101T203000
-SUMMARY:Angel Heart (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fb4b4a896e80ad5f@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261102T210000
 SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -29,15 +13,23 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3b938ca28523a21@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261103T210000
 SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
 URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d2a0cef54e453cc2@ravidvr.github.io
+DTSTAMP:20261102T080128Z
+DTSTART;TZID=Europe/Berlin:20261104T210000
+SUMMARY:Vertigo (EN)
+LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
+URL:https://yorck.de/kinos/yorck
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d2936059559cdaf9@ravidvr.github.io
-DTSTAMP:20261101T082038Z
+DTSTAMP:20261102T080128Z
 DTSTART;TZID=Europe/Berlin:20261105T203000
 SUMMARY:Kiss Me Deadly (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
