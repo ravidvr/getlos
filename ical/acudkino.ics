@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-1b37d7dc1d75b13c@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T184500
-SUMMARY:Alte Liebe (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a7eee5e4f6806977@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T184500
 SUMMARY:Chopin - Eine Sonate in Paris (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -21,7 +13,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d08629705abd556@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T210000
 SUMMARY:Chopin - Eine Sonate in Paris (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119

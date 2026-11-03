@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-576892db67c8159c@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T154500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d25e2d9cb4c46c19@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T183000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-548c50272950f3ac@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T140000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
@@ -29,7 +13,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61cbf28cd5eb3927@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -37,7 +21,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4711b0d69f5e0256@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -45,7 +29,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-094d3e6fcc7b7d4a@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland

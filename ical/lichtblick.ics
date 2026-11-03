@@ -4,42 +4,58 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick
 BEGIN:VEVENT
-UID:getlos-9451aea1b1c72dbd@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T160000
-SUMMARY:Free at Heart (OmenglU) (OmenglU)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fc4b3d6a4a075c0b@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T180000
-SUMMARY:Quir (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9ee872fbcb0f48aa@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+UID:getlos-9c4b4982a6de3059@ravidvr.github.io
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T160000
-SUMMARY:Free at Heart (OmenglU) (OmenglU)
+SUMMARY:Free at Heart (OmenglU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c30e2926a97af081@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T213000
 SUMMARY:The Killer (1989) (OmU) (OmenglU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-851b3db22396ba40@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+UID:getlos-f7964499ef7b96f9@ravidvr.github.io
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T220000
-SUMMARY:Free at Heart (OmenglU) (OmenglU)
+SUMMARY:Free at Heart (OmenglU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5a8d6dc3cea10ca1@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T140000
+SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08000bd9218ca8d7@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T144500
+SUMMARY:Quir (OmU) (OmU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b151e5f1c26faab@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T220000
+SUMMARY:The Killer (1989) (OmU) (OmenglU)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf5c37a01063f4a4@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261108T161500
+SUMMARY:Quir (OmU) (OmU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT

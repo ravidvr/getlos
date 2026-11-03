@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-04faa2c026c78efc@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T203000
-SUMMARY:Biermann (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6d1e33a3382df998@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T181500
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino

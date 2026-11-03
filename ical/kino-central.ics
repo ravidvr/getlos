@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Central
 BEGIN:VEVENT
-UID:getlos-72915b06d5db1ee1@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T201500
-SUMMARY:Primetime (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aeee98dc9b9c9fca@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T204500
-SUMMARY:Klara and the Sun (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aca6715dda69a6c4@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T204500
-SUMMARY:Klara und die Sonne (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f81a73e21a9688b3@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T201500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -37,7 +13,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6da45e28b1f6274f@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T204500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -45,7 +21,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-59c9b6e33c365ae5@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -53,7 +29,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16d084481aaf9d6e@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T201500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -61,7 +37,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb8ac0db7a97ae55@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T204500
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -69,8 +45,64 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-890cdb7b6aa0be96@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T204500
+SUMMARY:Klara und die Sonne (OmU)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1015c21518ad21b5@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a24cdd4b715256d4@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261105T210000
+SUMMARY:Klara and the Sun (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be62e5c06145763e@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261105T210000
+SUMMARY:Klara und die Sonne (OmU)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bc8e30e7da416193@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261106T173000
+SUMMARY:The Social Reckoning (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d8fca54d5d8ca243@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T210000
+SUMMARY:Klara und die Sonne (OmU)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c12b6ebaf930df65@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261108T204500
+SUMMARY:Klara und die Sonne (OmU)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6f799b38a51bc50a@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261109T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de

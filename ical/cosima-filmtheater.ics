@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-c5b90151438dc8ab@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T150000
-SUMMARY:Biermann (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a3c1d8fae1050271@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T203000
-SUMMARY:Chopin - Eine Sonate in Paris (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bc595e9838d35d9a@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Neue Kammerspiele
+BEGIN:VEVENT
+UID:getlos-55caceefd22bef53@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261106T180000
+SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+END:VCALENDAR

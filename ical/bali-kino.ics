@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali-Kino
 BEGIN:VEVENT
-UID:getlos-f1f44a627f533334@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c48bc9afe3387092@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T180000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3b0d5ca32baf4c98@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T203000
-SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
-LOCATION:Bali-Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-63e06e9d4459123a@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Bali-Kino
@@ -37,7 +13,7 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d52b2c5cf673df9@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T180000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Bali-Kino
@@ -45,9 +21,49 @@ URL:https://www.bali-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b47d30c220b61571@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42359e0c375770cf@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261105T160000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f0dd1145d0222ef@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261106T160000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6370ed9fc020ab18@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T160000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ea224309863494c9@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261108T160000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-906e3ddfc4bee23c@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261109T160000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT

@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-9a32b3fceb15b585@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-939fd78a9b758176@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T211000
-SUMMARY:Moscas - Fliegen und andere Gäste (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fdb9ddddd2d1e5ba@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T163000
 SUMMARY:Die Andere Seite (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -29,7 +13,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-70a53afed86a6a2f@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T185000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -37,15 +21,23 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e1c752c48ba6619b@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Possible Love (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9f69d63acdc0d724@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261104T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9ad623f6a8f5510c@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T185000
 SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -53,9 +45,65 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ffa20595697e9c5c@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261104T202000
 SUMMARY:Possible Love (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-060b15d35412ce5d@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261106T160000
+SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ceebb513626e58f@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261106T171500
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b719ce58e48508d8@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T140000
+SUMMARY:Possible Love (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb944362e2db8b9a@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T165000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19aa74a81eece000@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T171000
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-779d44dc1521cbce@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261108T120000
+SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8c3bce29725c3f0@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261108T170000
+SUMMARY:Moscas - Fliegen und andere Gäste (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT

@@ -4,18 +4,42 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-b43c75152cfcf11e@ravidvr.github.io
-DTSTAMP:20261102T080128Z
-DTSTART;TZID=Europe/Berlin:20261102T204500
-SUMMARY:Alte Liebe (DE)
+UID:getlos-0133f2b1d277626b@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261106T204500
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-680f623f8c858453@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261107T210000
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1cede56a55667b4e@ravidvr.github.io
-DTSTAMP:20261102T080128Z
+DTSTAMP:20261103T081910Z
 DTSTART;TZID=Europe/Berlin:20261108T190000
 SUMMARY:Exit Through the Gift Shop (EN)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06a7e5cbf6571900@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261108T204500
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e96f22525bbad324@ravidvr.github.io
+DTSTAMP:20261103T081910Z
+DTSTART;TZID=Europe/Berlin:20261109T204500
+SUMMARY:Die Blutgräfin (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
