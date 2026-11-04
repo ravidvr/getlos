@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - UCI Luxe East Side Gallery
 BEGIN:VEVENT
-UID:getlos-4d18bcc71ac776be@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T164500
-SUMMARY:Primetime (EN)
-LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
-URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6b751365e7957c71@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T165000
-SUMMARY:Clayface (EN)
-LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
-URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-32b2f659cdce7fef@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T194000
-SUMMARY:Other Mommy (EN)
-LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
-URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e80f601cdafb150d@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T194500
-SUMMARY:By Any Means (EN)
-LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
-URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-90bbe8f5653c5546@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T203000
-SUMMARY:Rocky (EN)
-LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
-URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a87fe81df00ccd4b@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T141000
 SUMMARY:Street Fighter (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -53,7 +13,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-54ab64f389ebe201@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T163000
 SUMMARY:The Odyssey (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -61,7 +21,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb51a8c941d698b5@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T194000
 SUMMARY:Other Mommy (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -69,7 +29,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc4af6c3dd6450cd@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T201000
 SUMMARY:Klara and the Sun (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -77,7 +37,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-514fa207170d88fe@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T201000
 SUMMARY:The Hunger Games: Mockingjay - Part 2 (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -85,7 +45,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0efab2acc9f91be4@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T165000
 SUMMARY:Primetime (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -93,7 +53,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c955f129d3ad9e3@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T170000
 SUMMARY:Street Fighter (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -101,7 +61,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f39e868a48bdd578@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T194000
 SUMMARY:Other Mommy (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -109,7 +69,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f444f270111c825d@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T194000
 SUMMARY:Wildwood (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -117,7 +77,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ade4af914b586b9@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T200000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -125,7 +85,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a6335fbb7393952@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T203000
 SUMMARY:Heart of the Beast (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -133,7 +93,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae65d3ac33cfff22@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T223000
 SUMMARY:Other Mommy (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -141,55 +101,111 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e940b62b271fed0@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T224500
 SUMMARY:I Love Boosters (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d245ebc503fb2a13@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261105T231500
-SUMMARY:By Any Means (EN)
-LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
-URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-eb0792834465e95a@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T231500
 SUMMARY:Clayface (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d245ebc503fb2a13@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T231500
+SUMMARY:By Any Means (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02dbaae6e070f53e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T141500
+SUMMARY:Klara and the Sun (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-739d2ea414d24f44@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T163000
 SUMMARY:Wildwood (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fce93174ba16e059@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T164000
+SUMMARY:The Odyssey (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c2cf7db5744976e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T171000
+SUMMARY:Clayface (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c8c0bf9ac02d3832@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T172000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-de1ba84b9eab2d05@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T194000
+SUMMARY:Other Mommy (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec3dd2d07292b960@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T221500
+SUMMARY:Digger (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9c5b78595efa801@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T222000
+SUMMARY:Resident Evil (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9cc1f5f0324792b5@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T224500
 SUMMARY:I Love Boosters (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-630190ef83c0215f@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T225000
+SUMMARY:Other Mommy (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-05cc4d7bcdfde2b8@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T231000
 SUMMARY:Heart of the Beast (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -197,7 +213,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b7d5cd8fe08961a@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T194000
 SUMMARY:Wildwood (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -205,7 +221,7 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f2777e89abf458c3@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
@@ -213,9 +229,17 @@ URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d61d3894141558f1@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T224500
 SUMMARY:I Love Boosters (EN)
+LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-869e93b69691a55f@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
+SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes (EN)
 LOCATION:UCI Luxe East Side Gallery\, Mildred-Harnack-Straße 13\, Berlin\, 10243
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-east-side-gallery/
 END:VEVENT

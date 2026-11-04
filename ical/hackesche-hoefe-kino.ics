@@ -4,96 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Hackesche Höfe Kino
 BEGIN:VEVENT
-UID:getlos-b6ead45dd2d4f8ce@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T151500
-SUMMARY:Forgotten Island (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d520db95ab153143@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T151500
-SUMMARY:Glaube (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf9df3dd05fc01b6@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T153000
-SUMMARY:Edmund und Luzie - Winterabenteuer (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5bcf32d70a6027a@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T170000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6732d860d06fb3e3@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T173000
-SUMMARY:Biermann (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c81838480298ffc9@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T173000
-SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-195e373845b3278a@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T190000
-SUMMARY:Glaube (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ae17696c884dee80@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T194500
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f0f321648361208d@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T213000
-SUMMARY:Possible Love (OmU) (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0d8c1823f0768f30@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T215000
-SUMMARY:Digger (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-35478ee1d1fcfad6@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T221000
-SUMMARY:Primetime (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-72ec0672ce9a6265@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -101,7 +13,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c31762da4f2f69d9@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T151500
 SUMMARY:Forgotten Island (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -109,7 +21,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c815c2c99168d23e@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T151500
 SUMMARY:Glaube (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -117,7 +29,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2dcc1c526ac7381@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T170000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -125,23 +37,15 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd63b2f3552ba7b0@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T173000
 SUMMARY:Biermann (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4ea04089469c3367@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261104T173000
-SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bf0dcaee049a1401@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T190000
 SUMMARY:Glaube (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -149,23 +53,15 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da746bb239eb3b94@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T194500
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a60c48e67d40187c@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261104T213000
-SUMMARY:Possible Love (OmU) (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e41f9b2265bb29cd@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T215000
 SUMMARY:Digger (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -173,15 +69,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78d04846daa161de@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T221000
 SUMMARY:Primetime (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a5fa6c7a7410e823@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T142500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-21808f89df9f71cf@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -189,7 +93,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0e5fe2e327bce1f3@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T143000
 SUMMARY:Biermann (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -197,7 +101,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39916bd597755dd2@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T144500
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -205,71 +109,207 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c068c506b055db00@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T144500
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c5e3577d80e7d050@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T144500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9c9568812be2cc7@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T161500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-add1a7cf38d76505@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T170000
 SUMMARY:Glaube (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2f025c7913b758eb@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T171500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c0122d1ab0ead880@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T173000
-SUMMARY:Wildwood (EN)
+SUMMARY:Wildwood (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8491908a866949ae@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T174000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-854081277cd05f6e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T175500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfefcf885a1e0bfb@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T180000
+SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3554114f5b3e79fa@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T193000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6fa1a8a055111c4b@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T193000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-802426fb6221363e@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T200000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bcdc8229c6a39a36@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-041da270ab8967c9@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T201500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a06e4981515df54@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T202000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e014a54c106700d0@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T203000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e33fb56d461cd55@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7b2d0e3a5ccad2dd@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T220000
 SUMMARY:Primetime (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0d58338ad89416d9@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+UID:getlos-6e3f070f4c089509@ravidvr.github.io
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T221500
-SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-994e4a2e0a20aed9@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T141000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-158bdbe14814d84e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T143000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a34968bc85f1068c@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T143000
+SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6826d7656e2da5f@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T144500
+SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-556b52734c8b7b46@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T144500
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-903ec0c43edd0e24@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T144500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b334b7663c9c9379@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T161500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -277,47 +317,159 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8630095071e22bc@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T163000
 SUMMARY:Biermann (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e93be9e4fd036e45@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T164500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7e8d5e211714985e@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T170000
 SUMMARY:Glaube (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2755052544e6c502@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T170500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ccb59785ba92282@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T171500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a55ff1efcb68fea8@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T173000
-SUMMARY:Wildwood (EN)
+SUMMARY:Wildwood (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bd675b82e9300bb@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T190000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e277dd8a6484ddb@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T193000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e8f668f01be0b8e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T193500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6bc707d2289cc53@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T194500
+SUMMARY:Geister (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-320248f5816f6e21@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T200000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-465f0e1d01ae1629@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T200000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c75e88a146436fa1@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T201500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20098d426f45e089@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T213000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-27cc0feb23957b4c@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T220000
 SUMMARY:The Mask (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-99ea1ac9fb5b906f@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T221500
+SUMMARY:Primetime (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e3ceb04b8520cbc@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T221500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9fb382d43711774@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T224500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a3c4a4a0cc81c733@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T141000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a5c86fd42426c5b9@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -325,7 +477,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df1d3d6dda08ef62@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T143000
 SUMMARY:Biermann (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -333,71 +485,303 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-930ee8ae84403c55@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T144500
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5f8b5b75aade40bb@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T144500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8fac78a43e7427c@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T161500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b7e40d293bc752a7@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T164500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a851d84e68bb0db@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T164500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-698c160fe082ca65@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Glaube (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-53aee6be0799f10e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T171500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-debc297b3e70b791@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T173000
-SUMMARY:Wildwood (EN)
+SUMMARY:Wildwood (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fd715fc72f96087@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T180000
+SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94dd17291b8d6991@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T193000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7be8e9246b7b9787@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T194500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb0dd44a06452fa5@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T195000
+SUMMARY:Geister (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5c1bad52ee9f422@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-40cde34a420843dc@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6571c9185b104eef@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T201500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f9e89feec085d55@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c44faf22f4c8f27a@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T221500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f56eaed5cfb942dd@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T224500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0573033de04522a5@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T110000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3db09f6852ddffe3@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T111500
+SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0971356febf2a591@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261108T111500
 SUMMARY:Biermann (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ca7ce643b64f5650@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261108T141500
-SUMMARY:Moscas - Fliegen und andere Gäste (OmU)
+UID:getlos-c87562a4fd52fce7@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T131500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d660a11358a0a700@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T131500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7923f54bc14a9b7e@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T140500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52a3497b2ee6f4ae@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T143000
+SUMMARY:Wildwood (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9830ca5c9be87b8@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261108T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6152d91b3cd1d84a@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T153000
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-144e60c805292e55@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261108T163000
 SUMMARY:Glaube (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c3552c924cd0d1ae@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T170500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9817ee8155d0dcee@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T171500
+SUMMARY:Wildwood (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8cb5efce48dddfbe@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T175500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d0e7457d62612b6@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T183000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3566821c7b246d87@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T190000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec1f889cf5e036c6@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T200000
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5294c5c88b2577d6@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T203000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6821e7cd5aa6cd26@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T203000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-46b26c52df555f8b@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T203000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e25c7faf06e0aa5f@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261109T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -405,17 +789,273 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1cbd6ea476bd37fe@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261109T143000
 SUMMARY:Biermann (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-31c5ac8bbc0de748@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T144500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69b7e1bb73b9be74@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T161500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70b85db4a31539a5@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T165000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5ea571339611d78f@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261109T170000
 SUMMARY:Glaube (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-477348a51ea105e4@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T171500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4bb42999d0521bcc@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T173000
+SUMMARY:Wildwood (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3338111357b59e50@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T175000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb5ff85b5ec8b993@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T180000
+SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-904a0492f5fdd3aa@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T193000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c16ce918cb7dc42@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T200000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3be30b9707876575@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T201500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4afa0fecde38e712@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T202000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6aef7e44cb9520c9@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T203000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83a4c4a0267525a3@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d33ae5eedeced35c@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T221500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-51193c6620523a69@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T141500
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-695eeba6649a0b09@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T143000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6454bdb2247d570@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T143000
+SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-602ea48e75819534@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T144500
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16ffc6ca1567b0f2@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T161500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62e9c59da6b3fe6f@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T163000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6042bb2ba8a965b9@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T163000
+SUMMARY:Biermann (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-777e5c8d4d2ceefc@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T170000
+SUMMARY:Glaube (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6345b1ef603fa182@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T171500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e1205821b9411617@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T173000
+SUMMARY:Wildwood (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6aadd664defc8155@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T175500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f7df97b3ea5fb1b3@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T193000
+SUMMARY:Die Blutgräfin (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ddf28275ba62e820@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca1c46dcfd528b1d@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T201500
+SUMMARY:Geister (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2bd47174fb74c9aa@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T202000
+SUMMARY:Geister (DE)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-27198235e24b1af9@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T203000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1dd9697cfad77bd8@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5e21b4739c202958@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T221500
+SUMMARY:Geister (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT

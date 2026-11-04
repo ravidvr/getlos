@@ -4,25 +4,57 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon
 BEGIN:VEVENT
-UID:getlos-ee70b32d2fdf7dac@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T171500
-SUMMARY:Klara und die Sonne (OmU)
+UID:getlos-d2706d931f423e64@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261104T201000
+SUMMARY:Klara und die Sonne (OV)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-58f2f2dfac6f8a13@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T201000
+UID:getlos-a3825a11706eb75f@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261105T141500
 SUMMARY:Klara und die Sonne (DE)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d2706d931f423e64@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261104T201000
+UID:getlos-33928aae422024fd@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261106T141500
+SUMMARY:Klara und die Sonne (OV)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0779bb5af459f245@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T141500
+SUMMARY:Klara und die Sonne (DE)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7116ddadb6c035c0@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261108T141500
+SUMMARY:Klara und die Sonne (OV)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1242402164cc49a@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261109T141500
+SUMMARY:Klara und die Sonne (DE)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-15d46bb2d6b82034@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T141500
 SUMMARY:Klara und die Sonne (OV)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/

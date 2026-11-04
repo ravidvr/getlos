@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Kino & Bar in der Königstadt
+BEGIN:VEVENT
+UID:getlos-7a308528cef01e3b@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+SUMMARY:Holofiction (DE)
+LOCATION:Kino & Bar in der Königstadt
+END:VEVENT
+END:VCALENDAR

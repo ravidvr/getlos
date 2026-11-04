@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-24a592b5ec17970b@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261103T200000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-04f2d67c8dcb11c3@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T173000
 SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -21,7 +13,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3cf474e7898fc40@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261104T200000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -29,23 +21,15 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-209ef028a144a1fb@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261105T173000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-22ad39d65c0d000d@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261106T173000
-SUMMARY:Quir (OmU) (OmU)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-98fb120860e1fb57@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261106T200000
 SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -53,7 +37,7 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4401ea411eaa8897@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -61,23 +45,15 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ad3be89aac7abec9@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261107T173000
 SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f02ea96c5e7bb5f6@ravidvr.github.io
-DTSTAMP:20261103T081910Z
-DTSTART;TZID=Europe/Berlin:20261107T200000
-SUMMARY:Quir (OmU) (OmU)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-684b93924f246a26@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
@@ -85,9 +61,17 @@ URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9045f48bdabc739e@ravidvr.github.io
-DTSTAMP:20261103T081910Z
+DTSTAMP:20261104T082636Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Rocky (OmU)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-16abfa2f25c89e33@ravidvr.github.io
+DTSTAMP:20261104T082636Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT
