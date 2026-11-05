@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Capitol Dahlem
+BEGIN:VEVENT
+UID:getlos-cc743cc401b5347b@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261105T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f10737a2741d17c4@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T171500
+SUMMARY:Biermann (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f9d48db9f382a43@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dee57fdadab95fb4@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T165000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f28c04a10519fe8e@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261109T172000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Capitol Dahlem
+URL:https://www.capitol-dahlem.de/
+END:VEVENT
+END:VCALENDAR

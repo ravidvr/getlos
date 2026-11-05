@@ -4,26 +4,146 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-0ba5f82211f37738@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T140000
+UID:getlos-a98f5e6323d2c3e8@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261105T140000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-705b347faba91e04@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T170000
+UID:getlos-fb8da7ef60522a85@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261105T170000
 SUMMARY:Biermann (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-38082902c2832da0@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T200000
+UID:getlos-25a401a20a9c9eac@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9543754704f283bb@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T140000
 SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8bd1ab53ce797550@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T170000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad817cddf96f68b7@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d93cbfc7c555b2a@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T140000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-688e1ee5fef19d6d@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T170000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2da030e902ba7983@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2854a0f8f6e0310a@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T133000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2019c0fe7265f7d0@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T163000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7001926b16ef1e9b@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T193000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9081266c7b5fc44@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261109T140000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ca44b297d7c4ddb@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261109T170000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-622f25a3f49e8f0d@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261109T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fce95e3f234e921a@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261110T143000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6cba8172d1bd1d7@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261110T173000
+SUMMARY:Biermann (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e49cc6d5c9804fc@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Minotaurus (OmU)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT

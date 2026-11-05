@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Colosseum Filmtheater Berlin
 BEGIN:VEVENT
-UID:getlos-4d2b998d7aac1fcd@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9af75ce475cc5bf1@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T161500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-22f66d9e67e2d028@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T160000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -29,7 +13,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae2eb52739ee6906@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T161500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -37,7 +21,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8fe92e22097f31c8@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T183000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -45,7 +29,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86e54e60e88c800b@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T204000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -53,7 +37,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d59f84050e90c52@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T160000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -61,7 +45,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-007879adc7fa2b96@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T161000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -69,7 +53,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b67ed6aab6ccbd7@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T161500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -77,7 +61,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc2815ed467bedda@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T183000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -85,7 +69,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b450b7ef57143cc@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T204000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -93,7 +77,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-135c9a75799c1a2f@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T113000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -101,7 +85,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-92ac9199742e4d32@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T134000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -109,7 +93,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c87fb1a53ecbc96@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -117,7 +101,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-087e27c0a96f9418@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -125,7 +109,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5b43772c04fe84a@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T204000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437

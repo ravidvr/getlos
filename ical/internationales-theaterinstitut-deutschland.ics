@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Internationales Theaterinstitut Deutschland
+BEGIN:VEVENT
+UID:getlos-aa5995af5d33d5c8@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261105T170000
+SUMMARY:Biermann (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-167b45b262c4a7f0@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T170000
+SUMMARY:Biermann (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9589cf2b229fa0d@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T170000
+SUMMARY:Biermann (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2f5609f37b870b2b@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T170000
+SUMMARY:Biermann (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5eac9f5cc7909f0@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261109T183000
+SUMMARY:Biermann (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f66334171d1a0c28@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261110T170000
+SUMMARY:Biermann (DE)
+LOCATION:Internationales Theaterinstitut Deutschland\, Mariannenplatz 2\, Berlin\, 10997
+URL:https://www.iti-germany.de/
+END:VEVENT
+END:VCALENDAR

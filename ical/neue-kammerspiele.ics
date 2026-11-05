@@ -4,8 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neue Kammerspiele
 BEGIN:VEVENT
+UID:getlos-6950f72d3a99c1ad@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-55caceefd22bef53@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532

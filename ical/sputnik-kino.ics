@@ -4,24 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
-UID:getlos-2032ed55d932eeac@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T204500
-SUMMARY:Queens of the Dead (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a618ddbd665da28d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T213000
 SUMMARY:Queens of the Dead (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
 URL:https://www.sputnik-kino.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1c20fe1ba9ae607c@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T160000
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3ca268cd3547dbc7@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T220000
 SUMMARY:Night of the Living Dead (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967

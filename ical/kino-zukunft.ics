@@ -4,128 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Zukunft
 BEGIN:VEVENT
-UID:getlos-c18e3791a998c6b4@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T164500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-94b68bab1c7e2d0f@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T170000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e0f9e99198c2471b@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T170500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d9b3d54b415482e5@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T171500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ef2d5f8f6e16bc30@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T173000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ac08ef9915fa6c8f@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-75f45275cec01995@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T194500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2dcd16147bc395c6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T200000
 SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-174e5413b0b4dc1a@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T201500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a8c59720d4f5a7cd@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T203000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-03e2124988986aa6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T164500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9ffcc409661c5b9c@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T170000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1ee2308e076ffceb@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T170500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-db39765e4ad59bd0@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T171500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b4b40249cbb2b6ad@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T173000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ad7f142be31d94b8@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
@@ -133,319 +29,79 @@ URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac2a52ebfa621185@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T200000
 SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-127b8af8c2cd48b3@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T201500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6bf97d0d1f796ff5@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T203000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-188922b2f6e8dc12@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T154500
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6722449b4576b4f9@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T163000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6e7c50814af05bbd@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T164500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-24c00085e03506e6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T170000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7de36d52688aa4af@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T171000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5988d33cf3c00c9c@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T171500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-dc83aa09342a2b98@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-317e626bfdc676ff@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T193000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3bfe3b42e1b09504@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T194500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f1fbc63aa03d5f33@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
 SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0c747ba9c982d829@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T203000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-eb26fdfc11ebde4e@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T154500
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f0d886a5747fe153@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T163000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a829dec504c27a7@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T164500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bb870b196c3c2fc7@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T170000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-35fe987e3480a94e@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T171500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-752a076f1b743a02@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T173000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-cf3addf5ddb969fa@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a168d8455129c95d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T195000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-10dbbb533f3f9573@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3541eaeaeb9439af@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T201000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-978c59a0fdb17793@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T201500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9b374e5229085b15@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-113a105d4ca869ba@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T170000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-32b7bb98ae9c2f78@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T170500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-588f5ab93a6d0d2d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T171500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-55e43ee4ebb68ace@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T173000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e60a2ef291b5425c@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-971084e108d59b68@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T193000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e4241c5e122b3cd5@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d4b6980cd571e152@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T201500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-57af5a9b389356a7@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T203000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4f68ee0666b9a124@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T164500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-40e22bd9230dfb97@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T170000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0912bb1696f76a68@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T170500
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eafb79bcc85426dc@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T173000
-SUMMARY:Geister (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-21f29152185e660e@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
@@ -453,25 +109,25 @@ URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50b1cfcc395f3776@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0c0d3bbf3eaf59f8@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T201500
+UID:getlos-dcda5ee7264b9199@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261111T175000
 SUMMARY:Geister (DE)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5c07addf0bfb73d1@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Geister (DE)
+UID:getlos-84c96836b1bd9042@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Geister (OmU)
 LOCATION:Kino Zukunft
 URL:https://www.kino-zukunft.de/
 END:VEVENT

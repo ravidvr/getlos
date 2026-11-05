@@ -4,120 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmpalast Bernau
 BEGIN:VEVENT
-UID:getlos-63aecce8251590cc@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T144500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7cc7aa2e02af1a3b@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T153000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-99f8e1d53e26a4a6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ec1607260bbf4246@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T163000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-faa93c75ee7ce14d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T164500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c4630d68175b8ea9@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T165000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ba461925663a9b5e@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T170000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-709fd6dd580420e2@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T173000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d09b7ea2882b15fd@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T174500
-SUMMARY:Biermann (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-415415b0373ab1b2@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T180000
-SUMMARY:Other Mommy (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6bc358c2e3b4d420@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T201500
-SUMMARY:Rammstein - Live in Mexico City (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-097c838029aff16f@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T202000
-SUMMARY:Other Mommy (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9a5d9e202f3594cb@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T203000
-SUMMARY:Resident Evil (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6da21c2203a064e@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T203000
-SUMMARY:Rammstein - Live in Mexico City (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d6a7f97b63adcd81@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -125,7 +13,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44f0871024bca335@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -133,7 +21,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3a6d1c7a4ca6d67@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -141,7 +29,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d58f85c81769374@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -149,7 +37,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf34a95dbcf559ba@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T161500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -157,7 +45,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-99c43d84209b81ca@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T163000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -165,7 +53,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-975bd3b0c9e887c3@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T165000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -173,7 +61,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7472428f9ac7f2c2@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T171500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -181,7 +69,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a647cf258359008@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T173000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -189,7 +77,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8ad9e2280b91ff87@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -197,7 +85,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-099db69c157507da@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T194500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -205,7 +93,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e642c2f1b66ab609@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -213,7 +101,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-06a03955be309ff1@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T203000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -221,7 +109,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d6ff15260cfaa62@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261105T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -229,7 +117,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eac8f48b23c20864@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -237,7 +125,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9119d35de41b6e6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -245,7 +133,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ea096b5684d1437@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -253,7 +141,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d01f368d30ca0b07@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -261,7 +149,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85149103399ae5ed@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T161500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -269,7 +157,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-10216744d061b3e1@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T163000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -277,7 +165,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-18ba549115705f0d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T165000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -285,7 +173,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6768041f87de6ba9@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T171500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -293,7 +181,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d3e15f3dabfef013@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T173000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -301,7 +189,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fde54b939bde815b@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T174500
 SUMMARY:Biermann (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -309,7 +197,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-589c479994309f0b@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T194500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -317,7 +205,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6803c3b2351b40d9@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -325,7 +213,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-98a95741d74c285d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -333,7 +221,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1dc81ed99eba6a0@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261106T221500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -341,7 +229,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a25c332affeb03d3@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T110000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -349,7 +237,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4e18a266c26ca77@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T124500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -357,7 +245,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d5c2d3dcf05b11d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T131500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -365,7 +253,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69df3e91a2219f87@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T133000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -373,7 +261,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f39e10bbdf3ad6a3@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T133000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -381,7 +269,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-effc749a7ac38220@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -389,7 +277,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94094ce31e73491c@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -397,7 +285,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-504dcece702fdffb@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -405,7 +293,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15e9950b798c3654@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T165000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -413,7 +301,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-921c01602794e2e6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T173000
 SUMMARY:Rammstein - Live in Mexico City (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -421,7 +309,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec4c43148888aab9@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T174500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -429,7 +317,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eaa1ef4f8932510b@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T180000
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -437,7 +325,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-820a58c59b62b345@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T201500
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -445,7 +333,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b21ec966da8e193d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261107T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -453,7 +341,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d3aae5125f05c29@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T110000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -461,7 +349,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d5f0bbd32996cdf6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T113000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -469,7 +357,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-de1ae5c10e73bfa5@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -477,7 +365,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73d4c65f0008294d@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -485,7 +373,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-886d774d31133657@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -493,7 +381,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c27509480c3e4b16@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -501,7 +389,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-987ea5e039ffb1d7@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T164000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -509,7 +397,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-92b07d4d75ac8cdd@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T164500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -517,7 +405,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11635b87b533bea3@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T165000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -525,7 +413,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08255bd070e77acf@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T171500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -533,7 +421,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8baef9768feea1d8@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T174500
 SUMMARY:Biermann (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -541,7 +429,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0796ff3910d596e@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -549,7 +437,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0b6a95bbe44d525@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T203000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -557,7 +445,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67517e6573e5e72a@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261108T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -565,7 +453,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2f7d1de3bfa39778@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -573,7 +461,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b3ffdfa093b99ca@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -581,7 +469,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca7ffd22c9ba5cd0@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -589,7 +477,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c23ffde4518ab109@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -597,7 +485,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6648fd968fc68c6@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T161500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -605,7 +493,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6026dec6650224da@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T163000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -613,7 +501,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-89c24b23a21c14a4@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T165000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -621,7 +509,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d673ebd277fcc176@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T171500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -629,7 +517,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-871a93e5271e50fb@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -637,7 +525,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a5391999f1fd604@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T201500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -645,7 +533,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e57dffb4bfb0eced@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T203000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -653,7 +541,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16a3dd3c852967bc@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261109T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -661,7 +549,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b113c622f4fd086@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -669,7 +557,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86d53442623a3183@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -677,7 +565,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e5f42c9923138273@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -685,7 +573,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-be5a70e31decd2e1@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -693,7 +581,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b4246b2d14a96970@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T163000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -701,7 +589,7 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95cae8df9508cbba@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T171500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -709,31 +597,23 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94893c79747a8797@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a388506260e3fda1@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+UID:getlos-5007672d398808f9@ravidvr.github.io
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T190000
-SUMMARY:Die Tribute von Panem - The Ballad of Songbirds & Snakes (DE)
-LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
-URL:https://filmpalast-bernau.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6d2face851aeedb9@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Die Tribute von Panem - The Ballad of Songbirds & Snakes (OV)
+SUMMARY:Die Tribute von Panem - The Ballad of Songbirds & Snakes (OmU) (OmU)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-def197de65ea16e5@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T202000
 SUMMARY:Resident Evil (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
@@ -741,9 +621,17 @@ URL:https://filmpalast-bernau.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3a732d8766cae0f@ravidvr.github.io
-DTSTAMP:20261104T082636Z
+DTSTAMP:20261105T092011Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Other Mommy (DE)
+LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
+URL:https://filmpalast-bernau.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69d36a83973b29f8@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261111T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmpalast Bernau\, Börnicker Chaussee 1\, Berlin\, 16321
 URL:https://filmpalast-bernau.de/
 END:VEVENT

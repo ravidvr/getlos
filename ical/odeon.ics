@@ -4,58 +4,74 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon
 BEGIN:VEVENT
-UID:getlos-d2706d931f423e64@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261104T201000
-SUMMARY:Klara und die Sonne (OV)
+UID:getlos-f19db6a2f71512e6@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a3825a11706eb75f@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261105T141500
-SUMMARY:Klara und die Sonne (DE)
+UID:getlos-3199bc77c3d584ed@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261106T200000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-33928aae422024fd@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261106T141500
-SUMMARY:Klara und die Sonne (OV)
+UID:getlos-da9625f9302ba71f@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T144000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0779bb5af459f245@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261107T141500
-SUMMARY:Klara und die Sonne (DE)
+UID:getlos-5b3437b06d5b3d95@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7116ddadb6c035c0@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261108T141500
-SUMMARY:Klara und die Sonne (OV)
+UID:getlos-ba9e106e3e9a952e@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T144000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a1242402164cc49a@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261109T141500
-SUMMARY:Klara und die Sonne (DE)
+UID:getlos-7c0a5f3686232cfa@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261108T200000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-15d46bb2d6b82034@ravidvr.github.io
-DTSTAMP:20261104T082636Z
-DTSTART;TZID=Europe/Berlin:20261110T141500
-SUMMARY:Klara und die Sonne (OV)
+UID:getlos-12275984e8ba8a4e@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261109T200000
+SUMMARY:Wildwood (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9759fcb1ac173674@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
+SUMMARY:Wildwood (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e226128f0364505@ravidvr.github.io
+DTSTAMP:20261105T092011Z
+DTSTART;TZID=Europe/Berlin:20261111T150000
+SUMMARY:Wildwood (OmU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT
