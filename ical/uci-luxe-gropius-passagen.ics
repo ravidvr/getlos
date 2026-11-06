@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - UCI Luxe Gropius Passagen
+BEGIN:VEVENT
+UID:getlos-5930497bce05bfc8@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261108T133000
+SUMMARY:Wildwood (EN)
+LOCATION:UCI Luxe Gropius Passagen
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/
+END:VEVENT
+END:VCALENDAR

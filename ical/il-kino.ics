@@ -4,32 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-4a21b81aa1c6a821@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T142000
+UID:getlos-55cf8809620f25c2@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261106T183000
 SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4ceb27441f5e29d2@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T190000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2c7073f87889ae29@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T213000
-SUMMARY:Glaube (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cdd66b87d5df7533@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T185000
 SUMMARY:Glaube (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -37,15 +21,23 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a494a76206cc734@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T210000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-790881acbcaeb9ec@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261106T211000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b3ad9da3390966c4@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T130000
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -53,7 +45,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ad5f6eb301b7796@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T190000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -61,7 +53,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c79143e3bd1e746d@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T213000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -69,7 +61,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ef31ee0eb23527af@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T125000
 SUMMARY:Glaube (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -77,7 +69,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97d06d71acc7373b@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T173000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -85,7 +77,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-633896e9b320a0d2@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T213000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -93,7 +85,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-259b42f8ed50285c@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T145000
 SUMMARY:Glaube (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -101,7 +93,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3843a942522f4dac@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T190000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -109,7 +101,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7015d1a25eea17c9@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T213000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -117,7 +109,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d0531a5517506d5d@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T143000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -125,7 +117,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a7648556d9f56e3@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T190000
 SUMMARY:Glaube (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -133,7 +125,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2809052985bb31e9@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T211000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -141,7 +133,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ebcedf77a60d87ba@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261111T130000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -149,7 +141,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5b6d00251149043@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261111T190000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -157,9 +149,25 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a76ca986252db930@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261111T213000
 SUMMARY:Glaube (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c3a78625a98e9ec@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261112T143000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0fed6cf7a8deaa9@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261112T185000
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT

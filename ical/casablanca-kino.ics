@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Casablanca Kino
 BEGIN:VEVENT
-UID:getlos-7fb32cc3720bc2c4@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T203000
-SUMMARY:On the Sea (EN)
-LOCATION:Casablanca Kino
-URL:http://www.casablanca-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bd0e3625d0cc9d3b@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T203000
 SUMMARY:On the Sea (EN)
 LOCATION:Casablanca Kino

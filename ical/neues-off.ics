@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neues Off
 BEGIN:VEVENT
-UID:getlos-5f1fc0bfef6f8ad8@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T172000
-SUMMARY:Minotaurus (OmenglU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-07232b0b8185efd8@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T203000
-SUMMARY:Minotaurus (OmenglU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-760a90c47171c25f@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bfd2102b6ee34b7@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T203000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -37,7 +21,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2a5327cb74339cfd@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -45,23 +29,23 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0c7b0e008f7a0dcd@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T203000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-347e6c2cdc65f0aa@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+UID:getlos-2d8014cb6af9c7fe@ravidvr.github.io
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T140000
-SUMMARY:The Killer (1989) (OmU)
+SUMMARY:The Killer (1989) (OmU) (OmU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4f0b102a5e751cf@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T164500
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -69,7 +53,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9e92d371c8bfa90@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T195000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -77,7 +61,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49a82109346695dd@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -85,7 +69,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-781a2e90c6fc253a@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T203000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -93,7 +77,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf6fa4153d791037@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -101,7 +85,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-026393059c5723a0@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -109,7 +93,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc2f178d7de11a5e@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261111T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -117,7 +101,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ca38bc79ac67caa@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049

@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Central
 BEGIN:VEVENT
-UID:getlos-859f4b4a7daab50e@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T160000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1015c21518ad21b5@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T200000
-SUMMARY:Primetime (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a24cdd4b715256d4@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T210000
-SUMMARY:Klara and the Sun (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-be62e5c06145763e@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T210000
-SUMMARY:Klara und die Sonne (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-02cc771786648d54@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T164500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -45,7 +13,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc8e30e7da416193@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T173000
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -53,7 +21,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e76c9cc7ffc50a2d@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T200000
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -61,7 +29,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2715264aae8d7ff8@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -69,7 +37,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec63e04a414bada0@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -77,7 +45,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09fcc8638b542254@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T203000
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -85,7 +53,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a6e12720df67136@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T210000
 SUMMARY:Klara and the Sun (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -93,15 +61,23 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d8fca54d5d8ca243@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T210000
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5a87ac31fc33f1f5@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261108T123000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-db1c8453df63cbdd@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T123000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -109,7 +85,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3c616d9152e7d23@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T150000
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -117,15 +93,31 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1699e6de96efd2f6@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T164500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3de4c4ee6d600ef4@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261108T200000
+SUMMARY:Primetime (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74bbcf73af5a3775@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261108T204500
+SUMMARY:Klara and the Sun (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c12b6ebaf930df65@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -133,7 +125,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6732296bd61033c5@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T164500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -141,7 +133,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f799b38a51bc50a@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T204500
 SUMMARY:Klara und die Sonne (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -149,7 +141,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74e508fe80f09f69@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T164500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -157,9 +149,25 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3587422b5744a43@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261111T204500
 SUMMARY:Klara und die Sonne (OmU)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5c139d6716f459e@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
+URL:http://www.kino-central.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06f2e336299c94f5@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261112T210000
+SUMMARY:Her Private Hell (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT

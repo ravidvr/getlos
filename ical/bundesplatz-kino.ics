@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-75bf21f7b30913f3@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T180000
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d3102e1dde922c20@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T180000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ca254df444a8cfbb@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T203000
-SUMMARY:Biermann (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2ecbfac06818eea6@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T180000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -37,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc5d6a0afc9a534b@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T203000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-774e905e3620f954@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261106T203000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +29,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8250daea53bdfe34@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T180000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -61,7 +37,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f032476884a676e@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T203000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -69,7 +45,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c08b0345c87e1194@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261107T203500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -77,7 +53,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f46c7deda83bcb0f@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T110000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Bundesplatz-Kino
@@ -85,15 +61,23 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7cc17c6ea34fd128@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T130000
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c10c7a5dfbcf7dcf@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261108T180000
+SUMMARY:A Talent for Murder (EN)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8b83838757a9f04f@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261108T180000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -101,7 +85,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c63c7e61af96594@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T154500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -109,7 +93,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d3b14492c305a117@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261109T174500
 SUMMARY:Biermann (DE)
 LOCATION:Bundesplatz-Kino
@@ -117,7 +101,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28f4e08888a0f619@ravidvr.github.io
-DTSTAMP:20261105T092011Z
+DTSTAMP:20261106T091217Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino

@@ -2,77 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:getlos - fsk - Kino am Oranienplatz
+X-WR-CALNAME:getlos - fsk Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-9debb4cd0fea5845@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261105T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+UID:getlos-fce102f0ca68ed68@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261112T173000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:fsk Kino am Oranienplatz
+URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-925a9ba02deded12@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ba0a21d9f4f590c9@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261107T131500
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4e066039ac20c22a@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261107T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2c081a76d951e928@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261108T124500
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee9ee2163d1bdaae@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261108T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d3fbfbceec185da@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-900397a32b1dd6db@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0bc7cb983146b120@ravidvr.github.io
-DTSTAMP:20261105T092011Z
-DTSTART;TZID=Europe/Berlin:20261111T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+UID:getlos-4a6cad5af06cf5b1@ravidvr.github.io
+DTSTAMP:20261106T091217Z
+DTSTART;TZID=Europe/Berlin:20261112T203000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:fsk Kino am Oranienplatz
+URL:https://www.fsk-kino.de/
 END:VEVENT
 END:VCALENDAR
