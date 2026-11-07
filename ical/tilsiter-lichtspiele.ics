@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Tilsiter Lichtspiele
 BEGIN:VEVENT
-UID:getlos-6727b5349718c2f2@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T174000
-SUMMARY:Biermann (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b473b79ed7ec18d8@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T183000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4834de5b2b4412ea@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f32576d49cb3a723@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T201500
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-962a2ad5b75463c0@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T204000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-071572e159599138@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T171500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -53,7 +13,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9de2a09d8648f7b8@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T174000
 SUMMARY:Biermann (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -61,7 +21,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e2c4410c66e4899d@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T193000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -69,7 +29,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-280d9946705e0287@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -77,7 +37,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aeb4178cf62f2bbe@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T171500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -85,7 +45,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2bba923cd6500fde@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T174000
 SUMMARY:Biermann (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -93,7 +53,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13309bbcc9b977ea@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T193000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -101,7 +61,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a385f03469b91a3@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -109,7 +69,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d2a095f852131d9@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T174000
 SUMMARY:Biermann (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -117,7 +77,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8d96b688256cbfb@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T183000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -125,7 +85,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b623f49fe0190974@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -133,7 +93,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6fae29edc4ee2de@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T204000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -141,7 +101,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b39ceb84f748c650@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T174000
 SUMMARY:Biermann (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -149,7 +109,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3deb92b6e8362d9@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T183000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -157,7 +117,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7848d879f451fa0d@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -165,7 +125,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-666a6ef8a7e03076@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T204000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -173,7 +133,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da97a600f200bd99@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261111T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249

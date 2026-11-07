@@ -4,96 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Spreehöfe
 BEGIN:VEVENT
-UID:getlos-7c8efdb6500c0134@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T144500
-SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-af1e381fa68cb638@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T150000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7d018c082ebad13a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c9848a1acab06d50@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T153000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-978cec4038ada28f@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T171500
-SUMMARY:Geister (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9acdfae404710159@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T173000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aa221246327fdb14@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T180000
-SUMMARY:Other Mommy (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-53e03564bf9c53b1@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T191500
-SUMMARY:Wildwood (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f8a7f20efa425bc4@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T193000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f12a69e8ad5b5c62@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-SUMMARY:Geister (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1ba4bb03faec97c4@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T201500
-SUMMARY:Other Mommy (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e0f1c2b4f2adde9a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T130000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -101,7 +13,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8cb8dc35e698ca3@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -109,7 +21,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5a9a25c3403a9884@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T130000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -117,7 +29,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b82880f93161813@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -125,7 +37,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e2f5bad25cc4fd1d@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T144500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -133,7 +45,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7445b2440a93649b@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -141,7 +53,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c2bd0d412e8171c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -149,7 +61,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4fb888f2c177fc75@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -157,7 +69,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63a6bd5396662a4b@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T164500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -165,7 +77,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4cffbbf04cad269@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T171500
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -173,7 +85,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b53b42acfb5512b@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T173000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -181,7 +93,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8209f23ddc793aa8@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T174500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -189,7 +101,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-98e7827bde96f2a6@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T191500
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -197,7 +109,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-512da04921ca5864@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -205,7 +117,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b835b764b79ea733@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -213,7 +125,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-054732d9bbe5b4a1@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T201500
 SUMMARY:Other Mommy (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -221,7 +133,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4e9db6615eb84f9@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -229,7 +141,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5dc87814ab7d184e@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T130000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -237,7 +149,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40fcbff0085c6958@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -245,7 +157,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-03a19f12244a4526@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T144500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -253,7 +165,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-122febdd3b61ef3b@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T150000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -261,7 +173,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e00127ace9a158ca@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -269,7 +181,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1eb6c5416681f6d@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -277,7 +189,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0505484c2c3a1b3@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T171500
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -285,7 +197,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7b5cca2de43943eb@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T173000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -293,7 +205,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a868b4b49156c38a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T180000
 SUMMARY:Other Mommy (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -301,7 +213,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6de9a3b3aa09aa7@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T191500
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -309,7 +221,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a51fce42de81c1f@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -317,7 +229,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0cb3c6483129ba7@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -325,7 +237,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08d387347f63c92a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T201500
 SUMMARY:Other Mommy (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -333,7 +245,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e00dae8bf54c773c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T144500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -341,7 +253,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-637647d80414ca68@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T150000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -349,7 +261,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0a046e4cd0eb7a9@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -357,7 +269,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3c9290376e6d1f4@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -365,7 +277,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c3e25f8d5b742e8@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T164500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -373,7 +285,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-449a82f714a66bb8@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T171500
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -381,7 +293,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab6275c1e5569339@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -389,7 +301,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2c4c965e600d800@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T174500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -397,7 +309,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee2f6b6ef64b02d9@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T191500
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -405,7 +317,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd731ada322dc34a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -413,7 +325,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-675160f938ac7f8a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -421,7 +333,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c88164f5650cae3e@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T201500
 SUMMARY:Other Mommy (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -429,7 +341,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-35f75ce7b65df2af@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T144500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -437,7 +349,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65b5e2e2913fbc04@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T150000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -445,7 +357,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4a0b4afaaef249d@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T151500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -453,7 +365,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2bad6105a33971a8@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -461,7 +373,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-04871ce5ae1ecf9c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T164500
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -469,7 +381,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-71fceba256d4ab34@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T171500
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -477,7 +389,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-874f598129291865@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -485,7 +397,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3ee4cc35456d750@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T174500
 SUMMARY:Eiserne Wildnis - Heart Of The Beast (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -493,7 +405,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52390f87d53da12e@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T191500
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -501,7 +413,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-57815207c3b4034c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -509,7 +421,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73df2ab332cf9952@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Geister (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -517,7 +429,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb6d3cf0f8d0acae@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T201500
 SUMMARY:Other Mommy (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459

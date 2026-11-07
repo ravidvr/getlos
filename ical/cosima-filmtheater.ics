@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-0831a879fc526e0c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T174500
-SUMMARY:Biermann (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-71d20de05b7b7743@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T173000
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater
@@ -21,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1fc22750e5415f1a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T174500
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater
@@ -29,7 +21,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08f0f5facf7c17a2@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T174500
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater
@@ -37,7 +29,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fed31b2dffe9374c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Biermann (DE)
 LOCATION:Cosima-Filmtheater

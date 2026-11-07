@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Kulturhaus Spandau
 BEGIN:VEVENT
-UID:getlos-74cbcdbb7c709920@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T131500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ad081bd234d727f3@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T171000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-77000b9ab650721a@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T131500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -29,7 +13,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5410221d9ff2b287@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T172000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -37,7 +21,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0191fa5857a62e5@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T111500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -45,7 +29,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d71af1f872ba8925@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597

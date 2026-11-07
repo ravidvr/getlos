@@ -4,15 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmmuseum Potsdam
 BEGIN:VEVENT
-UID:getlos-81227f723bf06d76@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T190000
-SUMMARY:Holofiction (DE)
-LOCATION:Filmmuseum Potsdam
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ea37b59cae65e5b9@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Filmmuseum Potsdam

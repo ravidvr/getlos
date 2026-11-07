@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmgalerie
 BEGIN:VEVENT
-UID:getlos-6de4f195ae4ecb6c@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e55165b2cfebe191@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T173000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e1ee40cfcb4f4aec@ravidvr.github.io
-DTSTAMP:20261106T091217Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ce73de12eb73b60e@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -37,7 +13,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52c667205aaa5356@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Filmgalerie
@@ -45,7 +21,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-31cf1c8eeaad1226@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
 SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
 LOCATION:Filmgalerie
@@ -53,7 +29,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc7e90521d78db83@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -61,7 +37,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4516e399a308a102@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Filmgalerie
@@ -69,7 +45,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af7a86b77fd86169@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
 LOCATION:Filmgalerie
@@ -77,7 +53,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d67101e7a54257f5@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -85,7 +61,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dda09cd515eb71c2@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Filmgalerie
@@ -93,7 +69,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79218a3a1b14b319@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
 LOCATION:Filmgalerie
@@ -101,7 +77,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b2b6ba839488a271@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -109,7 +85,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da25766f4ce8afd7@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Filmgalerie
@@ -117,7 +93,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-64fed388e70e2749@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261111T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Filmgalerie
@@ -125,7 +101,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07138d4a103cc782@ravidvr.github.io
-DTSTAMP:20261106T091217Z
+DTSTAMP:20261107T082350Z
 DTSTART;TZID=Europe/Berlin:20261111T200000
 SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
 LOCATION:Filmgalerie
