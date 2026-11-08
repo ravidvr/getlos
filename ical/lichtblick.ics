@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick
 BEGIN:VEVENT
-UID:getlos-6ea03fd97ec60164@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T180000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8b151e5f1c26faab@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T220000
-SUMMARY:The Killer (1989) (OmU) (OmenglU)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-578bf3d98d0a1026@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T193000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -29,7 +13,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c49b54278ac30ee7@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T190000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -37,7 +21,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-149fa736efd7d99d@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T181500
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
@@ -45,7 +29,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9fcae8e253d11bd@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261111T221500
 SUMMARY:The Killer (1989) (OmU) (OmenglU)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435

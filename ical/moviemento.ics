@@ -4,112 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Moviemento
 BEGIN:VEVENT
-UID:getlos-aab5e3889149d932@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T113000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d6e5ad315cddeaf0@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T114500
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-de59694a4deb7e88@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T133000
-SUMMARY:Mumbo Jumbo (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ecb164f39d958fa3@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T141500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-aa9d712e376af738@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T141500
-SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-171111a7c9f8429c@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T144000
-SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eee47ca13a64c22f@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T153000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-abd51193522d3622@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T161500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fb718d7a9a120b75@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T163000
-SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a8c32d35c74c1b27@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T173000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7da74b5b926ae335@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T181500
-SUMMARY:Drei Kameradinnen (OmU)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-365bd5dc9b55496b@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T203000
-SUMMARY:Drei Kameradinnen (OmU)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5e241e4edba870cf@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T204500
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
-URL:https://www.moviemento.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-593df569a4e27be3@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T104500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -117,7 +13,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8d5b8545060e7c2@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T112000
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -125,7 +21,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78545126a27886ce@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T114500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -133,7 +29,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb53c856e0c74075@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T140000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -141,7 +37,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb59419619a35307@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T141500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -149,7 +45,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cdecfbee91ec6627@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T160000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -157,7 +53,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19b01da56542d506@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T164500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -165,7 +61,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a4b39dd25e71a3f1@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T174500
 SUMMARY:Die Blutgräfin (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -173,7 +69,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c692b24b016cefd@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T184500
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -181,7 +77,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5fd74b59e7ed23b@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T210000
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -189,7 +85,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-79e0e4ec11ae8e97@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T144000
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -197,7 +93,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7fd8561661a4deee@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T153000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -205,7 +101,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0b6a4596eeaeaf6@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T161500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -213,7 +109,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e8f0583679f4524@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T164500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -221,7 +117,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c360d43cacf60cf0@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T181500
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -229,7 +125,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6544b4f9ed4bb9c8@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Die Blutgräfin (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -237,7 +133,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32b0dd40b10cb450@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T203000
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -245,7 +141,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25915d8cbe814a1e@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T144000
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -253,7 +149,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-523af82feb3a1a7b@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -261,7 +157,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-133022f6c6ff83ed@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T154500
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -269,7 +165,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-516eeba699dc8d19@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T161500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -277,7 +173,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52377fa9d57116a8@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T174500
 SUMMARY:Die Blutgräfin (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -285,7 +181,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac08faee3d835ff9@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T181500
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -293,7 +189,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-74a16ffe06dc5c3f@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T201500
 SUMMARY:Die Blutgräfin (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -301,7 +197,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66b3b994f726806b@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -309,7 +205,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ca45651275128df@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261111T181500
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -317,7 +213,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0328ea1904bff208@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261111T201500
 SUMMARY:Die Blutgräfin (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967
@@ -325,7 +221,7 @@ URL:https://www.moviemento.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86a1fc0bc7b28af7@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:Drei Kameradinnen (OmU)
 LOCATION:Moviemento\, Kottbusser Damm 22\, Berlin\, 10967

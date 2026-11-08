@@ -4,48 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Eva Lichtspiele
 BEGIN:VEVENT
-UID:getlos-d16a8f55aa1ad993@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T110000
-SUMMARY:Glaube (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-58fc0e30a64728ff@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T131500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee5b114d739a9b93@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-90c2674566d87c26@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T203000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
-URL:http://www.eva-lichtspiele.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-828918fb96ee8812@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-931c644904ed42fe@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T110000
-SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU) (DE)
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
 URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72fe176db2e1ad32@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T151500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -53,7 +21,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-678cc2ca8854b94c@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T174500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -61,7 +29,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e03e51e7c74a113e@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T174500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -69,7 +37,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b58c7374d02cbb8@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T174500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713
@@ -77,7 +45,7 @@ URL:http://www.eva-lichtspiele.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8df7b4e78bde57b2@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Eva Lichtspiele\, Blissestraße 18\, Berlin\, 10713

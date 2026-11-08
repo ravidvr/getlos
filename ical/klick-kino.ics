@@ -4,42 +4,26 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-4401ea411eaa8897@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T150000
-SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-99c74ed37f263ba7@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T173000
-SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU) (OmU)
-LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
-URL:https://www.klickkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-008839c5ca51b5bb@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-684b93924f246a26@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
-SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU) (OmU)
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5df21a07221f0244@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-9045f48bdabc739e@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Rocky (OmU) (OmU)
+SUMMARY:Rocky (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ad4af98be8fa6e9d@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-16abfa2f25c89e33@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU) (OmU)
+SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT

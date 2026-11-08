@@ -4,66 +4,50 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Casablanca
 BEGIN:VEVENT
-UID:getlos-1ed4f1bb0e3d74b9@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e11ac9bd6993eb81@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T203000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
-URL:http://www.casablanca-berlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3aeaa55344cb8078@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-acf5557903fddc66@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T180000
-SUMMARY:Rocky (OmU) (DE)
+SUMMARY:Rocky (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c70965dd66bbda80@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-31cb2e0c0d8d6610@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T203000
-SUMMARY:On the Sea (OmU) (OmU)
+SUMMARY:On the Sea (OmU)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e28da47a9e4058f9@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T160000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0cf5901e3070ad65@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-0ea44b9db6a898d1@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T203000
-SUMMARY:Rocky (OmU) (DE)
+SUMMARY:Rocky (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-75a9a82fae939ff6@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261110T181500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7f332d797abc7739@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+UID:getlos-60179c1b3056bd25@ravidvr.github.io
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Rocky (OmU) (OmU)
+SUMMARY:Rocky (OmU)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT

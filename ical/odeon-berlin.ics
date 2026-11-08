@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon Berlin
 BEGIN:VEVENT
-UID:getlos-a4251fe0ffb58cd7@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T140000
-SUMMARY:Wildwood (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-42d3f0bdaeadd32a@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T170000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bce7bc03ef2d7fd2@ravidvr.github.io
-DTSTAMP:20261107T082350Z
-DTSTART;TZID=Europe/Berlin:20261107T200000
-SUMMARY:Wildwood (EN)
-LOCATION:Odeon Berlin
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-876be0f0cd6667d5@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T140000
 SUMMARY:Wildwood (EN)
 LOCATION:Odeon Berlin
@@ -37,7 +13,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f7b0eb95a07e8e7@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T170000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -45,7 +21,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-705e845a2b18a1b3@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 SUMMARY:Wildwood (EN)
 LOCATION:Odeon Berlin
@@ -53,7 +29,7 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f05db1f79f69511@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T170000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Odeon Berlin
@@ -61,8 +37,24 @@ URL:https://www.odeon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2ecec8ee4883b88@ravidvr.github.io
-DTSTAMP:20261107T082350Z
+DTSTAMP:20261108T080804Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
+SUMMARY:Wildwood (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f4d4e601fcb270c@ravidvr.github.io
+DTSTAMP:20261108T080804Z
+DTSTART;TZID=Europe/Berlin:20261110T170000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9578c08200f4884f@ravidvr.github.io
+DTSTAMP:20261108T080804Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Wildwood (EN)
 LOCATION:Odeon Berlin
 URL:https://www.odeon-kino.de/
