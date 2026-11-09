@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-c28c71fd032ef560@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-afa7884760645f0e@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T191500
-SUMMARY:Biermann (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7de5762568150389@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T164500
 SUMMARY:Biermann (DE)
 LOCATION:Movieland
@@ -29,7 +13,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24e0f7f6928914a9@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T193000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland

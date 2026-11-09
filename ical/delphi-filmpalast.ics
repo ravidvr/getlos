@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi-Filmpalast
 BEGIN:VEVENT
-UID:getlos-14940b4b6ac68078@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T110000
-SUMMARY:Singin' in the Rain (EN)
-LOCATION:Delphi-Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-54fac6b08e19b731@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Delphi-Filmpalast
@@ -21,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c95c92065799d39@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261113T170000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Delphi-Filmpalast
@@ -29,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d99cdd7bd95e8f26@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Delphi-Filmpalast
@@ -37,7 +29,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dceddb4ac87780ef@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261114T140000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Delphi-Filmpalast
@@ -45,7 +37,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91442d92056865ff@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Delphi-Filmpalast
@@ -53,9 +45,17 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-686c32c90a531428@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aea6b95e8d213444@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+SUMMARY:Gentlemen Prefer Blondes (EN)
 LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT

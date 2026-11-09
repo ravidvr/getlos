@@ -4,26 +4,10 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
-UID:getlos-4af08b1bf2cc8d55@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T110000
-SUMMARY:Israelism (EN)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-82fe8fe936ee8552@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T203000
+UID:getlos-92853a23a3440b62@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261115T204500
 SUMMARY:Queens of the Dead (EN)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2c97c27e139eb8d2@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T203000
-SUMMARY:Queens of the Dead (OmU) (OmU)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT

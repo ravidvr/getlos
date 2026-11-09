@@ -4,56 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Friedrichshagen
 BEGIN:VEVENT
-UID:getlos-71261b1ea57d3575@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T100000
-SUMMARY:Biermann (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-770536a5f2880380@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T101500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-976086b3f42b51d7@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T130000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c7ad1af396dcf986@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T151500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3313b6a8eae27c42@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T173000
-SUMMARY:Geister (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9b686ee0f08ba41a@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T201500
-SUMMARY:Geister (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-41c1417ef2d12ee2@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T123000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -61,7 +13,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-29e7ccc79746e49e@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T123000
 SUMMARY:Geister (DE)
 LOCATION:Union Friedrichshagen
@@ -69,7 +21,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-47d6959fc79743ac@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T151500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Union Friedrichshagen
@@ -77,7 +29,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aef8cfad8d12f080@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Block 10 (DE)
 LOCATION:Union Friedrichshagen
@@ -85,7 +37,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-275721c909c3d9f6@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Biermann (DE)
 LOCATION:Union Friedrichshagen
@@ -93,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f736ead7f11268e2@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T201500
 SUMMARY:Geister (DE)
 LOCATION:Union Friedrichshagen
@@ -101,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49c81cf0cf479d79@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T121500
 SUMMARY:Alte Liebe (DE)
 LOCATION:Union Friedrichshagen
@@ -109,7 +61,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a26c0f76b6d45cb0@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Union Friedrichshagen
@@ -117,7 +69,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-534a235dda29a510@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T174500
 SUMMARY:Geister (DE)
 LOCATION:Union Friedrichshagen
@@ -125,7 +77,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c78b8dee4d9800df@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Biermann (DE)
 LOCATION:Union Friedrichshagen
@@ -133,7 +85,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f7aadaded39cbde@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T201500
 SUMMARY:Geister (DE)
 LOCATION:Union Friedrichshagen
@@ -141,7 +93,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b74de9dd36936b6c@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T153000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Union Friedrichshagen
@@ -149,7 +101,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab52d83a1cc22cb5@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:Rammstein - Live in Mexico City (DE)
 LOCATION:Union Friedrichshagen

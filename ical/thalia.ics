@@ -4,80 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia
 BEGIN:VEVENT
-UID:getlos-866e2c2c47824616@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T130000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0fcc2d43e94d5791@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T150000
-SUMMARY:Block 10 (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-22af4050bfa5bda4@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T164500
-SUMMARY:Biermann (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d56f4802163e1ae2@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T170000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-935db8b975963f12@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T172000
-SUMMARY:Ein Talent fürs Morden (OV)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9fcc42bec8da55bc@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T193000
-SUMMARY:Glaube (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39e7f27e13209d87@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T194500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-49db8c727b31e698@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T200000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-53b1406bc638d091@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T204500
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-427102bd6f337663@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T143000
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -85,7 +13,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af5897ea93a3428c@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T143000
 SUMMARY:Glaube (OmU)
 LOCATION:Thalia
@@ -93,7 +21,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1573af82fb9244c@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T172000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -101,7 +29,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a1b2c5693be55741@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T173000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Thalia
@@ -109,23 +37,23 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-454ff7e2372b98bd@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T200000
 SUMMARY:Ein Talent fürs Morden (OV)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0e088f9f0c06d12e@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-e58b9a3d1b36d387@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T203000
-SUMMARY:On the Sea (OmU)
+SUMMARY:On the Sea (OmU) (OmU)
 LOCATION:Thalia
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-669211f65e9f48d5@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T204500
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Thalia
@@ -133,7 +61,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a906dc0810abf51@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T204500
 SUMMARY:Minotaurus (OmU)
 LOCATION:Thalia
@@ -141,7 +69,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d48ddb3a28ecc4e@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T141500
 SUMMARY:Biermann (DE)
 LOCATION:Thalia
@@ -149,7 +77,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82c58613f9e18089@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T150000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -157,7 +85,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bc75af18083bcfa@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T154500
 SUMMARY:Block 10 (DE)
 LOCATION:Thalia
@@ -165,7 +93,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a63d2cc0e992e395@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 SUMMARY:Ein Talent fürs Morden (OV)
 LOCATION:Thalia
@@ -173,7 +101,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dfabe29772b338f9@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:Thalia
@@ -181,7 +109,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fdf595b3a5443713@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T194500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -189,7 +117,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2a987ef4df563027@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -197,7 +125,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3858eddb9d7f48f@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T172000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -205,7 +133,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea122f28ee83b526@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T200000
 SUMMARY:Ein Talent fürs Morden (OV)
 LOCATION:Thalia
@@ -213,7 +141,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f61533cc2cab99ed@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T201500
 SUMMARY:Glaube (DE)
 LOCATION:Thalia

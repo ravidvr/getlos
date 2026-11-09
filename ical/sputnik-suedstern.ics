@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-b1ff8dce5d91a485@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T113000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f20ed7e2fd9c689d@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T130000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c3d8e651576ad2f1@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T183000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f292bad0e633f89c@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T190000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Sputnik Südstern
@@ -37,7 +13,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-803352ccb8c2c93f@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261109T204500
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern
@@ -45,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6311d9ad5165bcc@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Sputnik Südstern
@@ -53,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2833dcffe8ad412d@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern
@@ -61,7 +37,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c54f6e0e41cd1afe@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T170000
 SUMMARY:Alte Liebe (OmU)
 LOCATION:Sputnik Südstern
@@ -69,7 +45,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a66c2df92ff22a3@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261111T210000
 SUMMARY:The Killer (1989) (OmU) (OmU)
 LOCATION:Sputnik Südstern

@@ -2,125 +2,93 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:getlos - fsk - Kino am Oranienplatz
+X-WR-CALNAME:getlos - fsk Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-2c081a76d951e928@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T124500
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-60d1d3cf911abef9@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T130000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee9ee2163d1bdaae@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5106a0be92d8730@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261108T203000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d3fbfbceec185da@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-babd2c5a45c5dd14@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261109T203000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-900397a32b1dd6db@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0bc7cb983146b120@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261111T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d4f95656439b26e3@ravidvr.github.io
-DTSTAMP:20261108T080804Z
-DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2ae9b4261a028cbc@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-fce102f0ca68ed68@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261112T173000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3a977f49263bcf5f@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-4a6cad5af06cf5b1@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261112T203000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6156018207cac17b@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-89e2694cb8103621@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261113T180000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-50bebb20a53d0739@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-e009ed24b05f753e@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261113T203000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fe553294ed960ca0@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-31f6165786daf159@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261114T153000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-be4ca2d9c6dc26ae@ravidvr.github.io
-DTSTAMP:20261108T080804Z
+UID:getlos-cb5ed210d90e2c58@ravidvr.github.io
+DTSTAMP:20261109T081406Z
 DTSTART;TZID=Europe/Berlin:20261114T203000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk - Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://fsk-kino.peripherfilm.de/
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0760585eaa2c714c@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261109T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf0d74cc21d341ca@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261109T203000
+SUMMARY:Iván & Hadoum (OmU) (OmU)
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-605877e7eff45a6b@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261110T203000
+SUMMARY:Minotaurus (OmU)
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a560d6ed531aecf6@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ea67cce3a0f35b8@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261111T203000
+SUMMARY:Iván & Hadoum (OmU) (OmU)
+LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+URL:https://www.fsk-kino.de/
 END:VEVENT
 END:VCALENDAR

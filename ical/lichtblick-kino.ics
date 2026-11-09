@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Lichtblick Kino
+BEGIN:VEVENT
+UID:getlos-15ed2bebbd0e600d@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261115T000000
+SUMMARY:Casablanca (EN)
+LOCATION:Lichtblick Kino
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bed3aa9d6734e94a@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261115T181500
+SUMMARY:Making Marie Antoinette (EN)
+LOCATION:Lichtblick Kino
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7de9fa35c025574@ravidvr.github.io
+DTSTAMP:20261109T081406Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:Marie Antoinette (EN)
+LOCATION:Lichtblick Kino
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+END:VCALENDAR
