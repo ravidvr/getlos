@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-95ce3440ebb5bb47@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T144500
-SUMMARY:Biermann (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1400db9fc667dea8@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d0c4f567bd28e424@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T170000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c1e3ff9165b229b4@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T194000
-SUMMARY:Biermann (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-59c06d970d963456@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T144500
 SUMMARY:Biermann (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -45,7 +13,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-71d4a36702408c6d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -53,7 +21,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2e105f46a812eb3@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T194000
 SUMMARY:Biermann (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156

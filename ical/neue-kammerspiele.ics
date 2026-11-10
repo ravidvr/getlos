@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Neue Kammerspiele
+BEGIN:VEVENT
+UID:getlos-e1fdc54ec4b0b280@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T160000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8f1d525714888cf@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T161500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-91f3267a79c64751@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+SUMMARY:Alte Liebe (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a89202b7d73b6418@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T163000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-542bae9d10e8514c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T201500
+SUMMARY:Alte Liebe (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f0932414deaf45bb@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
+URL:https://neuekammerspiele.de/
+END:VEVENT
+END:VCALENDAR

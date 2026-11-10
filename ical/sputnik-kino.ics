@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Sputnik Kino
+BEGIN:VEVENT
+UID:getlos-b56c3a6cfe63f9fc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T194500
+SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ed5aaa2709b7a1e6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T213000
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-957c8b30e0b4739d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T180000
+SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66ae4d6fff75a44b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-850912e9b751c3ed@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T220000
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+END:VCALENDAR

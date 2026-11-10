@@ -4,18 +4,10 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-7de5762568150389@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
+UID:getlos-ebf105c7d9e95495@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T140000
 SUMMARY:Biermann (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-24e0f7f6928914a9@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T193000
-SUMMARY:Alte Liebe (DE)
 LOCATION:Movieland
 URL:https://www.movieland-berlin.de/
 END:VEVENT

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Zeiss-Großplanetarium
+BEGIN:VEVENT
+UID:getlos-c213ef08250352ba@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T133000
+SUMMARY:Mumbo Jumbo (DE)
+LOCATION:Zeiss-Großplanetarium
+URL:https://www.planetarium.berlin/zeiss-grossplanetarium
+END:VEVENT
+END:VCALENDAR

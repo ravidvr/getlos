@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-2f62d3ff204787f3@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T154500
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8c63c7e61af96594@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T154500
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d3b14492c305a117@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T174500
-SUMMARY:Biermann (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f2191f78903a078f@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Holofiction (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f1372bef24b8a96c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28f4e08888a0f619@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T203000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-372bb2539d19cb81@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino

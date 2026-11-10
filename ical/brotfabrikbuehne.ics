@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-3fea299ed3ca192b@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T170000
-SUMMARY:Holofiction (DE)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0b4772c793f1501d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T190000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e96f22525bbad324@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T204500
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b19f29d497534978@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261110T170000
-SUMMARY:Holofiction (DE)
-LOCATION:BrotfabrikBühne\, Berlin\, 13086
-URL:https://brotfabrik-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0201d9de46770969@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T190000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
@@ -45,8 +13,40 @@ URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66bf5bafdd4a9f22@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T204500
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9263e62089eb306@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T204500
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4effafaef50d1fa4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T210000
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71d3b9499d2b5af5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T210000
+SUMMARY:Die Blutgräfin (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f601241e5a924b6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
 SUMMARY:Die Blutgräfin (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/

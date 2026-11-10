@@ -4,488 +4,88 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cineplex Titania
 BEGIN:VEVENT
-UID:getlos-2aaa017f5dc87cd9@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T100000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-80a3d57742cfd803@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T100000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-882e3790a71f4b34@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T100000
+UID:getlos-c91604008ee201da@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T133000
 SUMMARY:Spider-Man: Brand New Day (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-080a28428ffb29be@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T100000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8ea2926e3d1011b2@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T120000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5d5f35e3859d8f4@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T122000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1248da8d77e894f7@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T134000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ea4640fc384bfeb5@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T134500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a20b25030050246@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T135000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-80ed51e1d61d675f@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T140000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-691cb898d9ef0d15@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f5ca3879fb1dd946@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T144000
-SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d110dea2e37800f@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T144500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0d1be1f55dc091d1@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T145000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b89285fd8662f75f@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fa596867e96df343@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T154500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-26e4a3cdd63da8eb@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T161500
-SUMMARY:Wildwood (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-63ae505fd6d7a29b@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T163000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-997204371d8664a9@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T163000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a393104f41d08a9d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T163000
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e09f6a07b218ebf8@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4de512881d428e4e@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d1b65fecbe274a3@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bed43dc8129e2ac3@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fad5f22014eca29d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b59d05aa48792947@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e40317ce65d42fb1@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e96be0d59be110bf@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T164500
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b1e5c3152fbc48e5@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T165000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e195e5e702a9e15d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T165000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6fbe8a64e6fdeff1@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T170000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8b5b152efa4ca3f5@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T170000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a4e7870f23543281@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T170000
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7c1aa88670f3bd0e@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T171500
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf02656139c3f0bd@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T171500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-45485bb19f73101b@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T172000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f62e0f94bc76369c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T175000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2ed0e95ee3c5c2bc@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T180000
-SUMMARY:Other Mommy (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e1ea706577bf6992@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T190000
-SUMMARY:Die Odyssee (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b4c8ea65f6436325@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T191500
-SUMMARY:Die Odyssee (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b9e75845abd56cbb@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T191500
-SUMMARY:Wildwood (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d1f396ee17d45fa7@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T192000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8a0345fa33fb2336@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T192000
-SUMMARY:Die Odyssee (OmU)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ca0bdff22dbbad88@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T192000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6cd74ad9bfa7996@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T193000
-SUMMARY:Die Odyssee (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3517adf8729f0d47@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T193000
-SUMMARY:Spider-Man: Brand New Day (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d7673f6211fc0a26@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T193000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-af5fc54027e9c34b@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T194000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4fe23e4c2f5c50c4@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T194500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cb82e08258ffb662@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T195000
-SUMMARY:Verity - Dunkle Geheimnisse (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7e3b42903e0c2586@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T195000
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8a386efec5b2dea9@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6a9752705d4ad7f7@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5a090e438b30422@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2b999abc9c1b3884@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T201000
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c16d0fe4eb3c6d04@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T201500
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-025dfc52288f2769@ravidvr.github.io
-DTSTAMP:20261109T081406Z
-DTSTART;TZID=Europe/Berlin:20261109T201500
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d4ff61d4107dc872@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T134000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4e4825189c652881@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T134500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cde160223c251672@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T135000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-506fdc6d6ef7d917@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T140000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f4ab3153a49c3e58@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-054424686d9be657@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T140000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-71a67edecc4168af@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T140500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9f4d069f00d6a268@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T141500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-904d6bb252be1924@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1ba293d00c7b218d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T141500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
@@ -493,31 +93,55 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-938333e8944efac6@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T141500
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7155c86fac00f30c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4a8d922d85ed0bf2@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T142000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-daef4ea0d4dc902a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T143000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e9900bd5fbc2ac0c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T143000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ebd9108cc227598a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T143000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d1e84017104f283a@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T144000
 SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
 LOCATION:Cineplex Titania
@@ -525,15 +149,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0507c413d62f4959@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T145000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bbba8c8d0815c819@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T145000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-72e2fd5b5c4117c4@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T145000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
@@ -541,15 +173,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9de853c007baf1aa@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T150000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-303242ca496c65e8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T150000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b2a19ecadeecd0a9@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T154500
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
@@ -557,7 +197,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7bd7333ad0e55ac@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T155000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Titania
@@ -565,7 +205,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d31eedb5ab9703b7@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T161500
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Titania
@@ -573,7 +213,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d854bf159b6ea38@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T162000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
@@ -581,7 +221,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3152a707b2ebc764@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T162000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -589,7 +229,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63cbe3bc2ec53e00@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T163000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -597,7 +237,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c09e3f8cf7b3684b@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T164000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Titania
@@ -605,7 +245,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67f8de9b84ea7d73@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T164000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Titania
@@ -613,7 +253,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2f2ebab1d56d9de1@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T164000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -621,7 +261,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-59670e7ecb46c15a@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T164000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
@@ -629,7 +269,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61a743dd85ead127@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T164500
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -637,7 +277,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca06ab54731c752c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T164500
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -645,7 +285,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9cd703140a79eaa8@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T165000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Titania
@@ -653,7 +293,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d71e812802c709e3@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T165000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Titania
@@ -661,7 +301,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce8a7e71d3a710cc@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T165000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -669,7 +309,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e96ea27d43dd4a02@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T165000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
@@ -677,7 +317,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5658376fb26d5570@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Titania
@@ -685,7 +325,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7db54bcb3959ccb6@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -693,7 +333,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf32b4babbde6568@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
@@ -701,7 +341,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-501dc84c7fdf2efb@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T171000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -709,7 +349,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c935bb09959aa3cc@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T171000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -717,7 +357,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d976efee70d3946c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T171500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -725,7 +365,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-68fab2e9e1df2f7e@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T171500
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -733,7 +373,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2739b129c8a895d3@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T172000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -741,15 +381,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d9c75c3672c7938@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T172500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-70ea7a48f9f64835@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T173000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a38598fa69252591@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
@@ -757,7 +405,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3decaaedb8622cc4@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -765,7 +413,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-56d4f1825072756a@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T174000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -773,7 +421,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-202cd6770ad56c66@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T180000
 SUMMARY:Other Mommy (OV)
 LOCATION:Cineplex Titania
@@ -781,7 +429,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e2015febde5956b@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T192000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Titania
@@ -789,7 +437,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37ad82e91000d461@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T192000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Titania
@@ -797,7 +445,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a2cc702665c6e7c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T193000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Titania
@@ -805,7 +453,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd0b6af644f93ab5@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T193000
 SUMMARY:Die Odyssee (DE)
 LOCATION:Cineplex Titania
@@ -813,7 +461,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e41768e73a0d4b80@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T193000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -821,7 +469,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a1d38711252bfa7@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -829,7 +477,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2dda7e2e8d45084c@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T194000
 SUMMARY:Spider-Man: Brand New Day (DE)
 LOCATION:Cineplex Titania
@@ -837,7 +485,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7841d854752ecd6a@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T194000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -845,7 +493,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-03f473e0aa16d167@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T194500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -853,7 +501,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3352137931d53639@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T195000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -861,7 +509,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4577ead6d63868e8@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T195000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Titania
@@ -869,7 +517,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4bf462a088db58bf@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T195000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
@@ -877,15 +525,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e064d10b06f1914@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Verity - Dunkle Geheimnisse (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d99afd7e45629949@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-10ba8c2b4c2e737d@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -893,7 +549,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1406cc150d2c82c2@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Rocky (OV)
 LOCATION:Cineplex Titania
@@ -901,7 +557,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37f90121cfd77862@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -909,7 +565,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec953dd9ceac9fb8@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T201000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
@@ -917,7 +573,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4490aa542ee699d9@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T201500
 SUMMARY:Geister (DE)
 LOCATION:Cineplex Titania
@@ -925,24 +581,3440 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8f7890eefe10824a@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261110T201500
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3ffab440fb214768@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261110T202000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9fb08abbb76f7b3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-605967c04f3c2ad5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T100000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7bc674cc62e53568@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T100000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-468cb39a74db4867@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T100000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c63408cc23c17918@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1231000f7786cf0d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T120000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c5afc189a2dd081@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T122000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf4727222e4152ce@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T134000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64b20cde9cb3ab12@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T135000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2749b1f60ceef98e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4794709749795677@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T141500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-adb2cdc251676a94@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T144000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-633a9600c7bbfa06@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T144500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff4ff72d789913cd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T145000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b01c49a48461e837@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T145000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a2c6533f957b3e1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T151000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a30b314e7dfd2e3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T154500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-587fe2c62320fef2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T162000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80990f64d311ee40@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T163000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97c2de3834432eb0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22b29e6ac96c0047@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T163000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-49a12c8f827feb46@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d5b0c3e3685aa350@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ca91684b5e10537@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e39747f0cb3fe8d3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d598756f9cd643ad@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9864952419bfdea@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf598a0cc425660b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4526d89bb08fce3a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a395bc0c1340a16@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T165000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-002cb917a65be8df@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T165000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9d65eec124af554@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39cc58cb03a2ad65@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-afe25a2fad208717@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ab8b8e17b28b0a3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-285de6e5da9a2b53@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261111T170000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c6eaa29f38fd4edc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T171000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a01adb01813eaca@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T171000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-df7a545f60e3b235@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T171500
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f09c668bdad1017a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-edcf882fc4a0de3f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T172000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ffc1666576b4525@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T173000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0907996cc916ca0d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T175000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c9969fa4572b637@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T180000
+SUMMARY:Other Mommy (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81b7e062c3fbf257@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T190000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6fbe06885d0b28b7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T191500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b40fb50a9e6c1155@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T192000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9b75d953099236b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T193000
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bdab5f93ff6cfd0c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T193000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a657b85b4a8ed704@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b93447136d4bf2ce@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T194000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1b22cd8f81120ec9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T194000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9ebc783d0e50be8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ddc3f742b3eef782@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T195000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-519e392dd840e2a6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T195000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d0b353543c81221@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T195000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62456ef6bcc7a3d2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a38ca68211679f2b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bddd217fd9ed1ee2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a686f74f4f097c85@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T201000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b376268951415c58@ravidvr.github.io
-DTSTAMP:20261109T081406Z
+DTSTAMP:20261110T110150Z
 DTSTART;TZID=Europe/Berlin:20261111T201500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f73d8ea72010a3cf@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T202000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-acd2ca0b139a6808@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261111T203000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ff7bb9e7c3045fa@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e5b5f1d7e40b897@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0062f7e4ae900862@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da31960139021ad7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3639981b09228483@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69bde505d9e62d82@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T121000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bc9dc1cc23830c57@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T125000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aee4d1357f5fd72d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T133000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17b9b476a3d2f90e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T133000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8488f379302c4079@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-49b78e6423881985@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aae2151bc87ebedb@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-892c3bbcd8f38a55@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b3ccde3d56b737a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T140500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d36064ae674ff6b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T141000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d3967e382671f8b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T141000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-729b9bd9a20e5807@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T141000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18ea71e5873841db@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d3ed72b568037de@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T141500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a211954217deb2d4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T142000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-64b1659238709b31@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-33c1409b847a6c59@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T143000
+SUMMARY:Spider-Man: Brand New Day (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b8b21c3521b0264@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T143000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5de018f9bb1e55fc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T143000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-45abf5039652858e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T143500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b150508c3e5ddfb4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T144000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60c8dca01e7d5872@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T145000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-98f0d6931beb4164@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T145000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1071e5c2a00b3a00@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-158a07eefdf9fb75@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T155000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-34d0a4bbba04f79e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T161500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04ff8fbbef7a4428@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T162000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-430983dfbb393473@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T162000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c19d59ae08ddf8e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T162000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb71da102df8912a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5d50b8c2a05a7703@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T163000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c1e627987c80550@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T164000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6595710d91ea08f4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1094f1ae4840bb91@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T164500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8d9932a9138867a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d85dcf7fb1a4d66@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e1fc12da73bcfadc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b078e2c491850e0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71a3977e08a04365@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-635fe8c5bddc11bb@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d1cda100881114b2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a31718c92951f9b3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T171000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79626392c89faffe@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T171000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e0689f9a9088c02@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T171000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05aaea39995234de@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T171500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f47dd9103e4b2e40@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T171500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b557d77b1742e9f0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T172000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-86a59467f56a2e6d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T174500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b42f838b57d68fb@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T175000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-478711c8ecc415e6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ac0dc3cd0f95374@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T191500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0466af933a2cd483@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0f169dbc2521cb12@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-acfcbbc1adaaf3f4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3812e87d54a95c5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-53cb79b1407ffb60@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T194000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-052c0c6fbc79bb25@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T194000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f25d2f3fec0a33dd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T195000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1504a5547a4bdc6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b99e833267210061@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11f28fa329fba9a2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T201000
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-54da0a902c94d4cc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T201000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f99de96701fe410b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T201500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e57c5e9ab4117d15@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T201500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b6a54eae9fee6cd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T201500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8fe48ccfc40d5036@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T203000
+SUMMARY:Ramayana: Rise of a Legend (OmU) (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0bab4014794dd103@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T204000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3af493aea156c987@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T223000
+SUMMARY:Godzilla Minus Zero (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cba3475461fc6498@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T224000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd37ff9395901f66@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T231000
+SUMMARY:Other Mommy (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de2ae3ac927c1a4b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261112T231500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b397a08c6b567bf8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T094500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c7921a24a116435@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-03d9f2d4f45e505b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T103000
+SUMMARY:Klara und die Sonne (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e72d99df20ba6a5a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-38010f169dca7097@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T120000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6f5a8a3e0989998@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T123000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4cc5521d939febad@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T125000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c87ef587850fd83@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T133000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0a28d0830c1d733@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T134000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d85e18d26c49db76@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T134000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a3d7ba6e080a690@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3db23e631869c88@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0f69af6e38f67a1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96b2c20ec89aa314@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41a1b02f247916a9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T140500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ffc6b24e7b7f9d08@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T141000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff5ce56b31d9e15f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T141000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96f5faa2cb0d86d8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d53ffb4c90aa14b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T142000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a68aa7b1720e7663@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T142000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8cef1ea457b386b7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T142000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d79048476f436147@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b056a6c57961835@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T143000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39635866abc8424f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T143000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e09b0e45432d4896@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T143000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b2fe1ec48b2078ce@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T144000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0977c43fca0ecf63@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T145000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f475492c7ee25b2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T145000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e6cdf309816fb42@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T145000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ce1f23caa8140f0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ac527f2adb561df@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T150000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6ded624a8d3878a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T155000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de6230ad89f96f60@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T161000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66a86fa3f94e308b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T161500
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e53f0c8ae14a1f67@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T162000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7062fd2a37e0c147@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T162000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60e71589df7a94b7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T163000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5f98479e0e227ca@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3b7bdcfc61baf97@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T163000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3ed0c50c1e89a3dd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T164000
+SUMMARY:Other Mommy (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20872174e02114db@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-944be8c5c3159f20@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T164500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d650864ba9dcc43@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T165000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97e77ad737e6fe62@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T170000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-35b4dd4aa078dfb4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T171000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55dce1365d1c670a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ea752ef5a9f0d850@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac5836939b60333f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2af8caec042e8da3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T172000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10a28160c40e260e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T173000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-35a0af0fa94bdf2f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T174500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9ecc5803e430d21@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T174500
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f79ef68dfa79ec79@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T175000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5b937b7cadbb9db6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T180000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce7064e6d0ea6c1b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T190000
+SUMMARY:Die Odyssee (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4cf797fe700e0d45@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T190000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3143f124bd4695a7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T191000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d102d8b85b40851@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T191500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f441b264129167ea@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T192000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8fbdd5b3499bc01b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cffb6afe343e0390@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50fdc1df2a38829b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80d4989339300cc5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T194000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c628cb946d3a82df@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T194000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-555b322bab220eb8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ce123307cb1df0b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6793b859d9f75aae@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Der mit dem Wolf tanzt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3fb426256ff14000@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fe93aeea20da1a1d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1be4de68756d312a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T201000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-061d8fd2cdffda7a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T201500
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05d3c7ccfe0043ba@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T201500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72292efeb125a153@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T202000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d02f3e021e0cb18@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T203000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-61adfb06da804949@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T203000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3ad9cc9e63941e6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T221000
+SUMMARY:Die Odyssee (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f21f12e933d95f63@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T223000
+SUMMARY:Godzilla Minus Zero (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a784743c5110a597@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T230000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6e32e643b00b6e7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T231000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3a85df9d9b7fcb2a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T231500
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10922f80da704ea6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T231500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6690b8a567beef10@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-521240a97494b0d6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3247293e46e8158c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d8ceb85fffc88c7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-897d0b64b2a2d0f1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T110000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f190e190c215c8f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T110000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b48972c85b5f055@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T111000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8486d771de3bd773@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T113000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f13f14b94ea3f98@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T114000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10a2bd06ebca5173@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T114000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbe0920b6a795fb9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T114500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11cf23ec35a5c8ce@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T115500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5664997160b8f669@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T120000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf8cd69b92363e41@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T122000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-010c3bd7ebc32913@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T125000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08ef1d310a7f5ce9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T130000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-473a18e60b06d5b4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T131000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96a20afa3a473f8b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T132000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cddc746bcb1f1c89@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c32347f898a0d5fd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f4445e9d7c8f9ecf@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-87ae7f761bb51cd2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72d6e7e88d294bbd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T141000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0adfa7586e6b7add@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T141000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7dd59da0f6efddc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T141500
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b5dab454ddb4c518@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T142000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-133eac6451f1fd3e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-548457a12c9c1acc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c0a9f398fc1b16e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Spider-Man: Brand New Day (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6227aa10c0bbee92@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e4fd68fbb5a2a99e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T144000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7dad41b5efab9fad@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T145000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d376b1b15fb0fd7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6089617c87d8d1ac@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8eae9ebc48fe5496@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05a83efbe9b76a3e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T155000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8e33f32685e32a7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T160000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d5d89a871571b79@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T161000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-960ef5c558b82908@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T161500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da3dcfc5ea1053a2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T162000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af60dbd14ad4a3dd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T163000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c960140b5eff0b6d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fb016bc658cf3d2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T163000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cea3d6b705885162@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa74ec6cb48e0c87@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T165000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25a7d73979c19a9d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4d4d7e50f94ad6a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80c7bd379577c71f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0262424f30ffcfcd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bafe85cbc922636@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff50b25ae0311166@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4b5381109438ee8f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f19b9bc1feb20a75@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00deee2a15bfb487@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06210696620197b9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-170c7fb314b2462d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fd58d7b6960afb8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T172000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67a85dd3b376fdf2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T173000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef51d0c5399fe027@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T174500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d575bbc9aefa5cf5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T174500
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29a71e212f5489a1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T180000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f7c80d2893593c23@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T190000
+SUMMARY:Die Odyssee (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-36c83aa6d4d9c3c5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T191500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e6e3c403b8be01a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T192000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-929fcc1d2a61a409@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T192000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d86de5be414d517b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b2bc1d2b7499a438@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e055781455c82b34@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0eee5267e349f09d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-426936f645d04fde@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T194000
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9fa191a951d188f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T194000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4cb5616653c2d032@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-917332a85a0eb5b9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca4670f664227f51@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10fa8e64c31928e2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T201000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-177d4c27faa56eb0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T201000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a3847c2a58a755d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T201500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b6cda54fd801b36@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T203000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bab6a6831e663d8b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T221000
+SUMMARY:Die Odyssee (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-202c13e53d5aa168@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T222000
+SUMMARY:Godzilla Minus Zero (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7225626f7fb7f901@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T223000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3c5e851cc7502d3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T230000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1993ef732e750738@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T230000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04dd685a0b72218b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T231000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b32fc8b6241d49a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T231500
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd4f5ed62fd626d1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T231500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8aea92d01e0b498@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T232000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc524bcc0f385671@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4b5b5e5c3a246528@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T100000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-943fc6ea5f033103@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ca24a5c4c6d469b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T113000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75a2274f5bbc3e1f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T113500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68071c2a1779a10e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T114000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6267e786c5fad235@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T115000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4742c603a1451efe@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0b33f6ba7ad4e68@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T120000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbdeda2010a0aaa3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T121500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-579bdf211a992036@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T123000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d637dfcfef5faf8e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-149c5ada7f4d88d0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T134000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cbfed57db57da5ff@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T134500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab34404d4b403cb3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T135000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e565544bff7059bc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2613bb7c90f106b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e4c94eec3c753dc6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01ebb423b1f07f51@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T141000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a18ad2dc1a9f1dc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T141000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2f047e4d6ec988e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T141000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd7f71f8dd9eb334@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T141500
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3659aa76ab59530d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c92818be1e176d22@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3be4de64e7f898a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T143000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-835f069c1047512f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T144000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a03fb3f614096dc1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T144000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-31847d2d8b613d1c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T145000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cdd96f87d635a505@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ba543ce2398f61f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T150000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-58157c3c3940f11c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T151000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e63c9319a1be0c87@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T155000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e9fa991e24a7620@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T160000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c496d0703cae184a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T161000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0156ee20066c5e3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T161500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29472c4ab91c5834@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T162000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78bb324a01e74130@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca466015e04c9876@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T163000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-244a5677bbd44a46@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5acd78ce72dbfcad@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T165000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f6a86c2b261dce8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T165000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7c36e33f32285e19@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b3cd6834e65b343@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2b2706ddd16bda36@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf879114e2ca8ed1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c6427c02b5a75c85@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T171000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78a07298f9fb6f27@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66bbd65840aa2a46@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T171500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8a40e440cb40ffc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T171500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-609364eedb159cff@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T172000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bc88a24d0f9a414e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T173000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5a20f84b32b3c3a6@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T174500
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f805e33a1bce53cc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T175000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-853af4340fb36256@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T181000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4753c042d4fc4449@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T190000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9490d92e15e06734@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T191000
+SUMMARY:Die Odyssee (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3dc27216034a0da@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T191500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a6a627607f95a75@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7939bfba106ef937@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-181ad9aa15df4452@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e68cfc65d494ca4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9612655d7cc76462@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Die Tribute von Panem - Mockingjay Teil 2 (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-63e42ec4eefa1378@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T194000
+SUMMARY:Resident Evil (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a5c73746968cf2c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T194000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d705f9b52706d03f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dc1d9223455d09fb@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-679314e94aa57ef9@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T201000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62fc24e53285cf15@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T201000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c3e991c082178dea@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T201500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b75f1166aade0526@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T201500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7cb90d7a41b80fa7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T202000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5114a76c5c9249e1@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T203000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8423366e8536c6a0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T203000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-185e45090ddce67f@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261115T204000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ae1beb2bc56be44a@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T100000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-88648456ee75b115@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T100000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68d1041394c02962@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T100000
+SUMMARY:Das Geheimnis der gestohlenen Maske (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-efc2fd8567475b25@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T120000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b47fed6322530ca8@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T123000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-080f93c39244575e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T124000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-531c5f5ceacc2737@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T125000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ac29b54d30efa5e@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T133000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1309ba08ce12e333@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T133000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c0f7c18b4755ffa@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T141000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69ed9d30af8e48d2@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-216ed5e0c97de62d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T143000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5675e41b38f81d42@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T143000
+SUMMARY:Spider-Man: Brand New Day (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c0b3b52ce5038f3b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T145000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e33e8318deb27a4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T145000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e72db380353521ba@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T150000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2131783d69bd153d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T155000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-657261ea8b4ce98c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T163000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a4c9c57ac4c86aed@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T163000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8902407e8d25f4ac@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-466a919ba68d3da4@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T164000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3afef9c92699b48@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T164500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ed7a511414b8c01@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T165000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1eb178cab6ad9cfc@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T165000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-985c184a06f35c14@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T170000
+SUMMARY:Geister (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ccd1790bcb169f03@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d6504428c6e67c0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T171000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e9a2ba1d46a6a29@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T171500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c6d63fc3ff4cc182@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T172000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac82b7375bbd35a5@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T173000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-acdf360a3be8369b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T175000
+SUMMARY:Resident Evil (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a94b39e86b40d384@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T175000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cae0fd00b70dc325@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T180000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44389e40cd28d731@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T190000
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c7a81df38441a8b7@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T191000
+SUMMARY:Die Odyssee (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b0e66688b26ac4bd@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T191500
+SUMMARY:Die Odyssee (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ab841f3175ad3cf@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T192000
+SUMMARY:Die Odyssee (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bdf633e961533f07@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f404bf75a7ae8689@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T193000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44ed9cd830f111f3@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T194000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e13eead526b79b1c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T194000
+SUMMARY:Spider-Man: Brand New Day (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a59232cf506536db@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T194000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6de949539d3e048b@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T195000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e82fefefe86d4dc0@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:Verity - Dunkle Geheimnisse (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2f7a5c5807a74d6d@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9bd95e4751707062@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T201500
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a3615837d8703a9c@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/

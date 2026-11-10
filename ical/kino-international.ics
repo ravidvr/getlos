@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Kino International
+BEGIN:VEVENT
+UID:getlos-a43649f468725c78@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d98bc1c8de813441@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261113T201500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-836776117230d8ac@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-853f03b72ac7da72@ravidvr.github.io
+DTSTAMP:20261110T110150Z
+DTSTART;TZID=Europe/Berlin:20261114T201500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+END:VCALENDAR
