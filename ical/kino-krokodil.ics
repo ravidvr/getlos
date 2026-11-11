@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-57643e9a7b6dfdf5@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T194500
-SUMMARY:Minotaurus (OmU)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fefbbaa1a9a7a0f8@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T164000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9dc7578cd7a30dd2@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T204500
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -29,23 +13,15 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e04ad61c04b50f5@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-19162aa907a7b317@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261112T170000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7721586550cb7bfc@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T210000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -53,39 +29,23 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4fa8e5d08abad667@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 SUMMARY:Alte Liebe (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-33088109a1ae8596@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261113T170000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4aff345aacd942ab@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T210000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5db98ab05ac93a1a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261114T170000
-SUMMARY:Die Blutgräfin (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-acb51e89a536f066@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T210000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -93,24 +53,24 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-29dff7e1c3b79031@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T143000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8a102c17f0f3952c@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261115T211500
-SUMMARY:Die Blutgräfin (DE)
+UID:getlos-7c4619f8296da8ef@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7c4619f8296da8ef@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261116T200000
+UID:getlos-10a03c89f2dacae5@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T191000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
 URL:https://kino-krokodil.de

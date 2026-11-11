@@ -4,304 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia - Movie Magic
 BEGIN:VEVENT
-UID:getlos-7aaa12dec5cf0b15@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T134000
+UID:getlos-a01b7f9a5aff0280@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T134000
 SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e8283beab2233fbd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T140000
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-96df51a9443afb6b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T141500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a91c662ba3df9d77@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T141500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-11b9435b5c3ad85c@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T142000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2a17bbe62e79dc5c@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T142000
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39521e05c71941c9@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T144500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fd2240b89b798129@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T153000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bd8b8e84972bbf52@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T154500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3eda2768c3bb8226@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T160000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3cdc624e76b75a61@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-04de29e6bb302abd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-379257b7d1183c6b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e0053fb14879a944@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T164000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-054b6c79ec4017a5@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T164000
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5042811884ab4f86@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T164500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-80faf27a6844c188@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T170000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-10146a1034eeccc8@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T170000
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dee5442c89581158@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T171000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-37bfef86c1975800@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T171000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-76a7a966a5ad92c8@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T171000
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ed27f7349d34719a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T171500
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-71f9c43b8943195d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T174000
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d1c6d1696db02a11@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T174500
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-964a68d7eda273cd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T181500
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1e80140f430e74fc@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T193000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8619364d4f631ab3@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T194000
-SUMMARY:Other Mommy (OV)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-48252217d5957169@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T194500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d92cfe7ce6c2a089@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T195000
-SUMMARY:Wildwood (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2569894ee65d9d2f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e108a213d7a4609@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d94eb46924aefe35@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2d37783235741dc3@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201500
-SUMMARY:Wildwood (OmU)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-264162199628a487@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201500
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-36ed3d3559cf7ff3@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T202000
-SUMMARY:Wildwood (OmU)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d4cf153b4de50bc@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-db3726189055006a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Other Mommy (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-abcfa3195cbc4c04@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
@@ -309,7 +21,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d30f3a6d6d4cb306@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T141000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -317,15 +29,31 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f80da050a16bca86@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T141500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d41979dbe5c08d6c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c30dbc7787737594@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f8a6f382a6ad4b3e@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -333,7 +61,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1127e3b769c69519@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -341,7 +69,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0c91a115fd3f3441@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T160000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
@@ -349,7 +77,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b5b911a3f0f8efc@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T161500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
@@ -357,31 +85,63 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82d4136209769878@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5925e5f2cd4e7424@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-c344b5448d675877@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T163000
-SUMMARY:Other Mommy (DE)
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e91512626d76c604@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-f245a5f7ae544942@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81894921cff64ac0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T164000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a15f0374ab6816c6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T164000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5dc78da408af4917@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-76ae7a7090f8aefa@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T171000
-SUMMARY:Other Mommy (DE)
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a50e0aec9fb3d290@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T171500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
@@ -389,7 +149,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1101da5227c7727d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
@@ -397,23 +157,15 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-724ec6ea23323485@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T174500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-83d00f294e36c018@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T181500
-SUMMARY:Other Mommy (DE)
-LOCATION:Thalia - Movie Magic
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2426b18e8086b97f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T190000
 SUMMARY:Wildwood (OV)
 LOCATION:Thalia - Movie Magic
@@ -421,55 +173,119 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-950f452519e99a7b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T193000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9d4a0e95ee937815@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T194000
-SUMMARY:Other Mommy (DE)
+UID:getlos-fc1d250cd3133e1e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T194500
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8c29e0bc9842e0b1@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T202000
-SUMMARY:Other Mommy (DE)
+UID:getlos-898653015c928650@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67e3ee296f48864f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T201000
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ef6f8a402bac8324@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a2307fde67baa0eb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Other Mommy (DE)
+UID:getlos-8b92c5549cf72a67@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T134000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-578ae9d0d0fb86f2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T134000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b2380026b56a65c9@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-007360674e26157b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a5bf38f88347bb8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-380510c1f76e3d94@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d2a99a770f5e03f0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4a35eab333715c4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T142000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3e62ebf6c9ff19c1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2e206c8b80351dbb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -477,7 +293,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a829e64d96452293@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -485,7 +301,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-41c7fad05c831268@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -493,31 +309,111 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aa7d79abd0e71fca@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d90585c896dce6a0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9173d61b8cb0a03a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-364dc7bb03af3a2c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T163500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ae5bf12ff778a0d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-34456418533343c3@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T164000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-08c60b3081a71478@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-SUMMARY:Other Mommy (DE)
+UID:getlos-33bb155ae8363697@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c0305a6c2517c2ed@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ecdebcf5484358ec@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8214c91ae5fd0c5f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-efb6f669e662522e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-38780dda71e114a6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d28faa19761216c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T171500
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac94b2e310e04b2b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
@@ -525,55 +421,215 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-61027e76123181a4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T174500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-48be04253d6fef31@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-600c03793d31aa35@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-88bc27ad9de1aaeb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T194000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f54a80e3981f1cf5@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T194500
-SUMMARY:Other Mommy (DE)
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e255fff143ac4adc@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-128086286ae94a58@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T195000
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d169c47e991b1d4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T195000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2d31608ffff6c736@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d43ed78001c56d70@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:George Michael - The Faith Tour (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b234ebcc2b289ff1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bcd579ced4c5ac4a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T201500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-87d18a42d3d78e35@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T203000
+SUMMARY:George Michael - The Faith Tour (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ce12c804e550350a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T203000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-48398efdfe3a7818@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261112T203000
-SUMMARY:Other Mommy (DE)
+UID:getlos-f3096f37693e2f0d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T225000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4682d9a9419e298d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T230000
+SUMMARY:Godzilla Minus Zero (OmenglU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6f2d3cd50d02bf5f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T231500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa264d4a859b239f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T134000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-33e0b91c0faa9b5b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T134000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4b76f3db80dde4e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-690f8159dc345702@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-680ec7142159ac62@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2611ae57ec87568@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T141000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19ebb1aa9798b787@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c807d03432cb01e5@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08558896af107481@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T142000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a5bd3577fa9176ee@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-04835489db670a71@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -581,7 +637,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0dd1fae6329fbf16@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -589,7 +645,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5dae53e7d8b0877e@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -597,31 +653,111 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1e8e88c0aec752ae@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a469e918afaf96d8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12acccc57b9cdfb4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2c34e95d72ee2fcb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T163500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d2fc248afb453bc@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-558d6455f7aa0fe4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T164000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-26eb084a6cf4e554@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261113T173000
-SUMMARY:Other Mommy (DE)
+UID:getlos-74481f411760559c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc2bc5ec3fb2fb8b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T165000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4241904a1ffb7545@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79768d4868fe15cf@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1f4b1f2045bac5d5@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6946f3861999173a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebba8ef5c770959e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4cd4dcfbd2d2459d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
@@ -629,79 +765,335 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53e1da75f0bbb7cc@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T174500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-318038df03b68ebb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-6708529b1699e92c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T180000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23548a3aac87fb0e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+SUMMARY:Godzilla Minus Zero (OmenglU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be372a96f0062f6c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T194000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e505855e166056b0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T194500
-SUMMARY:Other Mommy (DE)
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e66acb0acdf32e2d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc3176dd12702ccb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T194500
+SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ec8d4bb9232904d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T195000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6d237f2c61759893@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-351993d959dea0ea@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7974cf9156c1d850@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T201000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79fc8a2591d084cd@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T201500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1400f60cf7e74503@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T203000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-167b65579330b3ff@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T203000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9be2eca5479151e9@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261113T203000
-SUMMARY:Other Mommy (DE)
+UID:getlos-dd1ebef35427c3cb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T224500
+SUMMARY:Resident Evil (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-57157b8bee11fd74@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T224500
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8fc1ede80ede2aaf@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T231500
 SUMMARY:Resident Evil (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dd534e26b28ef42e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T231500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a1d871aec731748@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T110000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af557db069b02b4f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T112000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0f77c9cff735632c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T113000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-644fbafe1850a6c2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T114000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e2971e84859ab71@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T114500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9eb83422010138f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T115000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81ec269439aa6efe@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T130000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fdeaea4d7fbdeee4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d746211a06127549@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T133000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-07104308daed757d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T133000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3d70243b09d80151@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T133000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e2c7e5bfa9adc7b6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T134000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a72c0066b0a44940@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T134000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-944af21352502846@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8342238c85ad0447@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d46cdb6e17b0904d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-795c469b17cc256c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T141500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-045c461d9f6a5e79@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T141500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-350604cbc0447255@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96b2d44c0255eced@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c8ab442f141980a4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T142000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d15853d35553aec4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-834ad8fae2b59415@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-caaee634af78aa6f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -709,7 +1101,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40406d6ea1ffbfac@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -717,31 +1109,119 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0bf706ff6f00b0c5@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-561d35121ba47b1d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-73845b50bf03bfca@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25732c874820c510@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T163500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69f5627aa0512631@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T164000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aaf858952d538aa3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4c4870de2a111edb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T164000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-488472653e4f301b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261114T173000
-SUMMARY:Other Mommy (DE)
+UID:getlos-a89e086c5dafff82@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da029831ea03d3ca@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T165000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5aff5dd1435b5d38@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c31a4f5ee253579b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68c91bbcd3cc680e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3155d1957d61aa36@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-971f31175a229106@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-795eda775e27301a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
@@ -749,55 +1229,223 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-038b5d34ec66d5be@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T174500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-dd7ad9c0b104be12@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-5b0bd2a654d1e6ef@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T180000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-058bf706dbf1cd6c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e690ee5070b90fea@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T194000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c43b084391196595@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T194000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b06471e316968a43@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T194500
-SUMMARY:Other Mommy (DE)
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94e5b051567ddb96@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83895857fa3206fe@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T194500
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ccd609e498d4e51@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T195000
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c439d203eddcb402@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T195000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c851e86be8b48e86@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75c267a450f13bfc@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-264d76199919bf09@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T201000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3380bd52a494ad4f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T201500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c37c8603d801358@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T203000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-55e9533d95707dab@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T203000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-915e676cb671666f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261114T203000
-SUMMARY:Other Mommy (DE)
+UID:getlos-33d058c0699d9e65@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T224500
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-87e915c959a6e017@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T224500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c0debd3bbc7f7985@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T231000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bbb6a98af7fbfe2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T231500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c70de4a82064383d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f08c421dd59ea3a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+SUMMARY:George Michael - The Faith Tour (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60cd9ddb1dfcb234@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T111000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69a9480173ef707f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T112000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-934b894bf5647202@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T113000
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-edbfb3bfc439dfce@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T113000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef75f1cc3184135c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T114000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2d992ea8979a6bdc@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T114500
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -805,39 +1453,127 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c981f6c9e16eeead@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T114500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9221b3828db63eb2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T115000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9531c299ec9ec368@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T130000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-36f5ced3a46bed4a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-42069f1a54a3513a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T133000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23e82eb3b2f6d130@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T134000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-514c18d98fd2544a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T134000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0a9f03dc8fb971d1@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T134500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8769acc969e2c6e8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6272c6918f464d25@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dbc60a67e273f6f0@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T140000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-934d1cb9317f5e1b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ea13bb43f2ea3437@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c3ac4da9ced71bb3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebdc0458943bb13d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T150000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c5234a12ce07cb52@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -845,7 +1581,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00277d644a3c8311@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -853,23 +1589,127 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e342ecdc5cef4ce@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9c9ef81e76a3ecff@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a9ead0386c507a2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25472c33fdb7dca0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T163500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-46d1878567ca9f6f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7aa2a07d60454c5b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T164000
+SUMMARY:Wildwood (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d59bd10cdb5f432@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-725c99765fc398e1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T165000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f9667931b3c1206@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-220cb66cbfbb0d7a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8986a29ff4e45eb6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c1471aca5f189ee3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f0c13a3e398e94b0@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T171000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-865d39772baae4af@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04d132e654a76a5a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7ae440cb83660b84@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
@@ -877,47 +1717,191 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-baccf3a7cc35d46c@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T174500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-35871065d0bf6f9b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-98df825b7cf5ad12@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T194000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65c83ba628362b02@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T194500
-SUMMARY:Other Mommy (DE)
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-07b35621fa7ba8bb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d09643278c95f42@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T194500
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a035ad455934c50@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T195000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-008f371be3a28651@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T195000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72645a15c326844f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbc277533043620d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2be33be16dd42fcf@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52271179fef0e49a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T201000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8da2fa7ce76d0ca8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T201500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-999028fdfb60534c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T202000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c2dc411a567c6bf@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T203000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b8a8479817d856f7@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T203000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c64d096a3758a22e@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261115T203000
-SUMMARY:Other Mommy (DE)
+UID:getlos-300d5e3202fa7b3a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T204500
+SUMMARY:Godzilla Minus Zero (OmenglU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb3ec286181b3747@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-57722a7478192086@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1b73b7f0bd905781@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T141000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ddcaacf2d83f993c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d7a6cc4732668e10@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2a24d088e69af6b4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T142000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6148ac9a643a8f02@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c705966e0bcf79b1@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Thalia - Movie Magic
@@ -925,7 +1909,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9a384f019797ace@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia - Movie Magic
@@ -933,7 +1917,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df1f5c3805332650@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T154500
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
 LOCATION:Thalia - Movie Magic
@@ -941,31 +1925,111 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da918f27d0e2f20f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e193da5b24780c14@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0f281d62e92cda94@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-693e909779a29fce@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T163500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b6223567273603af@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-89fb34c0a0a7dd39@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T164000
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-71e712330d9ab73d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261116T173000
-SUMMARY:Other Mommy (DE)
+UID:getlos-6b8233a7799dd12b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-044e738e9a7291c2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T165000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a4401f665da2cec9@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-673d787732b2caa4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa3822a08947f69f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc49ddf8366dc8c6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a34d65e7957daff@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07f9fe57540e7909@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
@@ -973,33 +2037,393 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df0428a63d3e9629@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T174500
 SUMMARY:Wildwood (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-156c5fb1fb28e30f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-305a449df36f9139@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T194000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4254d4734bbe0a02@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T194500
-SUMMARY:Other Mommy (DE)
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d992c5f321a79ab0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02c870c43df932a1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T195000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-779169a700c4a878@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T195000
+SUMMARY:Wildwood (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4e40825141c3989@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a2e9a8f2e91ba46@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T201000
+SUMMARY:Resident Evil (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2cb995395fb4996@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T201500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b4567261a6a7c93@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T202000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-52665da808bed226@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94e432aecbe6403c@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T203000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e788f02ef7518915@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261116T203000
-SUMMARY:Other Mommy (DE)
+UID:getlos-5ba29c04a89f9cf0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-24f4b2d36fa386ed@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa16d6b5b78d236e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T141000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd0807c889404867@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T142000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-250380ca6492f0f7@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T142000
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c75c6c0eef292d9f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T143000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12b9a1ce8f7a3f91@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T154500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08c8c677724fa3fb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T154500
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70a947b07ed9b6c8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T154500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f8a2cd450a9a899@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T154500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-504136a67993d302@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T163000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc856062dd6b25f6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f8068b5386f7c01@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T163500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12b1077e8ee336bc@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3be9b00e0191eacf@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T164000
+SUMMARY:Wildwood (OV)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9b2b2adebfcf2285@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T164500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-35b7f9ccb1914b31@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T165000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-121710070f92d1e9@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-890610434bd8c094@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f1cbbfba1445510@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12c5cdc9b11a4490@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T171000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9faa1b6111b9ccbb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T171500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ad07ee24ddee958@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-217c48c3f3dd78b4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T174500
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-119681c4b80f895e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T180000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d62b1ddb94bddc3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T192000
+SUMMARY:George Michael - The Faith Tour (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-289b90670b6ee834@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T193000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ca73a1820fa1fc2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T194000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a89ebdde62606db1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b45fb22815fe09b7@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T194500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f7d0020cc541157@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T194500
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8c0dabadc59cd50@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T195000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c2d0d2ba3bde917@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a9101d860dcf010@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a7ffee1eaf4c8357@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+SUMMARY:Wildwood (DE)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e20bb8377a907f7b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T201500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Thalia - Movie Magic
+URL:https://www.thalia-potsdam.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fc6e9bbb207f24ea@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T203000
+SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Thalia - Movie Magic
 URL:https://www.thalia-potsdam.de/
 END:VEVENT

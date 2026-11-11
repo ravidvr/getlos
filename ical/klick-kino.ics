@@ -4,10 +4,66 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Klick Kino
 BEGIN:VEVENT
-UID:getlos-ad4af98be8fa6e9d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Barbara Buser - Pionierin der Nachhaltigkeit (OmU) (OmU)
+UID:getlos-1fe7179c242d3083@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T173000
+SUMMARY:Eine Letzte Runde (OmU) (OmU)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-89464b2234945a63@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T150000
+SUMMARY:Eine Letzte Runde (OmU) (OmU)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1068d92eae399b58@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T173000
+SUMMARY:Chasing Hope - Der andere Blick (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab3776cb2636c811@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T173000
+SUMMARY:Eine Letzte Runde (OmU) (OmU)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f519dda478f2c71@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T173000
+SUMMARY:Chasing Hope - Der andere Blick (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f57fdfd7b082403@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:Eine Letzte Runde (OmU) (OmU)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6527849042def8dd@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T173000
+SUMMARY:Chasing Hope - Der andere Blick (DE)
+LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
+URL:https://www.klickkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20d7ad77c3f54162@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+SUMMARY:Eine Letzte Runde (OmU) (OmU)
 LOCATION:Klick Kino\, Windscheidstraße 19\, Berlin\, 10627
 URL:https://www.klickkino.de/
 END:VEVENT

@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-e3dee15772bc6b10@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Mumbo Jumbo (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a2f7972015b0a454@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T190000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5f43d61127148894@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T205000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ac31480f3b6b5f3a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T211000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b4334e784101f2ed@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T190000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -45,23 +13,15 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed2bf2dac0404c86@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T205000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c1273958e593c60c@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T211000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b6a60c7a674173ee@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -69,7 +29,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8099a5d8c35b88c7@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T190000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -77,55 +37,39 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb20d54b31e04c65@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T204000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-530edf0698b5334f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261112T211000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-407319f60b77cfd5@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261113T163000
-SUMMARY:Mumbo Jumbo (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f94d2e44f699f798@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T181500
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-96a22b09783e6bea@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261113T202000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0088767764a63e16@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T204000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ba529397f0e30062@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T224500
+SUMMARY:The Devils (EN)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4fc0ca999bdce75b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -133,7 +77,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab84d983cc8c3a9d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T190000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -141,31 +85,15 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d47fed31f87dc216@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T204000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b292c4714cf5183d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261114T211000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a41e8cdf3bc65294@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261115T131000
-SUMMARY:Die Blutgräfin (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-994e9591af2983de@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T132000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -173,7 +101,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ea73fef5718ff87@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T190000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -181,23 +109,15 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7cec9b1a3e26b268@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T204000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-495f7088934693fb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261116T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-14b0e19b77c48d47@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T191000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -205,17 +125,17 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee63f281a7b892ca@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T204000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7663c87c7eed8e82@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261116T211000
-SUMMARY:Die Blutgräfin (OmU)
+UID:getlos-a7a21f8a655ccfd8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T204000
+SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT

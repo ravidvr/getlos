@@ -4,80 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-c1dd460a050156cd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T141500
-SUMMARY:Geister (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4ada9c78b936da81@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T144500
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-04b685d1509e86c7@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T153000
-SUMMARY:Geister (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5c9a7b8c6e2605d4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Geister (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-702cb7b311c465f1@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T172000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-def8cf74aca0e424@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T180000
-SUMMARY:Geister (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2783f51cc5ada28b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-501de824bd183e80@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T202000
-SUMMARY:Geister (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b7c91243162210eb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Geister (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3841f40d5e9c3890@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T141500
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -85,15 +13,23 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7acaf93c90feca3a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T143000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1f6996f20e1cf0b4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T153000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4cdbe66e3d7cda35@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T172000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -101,15 +37,23 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7575f897e0833fbd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T173500
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7fdff65f600ce457@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T180000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3af3cbfa0f5c65ba@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T200000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -117,64 +61,392 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b21b2ecd14aca13@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T201000
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fab0cba1762fa6f4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T203000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-84bc8daeb25f682b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T150000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f12f751f170f43d0@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T151500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ad50a674cf033b9b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T164000
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4d6d1b45c6995f98@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-9e9c24a8e9014cca@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T173000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a08c1c36cc8cbe86@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T175000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ecb1698d9f7bf4c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d2dd232f6e19916@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b46d2abe68fe2cbe@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T203000
-SUMMARY:George Michael: The Faith Tour (EN)
+SUMMARY:George Michael - The Faith Tour (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ad839d3339c02a2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T144500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d5e7bbaa69139886@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T153000
+SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c2234b967e88dbe@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T162000
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6fda35fd2b21cee8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T172000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80a703c05f513239@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T180000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-14fbc9a65368beef@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-140132528d4e0d88@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66a426accbcb498f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d7d79390fa6a6d2a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ed1a1c1b3b73028@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T144500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f36ba704fefbc2ac@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T153000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c09c024d3425c482@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T162000
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fdae76b6e4633406@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T172000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-316cdd1685e272ed@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T180000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55066c66dfb053ab@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62f5ad7cf4d11194@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e572dc04d893066@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T123000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e2cdc7dcd220b14@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T150000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-58c8ae1a3f3fa4f1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T151500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c7a4c0660ff9b0bd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T162500
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a72fdda5dd70b42d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-ea5388f8e03185dc@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T164500
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf4c5c6a50328116@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T173000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3c3ffaf1e4b8f7d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T175000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af4c9ee0757626bf@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19743e7cece986d4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T203000
-SUMMARY:George Michael: The Faith Tour (EN)
+SUMMARY:George Michael - The Faith Tour (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6c5824386ee9d35d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T153000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d55d3f79efddcd3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T154500
+SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bc2e664a4dc4421d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261116T163500
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94c79cbbff3b69a3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T180000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad8750e521801b3b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T182000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4b7ad97e191d0ec@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2c1357a43010adb6@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f178f98065d04a58@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T144500
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41deac884a1e9f52@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T153000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-688bbc60fd5df719@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T163000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a5212e785aaace38@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T172000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf7fd16ba3892810@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T180000
+SUMMARY:Geister (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-95462236b807bd3c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-035d223126e4077e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Geister (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino

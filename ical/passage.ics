@@ -4,136 +4,48 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Passage
 BEGIN:VEVENT
-UID:getlos-a7f14c2977d3f3a7@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T160000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d827270b68cb411@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T164500
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-437089d7b5827584@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T170000
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-74a9d44228298085@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T170500
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-984b31b382c415fb@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T173000
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-22c4724d56ef914a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T175000
-SUMMARY:The Devils (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e1fb5c0c88d25f36@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T194000
-SUMMARY:Wildwood (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-24bd690a5f762170@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Other Mommy (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-43baaef07b37d2cf@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Rocky (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-49eb87de44ebd605@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-856724189517c343@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:Glaube (OmenglU)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d63fcbb0a7ddc19@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201000
-SUMMARY:Clayface (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5ea2e923b0134198@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201500
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-81a99f52f3ffd975@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Geister (DE)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b7434f7d3e658d18@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T210000
-SUMMARY:The Invite (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1a0e683378171978@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T160000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-43d63521a4c25f84@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T164500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b27b40c2d1970c14@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5e4d40dfeee9a30d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T170500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19fc269b4c7eba07@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T171500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8b5a7e3b0cdbbbd6@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T173000
 SUMMARY:Geister (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -141,89 +53,465 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aed15ab1ec82079b@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T175000
 SUMMARY:The Devils (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-174918ab5a440457@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-d9fd3e8d66e4905d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T200000
-SUMMARY:Glaube (OmenglU)
+SUMMARY:Geister (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d30a5b570e4ddd6@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T201500
 SUMMARY:Geister (DE)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a63355b7d2a00f7a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261111T203000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bb72a010a5f823a9@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T210000
 SUMMARY:The Invite (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-49ee606bc7cdca00@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T164000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f4526aeec32122d5@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-46a7b7a5b66e1b77@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T171000
 SUMMARY:Ebenezer (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bacb870d11b75ca2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T173000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b54d7c8326c3389@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T174000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-231665e35954ab8b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T174500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e00df1cc7633636f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T193000
 SUMMARY:Her Private Hell (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d32c83299ccf4b41@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T194500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6d34760d8dc87d38@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T195000
 SUMMARY:Ebenezer (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0928dc42700c20bd@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T203000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a2dfd911a368755f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T164000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42ef4b022f3a2482@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T164500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d32e9eb249cd563f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T165000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-250bde94e93d54eb@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T170000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-92867f2e9eceb00d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T171000
 SUMMARY:Ebenezer (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-de11dcdfa945608d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-efe6d2368ebfff94@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T173000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5a32636d99b665c1@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T174500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c1f1d3ac528d0c14@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Her Private Hell (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ff15795d329df4f2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T203000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d48bb03f121f0e78@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T133000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d8320fa3a92f7b0f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dceb92e944b290ac@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T164500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8a581d97fe5a38e@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T165000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c357f8a61d145388@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3245f9bb78e58b43@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T171500
 SUMMARY:Ebenezer (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0c03b2d686659bc4@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dfe402c1239c9710@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T173000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e83250b975e65ff8@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T174500
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-62628591ddd546ad@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T201500
 SUMMARY:Her Private Hell (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e1138aa9700fae3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T203000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dee21ba71c731243@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T150000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b37bee5dd0b8939c@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T164500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ba07129ccd98c12@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T165000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-13c8349dc5980084@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T171500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66cc09e929b61b9f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T173000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e93b4c441402c26@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T174500
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9c5056f5020d673@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T203000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e690cc8965f6b286@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T141500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d47686f36a1529f5@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T164500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a426c0b9bef85a2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T165000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8da5bd009e76802@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T170000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d192700214c787b9@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T171500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aa18075da5743553@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T173000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b54ec51122fc9345@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T174500
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f02dffffc3c3f5d3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-322fec177642017b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T164500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71bd3962a65cb51d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T165000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b67d1aaa13cdb96d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T170000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ebe941f70f3456e2@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T171500
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01bd189a3cde1b4b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T173000
+SUMMARY:Geister (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-419d72143e8f1cf3@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T174500
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78303505987e51dc@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T203000
+SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT

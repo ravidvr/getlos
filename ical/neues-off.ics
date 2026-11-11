@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neues Off
 BEGIN:VEVENT
-UID:getlos-bf6fa4153d791037@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T172000
-SUMMARY:Minotaurus (OmenglU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-026393059c5723a0@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T203000
-SUMMARY:Minotaurus (OmenglU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bc2f178d7de11a5e@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -29,8 +13,96 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ca38bc79ac67caa@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04ffba8e3a2f166d@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T172000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cebe5fcd46b94d7f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T203000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74625919f7c62008@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T172000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8353c169bba6908@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T203000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8c053a821e99588@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T172000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2511e42469c97c91@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T203000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85fc068a1c4e2747@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T172000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4778624dbd2afcae@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T203000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc7c31f0916a890a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T172000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77cd448cd6274837@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T203000
+SUMMARY:Minotaurus (OmenglU)
+LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
+URL:https://yorck.de/kinos/neues-off
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dce9e98ba56a11bd@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T175000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off

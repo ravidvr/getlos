@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Xenon
 BEGIN:VEVENT
-UID:getlos-e9e31df10574d9a3@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T174000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
-URL:http://www.xenon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0e2539f90f16bb58@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T200000
-SUMMARY:On the Sea (OmU) (OmU)
-LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
-URL:http://www.xenon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-483a2a6cd1d91ee6@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T174000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
@@ -29,8 +13,56 @@ URL:http://www.xenon-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6814eb8f2bc25e7a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T200000
+SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fc80cc52fbffe83b@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e4a6b7b86b77388a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85a42a7a460cc812@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bc3273e838a91486@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-76022ed2f096096a@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
+URL:http://www.xenon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2df9dac33fcbacce@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:On the Sea (OmU) (OmU)
 LOCATION:Xenon\, Kolonnenstraße 5\, Berlin\, 10827
 URL:http://www.xenon-kino.de/

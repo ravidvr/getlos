@@ -4,50 +4,66 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick
 BEGIN:VEVENT
-UID:getlos-149fa736efd7d99d@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T181500
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-545d80d963adfe18@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T180000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e9fcae8e253d11bd@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T221500
-SUMMARY:The Killer (1989) (OmU) (OmenglU)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a101f4b9dac00b09@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T161500
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-217a1f44feb37340@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3c5cf3647312f09a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261114T144500
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dab13e3ec4609b24@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261114T184500
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-372f07064f6a6f91@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261115T144500
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a978f475efdcba9a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T163000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1134439a6ebf7615@ravidvr.github.io
+DTSTAMP:20261111T080224Z
+DTSTART;TZID=Europe/Berlin:20261116T214500
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT

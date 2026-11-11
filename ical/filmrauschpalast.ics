@@ -4,74 +4,34 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmrauschpalast
 BEGIN:VEVENT
-UID:getlos-ce238b6c163dd165@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201500
-SUMMARY:The Killer (EN)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5c3061e81c4afc10@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261110T201500
-SUMMARY:The Killer (1989) (OmU) (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3d8a2c311dc71b16@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261111T203000
 SUMMARY:Queens of the Dead (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b1718faa47372792@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Queens of the Dead (OmU) (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a7081fe1f817369f@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261112T201500
 SUMMARY:The Killer (EN)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8858a6cb81f43d7a@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261112T201500
-SUMMARY:The Killer (1989) (OmU) (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38506633f88f79ec@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261113T194500
 SUMMARY:The Killer (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-593bfe5d1ce435b0@ravidvr.github.io
-DTSTAMP:20261110T110150Z
-DTSTART;TZID=Europe/Berlin:20261113T194500
-SUMMARY:The Killer (1989) (OmU) (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8ceaedb1262b41b4@ravidvr.github.io
-DTSTAMP:20261110T110150Z
+UID:getlos-37f84a8b39def47f@ravidvr.github.io
+DTSTAMP:20261111T080224Z
 DTSTART;TZID=Europe/Berlin:20261115T160000
-SUMMARY:The Killer (1989) (OmU) (OmU)
+SUMMARY:The Killer (EN)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
 URL:https://www.filmrausch.de/
 END:VEVENT
