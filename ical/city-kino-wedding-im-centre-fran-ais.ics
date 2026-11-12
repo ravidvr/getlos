@@ -4,26 +4,18 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
-UID:getlos-02cded87cfeee88c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261116T180000
-SUMMARY:Alte Liebe (DE)
+UID:getlos-08def2b04e1cd0ee@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T133000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ddb3dc2707a4ed49@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T103000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d637b2191361a027@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T150000
-SUMMARY:Emil und die Detektive (DE)
+UID:getlos-92853a23a3440b62@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T204500
+SUMMARY:Queens of the Dead (EN)
 LOCATION:City Kino Wedding im Centre Français\, Berlin
 URL:https://citykinowedding.de/
 END:VEVENT

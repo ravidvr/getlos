@@ -4,112 +4,40 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Toni & Tonino
 BEGIN:VEVENT
-UID:getlos-e9898d7741b92177@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T131500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5a2a7256cec8eee9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a5559c0c8025fce3@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T141500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3430700a25f861f0@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T143000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3ae5cbef267f89e7@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T150000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ca74e7f07386c992@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T154500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9f46974bfa5ec014@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c6324c0425bc321e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261112T135000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6d4104cfc49f771d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T140000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b4e0132c15163ea2@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261112T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d502314bc41aa5f1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T141000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c65f02c6a1744370@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T141500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ac6ccb08f1aabe86@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T141500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6f67bbf2bada77d4@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261112T142000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a8ab80d6d4acb422@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T142000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -117,7 +45,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-41f73d734717b543@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T142000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -125,23 +53,15 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe5db19c8731fbb9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T143000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-37e3e39e6d6dbec3@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261112T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5fe83aff21aa7bee@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T172000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -149,15 +69,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9034625878b7ad0e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T173000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bc45dcb2701cb6b7@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4bf6bcc67bc1a791@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -165,7 +93,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1db696b5c2d90632@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T200000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -173,7 +101,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a167936e9029e0fc@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T230000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -181,7 +109,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7d32a9897df318c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T231000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -189,63 +117,39 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-994e56ba930ed1af@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T114500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-51ceb3244ea2e4ef@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T121500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-927d9c5d9e07cb68@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T134500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-74098caf947837e1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T135000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2885b3756888aaba@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7a995a9360912aeb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-55e059e9b7a3edf4@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T141000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0bfa55cb34a989e8@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T141500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2ab4a2fd9848c59d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T142000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -253,7 +157,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78f968d817eef95d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T142000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -261,7 +165,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82e88ddca3f00061@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T143000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -269,7 +173,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82749f4d16ba8f11@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T144500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -277,7 +181,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53cbbbf73167d85a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T160000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -285,7 +189,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-50a39526df4becb7@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T172000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -293,7 +197,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5793457f1e760de9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T180000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -301,15 +205,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-387799e33a83ba7b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-676e3807b08ad503@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4ce5e0c9d43c12a2@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T203000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -317,7 +229,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-657abb623ed6aacb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T230000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -325,7 +237,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b12ffacae31ca626@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T231000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -333,39 +245,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2f52e5f0e12e067@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T103000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1afe5e11939d789f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T110000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3e18271e4f801620@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T110000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4e29ae0dbaf5e92b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T114500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f6a8c35f1e770b99@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T120000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -373,63 +269,39 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e8b8231f9543ff5@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T130000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5ef9286bb5ec8abb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T134500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eb836b08f927e896@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T135000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e29112b835081ff4@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T140000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b376f962a82671e4@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7e607dffb838b468@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T141000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-83e10ae1fc3555f6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+UID:getlos-f75bc1c2670fc40d@ravidvr.github.io
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T141500
-SUMMARY:Emil und die Detektive (DE)
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9842784c9eb89d42@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T141500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -437,7 +309,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3374879f0061c7d7@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T142000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -445,23 +317,15 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e80d89ad8268e5d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T142500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8b511975face42f6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T150000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1de0f2e23d0e58f5@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T172000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -469,7 +333,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-64807ffb00a38cb8@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T181500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -477,15 +341,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7759c769f1bb3778@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-89866af0a7af81ad@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a8374b46da66f62e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T204500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -493,7 +365,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7192e5e29cebabe1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T230000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -501,23 +373,15 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8f59758b92857e1c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T231000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-991a074538936350@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T110000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2b1dd499bccf9546@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T110000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -525,7 +389,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b0a7ed0b02c3510@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T113000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -533,7 +397,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6d0f639965065f6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T115000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -541,71 +405,47 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2ce12768903c039@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T120000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-77d446a51bf44c4b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T134500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-61e4dae73754bb2c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T135000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b6a21d453ef65a88@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T140000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e947d68d4118e447@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4e3e45715930fed3@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T141000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c003dc83978b6f21@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T141500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-238bb719cb31544c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T142000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-55ab6c8c041fee35@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T144500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5a0f1fcc000b7aef@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T170000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -613,15 +453,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0aa30aa47c36776d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T172000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7020dac9807999bf@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T184500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cac021f4d99a55b9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T193000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -629,31 +477,31 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bf1efd0019c43e8b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-aaea5f2e9c6b0aac@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261116T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f3ef1a4f986206f1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T141000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1bf638604bb883ab@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T141500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8ebab7112a93d46d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T142000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -661,7 +509,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22f3205e60daac8b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T143000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -669,23 +517,15 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b46da6c555b39df@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T150000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-920967bfff87a7fe@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261116T154500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d192c550f71dfe0a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T172000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -693,15 +533,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-759567cc9a95db11@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8b6bff9ce9f6654e@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fbcb34dc56e84a17@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -709,39 +557,31 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-35d9807cfcacf512@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-df7cbe332772db63@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T140000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6f768ac71dcdd09@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T141000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fc6b9b750f13b710@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T141000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0aab3a7a1defbc1e@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T141500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7fc69f6928a688e3@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T141500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -749,7 +589,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f5250fefe2a518e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T142000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -757,7 +597,7 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3edc057ce7f6b9e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T143000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -765,23 +605,15 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3bbddf80270026df@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T144000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e79d6138de6959a5@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T151500
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Toni & Tonino\, Berlin\, 13086
-URL:https://kino-toni.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-79d562c8c1323170@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T172000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -789,15 +621,23 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afd271d0ceecaa86@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-25796351dc8cff79@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-02dc43506a8b9c1a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
@@ -805,8 +645,32 @@ URL:https://kino-toni.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-14922acbf416ae35@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7eb76a768ea944b9@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T142000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1e669b21cb94cf7@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T172000
+SUMMARY:Wild Horse Nine (OV)
+LOCATION:Kino Toni & Tonino\, Berlin\, 13086
+URL:https://kino-toni.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4fc86f08e2a27036@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T195000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Kino Toni & Tonino\, Berlin\, 13086
 URL:https://kino-toni.de/

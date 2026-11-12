@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Rollberg Kino
 BEGIN:VEVENT
-UID:getlos-e732fd715bd1d70d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T170000
-SUMMARY:Wildwood (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-721e3ec4df9eb5f8@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T173000
-SUMMARY:Godzilla Minus Zero (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-da085cd7c17ee5e6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T183000
-SUMMARY:Bad Apples (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7b99dd895f224735@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T184000
-SUMMARY:Resident Evil (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-98d7a36eb4b2c371@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T200000
-SUMMARY:Wildwood (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a9dd80f5da09b0ac@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Godzilla Minus Zero (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3571119501cd6854@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T210000
-SUMMARY:Primetime (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-83c7250dc04c5cd9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T210000
-SUMMARY:Clayface (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ddbec86e4a61e5c2@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T163000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -77,7 +13,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9bbec65bee46a987@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T170000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -85,7 +21,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2daeda9c29926173@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T183000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -93,7 +29,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-492b409440a6b359@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T193000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -101,7 +37,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a3c24af5c3174db@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T200000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -109,7 +45,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b04855d93aed1d37@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T210000
 SUMMARY:Primetime (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -117,7 +53,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-157c0344112677eb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T163000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -125,7 +61,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4dfa5d37d9f6401d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T170000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -133,7 +69,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cca372bf53f276f1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T183000
 SUMMARY:Bad Apples (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -141,7 +77,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2987745937542dbb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T193000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -149,7 +85,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fa34ab5a5efb3766@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -157,7 +93,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b6dff8827b4f091@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T210000
 SUMMARY:Primetime (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -165,47 +101,71 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b7ec6ec89fce1096@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T223000
 SUMMARY:Friday the 13th Part III (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b4eac844690ae004@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T160000
+SUMMARY:Primetime (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3e62bcad7fb1d093@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T163000
-SUMMARY:Wildwood (OmU)
+SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e84e0b071e518789@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9619c0a2a180fdaf@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T183000
+SUMMARY:Bad Apples (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b88a54d737e239db@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T193000
-SUMMARY:Wildwood (OmU)
+SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da6fe8e726655216@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0636600cfd2cad40@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T210000
+SUMMARY:Primetime (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-58dc93e9c0765ade@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T223000
 SUMMARY:Bloody Tennis (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -213,7 +173,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-29c768a4804eef4f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T133000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -221,7 +181,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-efa29a70239deccf@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T140000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -229,7 +189,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6dbb3cb0a8f0c967@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T163000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -237,7 +197,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fea209959a7cd3a6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T170000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -245,7 +205,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b977f3d7ff7e4ef@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T193000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -253,7 +213,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b3cbf6b3b18280f8@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -261,7 +221,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2ec5717b449985d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T170000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -269,23 +229,15 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-258d0513e4fa070f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fe25a0db93f058ea@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261116T183000
-SUMMARY:Resident Evil (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6f7677a93d7aa836@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -293,7 +245,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a0662f682c39db2@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T203000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -301,7 +253,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73e367461cbbce26@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T170000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -309,23 +261,15 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-db030cf3dc9a3fcb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4cf408d640bfed6c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T183000
-SUMMARY:Resident Evil (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c79e5c493e21ea53@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Wildwood (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -333,8 +277,40 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6e0332911b636537@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
+SUMMARY:Godzilla Minus Zero (OmU)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e371c7431b92d7d4@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T170000
+SUMMARY:Wildwood (OmU)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ed6f06c3cb1cbbf@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T173000
+SUMMARY:Godzilla Minus Zero (OmU)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-780ecea75b18e954@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:Wildwood (OmU)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c20688707f894503@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T203000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg

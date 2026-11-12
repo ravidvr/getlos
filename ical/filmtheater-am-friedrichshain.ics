@@ -4,128 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmtheater am Friedrichshain
 BEGIN:VEVENT
-UID:getlos-8f22eedde4a99872@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T140000
-SUMMARY:Minotaurus (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-695cabec1fd529ba@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T143000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-43ff27d32add9981@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T151000
-SUMMARY:Wildwood (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-301a396e30937979@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T151500
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5856ccb7d1ae463@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T153000
-SUMMARY:Geister (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-66b88e1740861945@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T170000
-SUMMARY:Minotaurus (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-576666deaf3424b6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T180000
-SUMMARY:Geister (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-74160bc236f9606c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T181000
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-13f4426499b9a14f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T181000
-SUMMARY:Ein Talent fürs Morden (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f5461eb20a97c00f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-35cd6d64cc28d966@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5d3d8e3ff2126d9f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T204000
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1cdfa31d628246dc@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T204000
-SUMMARY:Wildwood (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2570e75f4eeaeeba@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T210000
-SUMMARY:Klara and the Sun (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0641f73dbc68bd3f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T134500
 SUMMARY:Minotaurus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e8bea64bdae6c88d@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-81068d58e4154654@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T142000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -133,7 +29,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7cc81d679cfd913e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T143000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -141,31 +37,31 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-992abf2f27bc779a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T145000
 SUMMARY:Wildwood (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-251d964c30ffb515@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261112T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5a05cf721fe7d0f0@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T153000
 SUMMARY:Geister (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2d123b787c67d142@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d5cee4ed1360cd30@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T172000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -173,7 +69,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-abb6c29e41867b7e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T173000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -181,15 +77,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91a9d0550af77ad6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T174500
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fe98aa2c30137888@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T194000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ba957cf8fea32910@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -197,7 +101,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1ce27d8f8af2b22d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T201000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -205,7 +109,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6c88992cd0a01d1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T204500
 SUMMARY:Wildwood (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -213,15 +117,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b53d0b27a0ff5648@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T205000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ccdeeee8586b4935@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a6186b78ee50bffd@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T141500
 SUMMARY:Minotaurus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -229,7 +141,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9644c051df25c521@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T145000
 SUMMARY:Wildwood (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -237,23 +149,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da31a378faa3d0d1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-958df9b7b50a0bfc@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T151500
-SUMMARY:Alte Liebe (DE)
+UID:getlos-5424dcdfd13de2c3@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88991260340f758d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T173000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -261,15 +173,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d06fce98df500d9d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T174500
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-29249acd42dda8e0@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T194000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a266a58af1699282@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -277,7 +197,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f62d3cfd02d27d73@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -285,7 +205,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-474a98b33ecee4dd@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T201000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -293,7 +213,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-462e5ec2030c825c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T204500
 SUMMARY:Wildwood (EN)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -301,7 +221,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-68407933aa747f84@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T205000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -309,7 +229,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96161c4e267584f7@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T130000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -317,7 +237,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cfe3aad0bc5311ec@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T133000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -325,7 +245,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bad45f75dc39477b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T143000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -333,7 +253,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62ac6da04aa0921b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T145000
 SUMMARY:Wildwood (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -341,23 +261,55 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62f5d44b2bb69be6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T153000
 SUMMARY:Geister (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ccbfe82f36ae941b@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a42abeb09c27b77@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T170000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a9f8414902a1e412@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T174500
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6d064acf58949824@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T194000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-46a8aa4ad57b2a43@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+SUMMARY:A Talent for Murder (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-759f57a0e207251b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -365,15 +317,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe75c730ebcc5d1a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T201000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-253fae818ac8fb8c@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T204500
+SUMMARY:Wildwood (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-86e839204f29062d@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T205000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -381,23 +341,15 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cce6849ed9250226@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T114500
 SUMMARY:Geister (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-907ba4a25556c510@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T120000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6e005b617bb47457@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T141500
 SUMMARY:Minotaurus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -405,7 +357,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c02275a8f13f1bb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T143000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -413,23 +365,39 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86532125e37085c2@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T145000
 SUMMARY:Wildwood (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e1f85bb956f3d60d@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dc0c1d6e3e9ffe75@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T174500
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d2f40aa3a0ebe902@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T194000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-958b27efc484b112@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -437,7 +405,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4abc8467a61ea137@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T201000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -445,15 +413,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32cae01b49b0f018@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T205000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fd452932b527b353@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T134500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-97bf2cdd9f82ba1e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T140000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -461,7 +437,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-794d6937a6eb0d09@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T141500
 SUMMARY:Minotaurus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -469,7 +445,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a48ca8837e53e30a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T150000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -477,7 +453,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c084cb490365c298@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T150000
 SUMMARY:Geister (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -485,15 +461,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b7df2a47a06b14b6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T151000
 SUMMARY:Wildwood (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f898907c27aabe5b@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T163000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a316726526b822d9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -501,7 +485,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-311e1a53c035d720@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -509,7 +493,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f716fd581652958@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T174500
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -517,15 +501,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b32b24562649a20@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T180000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-72435b93ac2e0369@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T191500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f22a1d872e8eba35@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -533,7 +525,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e869c84d803f4b4@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T203000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -541,15 +533,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afd35f731518f29a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T205000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c6192ae35c39304e@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T140000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9776b2e7a2895f14@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T141500
 SUMMARY:Minotaurus (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -557,7 +557,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-35a83acffb7d0b86@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T142000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -565,23 +565,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c97ab8ba5fcf6165@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T151000
 SUMMARY:Wildwood (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d0d88afe6d834155@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T151500
-SUMMARY:Alte Liebe (DE)
+UID:getlos-ecf4f6a9f4bd0101@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f342775f9e3c6cac@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -589,7 +589,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8644a9a46dab4fce@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T174500
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -597,15 +597,23 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb4b0caf48bba1a5@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T180000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a8608f70eaa0ca85@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T194000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-61d6c05836fd9b98@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -613,7 +621,7 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3b565ddd81d14bf6@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -621,8 +629,72 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-26b1c0faee02ea8a@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T205000
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ecc944990a7ee8a6@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T144500
+SUMMARY:Minotaurus (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2af2904bd122495c@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T150000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6da573408cd45dcb@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T174500
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-165d96c68a5278af@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T180000
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c1a578cd1a371176@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78ad9994935bdec1@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T201000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48d689bbd44f4007@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T203000
+SUMMARY:Marie Antoinette (EN)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fce53744d95668e7@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T205000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain

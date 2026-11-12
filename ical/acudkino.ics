@@ -4,40 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-19f7ddecb9fa69d4@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T164500
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-53e6dc1566155802@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3c2eb76dcb4c43ff@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T184500
-SUMMARY:Alte Liebe (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-02c80b496c521388@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T210000
-SUMMARY:Alte Liebe (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-55b7aeab76680251@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -45,7 +21,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1992a54ddedfdd60@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T180000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119

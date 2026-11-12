@@ -4,56 +4,48 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Kulturhaus Spandau
 BEGIN:VEVENT
-UID:getlos-43e9148145d268f9@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T164500
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b9be38495e14eee8@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T172000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4ee660bc2a62768f@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261111T194000
-SUMMARY:Ein Talent fürs Morden (OmU)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4fbe955b60b35670@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261112T142000
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6ce4faa592bd16e3@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T142000
 SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7280128cf9e11faf@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T142500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1724ffcfaaefff3c@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af18779790776b67@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T174000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-91c97d29e20ec501@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261112T192000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7f945fdb8833fc48@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261112T193000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -61,135 +53,183 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85ecd942d92fbfab@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a2b6a41d087bf5d1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T141500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8ec9a40318cf3fbb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261113T151500
-SUMMARY:Alte Liebe (DE)
+UID:getlos-63c34b4f3508f78f@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T142000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39701a8e31ba4019@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T171000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ede340a93b6c7765@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-52907d88661e4dbb@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261113T193000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-36bdb575daf5f2c1@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T134500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-44a865296fe27961@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261114T151500
-SUMMARY:Alte Liebe (DE)
+UID:getlos-13398b2cf35bb4ea@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261113T194000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c25de25d3c81c6c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T163000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ce2436e4cfe82c6d@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T164500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aae73b8c5c3f6639@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-12b4e0226c91465b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261114T193000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-2b86c34f4b05391e@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T121000
-SUMMARY:Alte Liebe (DE)
+UID:getlos-0b03b70e25440e1c@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261114T200500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-be39a2208c93aa48@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T145500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ffe4f747d4629475@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261115T153000
-SUMMARY:Alte Liebe (DE)
+UID:getlos-08ee17a6c24407bd@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T161500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7838a3f107192cac@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T173000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-05e66b0dc025b795@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T173500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1995284c457e115b@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4c21a41ed3fc6cf8@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261115T193500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1e08c29343032b7c@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261115T203000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-610d94108a2ea560@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261116T151500
-SUMMARY:Alte Liebe (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0faf2242eb2304f8@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T163000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-915e513412609b90@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f0a260c9df42e4b@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T172500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fec4acf37b328d8b@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261116T192000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a21dad7f2f3ce6d2@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261116T193000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -197,25 +237,57 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6724f0aaa2630fda@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T142500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-91ddfacb96e89934@ravidvr.github.io
-DTSTAMP:20261111T080224Z
-DTSTART;TZID=Europe/Berlin:20261117T151500
-SUMMARY:Alte Liebe (DE)
+UID:getlos-94193bbe452a12d1@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9780bb4e165baeed@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T172500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c3a54053ced7d96e@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261117T192000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f80393ed5d89375b@ravidvr.github.io
-DTSTAMP:20261111T080224Z
+DTSTAMP:20261112T083913Z
 DTSTART;TZID=Europe/Berlin:20261117T193000
 SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-13cf300934aef059@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T140000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
+URL:http://www.kinoimkulturhaus.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c7ef470a1be4300@ravidvr.github.io
+DTSTAMP:20261112T083913Z
+DTSTART;TZID=Europe/Berlin:20261118T165500
+SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
 URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
