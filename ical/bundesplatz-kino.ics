@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
 UID:getlos-3d3ac12e94856e42@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 SUMMARY:Leica - Ein Jahrhundert in Bildern (DE)
 LOCATION:Bundesplatz-Kino
@@ -13,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5ba82c1433d69e5@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
@@ -21,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96d512ddd841e305@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T203000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -29,7 +29,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ed7f14efac7f11d@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T203000
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Bundesplatz-Kino
@@ -37,7 +37,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-48298c47a12d26aa@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T160000
 SUMMARY:Leica - Ein Jahrhundert in Bildern (DE)
 LOCATION:Bundesplatz-Kino
@@ -45,7 +45,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-07321d35a7810c41@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T180000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -53,7 +53,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f951ab6348f2573c@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T180000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -61,15 +61,23 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4441d44d1467a2d4@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Bundesplatz-Kino
 URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8c5a46b63a0281c7@ravidvr.github.io
+DTSTAMP:20261113T082053Z
+DTSTART;TZID=Europe/Berlin:20261115T154500
+SUMMARY:A Talent for Murder (EN)
+LOCATION:Bundesplatz-Kino
+URL:https://www.bundesplatz-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-39f44b8a2a1bf123@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T154500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -77,7 +85,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5eea788344658fb7@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Bundesplatz-Kino
@@ -85,7 +93,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2692f174d929cc6c@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino

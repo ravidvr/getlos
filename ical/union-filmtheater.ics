@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Filmtheater
 BEGIN:VEVENT
-UID:getlos-bf615d268ac6e57c@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T150000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e51aa2e0ca402f3@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T154500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-124c5b1e46f08a47@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e679c215fabb8f1@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5437850d30b82644@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ca7cf9ee09c8b270@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-35b338f9ae38be1f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-SUMMARY:Other Mommy (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1c9cbaaa34b58f5b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2bc9c717b9154569@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -77,7 +13,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f39b7f2604eded80@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -85,7 +21,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b0cfd4c1e8ce4308@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -93,7 +29,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dee0a39893a35734@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -101,7 +37,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-41c0f5f3e7f4e724@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -109,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90606c2a673b6206@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -117,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8de1404ef1a9b4f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
@@ -125,7 +61,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae220604f4e2a7d8@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -133,7 +69,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2a7358ae7915914@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T130000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Union Filmtheater
@@ -141,7 +77,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0f22d04fd7494792@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T131500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -149,7 +85,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c66656faf9995537@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -157,7 +93,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a987cc553eb3b7e2@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Union Filmtheater
@@ -165,7 +101,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d49dfced06095f1@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -173,7 +109,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32813018f535e3e2@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -181,7 +117,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc2277263eabf494@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -189,7 +125,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-71f31a3d06b41022@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -197,7 +133,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d5fdc9911e67d69@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
@@ -205,7 +141,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7ed4b52164e954a3@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -213,7 +149,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3edc11b9dd6dd756@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T131500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -221,7 +157,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7b013bc141a3f783@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -229,7 +165,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5ba6a20fa0e2c869@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Union Filmtheater
@@ -237,7 +173,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-02152e7aa4b2f0bc@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -245,7 +181,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f4ea66db2d059ed@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -253,7 +189,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-090697f2ef7454a7@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -261,7 +197,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6234a0b27d7547a@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -269,7 +205,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65b7550b99f14522@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
@@ -277,7 +213,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94c5c5af8ed732ed@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -285,7 +221,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d41adb76e25e64cb@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T153000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -293,7 +229,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c675081cd9553017@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T154500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Union Filmtheater
@@ -301,7 +237,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-482645d4f6705fc6@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -309,7 +245,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fd1e9cbaa91de2cb@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -317,7 +253,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b0365cb96b1c28f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -325,7 +261,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a76f93bdff026e11@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
@@ -333,7 +269,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-077aa0b36cdcd1f2@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -341,7 +277,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8c62a52b24d83c5@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -349,7 +285,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8625429e0f469617@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -357,7 +293,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d765e3908e39ac4e@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -365,7 +301,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69b2074e8141ca21@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -373,7 +309,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-41ae528192f6aa72@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
@@ -381,7 +317,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f2c566e21ed1d708@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -389,7 +325,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3e7b09082b35235@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261118T150000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -397,7 +333,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5aa72d9aab1f1595@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -405,7 +341,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d6a94e8cc883cd2@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater

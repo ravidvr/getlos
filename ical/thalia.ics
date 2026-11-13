@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Thalia
 BEGIN:VEVENT
-UID:getlos-72c2ba99f603aa9f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T141500
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0a0ec29f97d06bfc@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T150000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-33e700efff642f91@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-85add797704db554@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-SUMMARY:Identitti (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e5f200f15c9fa288@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-SUMMARY:Ein Talent fürs Morden (OV)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-98d718f2fe7e1ada@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-SUMMARY:Minotaurus (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d04cc4495053f4f1@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T201500
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-add08d5704fdb924@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T201500
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Thalia
-URL:https://www.thalia-potsdam.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5e7af2ae048d8ceb@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
@@ -77,7 +13,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c09c925ceda0ff1@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T141500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -85,7 +21,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19af1032d8d23d3b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T144500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Thalia
@@ -93,7 +29,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69147686d9da7623@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -101,7 +37,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a8658fd87816f9a@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T173000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -109,7 +45,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-079eac137d8e8194@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 SUMMARY:Identitti (DE)
 LOCATION:Thalia
@@ -117,7 +53,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed020fe4ac9a09e5@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T201500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -125,7 +61,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb3ee043769f0fbc@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T203000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -133,7 +69,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb026c987a475a14@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T120000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Thalia
@@ -141,7 +77,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67850c9a15e9992f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T120000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Thalia
@@ -149,7 +85,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49bedd4974cbe4cd@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T143000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -157,7 +93,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78f4397e354872f1@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T144500
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia
@@ -165,7 +101,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0a57e21e2170610@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -173,7 +109,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f65237246148854@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T173000
 SUMMARY:Ein Talent fürs Morden (OV)
 LOCATION:Thalia
@@ -181,7 +117,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b5e8650f88061459@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Minotaurus (DE)
 LOCATION:Thalia
@@ -189,7 +125,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f5ed1db16fa3bc0@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T201500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -197,7 +133,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f78cbbe103c77da7@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T201500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -205,7 +141,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-77c2753012e339e4@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T204500
 SUMMARY:Identitti (DE)
 LOCATION:Thalia
@@ -213,7 +149,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-527e6cf2e7b5fccf@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T100000
 SUMMARY:Leica - Ein Jahrhundert in Bildern (DE)
 LOCATION:Thalia
@@ -221,7 +157,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c72f863e2653f7ab@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T121500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Thalia
@@ -229,7 +165,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19f5754d51ad7534@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T130000
 SUMMARY:Der frechste Troll der Welt (DE)
 LOCATION:Thalia
@@ -237,7 +173,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea4ee55a1743b3d5@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T144500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -245,7 +181,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-272cb87428eb5fad@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T144500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -253,7 +189,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-173cd997adb6879a@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T153000
 SUMMARY:Block 10 (DE)
 LOCATION:Thalia
@@ -261,7 +197,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5fb9f33ba2026f51@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T174500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -269,7 +205,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e226ea4916ede2e@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -277,7 +213,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6964c04a55605fb@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T203000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -285,7 +221,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-879fdd2c3c4d7dc4@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T204500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -293,7 +229,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f162897895bdf5b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T210000
 SUMMARY:Identitti (DE)
 LOCATION:Thalia
@@ -301,7 +237,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ae0ab0bc9f478ad1@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T143000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Thalia
@@ -309,7 +245,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-620818d35f47cb56@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T151500
 SUMMARY:Leica - Ein Jahrhundert in Bildern (DE)
 LOCATION:Thalia
@@ -317,7 +253,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1db991b369c26c42@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -325,7 +261,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62ece011b07aa77b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Ein Talent fürs Morden (OV)
 LOCATION:Thalia
@@ -333,7 +269,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b73af665f8e2d7d7@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Identitti (DE)
 LOCATION:Thalia
@@ -341,7 +277,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a44a436b586896f5@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T201500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Thalia
@@ -349,7 +285,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce7290000b7fb021@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T201500
 SUMMARY:Ein Talent fürs Morden (OmU)
 LOCATION:Thalia
@@ -357,7 +293,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4944b1c6f1a46016@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T204500
 SUMMARY:Minotaurus (OmU)
 LOCATION:Thalia
@@ -365,7 +301,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e887e5be27d60a8b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T141500
 SUMMARY:Block 10 (DE)
 LOCATION:Thalia
@@ -373,7 +309,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4879d4e8a96559cd@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T143000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -381,7 +317,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90420e5fcfb0d173@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Thalia
@@ -389,7 +325,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7553c356fdebb470@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -397,7 +333,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-58cbd102818473ab@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T174500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Thalia
@@ -405,7 +341,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9d23f293100219d@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T201500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Thalia
@@ -413,7 +349,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e230ac151325dbe@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T201500
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Thalia
@@ -421,7 +357,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7990eb741d6dd8ad@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Identitti (DE)
 LOCATION:Thalia
@@ -429,7 +365,7 @@ URL:https://www.thalia-potsdam.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b5425c0997fb57b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261118T173000
 SUMMARY:Ein Talent fürs Morden (OV)
 LOCATION:Thalia

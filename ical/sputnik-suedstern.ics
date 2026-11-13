@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-090eb2c82c9fc32b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T180000
-SUMMARY:Identitti (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cfcf37e60c1bb36b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T180000
-SUMMARY:Drei Kameradinnen (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2016bd451f732008@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T194500
-SUMMARY:The Mad Dog of Europe (OmU) (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-430e36595d4e6cf9@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T211500
-SUMMARY:Superbuhei (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-acdb8e58c5c258a5@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T180000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -45,7 +13,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-02845314f98317e7@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T180000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Sputnik Südstern
@@ -53,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b23ab0f8d639b5de@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T213000
 SUMMARY:Identitti (DE)
 LOCATION:Sputnik Südstern
@@ -61,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cd86421ed170075c@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T214500
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -69,7 +37,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cfe1c79ba7d5b67@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T143000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Sputnik Südstern
@@ -77,7 +45,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3dcc7cb751013171@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T143000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -85,7 +53,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d647f64fe1d7063@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T160000
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -93,7 +61,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-695ecc6c5ae021ab@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T164500
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Sputnik Südstern
@@ -101,7 +69,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9ef92f52b9c2330@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T183000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern
@@ -109,7 +77,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eeabbd417ae53a41@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T210000
 SUMMARY:Identitti (DE)
 LOCATION:Sputnik Südstern
@@ -117,7 +85,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91e125a0bf9e67f3@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T113000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern
@@ -125,7 +93,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9b2522928d8f2af9@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T153000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Sputnik Südstern
@@ -133,7 +101,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc6c08ae658fc438@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T173000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Sputnik Südstern
@@ -141,7 +109,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0366f52664b0339@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T191500
 SUMMARY:Identitti (DE)
 LOCATION:Sputnik Südstern
@@ -149,7 +117,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f911992ec5074541@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261115T210000
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -157,7 +125,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe32a2d682e9c664@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T170000
 SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Sputnik Südstern
@@ -165,7 +133,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3488fcdef1bad74@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T184500
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Sputnik Südstern
@@ -173,7 +141,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4280e73755d98bf9@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T190000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern
@@ -181,7 +149,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a720dade990db8e@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -189,7 +157,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb4bd1283367fe4a@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T203000
 SUMMARY:Identitti (DE)
 LOCATION:Sputnik Südstern
@@ -197,7 +165,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d219b575be2a034@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261116T213000
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -205,7 +173,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a21c11fa617e92b@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T170000
 SUMMARY:Drei Kameradinnen (DE)
 LOCATION:Sputnik Südstern
@@ -213,7 +181,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-58bda8105add9f0f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T190000
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -221,7 +189,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-68f5fb9da0262a2a@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern
@@ -229,7 +197,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d58c81ba39d4dd53@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -237,7 +205,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69a4b74b64d752e0@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261118T203000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Sputnik Südstern

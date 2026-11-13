@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neue Kammerspiele
 BEGIN:VEVENT
-UID:getlos-b8f1d525714888cf@ravidvr.github.io
-DTSTAMP:20261112T083913Z
-DTSTART;TZID=Europe/Berlin:20261112T161500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
-URL:https://neuekammerspiele.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a89202b7d73b6418@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T163000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
@@ -21,7 +13,7 @@ URL:https://neuekammerspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e868cbfbf4d4736f@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261113T181500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
@@ -29,7 +21,7 @@ URL:https://neuekammerspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f0932414deaf45bb@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
@@ -37,7 +29,7 @@ URL:https://neuekammerspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-471f590628dfed2c@ravidvr.github.io
-DTSTAMP:20261112T083913Z
+DTSTAMP:20261113T082053Z
 DTSTART;TZID=Europe/Berlin:20261114T201500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Neue Kammerspiele\, Karl-Marx-Straße 18\, Berlin\, 14532
