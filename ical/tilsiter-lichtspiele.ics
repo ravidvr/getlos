@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Tilsiter Lichtspiele
 BEGIN:VEVENT
-UID:getlos-b5d945eecaf3583e@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T181000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e3485207fd764c14@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9fceb196d80c3ff6@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T202000
-SUMMARY:Identitti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-02bb133f1ad722ed@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T162000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -37,7 +13,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9803e81f0d3de240@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T184500
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -45,7 +21,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ab1922096b00867@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T201500
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -53,7 +29,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1c12a1b2378cbd7@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T162000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -61,7 +37,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-edd6aad7656c4351@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T184500
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -69,7 +45,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78c2d54f54cd9764@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T201500
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -77,7 +53,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d31072bea55a468@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261116T181000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -85,7 +61,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a33d0e053a6878a@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -93,7 +69,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b49b9a2e456d1dd@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261116T202000
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -101,7 +77,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2f1568ced915cbb@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T181000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -109,7 +85,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0fb4470c9c3dea8c@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -117,7 +93,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c1bd66cb251ffe63@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T202000
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
@@ -125,7 +101,7 @@ URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6081fcfedddb0fb@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261118T202000
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249

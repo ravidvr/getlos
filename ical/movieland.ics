@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Movieland
 BEGIN:VEVENT
-UID:getlos-68206c93168e3bd4@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T144500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bdfc1a120bce95ab@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T170000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0d3bfb663d329048@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T174500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5722bc8ade05722a@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Movieland
-URL:https://www.movieland-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c58e2339d345e04e@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -45,7 +13,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d30c6a69ac7f0563@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -53,7 +21,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba95d79a6482da89@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -61,7 +29,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ed5a7f7309216f1@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T203000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Movieland
@@ -69,7 +37,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-48930894541f219e@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T123000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Movieland
@@ -77,7 +45,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e9d5a989cb794ab@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Movieland
@@ -85,7 +53,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fb46f3aa9947f71c@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland
@@ -93,7 +61,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-35f390b9606d663e@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Movieland
@@ -101,7 +69,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-979cec9442fd8454@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T170000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Movieland
@@ -109,7 +77,7 @@ URL:https://www.movieland-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c95ac38292b5a29@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Movieland

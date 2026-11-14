@@ -5,15 +5,23 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
 UID:getlos-53e6dc1566155802@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-472c555061342836@ravidvr.github.io
+DTSTAMP:20261114T080700Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-55b7aeab76680251@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -21,7 +29,7 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1992a54ddedfdd60@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T180000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119

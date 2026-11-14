@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-4aff345aacd942ab@ravidvr.github.io
-DTSTAMP:20261113T082053Z
-DTSTART;TZID=Europe/Berlin:20261113T210000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-acb51e89a536f066@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261114T210000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -21,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-29dff7e1c3b79031@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261115T143000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -29,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7c4619f8296da8ef@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-10a03c89f2dacae5@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261117T191000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +37,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0243f8d09da80a44@ravidvr.github.io
-DTSTAMP:20261113T082053Z
+DTSTAMP:20261114T080700Z
 DTSTART;TZID=Europe/Berlin:20261118T191000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
