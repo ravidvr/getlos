@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
-UID:getlos-66ae4d6fff75a44b@ravidvr.github.io
-DTSTAMP:20261114T080700Z
-DTSTART;TZID=Europe/Berlin:20261114T143000
-SUMMARY:The Mad Dog of Europe (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-850912e9b751c3ed@ravidvr.github.io
-DTSTAMP:20261114T080700Z
-DTSTART;TZID=Europe/Berlin:20261114T220000
-SUMMARY:Queens of the Dead (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d087e250a493db1b@ravidvr.github.io
-DTSTAMP:20261114T080700Z
+DTSTAMP:20261115T081050Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:The Mad Dog of Europe (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967

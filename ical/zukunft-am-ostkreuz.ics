@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Zukunft am Ostkreuz
+BEGIN:VEVENT
+UID:getlos-a25bae645a365e1c@ravidvr.github.io
+DTSTAMP:20261115T081050Z
+DTSTART;TZID=Europe/Berlin:20261121T174500
+SUMMARY:You Can See Everything (EN)
+LOCATION:Zukunft am Ostkreuz
+URL:https://neue-zukunft.org/
+END:VEVENT
+END:VCALENDAR

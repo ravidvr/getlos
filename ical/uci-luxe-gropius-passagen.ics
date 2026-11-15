@@ -5,15 +5,23 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - UCI Luxe Gropius Passagen
 BEGIN:VEVENT
 UID:getlos-fcb16ff41afcd176@ravidvr.github.io
-DTSTAMP:20261114T080700Z
+DTSTAMP:20261115T081050Z
 DTSTART;TZID=Europe/Berlin:20261115T194500
 SUMMARY:Ebenezer (EN)
 LOCATION:UCI Luxe Gropius Passagen
 URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-555c685d6e89f391@ravidvr.github.io
+DTSTAMP:20261115T081050Z
+DTSTART;TZID=Europe/Berlin:20261117T194500
+SUMMARY:Ebenezer (EN)
+LOCATION:UCI Luxe Gropius Passagen
+URL:https://www.uci-kinowelt.de/kinoinformation/berlin-gropius-passagen/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2675e921bd098fdd@ravidvr.github.io
-DTSTAMP:20261114T080700Z
+DTSTAMP:20261115T081050Z
 DTSTART;TZID=Europe/Berlin:20261118T194500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:UCI Luxe Gropius Passagen
