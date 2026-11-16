@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - CineStar
 BEGIN:VEVENT
-UID:getlos-25d72c41173e26b5@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T113000
-SUMMARY:Coyote vs. Acme (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dd3729e3d0070d08@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T120000
-SUMMARY:The Lord of the Rings: The Two Towers (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-483983c7917a7f1d@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T163000
-SUMMARY:Wildwood (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e10b0f6bc6c6b14f@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T193000
-SUMMARY:Wildwood (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3c9093719ba5dea4@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T194000
-SUMMARY:Resident Evil (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8d1df851dd6c9987@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T195000
-SUMMARY:Ebenezer (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d015adf6ba9465d8@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T202000
-SUMMARY:How to Rob a Bank (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c511a96e1810219b@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T203000
-SUMMARY:Clayface (EN)
-LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
-URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5a0558a6ac0a5a73@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T143000
 SUMMARY:Spider-Man: Brand New Day (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -77,7 +13,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6cd86b78f286ff9@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T170000
 SUMMARY:Ebenezer (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -85,7 +21,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b60272676483917@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T171500
 SUMMARY:How to Rob a Bank (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -93,7 +29,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86ea31c6bf03a227@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T172000
 SUMMARY:Wildwood (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -101,7 +37,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-130a67f319e20da2@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T192000
 SUMMARY:The Odyssey (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -109,7 +45,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d72727bf551268fb@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T193000
 SUMMARY:Wildwood (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -117,7 +53,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a1fb86946c2f694a@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T202000
 SUMMARY:Clayface (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -125,7 +61,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb743f29f8733576@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T162000
 SUMMARY:Wildwood (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -133,7 +69,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a9a51da8a5145b0@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T195000
 SUMMARY:Ebenezer (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -141,7 +77,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51aa4ed777767f6e@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T201000
 SUMMARY:Wildwood (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -149,7 +85,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7fe38af42187ef56@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T202000
 SUMMARY:How to Rob a Bank (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -157,7 +93,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f1e1d938e6cfba22@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Clayface (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -165,15 +101,47 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f82cf246e9a2c0d@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261118T135000
 SUMMARY:Spider-Man: Brand New Day (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0f717b1ab6a4395f@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261118T170000
+SUMMARY:Wildwood (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19de2d4f6fe03432@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261118T172000
+SUMMARY:How to Rob a Bank (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0248c3a57f8b8ac4@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261118T173000
+SUMMARY:Ebenezer (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1694837540fa561@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261118T194000
+SUMMARY:Clayface (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b52e72e07f9baef1@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261118T194500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -181,15 +149,23 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6b9b3fd2eec39f4d@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261118T201500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6441b22a5d08bd18@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261118T202000
+SUMMARY:Wildwood (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-094000841b507f3f@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261119T140000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -197,7 +173,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3948671b2293171a@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261119T160000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -205,7 +181,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bff3a757914dddef@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261119T190000
 SUMMARY:You Can See Everything (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -213,7 +189,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d0a328457b69f6d@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261119T203000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -221,7 +197,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2fddaca35d7b35d5@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261119T230000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -229,7 +205,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22e101b4e06e9697@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261120T140000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -237,7 +213,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ae32a282a07566c@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261120T160000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -245,7 +221,7 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aebacec29b5b6582@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261120T203000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
@@ -253,9 +229,17 @@ URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6315fd0a04b1049@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261120T230000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
+URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4603f15c5ec57dec@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261122T120000
+SUMMARY:The Lord of the Rings: The Return of the King (EN)
 LOCATION:CineStar\, Am Borsigturm 2\, Berlin\, 13507
 URL:https://www.cinestar.de/de/kino/berlin-cinestar-cubix-am-alexanderplatz
 END:VEVENT

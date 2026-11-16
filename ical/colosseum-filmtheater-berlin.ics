@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Colosseum Filmtheater Berlin
 BEGIN:VEVENT
-UID:getlos-13af0721506b0181@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T120000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-470f3a1e2a4d8ecb@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T193000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b4aac03dcd43b1db@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T200000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4ddf5cf1dd212cd3@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T180000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -37,7 +13,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-10024048212d24c2@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T201500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437

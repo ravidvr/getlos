@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-de4ca7a1024c5959@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T130000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8c337dcd4f2a6a30@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T152000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-89abba8b37660538@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T173000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f251c2202b25e06c@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T201500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-10c813fc059611fb@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -45,7 +13,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e6495d1a7a93777b@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T151500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -53,7 +21,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-764f622ea20df4e2@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -61,7 +29,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ccfa1e9065bed42@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -69,7 +37,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c317d2e52d51be9e@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -77,7 +45,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3d000a139c1f77b@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T151500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -85,7 +53,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea81ee7847f40833@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -93,7 +61,7 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe6c582e6bb93a23@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156

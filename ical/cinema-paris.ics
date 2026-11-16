@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-4ef108b1a21a4c79@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T140000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5ad3e3d6d8f6daf2@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T191500
-SUMMARY:Minotaurus (OmU)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-cac4f2108ae9e82c@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T144000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb7bc411b155bd18@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -37,7 +21,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-81614153a3280beb@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T144000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -45,7 +29,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-73de495743403f2f@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
@@ -53,7 +37,7 @@ URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09d504219d96a4d2@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719

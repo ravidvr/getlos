@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
 BEGIN:VEVENT
-UID:getlos-08def2b04e1cd0ee@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T133000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-92853a23a3440b62@ravidvr.github.io
-DTSTAMP:20261115T081050Z
-DTSTART;TZID=Europe/Berlin:20261115T204500
-SUMMARY:Queens of the Dead (EN)
-LOCATION:City Kino Wedding im Centre Français\, Berlin
-URL:https://citykinowedding.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-04433b69986d1091@ravidvr.github.io
-DTSTAMP:20261115T081050Z
+DTSTAMP:20261116T110155Z
 DTSTART;TZID=Europe/Berlin:20261117T201500
 SUMMARY:The Killer (EN)
 LOCATION:City Kino Wedding im Centre Français\, Berlin

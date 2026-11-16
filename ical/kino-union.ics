@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Kino Union
+BEGIN:VEVENT
+UID:getlos-61e0ef755fd4d140@ravidvr.github.io
+DTSTAMP:20261116T110155Z
+DTSTART;TZID=Europe/Berlin:20261117T203000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino Union
+URL:https://www.kino-union.de/
+END:VEVENT
+END:VCALENDAR
