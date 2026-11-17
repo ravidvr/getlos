@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmgalerie
 BEGIN:VEVENT
-UID:getlos-3313eb81575dba70@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf0627fdf17a52ce@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T171500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a369d2617b52413e@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cc422d17332aa2c7@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-532dc809d6482fba@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -45,7 +13,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df9e9dc93b540b5c@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -53,7 +21,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97a39dfb3db06d3b@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
 LOCATION:Filmgalerie
@@ -61,17 +29,153 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c523efbb96c5df7@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-910b7f9f3663f5d8@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9f74574be2498d7@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fbdb9d17127d9ea5@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T173000
 SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-38c047dbc84fdaaf@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-900803da92b67a5a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b8e03a5554555e1@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T173000
+SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-409a88e031fdca57@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9ad6d6686d67104@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c3c2e18b5d6bde5@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T173000
+SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5aa1ab8a2f8cc7a8@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a71be2ed70751d07@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-593caf26fb0321a8@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T173000
+SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-751fb7f74d9bc9cd@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e037a88a0a78cc4d@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6de31059a6d3aa17@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T173000
+SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c1caf8de6e96546@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-25a1c7af3982f607@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42c992e2642748bd@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T200000
+SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT

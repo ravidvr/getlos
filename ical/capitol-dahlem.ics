@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol Dahlem
 BEGIN:VEVENT
-UID:getlos-e10ee7e7151d39e4@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T143000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-24b359589af4e258@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1cc3e1958c3c2641@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T200000
-SUMMARY:Ein Talent fürs Morden (DE)
-LOCATION:Capitol Dahlem
-URL:https://www.capitol-dahlem.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3932e900978c93e7@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T143000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Capitol Dahlem
@@ -37,7 +13,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ae7ce67ce4c6565@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Capitol Dahlem
@@ -45,7 +21,7 @@ URL:https://www.capitol-dahlem.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b6b2808caae4cb9@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Capitol Dahlem

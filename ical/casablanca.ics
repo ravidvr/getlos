@@ -5,9 +5,49 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Casablanca
 BEGIN:VEVENT
 UID:getlos-9e230b05288d7189@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T180000
 SUMMARY:On the Sea (OmU) (OmU)
+LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
+URL:http://www.casablanca-berlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41c6a8afa3f2d996@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T151500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
+URL:http://www.casablanca-berlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce0b0f26a8d57450@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T180000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
+URL:http://www.casablanca-berlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b9782aa34420c70@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T120000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
+URL:http://www.casablanca-berlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f5c24e04331e83c@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
+URL:http://www.casablanca-berlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b97cdfafa838f9b@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T203000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Casablanca\, Friedenstraße 12\, Berlin\, 12489
 URL:http://www.casablanca-berlin.de
 END:VEVENT

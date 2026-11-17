@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
-UID:getlos-d087e250a493db1b@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T200000
-SUMMARY:The Mad Dog of Europe (EN)
-LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
-URL:https://www.sputnik-kino.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-00fc4a0b9b54e3bd@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:The Mad Dog of Europe (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967

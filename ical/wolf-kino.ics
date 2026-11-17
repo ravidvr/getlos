@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-495f7088934693fb@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T163000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-14b0e19b77c48d47@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T191000
-SUMMARY:Iván & Hadoum (OmU) (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee63f281a7b892ca@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T204000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a7a21f8a655ccfd8@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T204000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -37,7 +13,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee3777502a1aa814@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T190000
 SUMMARY:Iván & Hadoum (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -45,8 +21,72 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-38e78d383e8b67df@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T204000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b58d285898a1bd9c@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T181500
+SUMMARY:Iván & Hadoum (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-544689bf644732c3@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-957ea2d323dd7fde@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T181500
+SUMMARY:Iván & Hadoum (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-03f4fc73ca583eb9@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6b3ded04ae396da@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T180000
+SUMMARY:Iván & Hadoum (OmU) (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18e50efb84d8594c@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T210000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b7abef7b7446f020@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T204000
+SUMMARY:Minotaurus (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc65d846cb8e7209@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T210000
 SUMMARY:Minotaurus (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org

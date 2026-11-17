@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bundesplatz-Kino
 BEGIN:VEVENT
-UID:getlos-5eea788344658fb7@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T200000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Bundesplatz-Kino
-URL:https://www.bundesplatz-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ab19edc33543ff58@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino
@@ -21,7 +13,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2692f174d929cc6c@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Ein Talent fürs Morden (DE)
 LOCATION:Bundesplatz-Kino
@@ -29,7 +21,7 @@ URL:https://www.bundesplatz-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-00a115adaec37705@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T151500
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Bundesplatz-Kino

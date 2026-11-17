@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Neues Off
 BEGIN:VEVENT
-UID:getlos-cc7c31f0916a890a@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T172000
-SUMMARY:Minotaurus (OmenglU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-77cd448cd6274837@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T203000
-SUMMARY:Minotaurus (OmenglU)
-LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
-URL:https://yorck.de/kinos/neues-off
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-dce9e98ba56a11bd@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T175000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44b929303593c0fd@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T172000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
@@ -37,25 +21,25 @@ URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eac15815fedb023f@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T203000
 SUMMARY:Minotaurus (OmenglU)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-88d7884977610cd4@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261119T203000
-SUMMARY:You Can See Everything (EN)
+UID:getlos-4e7a7266ade9a98a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T174000
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f053ae9c498feaeb@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261122T171500
-SUMMARY:Happy-Go-Lucky (EN)
+UID:getlos-88d7884977610cd4@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T203000
+SUMMARY:You Can See Everything (EN)
 LOCATION:Neues Off\, Hermannstraße 20\, Berlin\, 12049
 URL:https://yorck.de/kinos/neues-off
 END:VEVENT

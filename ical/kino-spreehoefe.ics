@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Spreehöfe
 BEGIN:VEVENT
-UID:getlos-59b636e3fede80e3@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-80b8243a87ee2059@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T151500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a1a5b83999a0800c@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T163000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6bc8111c8d0bc79b@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T170000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-feb80d16c2de71bc@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T170000
-SUMMARY:Wildwood (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ff987af14a9f3686@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T191500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8f0eb4422af50155@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T193000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-67a685e800f1909a@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T194500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e51ce4412139016@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T194500
-SUMMARY:How to Rob a Bank (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-13cb7b603624dec9@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T201500
-SUMMARY:Other Mommy (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2d430324a0984a3f@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -93,7 +13,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a64a09fd4f89927@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T151500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -101,7 +21,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0c9dcda58554b4e4@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T163000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -109,7 +29,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e56e5239c00d9f7f@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T170000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -117,7 +37,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13095599b0f63845@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T170000
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -125,7 +45,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-30be97e2ea0632b3@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T191500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -133,7 +53,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fab86ad1870a7777@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -141,7 +61,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe741102cfca0764@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -149,7 +69,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c0efdf3fdad6008@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T194500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -157,9 +77,345 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d12f6c10b2a1d26@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T201500
 SUMMARY:Other Mommy (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba1fda8924656fcd@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e06e62fb7bee7f4@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T151500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e6558d7a1683d7b@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6f4f901282e4ea3e@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T170000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f6d19bf0fdee2bd@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e2132d4db94603f@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T191500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ee410261c0344393@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T193000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55bae4ec60bd6b4c@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfabf322e0f9ad2b@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T194500
+SUMMARY:How to Rob a Bank (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5fba7f50619e84d1@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c1bd7cfd05ef4db@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8fe4039727d1ead5@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T170000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5de6b7a68859c24@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T171500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f415a9530ee2733@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec24f9c29b3c4e82@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7660dd6576bd831@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T194500
+SUMMARY:How to Rob a Bank (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9633fd35c6f87c0@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T131500
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6069e5dfcb02a006@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2de5898d4afe1df0@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-666dd59ae2e0b19f@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T170000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17261388e36afc7a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6056c7b912b469fb@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eed033d1f14c680a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T194500
+SUMMARY:How to Rob a Bank (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c61f73279774f62e@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T130000
+SUMMARY:Der frechste Troll der Welt (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-afbd29d54523f70e@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T134500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bde07194806f49a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c1e3e8e94dafc7f2@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5200999591e0b7fe@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-45a8ac9820a83c9a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T171500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-032316c3297d5ae5@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05b89878fceb5e41@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2b757a0f2aa43104@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T194500
+SUMMARY:How to Rob a Bank (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e25a5b6547344b8@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e30ed3c755f1b8b6@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3c00333a262b551@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T170000
+SUMMARY:Wildwood (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-46bc2f3f4f15c3d1@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c69bdb187f4c0598@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbe05ab1c28c9d16@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T194500
+SUMMARY:How to Rob a Bank (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9bb86c88264a7de1@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f28e94045e48d43@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c761fd3149f1bcf9@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d83bf3020bf1f9ca@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT

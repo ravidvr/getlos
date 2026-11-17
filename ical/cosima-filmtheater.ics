@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-3c9ca2c6283ae3be@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T150000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-14831c012e2b0968@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T203000
-SUMMARY:Identitti (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-37c63592bf1071af@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T203000
 SUMMARY:Identitti (DE)
 LOCATION:Cosima-Filmtheater

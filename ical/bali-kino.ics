@@ -5,9 +5,57 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali-Kino
 BEGIN:VEVENT
 UID:getlos-d980b7923bfb69d7@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa1fe5eca94b0a5d@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T203000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fc2fe8ab93e6daa2@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T203000
+SUMMARY:Ein Talent fürs Morden (OmU)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c8875763d09ce68d@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261121T203000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-384d20a3a622137e@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261122T203000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-826938e2bc135d62@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261123T203000
+SUMMARY:Ein Talent fürs Morden (DE)
+LOCATION:Bali-Kino
+URL:https://www.bali-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2e55d208c8872cae@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T203000
+SUMMARY:A Talent for Murder (EN)
 LOCATION:Bali-Kino
 URL:https://www.bali-kino.de/
 END:VEVENT

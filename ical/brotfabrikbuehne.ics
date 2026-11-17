@@ -4,17 +4,25 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-00e40e4b0699708a@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T183000
+UID:getlos-a38cd401750ffd3b@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261117T183000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a38cd401750ffd3b@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261117T183000
+UID:getlos-5b799002084a8b55@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261118T183000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3150edd61a13e26a@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/

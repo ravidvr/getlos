@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-2693bb6b149c1008@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T202000
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-21ba490bbd34d1cc@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T205000
-SUMMARY:Vertigo (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-513d75c8d5de854e@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T202000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -29,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3f2072530c548ca9@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T205000
 SUMMARY:Angel Heart (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -37,7 +21,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e8fd481e3fcb5e26@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T205000
 SUMMARY:Vertigo (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -45,7 +29,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0509406368c7409@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261119T203000
 SUMMARY:Glengarry Glen Ross (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -53,7 +37,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9fd13928a5b5125@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Secrets & Lies (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965

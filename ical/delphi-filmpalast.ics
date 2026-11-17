@@ -2,77 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:getlos - Delphi Filmpalast
+X-WR-CALNAME:getlos - Delphi-Filmpalast
 BEGIN:VEVENT
-UID:getlos-3aa22a38c2daa4df@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T140000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f4c31592530f04ff@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T170000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b7596e5efb8bc647@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261116T200000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-350d92bb217d2536@ravidvr.github.io
-DTSTAMP:20261116T110155Z
-DTSTART;TZID=Europe/Berlin:20261117T144000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-83207995d2d757bd@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+UID:getlos-3bf0752899ee5e0e@ravidvr.github.io
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T171000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-99eac57f71cad53b@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+UID:getlos-74179450597482e6@ravidvr.github.io
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ac4b80cc0cdc7016@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+UID:getlos-44d5bc0b287d617f@ravidvr.github.io
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T140000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ee2551295e8d4245@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+UID:getlos-611f44a99d69261b@ravidvr.github.io
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261118T164500
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-49d8e1b5a3f55cbc@ravidvr.github.io
-DTSTAMP:20261116T110155Z
+UID:getlos-06e3104db36d8c8e@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261119T170000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d262e1aad137c421@ravidvr.github.io
+DTSTAMP:20261117T082703Z
 DTSTART;TZID=Europe/Berlin:20261122T110000
 SUMMARY:The Band Wagon (EN)
-LOCATION:Delphi Filmpalast
+LOCATION:Delphi-Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-539bb781d1d1360d@ravidvr.github.io
+DTSTAMP:20261117T082703Z
+DTSTART;TZID=Europe/Berlin:20261117T144000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 END:VCALENDAR
