@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-8140dd87c2d279df@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T145000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d64502f768835b62@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T170000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3f27c192b464c3e9@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T212000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-acd9d274d7135960@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T145000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -37,79 +13,55 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed467ba8d7198384@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T190000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e1e3302e6a3b3bff@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261118T211000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cfd416f2d9e23343@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261119T145000
-SUMMARY:Minotaurus (OmU)
+UID:getlos-232ce2e80e03994a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T172000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ce98137c8a8d9b2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T190000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d68481875a8f3b5e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261119T211000
-SUMMARY:Minotaurus (OmU)
+UID:getlos-3882c0dbe34016e3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T171000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb01bcdfb182ea28@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T172000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b179694dae2a2042@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T190000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-00b650b53f8f2a20@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T211000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4317f6bdbd676cc5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T145000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-275ae4c1388806a7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T190000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9c03ad4132215a08@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T213000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -117,7 +69,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0e3c61f58397546@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -125,33 +77,57 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32a7ccf72156d31a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T163000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c783d7cfc7eec755@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T184000
-SUMMARY:Minotaurus (OmU)
+UID:getlos-4066d96847b36ac5@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T211000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e6712476c3b06b9f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T152000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0704949670229957@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T153000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88bf4441aab09c1a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T190000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-e9d156fc015f0dff@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261123T211000
-SUMMARY:Minotaurus (OmU)
+UID:getlos-351b5ad81f6ef91c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T211000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77a298e0136c71e3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T212000
+SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT

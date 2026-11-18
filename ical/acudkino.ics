@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-9686e2267b6571b7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T180000
-SUMMARY:The Mad Dog of Europe (EN)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1992a54ddedfdd60@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T180000
-SUMMARY:The Mad Dog of Europe (OmU) (OmU)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-42fc74a14688fc9b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T180000
 SUMMARY:The Mad Dog of Europe (EN)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
@@ -29,9 +13,81 @@ URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec7654c256e385d0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T180000
 SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ae1e568f093203d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T180000
+SUMMARY:The Mad Dog of Europe (OmU) (OmU)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e025a672e2254361@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T194500
+SUMMARY:Übergang (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74f321b4d678e8b0@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T204500
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bece00a204b4bf1b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T190000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e02821faf96a031@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18ba16099e1d4c28@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T180000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af2ca4693295a41d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T203000
+SUMMARY:Übergang (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-666621ba99490e91@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T210000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d770a04abab9077e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T184500
+SUMMARY:Übergang (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT

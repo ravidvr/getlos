@@ -4,10 +4,106 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-37c63592bf1071af@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T203000
+UID:getlos-0392648e374043d6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T174500
 SUMMARY:Identitti (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-746f659dbd73907b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T194500
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a3c72848268e285@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T144500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be04704e9932f162@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T173000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba94f0df6218195c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T194500
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2813a8f1ea26d3e0@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T171500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8768b54867440a78@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8156f04b3dff8cd8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T141500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9274f39d41e421d1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T170000
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-903beb56a531a514@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T201500
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc40f30fbf3b665e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T194500
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-75dd99973f95fd19@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T173000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Cosima-Filmtheater
+URL:https://cosima-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4121768e2c3a3dcb@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T194500
+SUMMARY:La Bola negra (OmU) (OmU)
 LOCATION:Cosima-Filmtheater
 URL:https://cosima-filmtheater.de/
 END:VEVENT

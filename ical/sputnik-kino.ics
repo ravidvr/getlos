@@ -5,9 +5,41 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Kino
 BEGIN:VEVENT
 UID:getlos-00fc4a0b9b54e3bd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbfe2c86b816fafe@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T190000
+SUMMARY:Wildwood (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d2bc065ca85ad9a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T220000
+SUMMARY:Queens of the Dead (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a6cac4a77670f2b3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T181500
+SUMMARY:The Mad Dog of Europe (EN)
+LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
+URL:https://www.sputnik-kino.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c591bf3778494f0b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+SUMMARY:Wildwood (EN)
 LOCATION:Sputnik Kino\, Hasenheide 54\, Berlin\, 10967
 URL:https://www.sputnik-kino.com/
 END:VEVENT

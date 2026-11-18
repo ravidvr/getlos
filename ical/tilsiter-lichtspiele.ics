@@ -4,122 +4,194 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Tilsiter Lichtspiele
 BEGIN:VEVENT
-UID:getlos-d2f1568ced915cbb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T181000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0fb4470c9c3dea8c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c1bd66cb251ffe63@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T202000
-SUMMARY:Identitti (DE)
-LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
-URL:https://www.tilsiter-lichtspiele.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bb05dad8fdcf17c6@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T181000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a6be5e1a7c1d760f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:La Bola negra (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d6081fcfedddb0fb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T202000
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ea742d5fdb5cda4e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261119T180000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
+UID:getlos-70a0aa34ebaa1c52@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T164000
+SUMMARY:La Bola negra (OmU) (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8ba293f357c8973d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T180000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
+UID:getlos-e6f3b5ed6063f15e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T194500
+SUMMARY:La Bola negra (OmU) (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-232341878f22ebea@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T135000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
+UID:getlos-a4d51599a1280a4e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1d101db3f338dccf@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T135000
-SUMMARY:Minotaurus (DE)
+UID:getlos-38963ab1f7f1c9db@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T164000
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec7e50db2b5dd862@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T194500
+SUMMARY:La Bola negra (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d1c6312bae7502d4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1009cc4725779f21@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T155000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-41f13244fcc8ff2a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T164000
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-29a189b217bdf9fa@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T180000
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c21c10423daae489@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T135000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
+UID:getlos-1d54c10912ba7856@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T194500
+SUMMARY:La Bola negra (OmU) (OmU)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-d2131bd739b05a8c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T135000
-SUMMARY:Minotaurus (DE)
+UID:getlos-31bff375cbd029b7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c227a6e7674e56a3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T164000
+SUMMARY:La Bola negra (OmU) (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8148a06c6247335@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T180000
 SUMMARY:Identitti (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6a16c7593dcfc0c5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261123T180000
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
+UID:getlos-d0eca7aec9937f0b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T194500
+SUMMARY:La Bola negra (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-112cfabf6786159a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T200000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a87f9be496282244@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T164000
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-24339112fd4077c2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T194500
+SUMMARY:La Bola negra (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-375bb6d318791a5d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T200000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d484e7e8bb1be729@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T164000
+SUMMARY:La Bola negra (OmU) (DE)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09704ddd3ed795ef@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T194500
+SUMMARY:La Bola negra (OmU) (OmU)
+LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
+URL:https://www.tilsiter-lichtspiele.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7d7650d48195c7fe@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Tilsiter Lichtspiele\, Richard-Sorge-Straße 25A\, Berlin\, 10249
 URL:https://www.tilsiter-lichtspiele.de/
 END:VEVENT

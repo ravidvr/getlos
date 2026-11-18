@@ -4,104 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Astra Filmpalast
 BEGIN:VEVENT
-UID:getlos-1c77182e2f657ffe@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8b9e1df4c0db3b37@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T143000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c73998a979edf830@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T144500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6eecfc815f2fac41@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T160000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8ce3fafd2282dc7a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T171500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7d80918b4f7baf78@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T171500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-91128479b1088046@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T173000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7646ff158c1353b3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6e98ac1c3c1d6750@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0d8e72693995247b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T201500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ef367063abe1fc7b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T201500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d1dce1423fef9c32@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T203000
-SUMMARY:Other Mommy (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-caf77ced63e0a94c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -109,7 +13,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-801bba3da311b762@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Astra Filmpalast
@@ -117,7 +21,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-70accfecdb889ead@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -125,7 +29,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e974465295f138ef@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 SUMMARY:Beware Boiúna (DE)
 LOCATION:Astra Filmpalast
@@ -133,23 +37,15 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8eccf22423b01155@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9f2c79ab4cd36f78@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261118T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f4be7f4346643ba7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T143000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -157,7 +53,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0f61e5c508ff31e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T144500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -165,7 +61,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d0dd2afff5767e17@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
@@ -173,7 +69,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-491a1d5af4d71072@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -181,7 +77,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-655660506a9ce5f3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T171500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Astra Filmpalast
@@ -189,7 +85,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d58f3fc31bf5033@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -197,7 +93,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b5076ee2a3b830e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T180000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -205,15 +101,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-122e3a1249ba6017@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-540593df8c6a30f1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce180da721b071a3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-19dd7cd09f98c133@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T201500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -221,47 +133,71 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c8d473c3ffc4f243@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-da9f900ca80dfa83@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-626010db1d6bff6f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T140000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-47caacc26ed6c3bd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261119T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9f2f0c1a2efbb526@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9b4bbdba917c633c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec10fc833b91f325@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T153000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-83acd85e4fcab5e2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5b178199049562f4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-db4c9420eb90e5b2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -269,15 +205,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af7b5456ccd56505@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T174500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8056be8554dde999@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-706c50921d0f081f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T180000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -285,15 +229,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc4b8e349098fa1b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d134bab507938571@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T201500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9377c6e367fdecb4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T201500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-073f72a2f6739914@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T203000
 SUMMARY:Beware Boiúna (DE)
 LOCATION:Astra Filmpalast
@@ -301,47 +261,71 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-55555c7b7dcf4996@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T203000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-392e7b20000d4330@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a3b8efff39c29f54@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T140000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6b7bf83dc05a9a4e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a1ee9c8e6def7ebc@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4252658fb1131a52@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c56f464d591b9e8c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T153000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7eb5644873bc7938@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2931e4e74b16a4cf@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-06c6bc5921e79705@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -349,15 +333,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-369ce880d54f0d0a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-99965636e6b1d5f7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7653b3d1ffc7ce78@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T180000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -365,15 +357,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0114b5bffcdb23f1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4f69fca699203cde@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T201500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d1765d093e857cd@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T201500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5cec7b9aae6e5208@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Astra Filmpalast
@@ -381,7 +389,7 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-923f53ffdbb76774@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T203000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -389,31 +397,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0e042b31d6d33108@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T100000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-85b05f8a1be9b0e4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+UID:getlos-b465d4386e4fde80@ravidvr.github.io
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T100000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-99b31d49e7cdc62a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T120000
-SUMMARY:Der frechste Troll der Welt (DE)
+SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab3a6a345b592249@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T121500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
@@ -421,47 +421,79 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ff5a12a617c9770@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T121500
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1cd37e2456daebc7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T123000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01e924b8e2d196c5@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-10253bc4ea18d72c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T140000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-22a03792aec5deeb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-6a1dcb72f8317956@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e58cfd9204ed14ad@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c0973825b75b0978@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T153000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-347900bae4671140@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c05eff1a7489d882@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cde508ce40ca5f2f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -469,15 +501,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c597d96d4c34277@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9905e419615d0cb7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5f3d5388a2efe818@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T180000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -485,15 +525,31 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aec8fb8fc183ee3a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e0501bf29da89c12@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T201500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-326ff628121f8f09@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T201500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d456635c0fc0f44d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T203000
 SUMMARY:Beware Boiúna (DE)
 LOCATION:Astra Filmpalast
@@ -501,23 +557,15 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9918ff5c3b380fd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T203000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-213b461c90e7f94f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T100000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1d0b041a681209a6@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T121500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
@@ -525,47 +573,79 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f16ee089226fa88a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T121500
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0cd1b808c479e11f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T123000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-235c66b24a28da98@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9d065b69cba49eb2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T140000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-252d469837d63c70@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9d278af1d52dfe2e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ee1d3955ed47ac88@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-567c81e5dc1d48d9@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T153000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bb94001a05c789ca@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-965ab838167e75d2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-701f1bcbf89282cf@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -573,15 +653,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dcf46a17a73e425e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T174500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6162ffdb834be5ae@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-910fab34427aee47@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T180000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -589,55 +677,95 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b523f11107f1aeac@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d1b7c7a44c526650@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T201500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb1db2e0a3625de4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T201500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-25c30584b2b67e6f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T203000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-363d583bf731d536@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-99f838bdf1d2585e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T140000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1972b777a6a836e4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261123T140000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Astra Filmpalast
-URL:https://www.astra-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-1c246ff2ca0acdf3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-90bc545ee54bf30b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-344cc90cdedba253@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T153000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d5eecf4485555456@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T160000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4e3e64541ebd3fe7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b4dccfff72fdba60@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
@@ -645,15 +773,23 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e9508879022c3e6c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T174500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-505cf96647ab095f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-567ddc4d025561cd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T180000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
@@ -661,16 +797,152 @@ URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8ddfad724b7fe455@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ba343b5066424b54@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T201500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fe72c1b5c00f1c8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T201500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7b6154dd3c828a4e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T203000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a235081b068af397@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8214910141fbdbd2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T140000
+SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ea398ed487483b5@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T141500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec3fb49e4e697df0@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29c2bb089b2a4ee0@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T153000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-282077b91f9bec4b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T160000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8a3433c67d9cc4eb@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-250dbb256f43b236@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T171500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec596e65a102cc1b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T174500
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d05e27e69c927326@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-503de5a9e0d68c80@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T180000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20c18693009a5963@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3c66595d0f5fa210@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T201500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b0adb13f05f7dc11@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T201500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Astra Filmpalast
+URL:https://www.astra-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2c696e256d503c1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T203000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Astra Filmpalast
 URL:https://www.astra-filmpalast.de/

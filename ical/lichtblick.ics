@@ -4,26 +4,10 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick
 BEGIN:VEVENT
-UID:getlos-05a0c1f0490cfa77@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T173000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-355f2dbb03c82928@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T181500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d903cea79aff9e4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T151500
-SUMMARY:Einar Schleef - Ich habe kein Deutschland gefunden (DE)
 LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
 URL:https://www.lichtblick-kino.org/
 END:VEVENT

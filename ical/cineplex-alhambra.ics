@@ -4,160 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cineplex Alhambra
 BEGIN:VEVENT
-UID:getlos-594254734cfae110@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T140000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fa137471aedbc08d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T140000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6b781610743eb008@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T141500
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ead18e7670c6d1c7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T142000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c3d387e42124157d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T142500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4c3b6dd417125385@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T163000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5158e166b51d956a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T164000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5fa02bd4d57858e8@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T164500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-62741e9a7dbfe6fc@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T164500
-SUMMARY:How to Rob a Bank (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-560dfb1ffdb3b656@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T165000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-38fe51edb5c30417@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T170000
-SUMMARY:Geister (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0e5c55da77d031b2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T171000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-da3b09e60df5685e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T190000
-SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6d3cc21268b79fa0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T193000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c17b379664429262@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T194000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9cfe45c29fd6efaf@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T195000
-SUMMARY:Other Mommy (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c1797348f8dab4bb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T200000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-adcd3f91f5c9a463@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T201500
-SUMMARY:Ebenezer (EN)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e980e62b4e51e74a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T201500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b83c74f831007d3c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T140000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
@@ -165,7 +13,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8972999f6790eaa9@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T140000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -173,7 +21,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11240e682f3d6872@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T141000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
@@ -181,7 +29,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3b2b8522f90eff89@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T161500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Cineplex Alhambra
@@ -189,7 +37,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6cf4d522e18011c8@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T164000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Alhambra
@@ -197,7 +45,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd5e84ba250ca030@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T164500
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -205,7 +53,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f32fda8070bc00de@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T165000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
@@ -213,7 +61,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6231f2f112a72685@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -221,7 +69,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7d5c313c3468348@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T174000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
@@ -229,7 +77,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d03c8430b33f059@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T190000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
@@ -237,7 +85,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c2d52c2f077fa8c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T194000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -245,15 +93,23 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-affdecb4b5954a2e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T194500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7f631d6c22b2ed8b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T194500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-68ae2a3fe858c99e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T195000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Alhambra
@@ -261,7 +117,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-06706e2eabd209cc@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T195000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -269,15 +125,23 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-db6b6793b3f7c9f3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T195000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d0b4d2d0bb74d6b0@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5f5fb149c8866ffa@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T093000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
@@ -285,15 +149,23 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a27a61e20f051fb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a2a37db74f6149e8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T140000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-69deb216f4e93dd1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T140000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -301,31 +173,55 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d3aa2d58ba92923@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T140000
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8658bacc294603e9@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261119T141500
-SUMMARY:Der frechste Troll der Welt (DE)
+UID:getlos-8535fc85d237b370@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c806c515ce82780@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T154000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1a296b262f168ce8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0568c198f00349c2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T154500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1f68d3871e7f770@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-00e6ce9d51409471@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T165000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -333,7 +229,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d18ca2100785a1d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -341,7 +237,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ab61939a1165a78b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T173000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -349,7 +245,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-405908fd52311a5f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -357,23 +253,39 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65a9cbb11465d6a7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T190000
 SUMMARY:You Can See Everything (EN)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-47f704e260bd1898@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T191500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b8f90509191d9de5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T193000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1ac39f27d9ae789c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d301cd10131149d0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T194500
 SUMMARY:You Can See Everything (EN)
 LOCATION:Cineplex Alhambra
@@ -381,7 +293,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-62fea87e16f7a2ad@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T195000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
@@ -389,7 +301,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-214b433f24c6bd92@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -397,7 +309,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3edc3b4462ca056b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T201000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Alhambra
@@ -405,31 +317,31 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ff9cb9d2e5b9d7e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T202000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-bccd76de70c36704@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T135000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-774534d84edf2d56@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b4a7c0d7bc535cb3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3bccf2a667e5cc29@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T142000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -437,23 +349,47 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6113a29d3fbac990@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T145000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-417f77905b1536b0@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-670b216ae2574399@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T154000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e0aa465b23154850@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1869745595cf5033@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fc1322f6a3c1f6c1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -461,7 +397,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15f544ea6c9f99e0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T171000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -469,7 +405,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2393b7a7c2f45b1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T171500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
@@ -477,23 +413,31 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-42e7480f00789596@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-98a817dc8a95ff2b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+UID:getlos-43f3fdeb8cd5ae22@ravidvr.github.io
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T191500
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2eb3ac4e26b96593@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-640fe0984cba0a45@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T194000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
@@ -501,7 +445,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b01140d4a462efa9@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T194500
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -509,7 +453,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6210ea4074667498@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T195000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Alhambra
@@ -517,31 +461,31 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0cd11062f3575bb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4773811b43aecfe4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T201000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+UID:getlos-4b2bc58150fdbcd8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T222000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-49f022109545b6b7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T222000
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+UID:getlos-7c8f2bb918c95d0e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T223000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11ab292df4649314@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T225000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -549,7 +493,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f04493df07f7800c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T230000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -557,47 +501,87 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e61de8ab3eb78877@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T120000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0eec7478f7ae8a25@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T120000
-SUMMARY:Der frechste Troll der Welt (DE)
-LOCATION:Cineplex Alhambra
-URL:https://www.cineplex.de/berlin/alhambra/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-111bc327b29b681a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T121500
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c6906a6fe65d4da4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T121500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e8823c0fd167e82@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T121500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8240f44f4cedb067@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f416c4f1d6e9842f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fddbeee3127fb8b5@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T144000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-aa7761ee6c464f1f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T151500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-daf4188e955dbd29@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3082083c47246985@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-601e496a0b28478e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T162000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -605,7 +589,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3cb73fa5e125e220@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -613,7 +597,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf0f425b607e3435@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -621,15 +605,31 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05cfa255fe970a2e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T173000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-db4de714bd64e388@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T191500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b1fd39d716533e7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d1ccece70cac9f81@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T194000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
@@ -637,7 +637,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-86e02bfcf48f9da0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T194500
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -645,7 +645,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb0d8f5eac0849dc@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Alhambra
@@ -653,7 +653,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8de11e8b48ebf5df@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -661,15 +661,31 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f07f72cfc031d69@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e2e370a4b32fd7d2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T222000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-838afcecd9a6e011@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T223000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6fbb01c8ef74826c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T230000
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -677,31 +693,39 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24a478bebe4a49d3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T230000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-147e97d78d03db3c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T120000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-13d16d12cc9388f1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T120000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b588794361f7e984@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T120000
-SUMMARY:Der frechste Troll der Welt (DE)
+UID:getlos-036edab8dd41b490@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T121500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff4712bd1c0e75eb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T123000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
@@ -709,7 +733,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3425ba50a2530192@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T133000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -717,7 +741,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-19d2b0a368f03723@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T134000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Cineplex Alhambra
@@ -725,23 +749,55 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78ec8853c42a6260@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T134500
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dbe8a3236cb2a8fb@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e10fc9eee3e2828b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T151500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-370a25bb7e128036@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T152000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ffbeae39c378b6c3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-128ac74d393cdc40@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7f72f2602daed26b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T165000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -749,7 +805,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a995a2a16d715a3a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T172000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -757,7 +813,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb2faac037ab19e0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -765,23 +821,39 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2bb204cacbffc04c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T174500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-92e8196dedffb009@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T191500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ea03d085dc27a1bc@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T193000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9d2cf72acace3ce1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7b2fae1028785d4e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -789,7 +861,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a9d6ff65f4e4540@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T201000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -797,7 +869,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff2e503b62826d94@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T201500
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -805,7 +877,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-43a699b9786e774d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Alhambra
@@ -813,31 +885,55 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4abf204fd03fe35c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T140000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ace61dfc0baf5db2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261123T140000
-SUMMARY:Der frechste Troll der Welt (DE)
+UID:getlos-cfbbe37da636e5e3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8373ebc9aaf2db0a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T143000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b875f6789bb114d8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T144000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71322f04f7c73112@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8354560d6a25d9c5@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T161500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5c2a980234ba56db@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T164000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Cineplex Alhambra
@@ -845,7 +941,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a941554986cf4aee@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T165000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Cineplex Alhambra
@@ -853,7 +949,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aaf96d82cf7288f5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T170000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -861,7 +957,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d0539d45c1b2bb85@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T171500
 SUMMARY:Other Mommy (DE)
 LOCATION:Cineplex Alhambra
@@ -869,7 +965,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78178b69c4b9cb62@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -877,15 +973,31 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ccf7d0207ad53d0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T190000
 SUMMARY:Ramayana: Rise of a Legend (OmU) (OmenglU)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b7c0f0c473d51c42@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83010d350508e540@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T194000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9892d84364c678bf@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T195000
 SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
@@ -893,7 +1005,7 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ebc0db904732bfda@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Alhambra
@@ -901,9 +1013,145 @@ URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7a0254164eacb0b4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T201500
 SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-657115c2c182f59e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T140000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6bc09f376fa4ab1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T140000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e987118cb39488f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-574d7ecb87938b2d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T144000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c595a78765407bc1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T151500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9b89e3fc3140c20@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0582e43fe937b00e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bfbdb6cc4a660d8c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T165000
+SUMMARY:Godzilla Minus Zero (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-955e130963afed7b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T170000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ead3bd97082bab46@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T170000
+SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d589b7f0acae247a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T173000
+SUMMARY:Other Mommy (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9d7396f76db1746@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T173000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ea7171feceb5904@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T191500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b28ba138707af16@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a21b24690751e383@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:The Wolf of Wall Street (EN)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9030e0af6c22de96@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Alhambra
+URL:https://www.cineplex.de/berlin/alhambra/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ecc2e69d22be878@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T201000
+SUMMARY:Cakallarla Dans 8: Sututgart Cikarmasi (OmU) (OmU)
 LOCATION:Cineplex Alhambra
 URL:https://www.cineplex.de/berlin/alhambra/
 END:VEVENT

@@ -4,34 +4,50 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cinema Paris
 BEGIN:VEVENT
-UID:getlos-81614153a3280beb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T144000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-73de495743403f2f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T200000
-SUMMARY:Minotaurus (OmU)
-LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
-URL:https://yorck.de/kinos/cinema-paris
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-10ea011f2523d93b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T144000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-09d504219d96a4d2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261118T200000
-SUMMARY:Minotaurus (OmU)
+UID:getlos-e94493bdcd548d06@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T140000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-841dacfcd8e63511@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T170000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ee4a3be2d93017e4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T153000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9c5da2c774121b2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T143000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
+URL:https://yorck.de/kinos/cinema-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42dd3e8576f65974@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T150000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Cinema Paris\, Kurfürstendamm 211\, Berlin\, 10719
 URL:https://yorck.de/kinos/cinema-paris
 END:VEVENT

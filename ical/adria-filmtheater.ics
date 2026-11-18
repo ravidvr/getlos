@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Adria Filmtheater
 BEGIN:VEVENT
-UID:getlos-ce5ab3ff21afab91@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T140000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e9c7298d3833c805@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T164500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ff0ffc1f9c78fc94@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T194500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Adria Filmtheater
-URL:https://www.adria-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-db38e1d134c7a7fc@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T140000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -37,7 +13,7 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ea887ef4888838aa@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T164500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Adria Filmtheater
@@ -45,9 +21,161 @@ URL:https://www.adria-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a97e1e453f7d27e3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T194500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd67828e0f51b670@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T142000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c14861eb4bd86f8b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T170000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-15400d9eb189da78@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T194500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd799eeb5337c465@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T142000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85e9a93e77237da3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T170000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e90b9da20fd046b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T194500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d83520e70c217d3f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T142000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4dee9ee9f95bb71d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T170000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6841215fa57bcb8b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T194500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-050a33403c31b34a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T110000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3f043ce234a20cd@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T140000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-351545094494c406@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T164000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8bf939b29c7eac1a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e003abedd947b90@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T142000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d95bc59809118466@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T170000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41874f2ae27db67a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T194500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6261d7ed14ec7bb2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T142000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9134703b99bdb40@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T170000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Adria Filmtheater
+URL:https://www.adria-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd3d51a3d9929722@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T194500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Adria Filmtheater
 URL:https://www.adria-filmtheater.de/
 END:VEVENT

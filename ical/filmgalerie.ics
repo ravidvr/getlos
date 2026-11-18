@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmgalerie
 BEGIN:VEVENT
-UID:getlos-532dc809d6482fba@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-df9e9dc93b540b5c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T171500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-97a39dfb3db06d3b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9c523efbb96c5df7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-910b7f9f3663f5d8@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -45,23 +13,15 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9f74574be2498d7@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fbdb9d17127d9ea5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261118T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-38c047dbc84fdaaf@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -69,23 +29,31 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-900803da92b67a5a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3b8e03a5554555e1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261119T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+UID:getlos-c1687c84dd71d31d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-131324737b53f228@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-409a88e031fdca57@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -93,23 +61,31 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9ad6d6686d67104@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5c3c2e18b5d6bde5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261120T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+UID:getlos-a068bc5c54f8ce8d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7420235152e8fa84@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5aa1ab8a2f8cc7a8@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -117,23 +93,31 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a71be2ed70751d07@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-593caf26fb0321a8@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261121T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+UID:getlos-c410c8127be5516c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f2dc3abafc257d1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-751fb7f74d9bc9cd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -141,23 +125,31 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e037a88a0a78cc4d@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6de31059a6d3aa17@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261122T173000
-SUMMARY:Kommissar Jennerwein - Hochsaison (DE)
+UID:getlos-50c5c1374d3714f6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b88e5289132c3e12@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c1caf8de6e96546@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
@@ -165,16 +157,64 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25a1c7af3982f607@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cb4d6b675767b2b4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3085205e4ae7eac6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-42c992e2642748bd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f784745837f6f5f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T150000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44bde661ac4e6055@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48ba26b60ea0350a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f55f9dd805acf367@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/

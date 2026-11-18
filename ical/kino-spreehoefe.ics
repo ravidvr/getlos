@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Spreehöfe
 BEGIN:VEVENT
-UID:getlos-2d430324a0984a3f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8a64a09fd4f89927@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T151500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0c9dcda58554b4e4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T163000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e56e5239c00d9f7f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T170000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-13095599b0f63845@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T170000
-SUMMARY:Wildwood (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-30be97e2ea0632b3@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T191500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fab86ad1870a7777@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T193000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fe741102cfca0764@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T194500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6c0efdf3fdad6008@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T194500
-SUMMARY:How to Rob a Bank (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7d12f6c10b2a1d26@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T201500
-SUMMARY:Other Mommy (DE)
-LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
-URL:https://www.kino-spreehoefe.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-ba1fda8924656fcd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -93,7 +13,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e06e62fb7bee7f4@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T151500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -101,7 +21,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e6558d7a1683d7b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T163000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -109,7 +29,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f4f901282e4ea3e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -117,7 +37,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f6d19bf0fdee2bd@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -125,7 +45,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e2132d4db94603f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T191500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -133,7 +53,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ee410261c0344393@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T193000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -141,7 +61,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-55bae4ec60bd6b4c@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -149,31 +69,71 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cfabf322e0f9ad2b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261118T194500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-74f40a5c9bf9cb94@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cf956823c3cb1df5@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T141500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5fba7f50619e84d1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d40c78daf1f5135c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-801a1aec6fab5e23@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9c1bd7cfd05ef4db@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T164500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-945a1de22981e814@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8fe4039727d1ead5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -181,15 +141,23 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5de6b7a68859c24@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d902676de6ffa8f3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7f415a9530ee2733@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T193000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -197,7 +165,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec24f9c29b3c4e82@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -205,47 +173,95 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e7660dd6576bd831@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261119T194500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b9633fd35c6f87c0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+UID:getlos-659739f744ad48e8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e7b3e0d27d57dfc4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T131500
-SUMMARY:Der frechste Troll der Welt (DE)
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-612534471ff12ef2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6069e5dfcb02a006@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-40d2d06660946def@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8da0d119615625de@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2de5898d4afe1df0@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T164500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-31c403238fe908c1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-666dd59ae2e0b19f@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-39a30296240fb29a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-17261388e36afc7a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T193000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -253,7 +269,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6056c7b912b469fb@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -261,47 +277,87 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eed033d1f14c680a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261120T194500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c61f73279774f62e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+UID:getlos-95aef41bc4848af6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8d45ae4a7a84f1c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T130000
-SUMMARY:Der frechste Troll der Welt (DE)
+SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afbd29d54523f70e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T134500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c4d913494be76166@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5bde07194806f49a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-269f4bcdec108ac7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48095d9647fa862d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c1e3e8e94dafc7f2@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T164500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-becfa4e3d4335f44@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5200999591e0b7fe@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -309,15 +365,23 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-45a8ac9820a83c9a@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c8b004b82a31c0a6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-032316c3297d5ae5@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T193000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -325,7 +389,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05b89878fceb5e41@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -333,39 +397,103 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b757a0f2aa43104@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261121T194500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6f1db2f3093a7f4f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47423d0944e187a4@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T130000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbbbcefbcc41a55e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f25e6775f388d43b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T140000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0e25a5b6547344b8@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bf4e032567d5c051@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-43d748da7c027847@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e30ed3c755f1b8b6@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T164500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8145a5845befd8bf@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d3c00333a262b551@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Wildwood (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-138fdd1023d011f6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-46bc2f3f4f15c3d1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T193000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -373,7 +501,7 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c69bdb187f4c0598@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -381,31 +509,87 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bbe05ab1c28c9d16@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261122T194500
 SUMMARY:How to Rob a Bank (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-53853dcb32e4e1a3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-478eab3970bae84f@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T131500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83b2cef1b99098b2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9bb86c88264a7de1@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T144500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ce0036c6317963f3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2372a87e3f0492f1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8f28e94045e48d43@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T164500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-355c1a8f154a30e6@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4beb45d647e97ae9@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c761fd3149f1bcf9@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T193000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
@@ -413,9 +597,113 @@ URL:https://www.kino-spreehoefe.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d83bf3020bf1f9ca@ravidvr.github.io
-DTSTAMP:20261117T082703Z
+DTSTAMP:20261118T082424Z
 DTSTART;TZID=Europe/Berlin:20261123T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1557c0030181ed6c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-843c699b7d3258fd@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d160c1f3abe0523d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T141500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a56fce77e927ee62@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-66c2f3a957a1f2c8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dc57b18902881c45@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f84a76f6175617b9@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41fe271fd2715827@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6eaef59e8570cc3d@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T171500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a029d0c7bfe0657a@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-93df9e488600c3d3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8df38702423d313@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
+URL:https://www.kino-spreehoefe.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9769fbc4af73825@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino Spreehöfe\, Wilhelminenhofstraße 89\, Berlin\, 12459
 URL:https://www.kino-spreehoefe.de
 END:VEVENT

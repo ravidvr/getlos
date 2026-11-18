@@ -4,34 +4,346 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-c317d2e52d51be9e@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a3d000a139c1f77b@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T151500
+UID:getlos-ecf24e3f8bc627cc@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T151500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
 URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ea81ee7847f40833@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T173000
+UID:getlos-dc907625b61d1487@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T173000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
 URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fe6c582e6bb93a23@ravidvr.github.io
-DTSTAMP:20261117T082703Z
-DTSTART;TZID=Europe/Berlin:20261117T201500
+UID:getlos-6016f26038b06738@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261118T201500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b6f3b717cbf6d0eb@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T131000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bbee8bbc55b97d9@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T143000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e02aed34caff7a4c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3bc6a352df6eae7@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a02cafeb64879482@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d91057b75772b14c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a09fc248a2ebb9ec@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2a0a764f894a2cb8@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T131000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11a889b202cfd911@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T143000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb4869a4e44fadbc@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b682f9e328db8414@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0af1fd0e55cd63fd@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8780feed1269787@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e6c7b7b5350d846@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5b3490c5910f00c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-848a9dd88c264f7c@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T152000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-231fc049d174f23b@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-adbedd08a08ad152@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f81b6432c264d4d2@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8506c5f3505ec868@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-86350159582c4dd3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T133000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-910d065fe6694289@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T152000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bce4b589d2697c37@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c3b64905b6b06827@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96937bef079f4dde@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20acdc59a69610bd@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261122T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a235243360d4d574@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T131000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62ada0e9b994dc45@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T143000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-135e0a9d84062c88@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd34581cb2256f44@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb689163e8f4edcf@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74c8ea704ed8aeb1@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90df9d507ce3ba17@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261123T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d29c528826edd050@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T131000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5b41a8a3fab2d33e@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T143000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3da2374ca958b1b3@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d62b2a8e48e6f87@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T165000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9c6d17c83574491@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65e86faa81c8a636@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T193000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1414691423265e89@ravidvr.github.io
+DTSTAMP:20261118T082424Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
 URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
