@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino International
 BEGIN:VEVENT
-UID:getlos-590b4ffd0870d682@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T171500
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino International
-URL:https://www.kino-international.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-614171524c15ce2d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T201500
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino International
-URL:https://www.kino-international.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d85a813d7487eeaf@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T155000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino International
@@ -29,8 +13,24 @@ URL:https://www.kino-international.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2e2410f7de1e32d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T184500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-877bbaa0353bac95@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261120T214000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Kino International
+URL:https://www.kino-international.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f9f42b68b84fa3d@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261121T155000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino International
 URL:https://www.kino-international.com/

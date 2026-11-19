@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Zoo Palast
 BEGIN:VEVENT
-UID:getlos-cfc511401a04756d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T140000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0719c0aed9860df6@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T164500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-61c84cb7107943c6@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T164500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-04e7f527e3a7e295@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T170000
-SUMMARY:Wildwood (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f510b1e3320dba3c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T170000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1745e6a4aa9a885e@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T172000
-SUMMARY:Other Mommy (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8cc6ea800abeedf1@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T194500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b9c25291f537830c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T200000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4d5e4e8a3f935b76@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T202000
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7b314e2cadbf5e3b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T203000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Zoo Palast
-URL:https://yorck.de/kinos/zoo-palast
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bb9fbae2b544541a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T135000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -93,7 +13,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ff30adac2db7dcc9@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T140000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -101,7 +21,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b19a895d504aa17a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T144000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -109,7 +29,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3a90a6f532654ed@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -117,7 +37,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-816a8b5ae41d3eff@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T163000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Zoo Palast
@@ -125,7 +45,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d90954530ce7aeb2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T163000
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -133,7 +53,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d1f2b4aa1cb54ed7@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T164500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Zoo Palast
@@ -141,7 +61,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c01c72b31065fa8f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Zoo Palast
@@ -149,7 +69,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4af37d9d9d1b5a24@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T171000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -157,7 +77,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-144132992bfdf1b5@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T172500
 SUMMARY:Wildwood (OV)
 LOCATION:Zoo Palast
@@ -165,7 +85,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4e9a26cabe4b0d1c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T172500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -173,7 +93,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8bf319a9fb0a52bb@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T195000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -181,7 +101,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d7e367a0589f121c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -189,7 +109,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-998eac3a8c974780@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T201000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -197,7 +117,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e65eca9b5636ace@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T201500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -205,7 +125,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c94275d4cabdf508@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T203500
 SUMMARY:Other Mommy (DE)
 LOCATION:Zoo Palast
@@ -213,7 +133,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b4d7e0f69d2a5ae3@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T132000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Zoo Palast
@@ -221,7 +141,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7741a5cfd0199035@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T135000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -229,7 +149,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a58f5c455697e6e@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T140000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -237,7 +157,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eb894f3f03a986ad@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T152000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -245,7 +165,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6eb7705519453093@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -253,7 +173,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b65c9332b3196c7c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T163000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Zoo Palast
@@ -261,7 +181,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ff8dd3af1015d31@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T163000
 SUMMARY:Wildwood (OV)
 LOCATION:Zoo Palast
@@ -269,7 +189,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-78f5173377e1794a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -277,7 +197,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-152b083f2521e51b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T171000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -285,7 +205,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-57e8a504a7b301f2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -293,7 +213,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a4efc53e2d531af8@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T172500
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -301,7 +221,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9de32d77034c603d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T195000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -309,7 +229,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f620ec8a6c167119@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -317,7 +237,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe0176af9bfb3130@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T201000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -325,7 +245,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-305cdf95881fc316@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T201500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -333,7 +253,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a3412873fa0ef36@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T203500
 SUMMARY:Other Mommy (DE)
 LOCATION:Zoo Palast
@@ -341,7 +261,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d144d71fb1f53077@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T230000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -349,7 +269,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a02e04420b34098@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T230000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -357,7 +277,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-274ce77d2cd58d0b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T231500
 SUMMARY:Other Mommy (DE)
 LOCATION:Zoo Palast
@@ -365,7 +285,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca361e92f2e1948e@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T110000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Zoo Palast
@@ -373,7 +293,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e740d1833a4f5d72@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T110000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -381,7 +301,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96b55a3a390cb827@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T110000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Zoo Palast
@@ -389,7 +309,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b6a61effbfddfbd@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T132000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Zoo Palast
@@ -397,7 +317,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df1ea7dd9861cfd3@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T140000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -405,7 +325,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0488a41179a53bd8@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T141000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -413,7 +333,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2fe5e7e2a4554919@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -421,7 +341,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce74db34655558d2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Wildwood (OV)
 LOCATION:Zoo Palast
@@ -429,7 +349,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c70f8570486057f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -437,7 +357,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1909e5da76ef2ecb@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T172500
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -445,7 +365,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b86b8352aca0b2d7@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T181500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -453,7 +373,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0e43b67b78d47106@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T194000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Zoo Palast
@@ -461,7 +381,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3dcc9244a6189bfd@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T195500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -469,7 +389,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8fae88a71ec1885@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -477,7 +397,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da401d2f8800bcb4@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T204000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -485,7 +405,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6054292c689d491f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T225000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -493,7 +413,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d4da29323ca76c2a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T230000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -501,7 +421,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e2882352613f97b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T231000
 SUMMARY:Other Mommy (DE)
 LOCATION:Zoo Palast
@@ -509,7 +429,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2777ed4146a4580b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T110000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Zoo Palast
@@ -517,7 +437,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b66efa3654ddb53f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T110000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Zoo Palast
@@ -525,7 +445,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24a0b2df5f379a39@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T113000
 SUMMARY:Wildwood (OV)
 LOCATION:Zoo Palast
@@ -533,7 +453,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f769e70e0f1f1aaa@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T113000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -541,7 +461,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec223f3adb92c8b6@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T143000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -549,7 +469,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0848dd6da505b1d2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -557,7 +477,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dee85048d2510b7a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -565,7 +485,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d885f6b1d84c88c7@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -573,7 +493,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ebbc585cea16c9b8@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -581,7 +501,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7142593f756c0ea6@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T171000
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -589,7 +509,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5867399d4d46cc9@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T172500
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -597,7 +517,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dad1608a88065a57@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -605,7 +525,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb5b0e17616d2172@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Parkway Drive - Home (EN)
 LOCATION:Zoo Palast
@@ -613,7 +533,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d922619965ef58b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T203000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -621,7 +541,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e660666840b1b35e@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T203500
 SUMMARY:Other Mommy (DE)
 LOCATION:Zoo Palast
@@ -629,7 +549,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8d61ad9a0136d652@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T204500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -637,7 +557,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88099b0a86dafc8b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T204500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -645,7 +565,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d89946d88cccede@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T224000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -653,7 +573,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ab65763368f52f4@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T132000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Zoo Palast
@@ -661,7 +581,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f5f8dc5f2a0115c8@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T140000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -669,7 +589,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b717e198a5577c39@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T141000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -677,7 +597,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-614e2930b287b073@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T143000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -685,7 +605,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0165a68799af2b80@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -693,7 +613,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-68ed28f036434d11@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T163000
 SUMMARY:Wildwood (OV)
 LOCATION:Zoo Palast
@@ -701,7 +621,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9cf76797f4024587@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -709,7 +629,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f45f48614301f22c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T171000
 SUMMARY:Wild Horse Nine (OV)
 LOCATION:Zoo Palast
@@ -717,7 +637,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46aecd342198fc37@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -725,7 +645,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2a6611118b61aa50@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T195000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -733,7 +653,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7df018e1e25214d9@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T200000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -741,7 +661,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6c4f31fb279752e2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T201000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -749,7 +669,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b009ba82e6c757f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T202000
 SUMMARY:Other Mommy (DE)
 LOCATION:Zoo Palast
@@ -757,7 +677,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5909942cbb3e637@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -765,7 +685,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a2c10e1f81304c1@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T204000
 SUMMARY:Godzilla Minus Zero (DE)
 LOCATION:Zoo Palast
@@ -773,7 +693,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9e8e5ebdab416a3@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T132000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Zoo Palast
@@ -781,7 +701,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e8a89c8492cbe25e@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T140000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -789,7 +709,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d6e5f572677850f0@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T141000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
@@ -797,7 +717,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a79df631da99be0@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T150000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -805,7 +725,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c2d618b8b0bd6d7@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Zoo Palast
@@ -813,7 +733,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f35e99cfbdc009f2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T163000
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -821,7 +741,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85bdeed0a32c17eb@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T170000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -829,7 +749,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24b3ac6e49540a3d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -837,7 +757,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c52b1957d23dc025@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T172500
 SUMMARY:Wildwood (DE)
 LOCATION:Zoo Palast
@@ -845,7 +765,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-413c16ddc75066d5@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T194500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Zoo Palast
@@ -853,7 +773,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e3c79a780aee9db3@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Zoo Palast
@@ -861,7 +781,7 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3706a5d29dfa1ecf@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Zoo Palast
@@ -869,8 +789,120 @@ URL:https://yorck.de/kinos/zoo-palast
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-41ae5cf7cfeb939b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T203500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-59da2970357e5a67@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T132000
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a06f3f7961a24ae2@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T140000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4545db5ee071c28@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T141000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9a2ed6b1b2b91c2@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T143000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-13727bf6a5d929fe@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T153000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad38e5041953cf9c@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T163000
+SUMMARY:Wildwood (OV)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f642ed04e1203e86@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T170000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d2fd5a4047388664@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T170000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bc5238b4a2130028@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42c1900793722c87@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T172500
+SUMMARY:Wildwood (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cab4fa82295e6755@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T194500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2f004aa8fe28df4b@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T200000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-80aff81c506361d9@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T202000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Zoo Palast
+URL:https://yorck.de/kinos/zoo-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-81e0d79cdeed5a54@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T203500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Zoo Palast
 URL:https://yorck.de/kinos/zoo-palast

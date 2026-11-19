@@ -4,48 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Filmtheater
 BEGIN:VEVENT
-UID:getlos-e3e7b09082b35235@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T150000
-SUMMARY:Der Perfekte Urlaub (DE)
+UID:getlos-bd5709e6a291b074@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261119T150000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5aa72d9aab1f1595@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T170000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d527b703061f798@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T173000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8d6a94e8cc883cd2@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-70c4e044ff25752b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T200000
-SUMMARY:Other Mommy (DE)
+UID:getlos-237e4d1877b6bfb2@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261119T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9736d653ad53b8d9@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -53,15 +29,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-183def75d21fe4c6@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T180000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-158f02055a004736@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261119T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9d239a9b0a487e86@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -69,15 +53,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d584de090fe5f5a5@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6d4b2e3aa9c64f3c@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-86ec86b7afe895d7@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261120T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fe0fb0327ad123b1@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -85,15 +85,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-98bc158af74b12f5@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T180000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-034acda6a81fc033@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261120T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-80ede1c71e0f9174@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
@@ -101,7 +109,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c35eaa927a36615@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T130000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Union Filmtheater
@@ -109,15 +117,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-69021eec23a42c84@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T130000
 SUMMARY:Festtagsspaß mit Peppa - Das Kinoerlebnis (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8c6d8b131aa3922c@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261121T144500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1547b09bcc0c0aee@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261121T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-61eddf8d1e18c04f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -125,15 +149,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6435d795d6af69a0@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T180000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4ece0784636e1023@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2cc0f8b39febcb1a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -141,15 +173,31 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4a16ccc938d81c42@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-27da7633b3413267@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261122T144500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0d6903db5a34e3e@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261122T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cf925b5e1e3b7bcc@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -157,15 +205,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3db52154b0368710@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T180000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c1b51a7f5068103e@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-35dde890b25f5a93@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -173,15 +229,39 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-870f8b04ec5e9842@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T203000
 SUMMARY:Other Mommy (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dd1761ab554a1339@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261123T150000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06fbeaec22328b8f@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261123T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ae93782724d3ee8d@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261123T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1e3edc986e8cfeca@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Filmtheater
@@ -189,25 +269,73 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ced4ca0a0321f417@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f366666ebf792a02@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261124T144500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74ee2a3c5e08037b@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261124T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4a48c9ab2621b0c8@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T170000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-94fdf10a17d05270@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261124T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7968369d8903543a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8761d8c19c13e90@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T150000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d0eb1ba9cf1be18@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d5f9c9dbddc2902@ravidvr.github.io
+DTSTAMP:20261119T110219Z
+DTSTART;TZID=Europe/Berlin:20261125T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT

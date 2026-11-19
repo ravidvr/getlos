@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Kulturhaus Spandau
 BEGIN:VEVENT
-UID:getlos-7cf9d34211fc484e@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T142500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d6a6ae4b81a6c288@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c48bf90c0710f093@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T172500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-da4dfe2d35cd598d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T194000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
-URL:http://www.kinoimkulturhaus.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-2da2dc918d32868a@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T150000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -45,7 +13,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-71c7aa98e59bdead@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T165000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -53,7 +21,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2792e2324d2bb79@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T140500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -61,7 +29,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1d79d72fda2aa80b@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T150000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -69,7 +37,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c99c88f8e75cc6f1@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261120T191000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -77,7 +45,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fea14e59caad32c5@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T150000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -85,7 +53,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c62185668512edd@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T161000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -93,7 +61,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8e460cf4d21626d@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261121T191000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -101,7 +69,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7d46bc95eb9be89@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T111500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -109,7 +77,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f116c13039ed07ac@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T142500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -117,7 +85,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-29aaf72c21af9eee@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T202000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -125,7 +93,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2605d6e40f87d4bc@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T150000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -133,7 +101,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b3b6b810c4accd7f@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261123T165000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -141,7 +109,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d65342abd725076c@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T150000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -149,7 +117,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1461ad7782164347@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T155500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597
@@ -157,7 +125,7 @@ URL:http://www.kinoimkulturhaus.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8ac94959636515e4@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261124T202000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kino im Kulturhaus Spandau\, Mauerstraße 6\, Berlin\, 13597

@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Yorck
 BEGIN:VEVENT
-UID:getlos-e8fd481e3fcb5e26@ravidvr.github.io
-DTSTAMP:20261118T082424Z
-DTSTART;TZID=Europe/Berlin:20261118T205000
-SUMMARY:Vertigo (EN)
-LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
-URL:https://yorck.de/kinos/yorck
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c0509406368c7409@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261119T203000
 SUMMARY:Glengarry Glen Ross (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
@@ -21,7 +13,7 @@ URL:https://yorck.de/kinos/yorck
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9fd13928a5b5125@ravidvr.github.io
-DTSTAMP:20261118T082424Z
+DTSTAMP:20261119T110219Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Secrets & Lies (EN)
 LOCATION:Yorck\, Yorckstraße 86\, Berlin\, 10965
