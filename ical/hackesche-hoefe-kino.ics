@@ -4,136 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Hackesche Höfe Kino
 BEGIN:VEVENT
-UID:getlos-be38c022410f7812@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T143000
-SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4ee5bccffe0c7d5c@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T144500
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6ce90e03b607e1fb@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T151500
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e547c619c21ebbb8@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T163000
-SUMMARY:Wildwood (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-65c5d8065e5cf3f3@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T170000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-af8d1aefd9115a50@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T173000
-SUMMARY:La Bola negra (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-edbbdaa060a68333@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T193000
-SUMMARY:The Weight (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-50818e43088afc15@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T193000
-SUMMARY:The Weight - Im Goldrausch (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-277c1363a9d95165@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T193000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-89adf0cd51204913@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T194500
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8787f01d59077915@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T194500
-SUMMARY:La Bola negra (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c46fbe231529fd79@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T200000
-SUMMARY:The Weight - Im Goldrausch (DE)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-126e336914ba4e0a@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T204500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-350dc1c6b24301e1@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T211500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a21c51af345ac178@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T220000
-SUMMARY:Hokum (EN)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-75c3b648a53fa21e@ravidvr.github.io
-DTSTAMP:20261119T110219Z
-DTSTART;TZID=Europe/Berlin:20261119T220000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
-URL:https://www.hoefekino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-70a76ee8df6839b9@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T144500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -141,7 +13,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a4acf9e78a390bca@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T150000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -149,7 +21,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6602c5cf00033f23@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T163000
 SUMMARY:Wildwood (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -157,7 +29,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-411d02d08b6a023d@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -165,7 +37,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e39829071d65d4af@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -173,7 +45,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-856a1fff09936a20@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T172000
 SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -181,7 +53,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-02598d5ab98d4b05@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T190000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -189,7 +61,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c685354efab98e16@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T192500
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -197,23 +69,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4f81020c05017ef@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T193000
 SUMMARY:The Weight (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-1fed92fdc686624d@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+UID:getlos-a9dcfc58827171b3@ravidvr.github.io
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T193000
-SUMMARY:The Weight - Im Goldrausch (OmU)
+SUMMARY:The Weight - Im Goldrausch (OmU) (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c71694b8dd0c666d@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T193000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -221,7 +93,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e11e1631b16f1bd@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -229,7 +101,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b963b7e8f423ec60@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T211500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -237,7 +109,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c88d85b1f38bb10f@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T214500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -245,7 +117,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3a5de42a089ac874@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T220000
 SUMMARY:Hokum (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -253,7 +125,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25b4c9aeae02b1ac@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261120T220000
 SUMMARY:Dumb and Dumber (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -261,7 +133,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b513eb42b56b3638@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T103000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -269,7 +141,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ab7bc1ea824fe0b@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T104500
 SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -277,7 +149,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cdbad5a9ffbef5f9@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T110000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -285,7 +157,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-28fd0b07a498891c@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T111500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -293,7 +165,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-789e3b5f8a2ebf97@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T124500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -301,7 +173,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ace84d0591b9b16@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T130000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -309,7 +181,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a542896f6f90ca2a@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T143000
 SUMMARY:Wildwood (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -317,7 +189,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fe1515b56ebcc41@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T151000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -325,7 +197,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9d15ab504e6a1dc@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T160000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -333,7 +205,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-685f62c22919e52c@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T163000
 SUMMARY:Wildwood (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -341,7 +213,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-26db22416d0bc0b2@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -349,7 +221,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94bad8eb4339cef0@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -357,7 +229,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09b323bb8786ecfe@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T190000
 SUMMARY:Sense and Sensibility (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -365,7 +237,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b5b12442043b5a1@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T193000
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -373,7 +245,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-af7f394318a51797@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T193000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -381,23 +253,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4cfe00824a7e36e3@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T194500
 SUMMARY:The Weight (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7c1453335218d428@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+UID:getlos-938425ad340e79f5@ravidvr.github.io
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T194500
-SUMMARY:The Weight - Im Goldrausch (OmU)
+SUMMARY:The Weight - Im Goldrausch (OmU) (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-896a9ab96a95a4db@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -405,7 +277,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-393fad910a9745ba@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T211500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -413,7 +285,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d09b566c57e32a93@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T220000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -421,7 +293,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-927b3b3c523e433b@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261121T221500
 SUMMARY:Hokum (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -429,15 +301,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e6f55a08ffc52ac9@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T104500
 SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3cbd05e0e4f3f264@ravidvr.github.io
+DTSTAMP:20261120T095329Z
+DTSTART;TZID=Europe/Berlin:20261122T110000
+SUMMARY:You Can See Everything (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5c9e191e4cbd76fa@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T124500
 SUMMARY:I Am Martin Parr (EN)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -445,7 +325,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c186c50327a404e@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T130000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -453,7 +333,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9169601bd62d6c3a@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T134000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -461,7 +341,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3a851d02fed83ed7@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T143000
 SUMMARY:Wildwood (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -469,7 +349,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-80213fec1f75860c@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T143000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -477,7 +357,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-54b34081648af245@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T161500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -485,7 +365,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6adccc490b551db9@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -493,7 +373,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f03eebfcc91c56cd@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -501,31 +381,47 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3ed7afdf6ed84c0@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T180000
 SUMMARY:Wildwood (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-61baccda932df0d3@ravidvr.github.io
+DTSTAMP:20261120T095329Z
+DTSTART;TZID=Europe/Berlin:20261122T183000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3451adcc481c0d55@ravidvr.github.io
+DTSTAMP:20261120T095329Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+SUMMARY:The Weight (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ed456db0ac5b295f@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T193000
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8217433e6ce31c05@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+UID:getlos-dcdfae8d3261b79c@ravidvr.github.io
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T193000
-SUMMARY:The Weight - Im Goldrausch (OmU)
+SUMMARY:The Weight - Im Goldrausch (OmU) (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a0a2252c3835004@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T193000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -533,23 +429,39 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44e384523dd4afdb@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-df21aca31c18658d@ravidvr.github.io
+DTSTAMP:20261120T095329Z
+DTSTART;TZID=Europe/Berlin:20261122T204500
+SUMMARY:You Can See Everything (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e4c139e42403122d@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T211500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ce1f00405b591193@ravidvr.github.io
+DTSTAMP:20261120T095329Z
+DTSTART;TZID=Europe/Berlin:20261122T220000
+SUMMARY:Hokum (EN)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ff09c840f78b585a@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261122T220000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -557,7 +469,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65cca6595c61c3b7@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T143000
 SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -565,7 +477,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d97a83cd521035c4@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T144500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -573,7 +485,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d45fc558acdd88e@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T161500
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -581,7 +493,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4d09c9e7a99b0581@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T163000
 SUMMARY:Wildwood (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -589,7 +501,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3a09cf74b7c9ada7@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -597,23 +509,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d2a9e8096291884@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-68327166914974b3@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+UID:getlos-0e81b8fa715f2d1e@ravidvr.github.io
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T193000
-SUMMARY:The Weight - Im Goldrausch (OmU)
+SUMMARY:The Weight - Im Goldrausch (OmU) (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e41f81008e3529b1@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T193000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -621,7 +533,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5d80f7127488d3e1@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T195000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -629,7 +541,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d3e53ba72613090@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -637,7 +549,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b16b3d76a60ebed7@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T211500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -645,7 +557,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c297ad9bb0701a0@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261123T220000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -653,7 +565,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-04c735f35b2eb830@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T144500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -661,7 +573,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-29b3d1e1838ebc51@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T151500
 SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -669,7 +581,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-736db1eae47a3936@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T163000
 SUMMARY:Wildwood (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -677,7 +589,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88bd01871d3e577c@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T164500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -685,7 +597,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f861bc0f4e01124a@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T165000
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -693,7 +605,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2ab7f2533f83b750@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -701,23 +613,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5633859283cee576@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T192000
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-76ced9e492710d63@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+UID:getlos-b5a7783ab8180b04@ravidvr.github.io
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T194500
-SUMMARY:The Weight - Im Goldrausch (OmU)
+SUMMARY:The Weight - Im Goldrausch (OmU) (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7b6ad231d93e1013@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T194500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -725,7 +637,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bfa7bf92d5b23520@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -733,7 +645,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da2fd30b9a1f159e@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T213000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -741,7 +653,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc362cb257b4bc8a@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261124T221500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -749,7 +661,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b0d36d861842cc7@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T150000
 SUMMARY:Leica - Ein Jahrhundert in Bildern (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -757,7 +669,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-24099b968228b3e7@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T163000
 SUMMARY:Wildwood (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -765,7 +677,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-57c5c4a1269358db@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T165500
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -773,7 +685,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-189c1cf4291e1867@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -781,7 +693,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ebd9edd7df5c8db@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T192500
 SUMMARY:La Bola negra (DE)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -789,7 +701,7 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a5bc53a155050553@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T193000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
@@ -797,15 +709,23 @@ URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d78a71d650266cff@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T201500
 SUMMARY:Eternity (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
 URL:https://www.hoefekino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-41d6907058dac151@ravidvr.github.io
+DTSTAMP:20261120T095329Z
+DTSTART;TZID=Europe/Berlin:20261125T220000
+SUMMARY:The Weight - Im Goldrausch (OmU) (OmU)
+LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
+URL:https://www.hoefekino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e8375b4df7a7daaa@ravidvr.github.io
-DTSTAMP:20261119T110219Z
+DTSTAMP:20261120T095329Z
 DTSTART;TZID=Europe/Berlin:20261125T220000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Hackesche Höfe Kino\, Rosenthaler Straße 40-41\, Berlin\, 10178
