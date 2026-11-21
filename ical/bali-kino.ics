@@ -4,18 +4,10 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Bali Kino
 BEGIN:VEVENT
-UID:getlos-50ffb91952a6f6a1@ravidvr.github.io
-DTSTAMP:20261120T095329Z
-DTSTART;TZID=Europe/Berlin:20261120T180000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Bali Kino
-URL:https://www.bali-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-15357ac2b3f09b77@ravidvr.github.io
-DTSTAMP:20261120T095329Z
-DTSTART;TZID=Europe/Berlin:20261120T203000
-SUMMARY:A Talent for Murder (EN)
+UID:getlos-128caae571d5c523@ravidvr.github.io
+DTSTAMP:20261121T085320Z
+DTSTART;TZID=Europe/Berlin:20261127T223000
+SUMMARY:Searching for Sugar Man (EN)
 LOCATION:Bali Kino
 URL:https://www.bali-kino.de/
 END:VEVENT
