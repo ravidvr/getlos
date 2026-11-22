@@ -4,15 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Capitol
 BEGIN:VEVENT
-UID:getlos-cf42625446fe33fe@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T170000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Capitol
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-0724f9daf8b0f9a4@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Capitol

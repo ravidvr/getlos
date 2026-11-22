@@ -4,32 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-f9e88d1c941ea446@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T140000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6cd91e9df6582354@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T170000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-53c3ddf5fdf5a4ef@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T200000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Delphi Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-975e499ed2dbbc9e@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Delphi Filmpalast
@@ -37,7 +13,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-391abb4cd0e00dc7@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T200000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Delphi Filmpalast
@@ -45,7 +21,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dc2e76c5d4076b81@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Delphi Filmpalast
@@ -53,17 +29,17 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51aa580451e0efce@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-49d8e1b5a3f55cbc@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261122T110000
-SUMMARY:The Band Wagon (EN)
+UID:getlos-31f1b775e68b1c52@ravidvr.github.io
+DTSTAMP:20261122T101219Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:You Can See Everything (EN)
 LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT

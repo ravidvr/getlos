@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Colosseum Filmtheater Berlin
 BEGIN:VEVENT
-UID:getlos-be908e7ae66ab94b@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T124500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-85f685201cb4bf5c@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T165000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-326726c72305e23f@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T181500
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dd884de9db90cfbd@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T193000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3162117aa19c6d27@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T203000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
-URL:https://colosseum.premiumkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f5efbe1e14cd7cf2@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T124500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -53,7 +13,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-90a87dab96703b14@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T141500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -61,7 +21,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39c9357780d1fd34@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T154500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -69,7 +29,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37b09613a45d8874@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T171500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -77,7 +37,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df710d4b43d7cd30@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T180000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -85,7 +45,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b959b272951dcad2@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T154500
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -93,7 +53,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3f06f361acbeaa0@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -101,7 +61,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-614c842b753dcca9@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T180000
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -109,7 +69,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96cb94471d235d8b@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T201500
 SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437
@@ -117,7 +77,7 @@ URL:https://colosseum.premiumkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ac1058586445f38d@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T203000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Colosseum Filmtheater Berlin\, Schönhauser Allee 123\, Berlin\, 10437

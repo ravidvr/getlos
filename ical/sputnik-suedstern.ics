@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-81fdefbbac4f29a1@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T130000
-SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ec14a63406dfbac1@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T180000
-SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a84f90ac11cfd12a@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T194500
-SUMMARY:Identitti (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bb631ebb02503419@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T213000
-SUMMARY:Superbuhei (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-907ad445b182afaf@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T113000
 SUMMARY:Wildwood (OmU)
 LOCATION:Sputnik Südstern
@@ -45,7 +13,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-77ffaaa77410ecea@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T183000
 SUMMARY:Identitti (DE)
 LOCATION:Sputnik Südstern
@@ -53,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6a2d4252ff7a4e6f@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T203000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -61,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cbbda797df667035@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T210000
 SUMMARY:Wildwood (OmU)
 LOCATION:Sputnik Südstern
@@ -69,7 +37,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7600d3458a88b7a0@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T213000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -77,7 +45,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95de268811dcaa59@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261123T213000
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -85,7 +53,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b81e3aca0893c8d2@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -93,7 +61,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fe802457725c4ec@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261124T190000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -101,7 +69,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-072b55db4d7619aa@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261124T204000
 SUMMARY:Wildwood (OmU)
 LOCATION:Sputnik Südstern
@@ -109,7 +77,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca8c03d31ffd6a75@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T150000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -117,7 +85,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4947d7a64d0e86de@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T190000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern

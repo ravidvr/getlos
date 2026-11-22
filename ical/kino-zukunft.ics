@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Zukunft
 BEGIN:VEVENT
-UID:getlos-3d6e0c23e3465cec@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261121T160000
-SUMMARY:Gropiusstadt Supernova (DE)
-LOCATION:Kino Zukunft
-URL:https://www.kino-zukunft.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3ef601810a7253a0@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261122T160000
 SUMMARY:Gropiusstadt Supernova (DE)
 LOCATION:Kino Zukunft
@@ -21,7 +13,7 @@ URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5551fe5079cfb66b@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T180000
 SUMMARY:Gropiusstadt Supernova (DE)
 LOCATION:Kino Zukunft
@@ -29,7 +21,7 @@ URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3e9a8351b448f9f@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T194500
 SUMMARY:Eternity (OmU)
 LOCATION:Kino Zukunft
@@ -37,7 +29,7 @@ URL:https://www.kino-zukunft.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-404d8719acf674c3@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T212500
 SUMMARY:Eternity (OmU)
 LOCATION:Kino Zukunft

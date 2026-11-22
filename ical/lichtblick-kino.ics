@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Lichtblick Kino
 BEGIN:VEVENT
-UID:getlos-fff66f6cc899f026@ravidvr.github.io
-DTSTAMP:20261121T085320Z
-DTSTART;TZID=Europe/Berlin:20261122T000000
-SUMMARY:Casablanca (EN)
-LOCATION:Lichtblick Kino
-URL:https://www.lichtblick-kino.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f69ac81b0cc79d1a@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T190000
 SUMMARY:Broken English (EN)
 LOCATION:Lichtblick Kino
@@ -21,7 +13,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2110e80f0caf444@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261125T210000
 SUMMARY:The Best Summer (EN)
 LOCATION:Lichtblick Kino
@@ -29,7 +21,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe885c1950f53660@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Nova '78 (EN)
 LOCATION:Lichtblick Kino
@@ -37,7 +29,7 @@ URL:https://www.lichtblick-kino.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8f9a567e13366b00@ravidvr.github.io
-DTSTAMP:20261121T085320Z
+DTSTAMP:20261122T101219Z
 DTSTART;TZID=Europe/Berlin:20261126T213000
 SUMMARY:Fugs Film! (EN)
 LOCATION:Lichtblick Kino
