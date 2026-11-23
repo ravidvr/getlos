@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmrauschpalast
 BEGIN:VEVENT
-UID:getlos-1c35025cd3eda239@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T143000
-SUMMARY:Godzilla Minus Zero (OmU)
-LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
-URL:https://www.filmrausch.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-cf573eade2e0f567@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T203000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557
@@ -21,7 +13,7 @@ URL:https://www.filmrausch.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e375a7b8f7c9cac5@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T183000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Filmrauschpalast\, Lehrter Straße 35\, Berlin\, 10557

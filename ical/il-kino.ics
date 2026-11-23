@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-27e6da135086ab4a@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T150000
-SUMMARY:The Mad Dog of Europe (EN)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c0e3c61f58397546@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T150000
-SUMMARY:The Mad Dog of Europe (OmU) (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-32a7ccf72156d31a@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T163000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4066d96847b36ac5@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T211000
-SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
-LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
-URL:https://ilkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-e6712476c3b06b9f@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T152000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -45,7 +13,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0704949670229957@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T153000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -53,7 +21,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88bf4441aab09c1a@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T190000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -61,7 +29,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-351b5ad81f6ef91c@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T211000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -69,7 +37,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-77a298e0136c71e3@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T212000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -77,7 +45,7 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-10536d01624181a5@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261125T185000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047

@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-07035d216bb56914@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T110000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1c99db15dc3c7b94@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T113000
-SUMMARY:George Michael - The Faith Tour (OmU) (OmU)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6a6ba48be132021f@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T120000
-SUMMARY:George Michael: The Faith Tour (EN)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a4793b87bffa6538@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T143000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ba22f94affe89869@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T150000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4862b9569d4befcd@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T163000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7ddd72f53bc7f605@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T174500
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ab51d02d848a9c36@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T191500
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fc5b4597c77a4b5e@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T194000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-231711d5e1e39251@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T203000
-SUMMARY:George Michael: The Faith Tour (EN)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d4c71812369ef9bc@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T140000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -93,7 +13,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91c2899df4eb6779@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T143000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -101,7 +21,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd2f7c8eafe1dace@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T154000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -109,7 +29,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e23a6f31b448b75f@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T155000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -117,7 +37,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-71d823bfcb7d1874@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T174000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -125,7 +45,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6d468e67a93a14d6@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T182000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -133,7 +53,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ca6c7ef377cc4b5@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T194000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -141,7 +61,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f8c84aef31fb5cba@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T202000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -149,7 +69,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b68f3c0421c3904@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T103000
 SUMMARY:Elio (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -157,7 +77,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-534efd4730d814c4@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T143000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -165,7 +85,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f4a4a2845cc5742@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T150000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -173,7 +93,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-447cc834ca8415c5@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T152000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -181,7 +101,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aa77a3e65b0f7663@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -189,7 +109,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a534e102952a1b1b@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T174000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -197,7 +117,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c337cc3058638aca@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T194000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -205,7 +125,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05279830a54ae145@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T202000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -213,7 +133,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39f2098e3e5c306d@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261125T143000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -221,7 +141,7 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-12e01e1b1644358b@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261125T174000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
@@ -229,9 +149,17 @@ URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4945e64baa46eb31@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261125T194000
 SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bcc7b45d1f5e992f@ravidvr.github.io
+DTSTAMP:20261123T110331Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Die Hard (EN)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT

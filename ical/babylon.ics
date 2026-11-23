@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Babylon
 BEGIN:VEVENT
-UID:getlos-abd3a37e67ba44cb@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T131500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-456136dc6713a8e9@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T134500
-SUMMARY:Star Trek: First Contact (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-79c2f1c4772a04eb@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T164500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7f209bd017136551@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T203000
-SUMMARY:Eyes Wide Shut (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8742158e315fd96f@ravidvr.github.io
-DTSTAMP:20261122T101219Z
-DTSTART;TZID=Europe/Berlin:20261122T210000
-SUMMARY:The Devils (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-3d3cbb9836ed7db5@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -53,7 +13,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-158ede1490faa730@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T204500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -61,7 +21,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-194d829e3d2ab0ec@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261123T213000
 SUMMARY:The Devils (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -69,7 +29,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-16f19c4dc7f956fb@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -77,7 +37,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-45260b608767b909@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T204500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -85,7 +45,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7f31f52dbe7fbcf@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261124T213000
 SUMMARY:The Devils (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -93,17 +53,41 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f3fd27ffafefd3d6@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261125T171500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
 URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-969e11eb7f5f8612@ravidvr.github.io
+DTSTAMP:20261123T110331Z
+DTSTART;TZID=Europe/Berlin:20261125T173000
+SUMMARY:Sense and Sensibility (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fb098cd4d22d82ba@ravidvr.github.io
-DTSTAMP:20261122T101219Z
+DTSTAMP:20261123T110331Z
 DTSTART;TZID=Europe/Berlin:20261125T204500
 SUMMARY:La Bola negra (OmU)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-855ccfc8de22e048@ravidvr.github.io
+DTSTAMP:20261123T110331Z
+DTSTART;TZID=Europe/Berlin:20261125T213000
+SUMMARY:The Devils (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8982beed8a6ee991@ravidvr.github.io
+DTSTAMP:20261123T110331Z
+DTSTART;TZID=Europe/Berlin:20261129T194500
+SUMMARY:Black Christmas (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
 URL:http://www.babylonberlin.de
 END:VEVENT
