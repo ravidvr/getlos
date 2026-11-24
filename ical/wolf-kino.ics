@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-c974739f6d3bd00d@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T163000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-70397f17e92dac2b@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T202000
-SUMMARY:La Bola negra (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-dcd54c15e7515de1@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T163000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -29,7 +13,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a69ad3aa0df308b7@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -37,15 +21,23 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-97dbfbb9bf3c803d@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T130000
 SUMMARY:Eternity (OV)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-658d0121884e3be5@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T163000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-01972c20d4aa84fc@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Eternity (OV)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -53,8 +45,104 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2f961865d75ee049@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T201000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65193160638548f1@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0bf55db5f0496f41@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T202000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0bb79d760373dfdf@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T163000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f045cbdadb9f4864@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T202000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-102bcc47db21166d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd0bf2668173da6a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T164000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2b3e158ae0721b10@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T202000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b73a207c9cc75a00@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3d8a30b21da5e61@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T170000
+SUMMARY:Eternity (OV)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d23cb5b2de5fe971@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T202000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22bfc0a868b85290@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2448e1bb1e65c8f9@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org

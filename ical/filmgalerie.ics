@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmgalerie
 BEGIN:VEVENT
-UID:getlos-25a1c7af3982f607@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cb4d6b675767b2b4@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T160000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3085205e4ae7eac6@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T193000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-42c992e2642748bd@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4f784745837f6f5f@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T150000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Filmgalerie
@@ -45,7 +13,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-44bde661ac4e6055@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
@@ -53,7 +21,7 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-48ba26b60ea0350a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
@@ -61,9 +29,105 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f55f9dd805acf367@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1b2c9e65ac9e2c6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1c725bf3973261a3@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-322ccef89cce04ce@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65cfd1842a5206a6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fd07b4ca5d6154d4@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6716367b32b4c4fb@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-21fd5bfbc8a55c53@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1ee6fda771ed6f4@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de6d1f296d760298@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-93a03ac880724b86@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a7d5443225a5be65@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-92ddc4f486261311@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT

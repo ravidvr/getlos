@@ -4,32 +4,16 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-cbbda797df667035@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T210000
-SUMMARY:Wildwood (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7600d3458a88b7a0@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T213000
-SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-95de268811dcaa59@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T213000
-SUMMARY:Superbuhei (DE)
+UID:getlos-a7621963fb1087f0@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T150000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b81e3aca0893c8d2@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
@@ -37,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fe802457725c4ec@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T190000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -45,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-072b55db4d7619aa@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T204000
 SUMMARY:Wildwood (OmU)
 LOCATION:Sputnik Südstern
@@ -53,17 +37,161 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ca8c03d31ffd6a75@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T150000
 SUMMARY:The Mad Dog of Europe (OmU) (OmU)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0fb21d16820a6fdb@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4947d7a64d0e86de@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T190000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-21b5599848b0f7e9@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T204500
+SUMMARY:Identitti (DFmenglU) (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b57039b4c74e994a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T160000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c185013c1fab101@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T190000
+SUMMARY:Identitti (DFmenglU) (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b56c09536c74f1a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T210000
+SUMMARY:Wildwood (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0c4cb66af98272e@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T214500
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-beb90ec9ab3e6bd6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T170000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6df0be9059cd6ab0@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T183000
+SUMMARY:Identitti (DFmenglU) (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5d264e296045c17@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Wildwood (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-572abfe12fc81d88@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T164500
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b968c5dda39907b5@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T193000
+SUMMARY:Identitti (DFmenglU) (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dc4b41472218bbbb@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T204500
+SUMMARY:Superbuhei (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6eb4b3cb42ee1ecc@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T131500
+SUMMARY:The Mad Dog of Europe (OmU) (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a0c77648672d942@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T160000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2fc3b03e6cc259bd@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T173000
+SUMMARY:Identitti (DFmenglU) (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-51dc089ea29ef014@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T173000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-165f259bfe8dc8ec@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T190000
+SUMMARY:Identitti (DFmenglU) (DE)
+LOCATION:Sputnik Südstern
+URL:https://www.sputnik-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ba6bc834aedb0797@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T204500
+SUMMARY:Superbuhei (DE)
 LOCATION:Sputnik Südstern
 URL:https://www.sputnik-kino.de/
 END:VEVENT

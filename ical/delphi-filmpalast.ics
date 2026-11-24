@@ -5,15 +5,23 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Delphi-Filmpalast
 BEGIN:VEVENT
 UID:getlos-1598f2611a534175@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4f5fe0ff6cc53614@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T200000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:Delphi-Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fc47ebc2c33a2d6d@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:You Can See Everything (EN)
 LOCATION:Delphi-Filmpalast
@@ -21,7 +29,7 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-23d1aa3d8502ebe8@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261129T110000
 SUMMARY:Carmen Jones (EN)
 LOCATION:Delphi-Filmpalast
@@ -29,17 +37,9 @@ URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5b602c84d7020f97@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261129T140000
 SUMMARY:Eternity (EN)
-LOCATION:Delphi-Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4f5fe0ff6cc53614@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261125T200000
-SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Delphi-Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT

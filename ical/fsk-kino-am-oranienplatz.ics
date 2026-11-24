@@ -4,43 +4,35 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - fsk Kino am Oranienplatz
 BEGIN:VEVENT
-UID:getlos-da47d34fec2b5160@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T174500
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://www.fsk-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cd50a382f6238791@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T203000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
-URL:https://www.fsk-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9710e7a4c89d1fb8@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T174500
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+LOCATION:fsk Kino am Oranienplatz
 URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-941dbd1eb02018f7@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T203000
 SUMMARY:Wild Horse Nine (EN)
-LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+LOCATION:fsk Kino am Oranienplatz
 URL:https://www.fsk-kino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-29598821fa5696ac@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T180000
-SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
-LOCATION:fsk Kino am Oranienplatz\, Segitzdamm 2\, Berlin\, 10969
+UID:getlos-00f8a87358e64b53@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T174500
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:fsk Kino am Oranienplatz
+URL:https://www.fsk-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99383623e469adb8@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T203000
+SUMMARY:Wild Horse Nine (EN)
+LOCATION:fsk Kino am Oranienplatz
 URL:https://www.fsk-kino.de/
 END:VEVENT
 END:VCALENDAR

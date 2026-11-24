@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Lichtblick
+BEGIN:VEVENT
+UID:getlos-2d2f9fb3290f1845@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T160000
+SUMMARY:Übergang (DE)
+LOCATION:Lichtblick\, Kastanienallee 77\, Berlin\, 10435
+URL:https://www.lichtblick-kino.org/
+END:VEVENT
+END:VCALENDAR

@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino im Hof
 BEGIN:VEVENT
-UID:getlos-b676ff91442b24c8@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T161500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-18b84695594e740f@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T163000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-51693e5a9b815ba8@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T163000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-05160c0108f4583a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T164000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c2859ff096f62710@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T170000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-537ef97024214891@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T193000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-03c3233305b25119@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T200000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8e96903d15f9ab47@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T202000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Kino im Hof
-URL:https://www.kino-im-hof.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4cde39245e334f04@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T134500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Kino im Hof
@@ -77,7 +13,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85bccf9e5ea24dc7@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T135000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino im Hof
@@ -85,7 +21,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-deb2d2efc23b78a3@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T135000
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
 LOCATION:Kino im Hof
@@ -93,7 +29,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-573ce1ffcfe80d15@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T135500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino im Hof
@@ -101,7 +37,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-72ba8e3511a64a4d@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T140000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
@@ -109,7 +45,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1b3143f2878efac5@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T150000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Kino im Hof
@@ -117,7 +53,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-55c22aab6242e7a2@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino im Hof
@@ -125,7 +61,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-250b49afcb1f3117@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T160500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
 LOCATION:Kino im Hof
@@ -133,7 +69,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-13599a510ea489a3@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T161500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Kino im Hof
@@ -141,7 +77,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f9047b9f8ebe1439@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T164000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
@@ -149,7 +85,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a783e225929e291a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T164500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Kino im Hof
@@ -157,7 +93,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5da8e2cc1fa0b7d4@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:Wildwood (DE)
 LOCATION:Kino im Hof
@@ -165,7 +101,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce7eaec70375cab6@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T171500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
@@ -173,7 +109,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a93cd2af8ed9870b@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino im Hof
@@ -181,7 +117,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f06a3194a1a4ea3@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T181500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino im Hof
@@ -189,7 +125,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-661855c1cff996a5@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Kino im Hof
@@ -197,7 +133,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-945859265e9214de@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T193000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
@@ -205,7 +141,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-eccdb3818007c03f@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino im Hof
@@ -213,7 +149,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0d53ded594b916b9@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Kino im Hof
@@ -221,7 +157,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9efbb87c2bb9d910@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
@@ -229,7 +165,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-642bff06c793e9c9@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Kino im Hof
@@ -237,31 +173,55 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7e0829be4916b048@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T203000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-96055eb66345f52e@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T134500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-71f99b9639e78903@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T134500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b4ce8c621281882f@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T135500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a0e89a62df9fec30@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T143000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ca146bd98af56569@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T144500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ff0e9f836832642b@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Kino im Hof
@@ -269,7 +229,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4e5cce9aa2e37ba1@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T173500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kino im Hof
@@ -277,7 +237,7 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f7211080638919b7@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T195500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
 LOCATION:Kino im Hof
@@ -285,17 +245,441 @@ URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15d17e4764c25194@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e248ab3f797678f5@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T200000
+SUMMARY:Beware Boiúna (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1e06ac66fe1bd9eb@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T201000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-095fd3646e3de18e@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T202000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-292d6485ea656385@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T134500
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ec1245e6fe92437@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T134500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e54e3f095b9924b9@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T142500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fdf77ceb509b520@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T143500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-59614af35987b80d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1bfd225bd2b31c8d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T165000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-124cd09e313107be@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T165500
+SUMMARY:Wildwood (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-465d55584c640f86@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1388f22ad0f7794@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T172500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1391beb61e51fbd7@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T192000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-988928ee96273ad0@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a81aec0b43050d4f@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T134500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-897a1e61427506ba@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2aaf43ad094faa6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T141500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f719c5b4b5eec2c@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T161000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb8a5bf01ede9c8c@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T162000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d7f6c3a5d8f31e5@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T164000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50228deaa61c0c12@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T172500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-98a16932b128794c@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T191000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b69d2bd37d0a22b@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4bc4708e79f354fd@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T222000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d61c7d1b8f5b3c8@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T225000
+SUMMARY:Wildwood (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c72c08eea98191d2@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T230000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-844315126683654d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T113000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9db975784a416f3e@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T114000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7cd97cfa45f7f0c7@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T133000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d0208334090ef3af@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T143500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-872121b9925368f3@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T161500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0fc61d2db052bc15@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48a310422a19c0dd@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-da1c6e90d0803d8f@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T172500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fcea784af793faee@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T191500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1c4017b3eec1a23@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb96087a14fcca7d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T222000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c9587c37e29374a2@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T224500
+SUMMARY:Wildwood (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-349b5a831e9d41fb@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T230000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce2a5096a65597af@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T113000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5868cb43496cbbbe@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T135000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9486f63a6071a4c@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T142500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-816d448d5d8f50fd@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T162000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28602fe4e6269d64@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T165500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c07e355c45fa7377@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T171500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62ce6d61895f0ed4@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T174000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9c20f404d488904@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ce3293ab8a4c5ba@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-000a08e741ad8521@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T161500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d3c79adab148a85@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-82007641f9d8dbe3@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T163500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01c531bbc96684fa@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-628bdc825126a1ac@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T192000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kino im Hof
+URL:https://www.kino-im-hof.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74ebde5b8a2d85dd@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Kino im Hof
 URL:https://www.kino-im-hof.de/
 END:VEVENT

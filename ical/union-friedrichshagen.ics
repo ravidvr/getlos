@@ -4,80 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Friedrichshagen
 BEGIN:VEVENT
-UID:getlos-71211ca89bcbfab2@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T121500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-28c5e02009bb1523@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T150000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-609fecbbb028813e@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T151500
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2ee19f3522ab3ace@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T153000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-554514550391db2d@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T171500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7c7acbca322b26d2@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T174500
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b1ab32d34b9634f5@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T203000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ce98718515ad16e7@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T203000
-SUMMARY:Wild Horse Nine (DE)
-LOCATION:Union Friedrichshagen
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7e9f5e33ea95006e@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T123000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d692bc9fda878278@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T130000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b750e7bb7198b988@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T131500
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Union Friedrichshagen
@@ -85,7 +29,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32a9fec2838642f1@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T151500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Union Friedrichshagen
@@ -93,7 +37,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0a2dc8bf312d0116@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T153000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Union Friedrichshagen
@@ -101,7 +45,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6f5a83483328e716@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T160000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Union Friedrichshagen
@@ -109,7 +53,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d96bfc70793e7088@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T174500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Union Friedrichshagen
@@ -117,7 +61,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf9e3bf19acc2110@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Wild Horse Nine (DE)
 LOCATION:Union Friedrichshagen
@@ -125,7 +69,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f11f4334a5c383ce@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T100000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Union Friedrichshagen
@@ -133,17 +77,289 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3bd78344d088aff@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T103000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1764d8ec031ee2cd@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T123000
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f6d036087cf6e6d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T151500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-90b5233f222c7b32@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T170000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1ec853c2c5a14451@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T171500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ff9d6d3e2d253cbc@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T201500
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f73575f821fc49a8@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T120000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c5e9e3e4627b4933@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T133000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96e66ed365b9179e@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T144500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32bb758891494db6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T153000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3c0898d8406e1a1@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-55e5729aa2f24789@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T201500
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8312874fa38c07ca@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T113000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e0613a274b558c6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T131500
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-085055998476c00d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T153000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0e6eae27878bd349@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T171500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e178b3be5bb89b30@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T173000
+SUMMARY:Wildwood (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d127e8c95914f9b3@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96cf4d935197c3bf@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T203000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ccb410e0e73b9d2@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T123000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-761d8ecd016b709b@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T143000
+SUMMARY:Wildwood (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0356ec75519da7d5@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T164500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0dda6facd31eb117@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-95a46fa417411123@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T203000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-37277aada8300c42@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T101500
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-350a2996f164e168@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T131500
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a926258b9411841@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e331ea301805f137@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T203000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-afe7f455d4dfc633@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T203000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a3923f9273b6945@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T120000
+SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8f9f6a4b43c4d1a2@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T121500
+SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-afdaf1838eff3823@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T150000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68c8677032628b3b@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T153000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4fa09b2ca4067be9@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a860b1f441b6023@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T201500
+SUMMARY:Wildwood (OmU)
+LOCATION:Union Friedrichshagen
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a906f4b75426a023@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T203000
+SUMMARY:Wild Horse Nine (DE)
 LOCATION:Union Friedrichshagen
 URL:https://www.union-filmtheater.de/
 END:VEVENT

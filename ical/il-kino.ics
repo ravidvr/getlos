@@ -4,32 +4,40 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Il Kino
 BEGIN:VEVENT
-UID:getlos-e6712476c3b06b9f@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T152000
+UID:getlos-1ccfdea909343023@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T165000
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-61871ff74f0e0666@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T170000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0704949670229957@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T153000
+UID:getlos-55cf9a262d76ceef@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T171000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-88bf4441aab09c1a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T190000
-SUMMARY:Wild Horse Nine (OmU)
+UID:getlos-ac8f131ad8f083cf@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T192000
+SUMMARY:La Bola negra (DE)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-351b5ad81f6ef91c@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T211000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
@@ -37,16 +45,184 @@ URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-77a298e0136c71e3@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T212000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a52857688ff11ceb@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T165500
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-10536d01624181a5@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T185000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bdf8d297273c51de@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T192500
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fefd32c59a74cb47@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6db88d101ea69b19@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T161000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-36443617c101014c@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8050bf80ab8ef69a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261126T211000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5b9d11174555926a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T143000
+SUMMARY:Wiener Blues - The Loneliest Man in Town (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aaddfe2f03b97fa6@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T161000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-239afad3c261d4e8@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T190000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-730dcc56e44e4e49@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T191000
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1b51ba128d12eab7@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T211000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8af1041059de665d@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T191000
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-49272384fa2b47bb@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T192000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83241986aa129f6a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T213000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-32af62b42d761d8e@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T164000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbdb5a85e0963bf2@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T192000
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ae663d5b4cca0276@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e70a64e37fd570af@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T145000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbdc57320a841f15@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:La Bola negra (DE)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbfb1362a50b41ca@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T184000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
+URL:https://ilkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fb0c26838b30bb6f@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T213000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Il Kino\, Nansenstraße 22\, Berlin\, 12047
 URL:https://ilkino.de/

@@ -4,136 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Rollberg Kino
 BEGIN:VEVENT
-UID:getlos-679170cdc5d8e078@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T160000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9797daa050ad35be@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T163000
-SUMMARY:Wildwood (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-691beb4849d09c82@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T170000
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-442eaaadd06443f3@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T170000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f7c20b80d2801fde@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T174500
-SUMMARY:The Only Living Pickpocket in New York (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-85d4cfe8d6d062fc@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T174500
-SUMMARY:The Only Living Pickpocket In New York (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-74c5b35a8fd1ec94@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T184500
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3d95cec727b51327@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T193000
-SUMMARY:The Only Living Pickpocket in New York (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-576c5b83f9286bb5@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T193000
-SUMMARY:The Only Living Pickpocket In New York (DE)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a2e1268941e22c86@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T200000
-SUMMARY:Wildwood (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-90d016ff182f3efe@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T201500
-SUMMARY:The Only Living Pickpocket In New York (OV)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9566680cdf05cb45@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T203000
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3546381961e6798f@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T203000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fee7ce32a4fb870a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T210000
-SUMMARY:Godzilla Minus Zero (OmU)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-992c84b324f25461@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T213000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e6b824eda5ed1e33@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T214500
-SUMMARY:Hokum (EN)
-LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
-URL:https://yorck.de/kinos/rollberg
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9c969d9b4409027f@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T160000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -141,7 +13,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39d6765316d3ec45@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T163000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -149,7 +21,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-80e10fc0df339dc1@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T170000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -157,7 +29,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9fd69b8e6a5c6f7c@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T170000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -165,7 +37,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-058a78520df9fecd@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T174500
 SUMMARY:The Only Living Pickpocket in New York (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -173,7 +45,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9f3638b85d16056@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T174500
 SUMMARY:The Only Living Pickpocket In New York (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -181,7 +53,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d9d043f96c24ce9a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T184500
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -189,7 +61,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e5296142db0efe6b@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T193000
 SUMMARY:The Only Living Pickpocket in New York (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -197,7 +69,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6beff348b4109d86@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T193000
 SUMMARY:The Only Living Pickpocket In New York (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -205,7 +77,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-229daac90a2af41a@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T200000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -213,15 +85,23 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8a6a6d09a52f24dc@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T201500
 SUMMARY:The Only Living Pickpocket In New York (DE)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3e6d9a068aeea91a@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261124T203000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-80e97572baac5b1c@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T203000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -229,7 +109,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-006cd2d8dcd490a2@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T210000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -237,7 +117,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39c7c37a98fdf9d9@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T213000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -245,7 +125,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb39419e0b6a8a49@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T214500
 SUMMARY:Hokum (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -253,7 +133,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dfdb080f0d0d597c@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T160000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -261,15 +141,23 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ed7271519435538d@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T163000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1a3c8ff8e0aade80@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T170000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-97a8a1b887255204@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -277,7 +165,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7f0651833077f800@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T174500
 SUMMARY:The Only Living Pickpocket in New York (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -285,15 +173,15 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c826f3a4b81ec4ec@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T184500
-SUMMARY:Wild Horse Nine (OV)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2bf54513d95472b9@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T193000
 SUMMARY:The Only Living Pickpocket in New York (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -301,15 +189,23 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4033427c0b2ec0bc@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Wildwood (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a9c053d282cdfd70@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261125T203000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
+URL:https://yorck.de/kinos/rollberg
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1c96d09dda161e70@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T203000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -317,7 +213,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34d2ae82aa708d42@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T203000
 SUMMARY:The Only Living Pickpocket In New York (OV)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -325,7 +221,7 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1339a79bb6704f33@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T210000
 SUMMARY:Godzilla Minus Zero (OmU)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
@@ -333,15 +229,15 @@ URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dd09dc4c8e2dcb04@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T213000
-SUMMARY:Wild Horse Nine (OV)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053
 URL:https://yorck.de/kinos/rollberg
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d8ef93a0bdbe4ca@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261125T214500
 SUMMARY:Hokum (EN)
 LOCATION:Rollberg Kino\, Rollbergstraße 70\, Berlin\, 12053

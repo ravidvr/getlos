@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - City Kino Wedding im Centre Français
+BEGIN:VEVENT
+UID:getlos-ab4d5daee7138c61@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261127T164500
+SUMMARY:La Bola negra (DE)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-74a24e4afd9bcf69@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261128T201500
+SUMMARY:La Bola negra (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-290c317c8fc76646@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70428107f6988e8c@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261129T203000
+SUMMARY:La Bola negra (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ba989caf07cfff8@ravidvr.github.io
+DTSTAMP:20261124T091908Z
+DTSTART;TZID=Europe/Berlin:20261130T194500
+SUMMARY:La Bola negra (OmU)
+LOCATION:City Kino Wedding im Centre Français\, Berlin
+URL:https://citykinowedding.de/
+END:VEVENT
+END:VCALENDAR

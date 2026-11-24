@@ -4,16 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-56c24fd0337a9544@ravidvr.github.io
-DTSTAMP:20261123T110331Z
-DTSTART;TZID=Europe/Berlin:20261123T194500
-SUMMARY:La Bola negra (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-75dd99973f95fd19@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T173000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Cosima-Filmtheater
@@ -21,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-df60d88e4a5f8f63@ravidvr.github.io
-DTSTAMP:20261123T110331Z
+DTSTAMP:20261124T091908Z
 DTSTART;TZID=Europe/Berlin:20261124T194500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Cosima-Filmtheater
