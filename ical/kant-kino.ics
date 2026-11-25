@@ -4,98 +4,482 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kant Kino
 BEGIN:VEVENT
-UID:getlos-4b68f3c0421c3904@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T103000
-SUMMARY:Elio (EN)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-534efd4730d814c4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T143000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4f4a4a2845cc5742@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T150000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-447cc834ca8415c5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T152000
+UID:getlos-902915dcbd984b6c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T142000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-aa77a3e65b0f7663@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T171500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
-URL:https://yorck.de/kinos/kant-kino
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a534e102952a1b1b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T174000
+UID:getlos-73ba4ba67d45f79f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T150000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c337cc3058638aca@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T194000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-a690d3e4a9996dd5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T161000
+SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-05279830a54ae145@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T202000
+UID:getlos-df4259aaf833d15a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T171500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-39f2098e3e5c306d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T143000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-8ec57a0b8a1e22f5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T202000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-12e01e1b1644358b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T174000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-88d4286601ad357b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4945e64baa46eb31@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T194000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
+UID:getlos-744acae425668cf2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-93dbd241b3a0c7ca@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-657ceba3c8085033@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T164500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f26dd1af858168b9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec96245618e035b0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T175000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-727bcf9b9a19bac6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18c19bea3d45105e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8fc2dc43f1edf52@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b9d97c3bf6d7ffb9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ec0e66e166421dc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d1fd857ae0af2e68@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T164500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b4c94aab6e0386ed@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce0d3c2f5ce846d0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T175000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6798974e02be5191@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T193000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f58b84ed682533d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0bdb283197de802@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T140000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c1732f6921769bd7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T141000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a8f1b53a1276e1f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4634ecc4146ba8c7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T160000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20c6809ff567ada2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T164500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-69e7f32481f8e47b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db4a1d5d88cbbcb5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T175000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c448e1878f810b77@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T193000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79d06188684c62f2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70ff8b8d78f3e26c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T112000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a49a4666f4f7049@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T120000
+SUMMARY:George Michael: The Faith Tour (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6da12fd6c0f2d6e0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T122000
+SUMMARY:I Am Martin Parr (OmU) (OmU)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-236e5affd0918051@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6800789f34625db@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T141000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca2d379300ad7179@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa93b026bb917223@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T160000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94c7aee20be3c3af@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T164500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-942b41d1825d8daa@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c7b9332a7c0aca2a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T175000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc745552e473ff8f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-292d8ae23064ba75@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T194000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bcc7b45d1f5e992f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T200000
 SUMMARY:Die Hard (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a72c3081505aff5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T140000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70834db73702f72e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-39b08da4ef772e57@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T154000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83aa9d2c95f8f6b7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T164500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68c6c4e9dd1bc875@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T175000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8958058f93472763@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T182000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fdd92ac48e84aa7d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T193000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c51bbeab8f29cd76@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T203000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8087f2ca01a0176@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d83f745ebb096f8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T150000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-05642f4c3a6b0a57@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d4705ab9d5fff51@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T164500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9f5a97ebf36c1358@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T174500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-48318350cac0115b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T175000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00009d934208372b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor 3D (DE)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-84801363053f428c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T203000
+SUMMARY:The Holiday (EN)
+LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
+URL:https://yorck.de/kinos/kant-kino
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44a465bc3ec0b837@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T203000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Kant Kino\, Kantstraße 54\, Berlin\, 10627
 URL:https://yorck.de/kinos/kant-kino
 END:VEVENT

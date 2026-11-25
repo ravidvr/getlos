@@ -4,26 +4,122 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Odeon
 BEGIN:VEVENT
-UID:getlos-2947c086d33596f2@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T162000
-SUMMARY:La Bola negra (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e462383c8c016f58@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:La Bola negra (OmU)
-LOCATION:Odeon
-URL:https://www.odeon-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fba5d70f032f3fe3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T162000
 SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-625cf7fea677ac20@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T162000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3543e640f7cea339@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8ba0e9ac83914e7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T162000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aaad56e05d378417@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9464519b7740519d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T133000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-73447d21b9cfffc8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T170000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cd747e7063bc7579@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T203000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5562ed03588960ff@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T130000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa830f0e3abfe86b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T162000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af639a2f92f958fc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8ce24ae03f710427@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T162000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26f4906a2d7d9361@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8fc41ac1735612a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T162000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Odeon
+URL:https://www.odeon-kino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a1f1933221083cb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:La Bola negra (OmenglU)
 LOCATION:Odeon
 URL:https://www.odeon-kino.de/
 END:VEVENT

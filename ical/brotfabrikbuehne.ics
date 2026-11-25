@@ -4,26 +4,58 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - BrotfabrikBühne
 BEGIN:VEVENT
-UID:getlos-29bf1810236b6ebb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T183000
-SUMMARY:Übergang (DE)
+UID:getlos-51137647cd51a8eb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T210000
+SUMMARY:Schöne Seelen (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ab2bb9829cd5a899@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T210000
-SUMMARY:Übergang (DE)
+UID:getlos-ae187c2187cea59f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T210000
+SUMMARY:Schöne Seelen (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-731a67bbe80112d8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T170000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+UID:getlos-03cfd2ef43997d69@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T210000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e18e033a97ad398@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T204500
+SUMMARY:Schöne Seelen (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-54921278b07a625f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T204500
+SUMMARY:Schöne Seelen (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-79c728c25d68340a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Morgen vor langer Zeit (DE)
+LOCATION:BrotfabrikBühne\, Berlin\, 13086
+URL:https://brotfabrik-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-743a2d14beb2f472@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T184500
+SUMMARY:Schöne Seelen (DE)
 LOCATION:BrotfabrikBühne\, Berlin\, 13086
 URL:https://brotfabrik-berlin.de/
 END:VEVENT

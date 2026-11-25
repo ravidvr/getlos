@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmgalerie
 BEGIN:VEVENT
-UID:getlos-4f784745837f6f5f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T150000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-44bde661ac4e6055@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T160000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-48ba26b60ea0350a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T193000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f55f9dd805acf367@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Filmgalerie
-URL:https://www.filmgalerie-berlin.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-f1b2c9e65ac9e2c6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
@@ -45,89 +13,297 @@ URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c725bf3973261a3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c80af1f68f013cd5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T150000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-322ccef89cce04ce@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fb2797f3fc9fe350@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-65cfd1842a5206a6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fc920acd5723006a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70ff1805c00a76a7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-44a1ff651b0e80a9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T150000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fd07b4ca5d6154d4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-400e1d17997846e1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6716367b32b4c4fb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6fdb9320cd48ea50@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c2338cc73d58f5df@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-879fa54a2d9ae25f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-21fd5bfbc8a55c53@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-480f2b16247c7f21@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a1ee6fda771ed6f4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-374b3cf8183c221a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-938f0fc7e3622cb8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83e9c4ae73875463@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T150000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-de6d1f296d760298@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0ec42e1046ceb506@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-93a03ac880724b86@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9cf6cded0997bde7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8a6b44cbc1222eb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1320f80d488e31c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T150000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a7d5443225a5be65@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4930e3c98e66e3fc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-92ddc4f486261311@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2ac90f0ed22650f5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17ae9c1763768054@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3e185746c4e0158@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T150000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f1cb93d65f0b8eac@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3668bc78f4a40828@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e5f30f27fdc6168@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6734744fc731b96@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Filmgalerie
+URL:https://www.filmgalerie-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7bd1914db66f00f2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Wie verhext 3D (DE)
 LOCATION:Filmgalerie
 URL:https://www.filmgalerie-berlin.de/
 END:VEVENT

@@ -4,72 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Intimes
 BEGIN:VEVENT
-UID:getlos-6cc7a89dbc3b3b19@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1e1c4936e58a8072@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T140000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-31078b30a66e6270@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T153500
-SUMMARY:Digger (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f3449d9f99edce7a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T154500
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-08b4d350d847b9a6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T172000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-791fb9ae6687f415@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T194000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2afc103fb0cc2a1d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T220000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9c0356724ace98b4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T140000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-9f54869e57dc3a02@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T140000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -77,7 +13,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25880610a8cb1d4b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T153500
 SUMMARY:Digger (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -85,7 +21,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-929895148773bff3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T154500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -93,7 +29,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37647cb3586b2573@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T172000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -101,7 +37,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-549cf668ad6452d6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T194000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -109,7 +45,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3ae7a40be7de4bd6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T220000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -117,23 +53,31 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f944026b1b74c415@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T140000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4be2d3809b416be7@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T153500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-c02e92e10df67c5e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T142000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f5243d1b3178cc0c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T143500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-981c16c467b77c0b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T180000
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -141,7 +85,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08fc4b9104decb02@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T194500
 SUMMARY:Wildwood (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -149,23 +93,23 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fe8fb104e29e21a5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T202000
-SUMMARY:Wild Horse Nine (OmU)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf46af7275667190@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T222000
-SUMMARY:Wild Horse Nine (OmU)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b07e8e2ee719aac9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T224500
 SUMMARY:The Devils (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -173,39 +117,47 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-37e4ed9d82959771@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T140000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-c3009b7bac4d37a1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261127T153500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-cf7ca046c082a0f6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T142000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5137ca8c63bb2f35@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T143500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c2a6eeb7a41d5456@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T180000
-SUMMARY:Wild Horse Nine (OmU)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9987e463adeb1469@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T194500
-SUMMARY:Wildwood (OmU)
+SUMMARY:Wildwood (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-189d9065e1876520@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T202000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -213,39 +165,39 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3925e94627f026f4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T222000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-75d335ac20ee19bc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T121500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-c540533e9e024144@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T224500
+SUMMARY:Primetime (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5c2d32f6929b855a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T140000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fc1dfc6fc3f6459a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T153500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-dbcb712b34138260@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T142000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-972c9dbcc1d9d8e0@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T172000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -253,7 +205,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-444fe1ad478235e8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T194500
 SUMMARY:Wildwood (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -261,7 +213,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b0e71c2ef2ebcfd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T202000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -269,7 +221,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53b3ef0037a42f58@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T222000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -277,39 +229,31 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25d7d9c67674a8d9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T224500
 SUMMARY:Obsession (EN)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-04ab531f0502c1a4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T121500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
-URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-c382bc0271a35386@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T140000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-57a958c0e8d83d45@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T153500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-6c2d3c2c3663ad76@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T142000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8c330af50522d9d4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T172000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -317,7 +261,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b84b1babaf525a4b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T194500
 SUMMARY:Wildwood (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -325,7 +269,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1655962730879b72@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T202000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -333,7 +277,7 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce956a379ddf85ea@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T222000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
@@ -341,17 +285,49 @@ URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb341bc5aab452eb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T141500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f5c4964ca47a5b38@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261130T155000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-ce7bf129415d8d53@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eccdea2e5f1f60e1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T151500
+SUMMARY:Wildwood (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f75a9f0cd361f23b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1e53558fb6a307aa@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194500
+SUMMARY:Wildwood (OmU)
+LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
+URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-59bc0098e7f3ff42@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T215000
+SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Intimes\, Boxhagener Straße 107\, Berlin\, 10245
 URL:https://www.kino-zeit.de/kinoprogramm/berlin/kino-intimes-berlin
 END:VEVENT

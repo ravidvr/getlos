@@ -4,48 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Passage
 BEGIN:VEVENT
-UID:getlos-dec75dca9c6c6e02@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T164500
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-22dfb9c5edb66c83@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T182000
-SUMMARY:A Talent for Murder (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d3f66ec2656fd530@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T191500
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-33fcdcd8e1d026a6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T201500
-SUMMARY:The Wolf of Wall Street (EN)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6c7916201c63151e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T201500
-SUMMARY:La Bola negra (OmenglU)
-LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
-URL:https://yorck.de/kinos/passage
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-09a4922882bf83f6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T164500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -53,7 +13,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8325ff1ac9fd2c3f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T164500
 SUMMARY:La Bola negra (OmenglU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -61,7 +21,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-396b91c9886a7cca@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T172000
 SUMMARY:The Invite (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -69,7 +29,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b19ae597b913244f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T183000
 SUMMARY:A Talent for Murder (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -77,7 +37,7 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40ceeae742574932@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T191500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -85,23 +45,63 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-004038f5ab4edfc9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T201500
 SUMMARY:La Bola negra (OmenglU)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cc457ec5d4acee30@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f6d8fc1472a809ca@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T165000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a35f5af44f0e8388@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T173000
 SUMMARY:Hexed (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dfbece1080d31301@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T173000
+SUMMARY:Parallele Leben (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-af7a6d89942715e1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T182000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29993ef644c86d3a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T183000
+SUMMARY:A Talent for Murder (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e7c0e2add7fbb553@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:You Can See Everything (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
@@ -109,33 +109,257 @@ URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a9815a6db50c7182@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Parkway Drive - Home (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-95a3aab5327b5acf@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f2fe45005c283df@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T201000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c37bf6fa148a5418@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T210000
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef3c1325fdf4e196@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T163000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e63b1424f2156e7e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T165000
 SUMMARY:Hexed (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fff7f9f10652f180@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T173000
+SUMMARY:Parallele Leben (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23ca47756ac9c216@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T182000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9cbcae793273b902@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T183000
+SUMMARY:A Talent for Murder (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c131cd9a01a641bd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 SUMMARY:Focker In-Law (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5f06bd7503c5f375@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b6378e36ef88f194@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T210000
+SUMMARY:The Invite (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c71c533ab8a25c66@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T131000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5ce3b89484b80fe9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T163000
 SUMMARY:Hexed (EN)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7944ddf087f1b2d0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9fad829d93280c4b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T173000
+SUMMARY:Parallele Leben (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d31732545853ecc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T182000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-682b59b8dd44d8d8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d877379b72b52045@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T131000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47a9dd46781be10d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T163000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-23ee38afa0508c68@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T173000
+SUMMARY:Parallele Leben (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-58c1c0cca047d8e5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T182000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ddcd14de674e84d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0c32a235423dfcc5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99ad48866f2a6bd4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T173000
+SUMMARY:Parallele Leben (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-33e642bdd4862bec@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T182000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be75f22fe7d63326@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8442dfe0f96dbb2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b0be1de37460ce37@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Parallele Leben (OmU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c273c84c29ebff12@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T182000
+SUMMARY:Tun und Lassen (DE)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f9bb522e77250191@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
+URL:https://yorck.de/kinos/passage
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be91923805070d5f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T203000
+SUMMARY:Marie Antoinette (EN)
 LOCATION:Passage\, Karl-Marx-Straße 131\, Berlin\, 12043
 URL:https://yorck.de/kinos/passage
 END:VEVENT

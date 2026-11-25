@@ -2,45 +2,165 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:getlos - Delphi-Filmpalast
+X-WR-CALNAME:getlos - Delphi Filmpalast
 BEGIN:VEVENT
-UID:getlos-1598f2611a534175@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-dc2e76c5d4076b81@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4f5fe0ff6cc53614@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-51aa580451e0efce@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Delphi-Filmpalast
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-fc47ebc2c33a2d6d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-5a9679a68cb7bab2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T170000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-282b27f84a7cd1ad@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T141500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-654500b07e2c4172@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T170000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bfab3faf08e2caf6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4fe49098176f6ccd@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T141500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10142ef52c55b798@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T170000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9a5c41ff60f0c22@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-07be805d9e00b4e5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+SUMMARY:Eternity (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ab11ea4229fa91cf@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T160000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c175a237408de52d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T190000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7816db04ecf14823@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T141500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bb17eef0d572269@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T170000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08d05478b59f0d79@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5927f42db19856b5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T141500
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0141fa77e54ad2e3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f96aae935607d9a9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Delphi Filmpalast
+URL:https://www.delphi-filmpalast.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-31f1b775e68b1c52@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:You Can See Everything (EN)
-LOCATION:Delphi-Filmpalast
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-23d1aa3d8502ebe8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-82d94812365e9183@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T110000
 SUMMARY:Carmen Jones (EN)
-LOCATION:Delphi-Filmpalast
-URL:https://www.delphi-filmpalast.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5b602c84d7020f97@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T140000
-SUMMARY:Eternity (EN)
-LOCATION:Delphi-Filmpalast
+LOCATION:Delphi Filmpalast
 URL:https://www.delphi-filmpalast.de/
 END:VEVENT
 END:VCALENDAR

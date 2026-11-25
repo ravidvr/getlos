@@ -4,112 +4,24 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Filmtheater am Friedrichshain
 BEGIN:VEVENT
-UID:getlos-c6f300e7ce45f03e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T140000
-SUMMARY:La Bola negra (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8198223eb60f2799@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T151500
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-51bb683372e20573@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T152000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-eb8105d55d6f3b0e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T164500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-585a67c941d61f24@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T173000
-SUMMARY:La Bola negra (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-82442a500ed0cc0f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T174500
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-cf36f5ec6b48aa7a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T180000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-55c3d62c60802cc7@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T180000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a96eb0a2101c6ab@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T202000
-SUMMARY:La Bola negra (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d0227b99ab89371a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T203000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dfdf4fd06dfe2b92@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T204000
-SUMMARY:Wild Horse Nine (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b2e2053a1cda26ee@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T210000
-SUMMARY:Wildwood (OmU)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d10273fe1cbdcc4d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T140000
 SUMMARY:La Bola negra (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c4318378280bf225@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T152000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-41a735496f2e66cf@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T164500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
@@ -117,65 +29,745 @@ URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6713f5cf901c2d0f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T173000
 SUMMARY:La Bola negra (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b649a29467262f97@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T174500
-SUMMARY:Wild Horse Nine (OmU)
+UID:getlos-2a9cc1e7a42cdf3c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T180000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8deab3bf4f467c38@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-275e87f9abf8e4b3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T203000
+UID:getlos-b1379a1c08959e57@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T204000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b1379a1c08959e57@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T204000
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
-URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-916ea534cf6e1a59@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T210000
 SUMMARY:Wildwood (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d3be7a6df5f5539a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T141500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d807348d58929673@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T150000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-374e700b03440330@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T150000
+SUMMARY:La Bola negra (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f8ab39fe11e012d6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T152000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06ccc5eaf3ada919@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77e29e9dfb332829@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T165000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-51546757c0b392d9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T174000
-SUMMARY:Wild Horse Nine (EN)
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-004d3b225bd0bd9c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T180000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-84d64d062858fe2f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T182000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1490baeff3a50f8a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f04fb272df7df1d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f743546dd0571e67@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T202000
+SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d53ffdc34b4762ca@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T204000
-SUMMARY:Wildwood (EN)
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70aaa9cd1834e2a9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T210000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c9676a88fc1209f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T134000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94fd61182dd6310b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T150000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c483c9d78adea414@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T150000
+SUMMARY:La Bola negra (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-33957855839e8e1d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T152000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7947f031f2a906ae@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T161500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b2a5af56022bdfc9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T163000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7e01e55e88ad4766@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T174000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1950e9f1be4491e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T180000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8168e0d3449cd00@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T182000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10b9d4cf6b2b11a9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T185000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a777296ad50da06f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f4bac05dda8fdc07@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T202000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83211fea0bb83d58@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T204000
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cc26d429b7614604@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T210000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ef194eb0e83f2d5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T212000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-193e91401ad736f9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T134000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3094b2739fd2543d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T141500
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f0f4f75dc5199f2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T152000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cd86afebef9ef664@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T154000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d1897a4e662ce74@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T161500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-881ea36520439f25@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a954ba4942ce5545@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T165000
+SUMMARY:La Bola negra (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-234c098cf9a8902b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T180000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7bc7bbf698f6a091@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T182000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a415caf8fd2a214c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T185000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4131ddc30367835d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5eb58a3f17bf9054@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T202000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1f6f144ea2bcff14@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T204000
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac9531ef07c8d180@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T210000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-772f475670f8e1d4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T212000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b5b938e05a49b526@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T113000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-042d14ee78ca5a13@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T114000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db163b867618bc67@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T130000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26094ee8688a5e10@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T131000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-205016c61048365f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T141500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-24e0f6cc7d059c1e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T141500
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6bbe466035b76be5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T152000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-775a38ec3ff86ad9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T154000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08d5ad29fd3cdd8b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T163000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f21dd57bec7a101@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T165000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d1161cb38a6b109@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T165000
+SUMMARY:La Bola negra (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5f6e38cc6b7153e9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T180000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a352daaed29b783a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T182000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99573d9c2bc045a6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-faac7b7d788025a2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d9f0200ef746aa2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T202000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6b89e2e5defc928e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T204000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fdf36d7f23443cb8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T210000
+SUMMARY:Wild Horse Nine (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0873bedc9f1f804@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T141500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b94cab457bb748a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T144000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ff4f381a1af5a1f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T154000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6fe3a0e55cd3535@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T154500
+SUMMARY:La Bola negra (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-847117650fda98f9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-574f1b27082d7219@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T165000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0d83912a4c87c1dd@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T172000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9c7f8f7667e1e08b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T182000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65a0f074b3c61a6a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T191500
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a2180563c683656@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5074313d51f57c4f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ed81e5e8e20d3e66@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T210000
+SUMMARY:La Bola negra (OmenglU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c111e8c051365c55@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T141500
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-63ca25427207e432@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T141500
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97c633e2f48e54d1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T152000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dfcc567b02563797@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T154000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00a667b813b0b431@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T163000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-edb0d42e58a85031@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T165000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7d9db0337bd89390@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T165000
+SUMMARY:La Bola negra (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-723e9da0d6c1a09b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T180000
+SUMMARY:Schöne Seelen (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6570cded78a5d5ef@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T182000
+SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8d2f27ee2dd88db4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b21c7dbf4de8c6df@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a3a54b6f7254fe18@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T202000
+SUMMARY:Wild Horse Nine (DE)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1d80d2b70519a946@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T204000
+SUMMARY:Wildwood (OmU)
+LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
+URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-be1229bfc06932ab@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T210000
+SUMMARY:La Bola negra (OmenglU)
 LOCATION:Filmtheater am Friedrichshain\, Bötzowstraße 1-5\, Berlin\, 10407
 URL:https://yorck.de/kinos/filmtheater-am-friedrichshain
 END:VEVENT

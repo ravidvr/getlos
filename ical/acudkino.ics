@@ -4,98 +4,82 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - ACUDkino
 BEGIN:VEVENT
-UID:getlos-d770a04abab9077e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T184500
-SUMMARY:Übergang (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-84131b5cf2519727@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T180000
 SUMMARY:The Mad Dog of Europe (EN)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3a8ba2b3cb4140ed@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T180000
-SUMMARY:The Mad Dog of Europe (OmU) (OmU)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9580aa8e008a32a1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T190000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bde605c1fc15421d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Übergang (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4a8eea3b365b4e37@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T184500
+SUMMARY:Morgen vor langer Zeit (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8f5a9ccf6dbb0502@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T201500
 SUMMARY:Übergang (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-5e13628c4c1b618b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T204500
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+UID:getlos-f711c2d0cd1cdbea@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T164500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-163ea07247252ab6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261127T183000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+UID:getlos-4aab3464b9a5f7ef@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-14ad2532cceac9fc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T164500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
-URL:https://acudkino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-823088fd449d2d0a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T180000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+UID:getlos-a34f38e483cbcab2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T183000
+SUMMARY:Morgen vor langer Zeit (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c7b64d312c8d7af6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T203000
 SUMMARY:Übergang (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-11923b64dae89f3c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261130T210000
-SUMMARY:Helene Weigel - Revolutionärin im Rampenlicht (DE)
+UID:getlos-4b454d48c6cd7e1b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T201500
+SUMMARY:Morgen vor langer Zeit (DE)
+LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
+URL:https://acudkino.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f34094f451b05477@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T184500
+SUMMARY:Morgen vor langer Zeit (DE)
 LOCATION:ACUDkino\, Veteranenstraße 21\, Berlin\, 10119
 URL:https://acudkino.de/
 END:VEVENT

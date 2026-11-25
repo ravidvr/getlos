@@ -4,72 +4,32 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Blauer Stern
 BEGIN:VEVENT
-UID:getlos-d29c528826edd050@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T131000
+UID:getlos-31387915d35d972c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T131000
 SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5b41a8a3fab2d33e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T143000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3da2374ca958b1b3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T150000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1d62b2a8e48e6f87@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T165000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-f9c6d17c83574491@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T171500
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-65e86faa81c8a636@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T193000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
-URL:https://yorck.de/kinos/blauer-stern
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1414691423265e89@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
 URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-82e8a861aa5dbb54@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T143000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
 URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cbd7bb1a50e521ca@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T150000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4a5bfee61ea98459@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T171500
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
@@ -77,9 +37,313 @@ URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-09d95ca43fe7054c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a4ff392ae9efb77a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-873ac91884d2e25a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T151000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf56f5aa6d8c67cc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-34212b70a0638ce8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T174500
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-654e98e274ab1c7d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c09f3fe221f05105@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T202000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bdab5a6a42adedcb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10d12ca133d3db19@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T151000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-65cb5a56385c7a6c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f961c86e7bb9688d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T174500
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85b78cee17123975@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62df486bafeb148a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T202000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1fbae85b67446d0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T132000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-285eaa8ddc0d22f5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T144000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bdd9fca8be4b2e98@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T151000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d810a857c38e78d5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a89da87dfd7c82d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T174500
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9ab5c1d324d5ca40@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f49f45f9aab9047f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T202000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f431013809245db4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T120000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1ff7f87180a90260@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T144000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ee8502e18e3c75f1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T151000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cedc2471929a7c13@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e3db6d317bed30d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T174500
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-27378739c5cd303a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-01462714661b81d4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T202000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4956ba5e60f3f9f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3d6b3668c9909208@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T151000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-09ba89518e844785@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d7d79696f69baae9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T174500
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-78dce7113113bf7a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4698e113d3ad23f7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T202000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-41458e1f6096c4f4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T144000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-42553e9fda8bb7ca@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T151000
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-04290695b73675e5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T172000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-82c8785e14b4ea7e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T174500
+SUMMARY:Wie verhext (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-50ee8591045a4442@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir (DE)
+LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
+URL:https://yorck.de/kinos/blauer-stern
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b39ff59a12f89160@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T202000
+SUMMARY:Wie verhext (DE)
 LOCATION:Blauer Stern\, Hermann-Hesse-Straße 11\, Berlin\, 13156
 URL:https://yorck.de/kinos/blauer-stern
 END:VEVENT

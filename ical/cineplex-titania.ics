@@ -4,584 +4,40 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cineplex Titania
 BEGIN:VEVENT
-UID:getlos-43f0589dd4010607@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T100000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-30ee37d1c030adf0@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T100000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-adef5d619bef12bc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T115000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e822ece187b31a71@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T115000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-47605d517ba9b981@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T121000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d394550ad3cf3a20@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T133000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-183bb3e3469e7b6d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T133000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6a0879eea57cc424@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T134000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c311d2d601596bfd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T134000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4f50ea9993332149@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T135000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-331bfdb28291cf43@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T135000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bbcc364435b76b56@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T140000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4f75bb156f3da809@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T140000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-460e595b0938a651@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T140000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1fd0dbc75352d83f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T141000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39c831a97719aa1e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T141500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-991675835ef8e0fe@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T141500
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-49ba38636fc2e3ec@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T142000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fb3e93ab41fb9e96@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T143000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-1de11998bba17e4b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T143000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-58e07c2713c1fa79@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T143000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5fbd24c44c4fb40c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T144000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e149fb0450882e80@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T144500
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-867e6af21f941c34@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T145000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ce11fcedcfabf740@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T153000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-445bbd02af7aa935@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T154000
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ba1b6cf6dab6d381@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T154000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-6fc189386b3a26fb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T160000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5be65fc243c8d3c6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T161500
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-31d6d083f72b1ef2@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T162000
-SUMMARY:Wildwood (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bccef3fac24cc92b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T162000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a759e8aa7fbee19d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T163000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-81f438104499fcdd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T163000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-26d2a35aa446f751@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T163000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8b7f8c5dc7646940@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T163500
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf1aa531d585e734@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T164000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-49fc0d1c56be56e9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T164000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b03f83bc88864729@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T164500
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-667c194a549328df@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T164500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ed39900e146ab5f7@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T165000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bf75c62b89168047@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T170000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-8c56501a5b9077a4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T170000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bab8fc7d7c060279@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T170000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7f802b34d8da3471@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T170000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5bfe23076a6ba87f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T170000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ad88ccb891613091@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T171000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0d19b21dc9a34f9f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T171500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c26bf3c194b1dee1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T172000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d008e1ea47e7c032@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T173000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-33effe14e4d53f41@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T173000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7a857ad9a63ef49d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T173000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-05d3c2650e84182c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T191500
-SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a39064b931eb1049@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T191500
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-297e1e643fdda1ff@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T192000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-763f9e230e4b812f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T193000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-ee49449279802830@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T193000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-94d0e22b1d8a1869@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T194000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-689833512c64ca8e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T194500
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-39140e9d5af6b42b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T194500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-28b2bc35c6ca8a08@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T195000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5785edbf68fd273d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T195000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-d5a183c4fa37971c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T195000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e76e59a14aa18c67@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:The Wolf of Wall Street (EN)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5f6aeea0004a868c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9f7abc74ebfe0fbd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:Heimsuchung - Eine Jahrhundertgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-c35c1d17ca8b4d6a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-7e14061f4e171539@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a11349c06f40857e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T201000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-23ce4a3011f7091e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T201500
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-accda9dbe6359767@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T202000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-93afe4d4737f3295@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261124T203000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-94cf03e94fdc50aa@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T095000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b4ce5d5febdb6699@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T100000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fa5c16c1eaed8e08@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T115000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ac49c8c358202a7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T120000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-babd54248711e161@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T123000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -589,63 +45,87 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a7779a665de0a2e4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T131000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-178a26eb2a5b6a1d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T133000
+UID:getlos-d8cc47b21f4faf90@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T131000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2afaa7bc89780928@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T133000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-178a26eb2a5b6a1d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T133000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-bfa8b51e067c5599@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T140000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a59b70649c73c39b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T142000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dcb2f37750a95972@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T143000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-53db138722df9b9b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T153000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-22f260c69a507235@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T144000
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc8f0ad3fee97e30@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T154000
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d99a39651f06cfa4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T154000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-de897de059d1ed65@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -653,7 +133,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e410b91d903ac82c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T161500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -661,7 +141,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e6402c5fdde02fbb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T161500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -669,47 +149,55 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95ee4e73a5cc2781@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T162000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0bd7f31225b6907f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T163000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-519e3e55066491d5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T163000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-5bfe33d01b4661a6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T163000
-SUMMARY:Der Regenbogenfisch (DE)
+UID:getlos-7e4a8a2dd1ec86ee@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T162000
+SUMMARY:Emil und die Detektive (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c913d06a40fd81de@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T163000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0bd7f31225b6907f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bfe33d01b4661a6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T163000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-519e3e55066491d5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T163000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ec0df7489d4665a8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T163500
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
@@ -717,7 +205,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5706fb5d2c70db2d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T164000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -725,7 +213,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d10f0591a3713a6f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T164000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
@@ -733,7 +221,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c0a97c1e9e4d5dbb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T164500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -741,7 +229,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11021ecb02857e93@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T165000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -749,39 +237,39 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9a72880fafe0908c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T165000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-76f80282516c89b3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T170000
-SUMMARY:Godzilla Minus Zero (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-3ba63905d76aaabe@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T170000
-SUMMARY:Wildwood (OV)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d5a099003beb763f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3ba63905d76aaabe@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T170000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a57c334b15b55ae@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T171000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-11fb949f7e77a163@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T171000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
@@ -789,15 +277,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-40182daa7734d41a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T171500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0ae0c8c5eede2a0b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T171500
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d534d28324a04b63@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -805,7 +301,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9d46f9f3aa5fe61e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -813,7 +309,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-efa476d46f48fffd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T174500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -821,15 +317,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a3b07de9cedfabc8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T191500
 SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f4096aad97be00d4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T191500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-909c51bb2ee1d730@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T192500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -837,7 +341,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da725987b0ba2ad4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -845,47 +349,63 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-edadde27954ed492@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T194000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a65a87a78c06989f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T194500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3c3085e936793cb1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T194500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a65a87a78c06989f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261125T194500
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-b28d2181c3ec9790@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1ddfd3e1d12d3748@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T194500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1e0c980774690742@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T195000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3124356c107f5162@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7ccb027c939663ee@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -893,23 +413,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93a4e1f29846149a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-3124356c107f5162@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-81415866dd21aa0b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T200000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4e49d0c0b0ef458@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T201000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -917,47 +437,175 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b9e62ba6decc632e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T201000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ccc17349fff749d5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T201500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f124bfc443c9f1c1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261125T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-45b54de16ad72af1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261125T203000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-da4f5b915bec955d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e34c4d25cd400b2f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96eba7174943d7df@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e1822cce6db2ee70@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c868e592a64fa478@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T120000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-542463f736ea8232@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T120000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-479a8efc397eb692@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T120000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3bb3fbba82b1813d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T121000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-63591ea91b8c2217@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T122000
 SUMMARY:Hexed (EN)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7115985c68c92911@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T122000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a1e4c48045401916@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T124000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-08b7453f86d1afab@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T133000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3353d265ffbf879a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T133000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ede560325c63969@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T134000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba3b4554b999016b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T135000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7fcd95fa60964439@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T135000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e3a6b0f2c287f5b4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T135000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-79fd03f3c0a5ef0e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T135500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -965,39 +613,63 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f023b7be17dc2467@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T140000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0b3a33e1ca90e32c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T141000
-SUMMARY:Wildwood (DE)
+UID:getlos-ac3ae8df924c0232@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-cedbbcef4d43b6a5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T141000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-f19c14a1355d586e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9097fc85c9f92fe8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e356384f900d156@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T140500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8cc75279a1cf8e0f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T141000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0b3a33e1ca90e32c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T141000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-878e45ab33e15bfc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1005,31 +677,119 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67f609f438c24243@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T141500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e2c9887aa98c7fba@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T141500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-44ec108991ae7ec6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T142000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-76234604ab31fdda@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T142000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4647e635e060dd85@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T142000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f3cdfa670745004d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7a8d004fc5bf7e78@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T143000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e5d850d25db9850e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T143000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a675323afb7838c5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T144000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-111820e46eff73e8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T144500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f660a28ed95775b4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T152000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3504b55f08e7ee50@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T152000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3c74cef915bc2adb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T154000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6a7d0d1886aebb7d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T154500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0b8dfcaa239ee27e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T161000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1037,39 +797,71 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85248f5a5403b7bf@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T161500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-63f8566c998ee96a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T162000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-37c004f892dd1a99@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T162000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-63f8566c998ee96a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T162000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-bed89fe9e02cf87e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T163000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9fbc1ab225fb096a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2bdc4e4c7c27118b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8696fa275c0b3545@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T163000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99e3e6513c639681@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T164000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-23fe9cb7b86288a7@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T164500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -1077,39 +869,95 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0ca517c008d2a02c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T164500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b32994076ae8f93b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T164500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7f504996de024465@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T164500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a17104f546ca071d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T165000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-41b2e02b7f0be643@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-c56bf0f5b2f7511b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T170000
-SUMMARY:Godzilla Minus Zero (DE)
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ed22d949a9380140@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T170000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-06932418e8812c96@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T170000
+SUMMARY:Wie verhext 3D (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ec0d24afff794f29@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T171000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-85f1b946bf46f176@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T171000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac9c6fdd6384bd73@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T171000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-20b05990b0772f33@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T171000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5bee30dfa9602f71@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T171500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1117,7 +965,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b6e3a2c6f7a5f327@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -1125,63 +973,159 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc0823871eba8d92@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-633b60d02c3476cf@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T172000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-603926e596a4bbe3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-17564b8fb0ace76a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T173000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9e95b122b6cd4e58@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T173000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b399385b55af0b66@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T174000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3139d65f3359e276@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T190000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b4fb1304ccebed06@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T191000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8b0b2768ddd9ad7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T191000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-391301dfb7858c68@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T191000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-39f08641db79ff63@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T191500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1da13d18c9c911bc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-674468e312adaeeb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b1f37132f82f82f2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-856596f909f443da@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T194000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-90889eed68581bb0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T194000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec8ff92a3e0e0c88@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T194500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4c2629ba5f2b42fa@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T195000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-dc9e188b2da980a2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T195000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-dd939d0624e5c85d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:You Can See Everything (EN)
 LOCATION:Cineplex Titania
@@ -1189,7 +1133,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e0003edb260d0fbe@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Parkway Drive - Home (EN)
 LOCATION:Cineplex Titania
@@ -1197,7 +1141,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ad76b60939f218c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Andrew Lloyd Webber's Starlight Express: Live On-Stage (EN)
 LOCATION:Cineplex Titania
@@ -1205,7 +1149,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-14f8226ec7e8ba96@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1213,15 +1157,39 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bff5ba09d54cfbbd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0e36068e7b65a0a5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1298aaada0a9c44c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-243b2f09ade6b3ac@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9ad65d19ba325e56@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T202000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -1229,7 +1197,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9e953188a26d3fed@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -1237,135 +1205,383 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f99a1c322728360f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261126T223000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-0017909d7da95be8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261126T224000
-SUMMARY:Godzilla Minus Zero (DE)
+UID:getlos-f8f3fa44f712f6a0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261126T230000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0cfcacc94758cef@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T095000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6e98662c4d02d69@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T100000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-306ea2617f0b0e4c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T100000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ce8cdd3ce42a5f76@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T100000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fef8e104940512dc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T101500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-72ed4227ee7c496b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T120000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11740d203c022597@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T122000
 SUMMARY:Hexed (EN)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c9ed917abb27d800@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T122000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cd74623454624c80@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T124000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3fad8f1284d37f92@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T124000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3b72384f218fb128@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T133000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d43c5e9c71b2ecc8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T133000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1a22d3210b9b9910@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T134000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8c706f3339bbbfa3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T134500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f8ad305d09c3533d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T135000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-609321476bdc4ecd@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T135000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-435b790049ca44e0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T135000
+SUMMARY:Wie verhext 3D (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b8674a6d7aada500@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T135500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f16eaf4a92730ad2@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261127T140000
-SUMMARY:Wildwood (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5c39d1b75afc08fa@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T140000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-197d890b01b60544@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261127T141000
+UID:getlos-f16eaf4a92730ad2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ab9a35d60b0573bf@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c43c75063dea2290@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-67d507155d135d67@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-97d32ebe855a9e70@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d6b4487bd2676013@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T140500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2d5ef3b51e2b3bf@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fcd69e265e9081b5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T141000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-f2d5ef3b51e2b3bf@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-197d890b01b60544@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T141000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b55711ad405a0e9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fb33cd52704bb24f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T141500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d8da966b6d16731@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T141500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8964d8d385a0169@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T142000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-22c99a692708a992@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T142000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c7be96b5550611b8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T143000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ba65a4ef8bd70dc1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261127T144000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-624e83ff55bd8f78@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1468fb65f31a8b20@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T143000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-074a332d7bcb515c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T143000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8b1aac49d60cada2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T143000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-979b2ef26360ba09@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T150000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aabc1364a4ec3c79@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T151000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fb089ed24665ac56@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T152000
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1673fe0210612cee@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T152000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ee8804057f07f16c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T154000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8d13557738041f91@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T154500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e0fb0f9aa6464a54@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T160000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1f9d7d0e1c035439@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T161000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1373,87 +1589,175 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f4aa1c64d85a489e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T161500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6c85ff382e4d6294@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T162000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4428409752c6dd74@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T162000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6c85ff382e4d6294@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261127T162000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7590ec5870c95c92@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T163000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-77be4816c2596240@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d9de3f70380621c9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T163000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cb19f8f7d9a660c6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T163000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-751abe7b37c0332e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T164000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c03cef3ff5732280@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T164500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-25abdf52a6a2676f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T164500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9257e2d3f901807b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T164500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b0d7d71868e9d3ce@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T165000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-49ca50e1d49fddfe@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T165000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0960e50bcefa3276@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9021df94ae4e3412@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-4f638706714fe41e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T170000
-SUMMARY:Godzilla Minus Zero (DE)
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34eb4f244f41d1fc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T170000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5f15472cdeec6648@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T170000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-063a1d0e68f9df27@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T170000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-12c383a1ecb4353a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T171000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7cd8d34e70f50a6b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T171000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5867df652155443e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T171000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-646e2fc3a2d985e6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -1461,31 +1765,79 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4c1325d11af39286@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T172000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b3c677a8af3851c2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T172000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b9a520b0ca60a0f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T172000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-136e2e5ac9e452e2@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b3e7ab87dc0357a1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T173000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28f16089e0eee01d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T173500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c245691cdb6a8523@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T174000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f50d6cbc29b8847f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T174000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ecd6d226e701d527@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T191000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7cd8000cf075a1df@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T191000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1493,15 +1845,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f6cb7e1dbdbd38b5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T191000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6b5ceeda095c3149@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T191500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2b1e09b5b6f5adb7@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T192000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1509,15 +1869,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bead77cd1f570cdb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-21204480814a2610@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T193000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5ff6ae8684c7f606@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T194000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1525,7 +1893,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15a359e01bdff688@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T194500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1533,23 +1901,39 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6ce8744d58216485@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bc2c5068553e00b3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T194500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e43bae5c0b816582@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T195000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2723854b1c68dcba@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T195000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9c857fa8588c7a14@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1557,23 +1941,47 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-803d02c105834467@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c47f4659f2dffeb5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e9954bc5365540b5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9d1fd98c2a63efdb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T201000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-16eff03c41a0f780@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0ec74c59b1e1b587@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T202000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -1581,15 +1989,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-da6172f50ab7d532@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d6f371680fc5ba67@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T202000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3c468967a362a482@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T220000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -1597,7 +2013,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-05d34ecd4fe9e19c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T221000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1605,119 +2021,351 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cf136509e003cc97@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T221500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-ae0e563db4a8fc46@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-dccd48a2a8384ef5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261127T225000
-SUMMARY:Godzilla Minus Zero (OmU)
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-9b6e222404ff6ad5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T113000
+UID:getlos-369579051259ea90@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T230000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4ab265ec43aebe0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T230000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1af435acd40b15fe@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T231000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f5ab62332bb97ddb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261127T231500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d60af8a5011c5062@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T095000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a349d220f7072881@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T100000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b9b404eb54a36690@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T100000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2d0d3266cdcb25b6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T102000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60931b3cd9bc6924@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T110000
+SUMMARY:Wie verhext (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-afe52e8cc0e331fe@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T111000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0b40a30f5844e0b9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T111500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9d423298ace75f87@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T112000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9762a0fea132e869@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T112500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cbb3fea8450be841@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T113000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9b6e222404ff6ad5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T113000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e020d549bc35458@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T113000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-023b46c65b51a729@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T114000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-05de0b497893c33a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T114500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-32454e90baa85db6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T114500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e56a54f0ca08131@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T114500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e6692513ed50fdf@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T115000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b50342f667c91a6d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T120000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d6f6f362c398955@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T120000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-8b0af3ed4127ac17@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4d6f6f362c398955@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-c0ea34d9dc809eb9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
-SUMMARY:Der Regenbogenfisch (DE)
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1c94a1e32318069f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T121500
 SUMMARY:Hexed (EN)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-adae0c2f1006c076@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-02b8806c80e91127@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T121500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2c04be2cb4081d09@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T121500
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b871d4c89399726f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T123000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-98a272d066125a9a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T124000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7ecebc5f890bacc6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T132000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-7a9593c13669a7f6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-3d6030063dbc2891@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T133000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+SUMMARY:Wie verhext (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1cf4a8379ce39df9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T134000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6cf4671c8b18fd2c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T134500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5b14dbdee923ac6f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T135000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-94534b3f9969956a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T135000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-10436960627dbe6b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T140000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9b99440fc1c6dd60@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T140000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-91e167f9ff245568@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T140000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbe74dfed212a93b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T140000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5c5459e519c63a1c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T140500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1725,55 +2373,151 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2e5bc3a990a6a352@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T141000
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-3c20fc7bd9b9f919@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T141000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a0071682fca06688@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T141000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d27e941730fa22f2@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T141500
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-be20f0ca8ef9fd6b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T141500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3429e42910894a3a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T142000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-90b2f57c7b3147ac@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T143000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-6ddbd1295b72b3d0@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T144000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-d228be4885f3daf4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T143000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-547c40ec18f93443@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T143000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-beb7a5ecdb9a10b8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T143000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-507fc3ebf8de2221@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T143000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8e90f22b81cca460@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T144500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-53544821edaa3099@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7eb0ae30e3037d37@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-49e266f42ddd3e07@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T151000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f1582d483a6d2c5c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T152000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ea4e1bbcbaa4f6b6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T154000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e29b059d3b8203ee@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T154500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5fdae8092b500a42@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T161000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1781,87 +2525,199 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1f3a09f032100e9a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T161500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4bffe90e9b3159c4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T162000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cfd3c8a002a6a8fa@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T162000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7aa3daf739887f4c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T162000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-4bffe90e9b3159c4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261128T162000
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-8bd64797f549c1a9@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T163000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-10f31f5eff9791a1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6058d2967bd09e2f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e8fdfa77455a2a73@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-79841992b80dcad1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T164500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-254403417a791efb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T164500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-36c29090900f69a6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T165000
+SUMMARY:Wildwood (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-edd5015e0d3a5997@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T165000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b3d2a9bba67d483c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T165000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4296a8365f193d7b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T165000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f5a76cf0dfd72214@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-726b2bfb913a013b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+UID:getlos-0469e6ed28deca47@ravidvr.github.io
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T170000
-SUMMARY:Godzilla Minus Zero (DE)
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-56152ad49d880c3b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T170000
+SUMMARY:Wie verhext (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9ce623bb7b2de5c1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T171000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d7e65497c5a21bba@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T171000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-0eb604ca035da0db@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d07cadc549c7ab32@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T171500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2fda7d09a1986e3c@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T172000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-becace935e3180d5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T172000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9de9b48cdfa0540d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T172000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3b910a2b16536637@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T173000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1869,15 +2725,47 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a6f893bd13af1ab3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e9866d820c859995@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T173000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e71be38d3cc19323@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T173500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e67fe112dc62288c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T174000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbbd493ab6954cb8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T191000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1e4dbf87e28d9681@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T191000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1885,15 +2773,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f149f78d408e9c97@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T191000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8df312a0a7a0c455@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T191500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b63e372a080ae04f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T192000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1901,15 +2797,31 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-013e512471a0ea7d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-75e08a7ed98e7e0b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T194000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-28726eee86acb81b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T194000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-377b381f23e71cf3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T194500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1917,23 +2829,47 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1156818df35f9f34@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b4c0e6c1d7b8a140@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T194500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2e846e4d7acf8efb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T195000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-825fc5ec5ceb87e1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T195000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-71f017e5ed17c013@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T195000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-01e3e07679be6bc0@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -1941,23 +2877,55 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c33ed381c7afd863@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-afce9d87abefc13b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b62278b25d15995e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbfdd5f3e4401c69@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-638fe9a11c6ea1fb@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T201000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f3c03c42e05b6e92@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-38799520bef8a60f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T202000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -1965,15 +2933,23 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-abe6600392b09dfc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ec15c796df4d5992@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T202000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a2ee01f8ff817b85@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T221000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1981,7 +2957,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-65b94b456b5fabe6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T221500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -1989,127 +2965,479 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-39b329a5f4de2daf@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261128T223000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b33025f8965a0748@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T224500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c36d1198c8a09533@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T225000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2956137c9f8df9c2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T225000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e98114ff673af068@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T230000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3fd1a6abf2058674@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T230000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e09309141f2fe012@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T231000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-aacae33532fa01d3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261128T231500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8894f9c14e7515c2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T100000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4ab1572321a7152f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T100000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d940e39628169556@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T100000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-baa65900c166b167@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T103000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-887fd4e962604bf6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T110000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ca566251c41299ce@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T111000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c18999cdc611ff73@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T111000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de6384c0581dc70a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T111500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3b6ac212e104865f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T112000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-fc20757758b4be2a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T113000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-fa712f217809404f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T113000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1fe7ce182891027d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T113000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4bdd11e00b654203@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T113500
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-7c53652c626d31cb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T113500
+SUMMARY:Wie verhext (OmU)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a552476e15ef5e09@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T114000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1a71bed845b84dc8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T114000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5ce33d3e5b7fd4ed@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T114000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-90ea4c893380da14@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T114500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-45549ab93e6c7632@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T123000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-5bfd1e1b211f4e4e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T114500
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-a02db07290f94613@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T125000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-69b2142a7058ca3f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T114500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a4ee769ca0116c16@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T115000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dce3fc1bc8dd3419@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T120000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47d9d8c233079f71@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T120000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-08d64819477a5ef8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T120000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-98255a7d70c55cee@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T121500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-03a7d136643bd441@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T124000
+SUMMARY:Wie verhext (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ce62bbbd00403887@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T130000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d82ff26c5b0a3435@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T133000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-fbe0afdd51c91b42@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T133000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5bd7e3a49c9a91ce@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T133000
+SUMMARY:Wie verhext 3D (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-47e3fe98e6025a9f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T134500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5a7b7de6e7e1ecbc@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T134500
 SUMMARY:Wildwood (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-47e3fe98e6025a9f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T134500
-SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-d36744ed6460e41b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T135000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-512754730f953fa8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T135000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-263429e60a721910@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T135000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-5405ba8f61ca9ec8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T140000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-727aa2cff207803a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-401ea76a115f70f2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c83c75c4c1024437@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4d92964a9b85f46b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T141000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-8eac85402b332d83@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T141500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ad7a90178a591b0a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T142000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-73adfad5c6f8b97a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T142000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2191e516daa5656c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T143000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca9aef7b043de2fa@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T143000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96b5f3ad7b4c9ac9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T144000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-33ceaec26334fea1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T145000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d1ebc36219bad19d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T150000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-f041cb2cf0bcaf69@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T151000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b84c2c9608c483e6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T152000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca7103a5b31ebad9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T154500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-7e5a75eb7d4c4a95@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T160000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2117,7 +3445,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e091ab57ef691aa6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T161000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2125,7 +3453,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0b6a34e34fe396a2@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T161500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2133,7 +3461,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11a9f07a8dfd53cd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T162000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2141,103 +3469,279 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5df1182aff6cd059@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T163000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c26d0cd41d13eb3d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T163000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a8c13a47f8155821@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T163000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e0332a9c0c1c2316@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T164500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-630912944e74fe9c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T164500
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3aa9baf93f1865c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T164500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2bb9b4755cb84c8b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T165000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-26ab6e04ad438d6a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T165000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-369a9cd3fa5ca81c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T165000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-045c7ffcd7900959@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T170000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ef0caa2ec02d7f6e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T170000
+SUMMARY:Andrew Lloyd Webber's Starlight Express - Live On Stage (OmenglU) (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7fc03169cf7a23f4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T170000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eae4f7901073609a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T170000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4a40d8f6c1d7cbd0@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T171000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8fab90f20b498fc3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T171000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4dcf01bad02fae81@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e9165a9eccebd083@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T171500
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-707e43507af44606@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T172000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-98642042bf7a7fab@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T172000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2c65bebad730ab52@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-45b3bf7ce7a1feab@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T173000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a15e17ac9982f79@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T173000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-909cab839d942029@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T173500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-30b18968a4bf79f8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T175000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-ee300c8d743068ec@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T191000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-245c1af2cba0a3b3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T191500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-6818fe0fccceafed@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T192000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-8d4f7776ad2cd395@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261129T193000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-a87cd6587f0e59c3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8d4f7776ad2cd395@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c2979b009ee61329@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-18fdbcb2133e41fb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T193000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e62b0350b94b2c0a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T194000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8fdd6fbc25de43aa@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T194000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d3b4af26ccae823c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T194000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-ac085c63eeabd6a1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T194500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2245,15 +3749,31 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8e521ca66d7ac4b@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T194500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-4b2e6fdce43b20a2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T194500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e17ecdfa832a47f9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T194500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1028b1a1be660cb1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T195000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2261,7 +3781,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-54b158a2213e350f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -2269,23 +3789,39 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-01db027e937b5be8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-02551c6be21dce66@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-54812371830f7ce5@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T201000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-60049860a499fde9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-818b160a5fcdb5e1@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T202000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -2293,55 +3829,215 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66c608e49ca91416@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-80d2d9019f106222@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T202000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-21570356078e6804@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261129T202000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2d9d5261e089d2a8@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261129T204500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-b7dbdd25c0f41065@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261130T133000
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld (DE)
+UID:getlos-db20942ac6011df8@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T100000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6ba9222b12867742@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T100000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-403c5454605722b2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T100000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-62dc32c57e37bbc3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T103000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ef3099827941ab22@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T120000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd093b4d9290c6c9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T120000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-68bd5241f3934b97@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ead4d5c44895b01@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T122000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c4ac6311ed7542fc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T124000
+SUMMARY:Wie verhext (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-140f12e008fc3306@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T133000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1cdb85f25ee38e76@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T133000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d029fd85032c474d@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T135000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f8a25426d0e13850@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T135000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d5f4d826c5d56301@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T140000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ae125ac972adfad1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-127ffc5846b30cb3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T141000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb6b9b54ae00edc2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T141500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f37ded94558d324a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T142000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1beec6a9dd1f52ac@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T144000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5cec7531305b92c9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T152000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-cd47da9dfc21f769@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T154000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-98702c36b528f43b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-98c5c45e7d56e480@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T161000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
@@ -2349,7 +4045,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-32c550a6dc1ea499@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T162000
 SUMMARY:Wildwood (OV)
 LOCATION:Cineplex Titania
@@ -2357,15 +4053,39 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6aaf6b29735303d4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T163000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-0d44982dea6cee4e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-828b719b5ad05a4b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T163000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-37e902b75bd8794d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T164000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-29dedb5b3e85aeec@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T164500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -2373,71 +4093,159 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a0a2a2e7e2e627e4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T164500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-2d976ad2763362aa@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T164500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-94e97812bf2f938e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T164500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c408c98b2e7b0f7f@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T165000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-8c4cd153d260ebee@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T170000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7596ce62bd7e488c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T170000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b5f4afaf8f16e9f6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T170000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-2d65efd77c759f08@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T171000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-a31a8e0559d03353@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T171000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a5a6c862277f1e30@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T171000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-e17f0087d082bf21@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T171500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-d9eb18c8cb2b044b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T172000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-15aa756f58ab0d7c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T173000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-78946a28cea61af6@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T174000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-f1899820c560dcf6@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T174000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9139517a39d5da22@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T190000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
-UID:getlos-088ceefe426dc309@ravidvr.github.io
-DTSTAMP:20261124T091908Z
-DTSTART;TZID=Europe/Berlin:20261130T191000
-SUMMARY:Der Perfekte Urlaub (DE)
-LOCATION:Cineplex Titania
-URL:https://www.cineplex.de/berlin/titania/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-4ed4cf70e358a128@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T191000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-088ceefe426dc309@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T191000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b6b732bcfb62883c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T191500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d763752d449c5dbd@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T192000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -2445,31 +4253,71 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4b4a7f7c243969ec@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T193000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-52e9b4c825a4b8ab@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T193000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60941cca907a4ede@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T193000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-47065e20546a4f4e@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T194500
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-1970a619e0cb0009@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T194500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b38d5ed64f0e8b2a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T195000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-cfdcd174e7be59ee@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T195000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c13b5efeac169635@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-19e653fe6c168450@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T200000
 SUMMARY:Der Perfekte Urlaub (DE)
 LOCATION:Cineplex Titania
@@ -2477,15 +4325,39 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4f93758a327791b4@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T200000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e563477bf73399a0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca397e4cc1844547@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-73df7ec0eda2ccdc@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-c42db64cd1547af3@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T202000
 SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
 LOCATION:Cineplex Titania
@@ -2493,7 +4365,7 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d7ee0d6265479819@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T202000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Cineplex Titania
@@ -2501,9 +4373,737 @@ URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-84307f4a61fa783a@ravidvr.github.io
-DTSTAMP:20261124T091908Z
+DTSTAMP:20261125T083759Z
 DTSTART;TZID=Europe/Berlin:20261130T203000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7b2592e7ed6b841e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261130T203000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-9a5d43eaae52dca7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T095000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29fb71c6b9036359@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T100000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb10ab96c3a76031@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T100000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7845fbcaea7ecff0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T100000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6d4c74ddd50423cb@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T120000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-de72cb3e805a02e2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T120000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a93829da20260a30@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T120000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7be89e95deab16f1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T122000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-eb275735ee992d46@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T123000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f75085fd11199b61@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T132000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-964e081c1ddfb565@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T133000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00fe9dfbc2939cd1@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T134000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-57d96e439564bea4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T135000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0f72b6e835ae8df3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T135000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e583f622697e6737@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T135000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7ef41cf5963368fd@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T135000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5c98c5ee52a7fba9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T135500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-561d2e0e0fefd8a2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-77dbf147b0d6cbd0@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e59f3ba46c47eb77@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-db4cede2d0e60361@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bd5b846116871820@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-82ce684d41ad822d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T140000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e37774eed335e756@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T141000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-96afb7d6b93eab9d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T141500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3f6501a8fdc0ed29@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T142000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-380efa1d14d37d60@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T142000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f5572019636a567c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T142000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ec49392132fb8530@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T143000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-cff79f633df0fdb2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T144500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4f615fb71fbead1c@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T150000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2955a02b390bcf59@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T151500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1de54ee29b06c1e5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T153000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f49c8816ca308620@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T154000
+SUMMARY:Der Regenbogenfisch (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-76c67607c7ccd361@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T160000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ca28b6dde322f228@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T161500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a7ad3aaee305740b@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T162000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-85d8edb483c82a05@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T162000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-49b22ccdb6a3359a@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T163000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7df50d619286d71f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T163000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4fc3b75c1dbde16@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T163000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0ee16d56b5bfc151@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T163000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a700eb96497f3e65@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T164000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b8d0702f4b6509ef@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T164000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a637fa61f39d7392@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T164000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-c30705aa57ec0cd3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T164500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-99c3bfd52982b7b5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T164500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-00b2c9d1b2c32f40@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T165000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-29f45c651d3ed6b2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T165000
+SUMMARY:Wie verhext (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e67f17c0c429f245@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T165000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e60ae56690f704c9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd850e847e83a7fe@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4766b67df715aa00@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6a38bb907aa68f15@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0f1059e0c0ef7379@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T170000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4e03a5b1d972c547@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T171000
+SUMMARY:Emil und die Detektive (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7713765953379cd2@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T171500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d19659ab71958e15@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T171500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-83f2ce5f89da6e3f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T172000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-a9c58469a91d406e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T172000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-341b22a97c844aa5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T172000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6504d2cb4fde7af3@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T173000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-f2ce141c42fc48a4@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T173000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bf99ab0794974673@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T173000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d52f9d3e52213f87@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T173500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-590f3b726910b811@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T174000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e12031e454d57566@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T190000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0a4555ed960ac9df@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T191000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4bb709a9491a754e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T191000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-5b1b80f711d39cb9@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T191000
+SUMMARY:Wildwood (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-89013204b89bec54@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T192000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-12337db5a14c0a10@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb99b1f9798d6050@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (OV)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dbb6647767021ae7@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-60ade1155cb77984@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4a774b0287c5a22@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194500
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-b7992b9b9d3f3ddd@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e25961f4be58d4e@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194500
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4c58fe097d323e5@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T194500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-1481d02b27f19285@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T195000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0505f0c7befc4163@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-70d03a0bb2242272@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dbd9fa556e20e253@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-3e0657fa1efad9cd@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Wie verhext (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-efb5d03ab5030e1d@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T201000
+SUMMARY:Der Perfekte Urlaub (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-4a2de8aea7cbf548@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T201500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-ac610ec8e7a9a547@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T202000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bb9e90a228b0ae76@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T202000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-e1c7050f1e22110f@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T202000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Cineplex Titania
+URL:https://www.cineplex.de/berlin/titania/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-17da081dfddab855@ravidvr.github.io
+DTSTAMP:20261125T083759Z
+DTSTART;TZID=Europe/Berlin:20261201T203000
+SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (OV)
 LOCATION:Cineplex Titania
 URL:https://www.cineplex.de/berlin/titania/
 END:VEVENT
