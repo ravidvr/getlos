@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - UCI Am Eastgate
+BEGIN:VEVENT
+UID:getlos-b65e86ca0f01a664@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261127T193500
+SUMMARY:The Hunger Games: Sunrise on the Reaping (EN)
+LOCATION:UCI Am Eastgate\, Märkische Allee 176-178\, Berlin\, 12681
+URL:https://www.uci-kinowelt.de/kinoprogramm/berlin-am-eastgate/44
+END:VEVENT
+END:VCALENDAR

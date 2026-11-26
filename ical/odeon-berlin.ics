@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Odeon Berlin
+BEGIN:VEVENT
+UID:getlos-7e1341fdcdcf520e@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T200000
+SUMMARY:Batman & Robin (EN)
+LOCATION:Odeon Berlin
+URL:https://www.odeon-kino.de/
+END:VEVENT
+END:VCALENDAR

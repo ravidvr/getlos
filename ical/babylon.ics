@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Babylon
 BEGIN:VEVENT
-UID:getlos-f3fd27ffafefd3d6@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T171500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-969e11eb7f5f8612@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T173000
-SUMMARY:Sense and Sensibility (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-fb098cd4d22d82ba@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T204500
-SUMMARY:La Bola negra (OmU)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-855ccfc8de22e048@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T213000
-SUMMARY:The Devils (EN)
-LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
-URL:http://www.babylonberlin.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-dfb4000e8d1ea2ff@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T170000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -45,7 +13,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f50300a8d85a04d9@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -53,7 +21,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-974fab9e280b3d07@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T211500
 SUMMARY:The Devils (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -61,7 +29,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-585a41bf6b42128d@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T170000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -69,7 +37,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4fb8d2256e1aef2d@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -77,7 +45,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-766a0ff603e4d2f6@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T211500
 SUMMARY:The Devils (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -85,7 +53,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5076303649634915@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T133000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -93,7 +61,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cdbb61b70e94d3fe@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T170000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -101,15 +69,23 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-571838ed44c6caaf@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
 URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-51646a8668647ab3@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261128T211500
+SUMMARY:The Devils (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-1a0a19bc7bb64444@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T133000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -117,7 +93,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d223b97f7866c694@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T170000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -125,7 +101,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8982beed8a6ee991@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T194500
 SUMMARY:Black Christmas (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -133,7 +109,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8b8c3ffdba20fdef@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -141,7 +117,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e4a39b67051a0a92@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T180000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -149,7 +125,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-754236c86a9fe0d7@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T213000
 SUMMARY:The Hours (EN)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -157,7 +133,7 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b754cb97b0a51273@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T170000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
@@ -165,8 +141,32 @@ URL:http://www.babylonberlin.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4ca7725b8c858b50@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T203000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-19c6059a6c152bd4@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T170000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-2257166efdc2e827@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T200000
+SUMMARY:Gremlins (EN)
+LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
+URL:http://www.babylonberlin.de
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-10b2a6b999393444@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T203000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Babylon\, Rosa-Luxemburg-Straße 30\, Berlin\, 10178
 URL:http://www.babylonberlin.de

@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Union Filmtheater
 BEGIN:VEVENT
-UID:getlos-67ff7802de2e592b@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T170000
-SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-a03f7197455eee82@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T200000
-SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
-LOCATION:Union Filmtheater
-URL:https://www.union-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-81fa67ae39da9ee7@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T150000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Union Filmtheater
@@ -29,7 +13,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-67b22bf99a079d17@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T150000
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
@@ -37,15 +21,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e414702f3cc953c@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T151500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-867f25f8bb511dff@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261126T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-92df2ceb3a37681f@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T171500
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -53,15 +45,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95f899eb756e6ec1@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T174500
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-5af3a4e0b8282fbd@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261126T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-36c1f27adf206c1b@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
@@ -69,7 +69,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7fa7882c74c41c31@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -77,7 +77,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-76046face6b7c7c9@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T150000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Union Filmtheater
@@ -85,7 +85,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-046643848600ddd8@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T150000
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
@@ -93,15 +93,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-afd952068d5072db@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T151500
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-c3c19168bc3559f1@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261127T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-4e6274469af0ba57@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T171500
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -109,15 +117,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-85e1fe0bcb0f1a29@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T173000
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-bf8c4c32b626dd39@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261127T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-53261cdd22a7de92@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
@@ -125,7 +141,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-93fa184b5ffc1e5c@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -133,7 +149,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e96521bf86ced0da@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T130000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Union Filmtheater
@@ -141,7 +157,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bb74413837202171@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T130000
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
@@ -149,7 +165,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-02480b7a91355604@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T150000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Union Filmtheater
@@ -157,7 +173,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-60d32ca01bbab532@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T151500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -165,15 +181,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8654a4df05da6fc0@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T151500
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-747ddfefa8b71ffd@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261128T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-261c0c032b5bafb1@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T173000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -181,15 +205,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7089bc0363be44f7@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T174500
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-6ea041c1d28a8ae3@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261128T194500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-57e947c5bb05867f@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
@@ -197,7 +229,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-94844ac4552831af@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -205,7 +237,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ccd9731697292555@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T130000
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
@@ -213,7 +245,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-575c7a8304185220@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T131500
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Union Filmtheater
@@ -221,7 +253,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2c3123ccfba98ced@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T151500
 SUMMARY:Ebenezer - Eine Weihnachtsgeschichte (DE)
 LOCATION:Union Filmtheater
@@ -229,15 +261,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-418cdf2d29ac520a@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T151500
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-85b57419aaf331bc@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261129T170000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-425f0e31c0de26ae@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T173000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -245,15 +285,23 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-878918b7edc6c151@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T174500
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-b906dc5d6d52de35@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261129T194500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-9ca4f1cf8db7ab80@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T200000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -261,7 +309,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-513608f800799d7e@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T201500
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
@@ -269,7 +317,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e25a353f8628b34f@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T150000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Union Filmtheater
@@ -277,7 +325,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-6198c442e15eda00@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T150000
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
@@ -285,23 +333,39 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-278ef0d9b201cf9e@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T153000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-191ea37009f123a1@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261130T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-d586b1ccfe269f95@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T171500
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-e9f342881170cf81@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261130T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-b427f8c3cb4dc792@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T200000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
@@ -309,7 +373,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8ade7585a530918f@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T200000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
@@ -317,7 +381,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-91c80222b79dc347@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T150000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Union Filmtheater
@@ -325,7 +389,7 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-64a988f1d8043622@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T150000
 SUMMARY:Wie verhext (DE)
 LOCATION:Union Filmtheater
@@ -333,23 +397,39 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ebfe9ac5088c06df@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T153000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-57b4381afcd6fb8a@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261201T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-3631711a58a2fb31@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T171500
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:getlos-9cdea66476c0003b@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:getlos-a2cabe84232151a8@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T200000
 SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
 LOCATION:Union Filmtheater
@@ -357,8 +437,56 @@ URL:https://www.union-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9959373fdcf8e4ec@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T200000
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-576a7b488fa68787@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T164500
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-d4007541c0a194d5@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T171500
+SUMMARY:Wie verhext 3D (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-bbe7354fd9264596@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T174500
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-dd380c3c91aea554@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T193000
+SUMMARY:Die Tribute von Panem - Sunrise On The Reaping (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-7377981dc04e8331@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T200000
+SUMMARY:Meine Frau\, unsere Schwiegertochter und ich (DE)
+LOCATION:Union Filmtheater
+URL:https://www.union-filmtheater.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-0598d0c54b4cf62e@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T200000
 SUMMARY:Wie verhext 3D (DE)
 LOCATION:Union Filmtheater
 URL:https://www.union-filmtheater.de/

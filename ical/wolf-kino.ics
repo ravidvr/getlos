@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Wolf Kino
 BEGIN:VEVENT
-UID:getlos-97dbfbb9bf3c803d@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T130000
-SUMMARY:Eternity (OV)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-658d0121884e3be5@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T163000
-SUMMARY:Der Regenbogenfisch (DE)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-01972c20d4aa84fc@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T170000
-SUMMARY:Eternity (OV)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-2f961865d75ee049@ravidvr.github.io
-DTSTAMP:20261125T083759Z
-DTSTART;TZID=Europe/Berlin:20261125T201000
-SUMMARY:La Bola negra (OmU)
-LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
-URL:https://www.wolfberlin.org
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-65193160638548f1@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T163000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -45,7 +13,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c59d97557a33f44@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T164500
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -53,7 +21,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2f62b35d042c2c08@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T182000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -61,7 +29,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4aa14a3db4efe59e@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T184000
 SUMMARY:Morgen vor langer Zeit (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -69,7 +37,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0bf55db5f0496f41@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261126T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -77,7 +45,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0bb79d760373dfdf@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T163000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -85,7 +53,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3c25db1c577032aa@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T164500
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -93,7 +61,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c15edbd78f2c7b03@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T182000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -101,7 +69,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-66f3169aa0f5faf8@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T184000
 SUMMARY:Morgen vor langer Zeit (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -109,7 +77,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f045cbdadb9f4864@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261127T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -117,7 +85,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d259fd8b6150b5ff@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T133000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -125,7 +93,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-102bcc47db21166d@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T150000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -133,7 +101,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd0bf2668173da6a@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T164000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -141,7 +109,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d18ff5ab9167212f@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T182000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -149,7 +117,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3829e1d1b0b09d15@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T184000
 SUMMARY:Morgen vor langer Zeit (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -157,7 +125,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2b3e158ae0721b10@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261128T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -165,7 +133,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cc30cf28a15556f1@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T120000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -173,7 +141,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b73a207c9cc75a00@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T150000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -181,7 +149,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b3d8a30b21da5e61@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T170000
 SUMMARY:Eternity (OV)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -189,7 +157,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e7ccb10211d748fe@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T183000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -197,7 +165,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-8e12517dc8831184@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T185000
 SUMMARY:Morgen vor langer Zeit (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -205,7 +173,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d23cb5b2de5fe971@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261129T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -213,7 +181,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-22bfc0a868b85290@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T163000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -221,7 +189,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e9aa355b3c843b9@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T164500
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -229,7 +197,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bca391cf8df8d2ac@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T182000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -237,7 +205,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c4c61f4086f7ce9c@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T184000
 SUMMARY:Morgen vor langer Zeit (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -245,7 +213,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2448e1bb1e65c8f9@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261130T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -253,7 +221,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-606e01aeb7f9c8d9@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T163000
 SUMMARY:Der Regenbogenfisch (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -261,7 +229,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53f6e3fe5579ffa0@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T164500
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -269,7 +237,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b14268a18c800472@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T182000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -277,7 +245,7 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-325f1203da14a5e0@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T184000
 SUMMARY:Morgen vor langer Zeit (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
@@ -285,8 +253,24 @@ URL:https://www.wolfberlin.org
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-46447a8a5e280d53@ravidvr.github.io
-DTSTAMP:20261125T083759Z
+DTSTAMP:20261126T080226Z
 DTSTART;TZID=Europe/Berlin:20261201T202000
+SUMMARY:La Bola negra (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-6e8601b63cb1e199@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T184000
+SUMMARY:Morgen vor langer Zeit (OmU)
+LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
+URL:https://www.wolfberlin.org
+END:VEVENT
+BEGIN:VEVENT
+UID:getlos-11c3de1693cd3cc6@ravidvr.github.io
+DTSTAMP:20261126T080226Z
+DTSTART;TZID=Europe/Berlin:20261202T202000
 SUMMARY:La Bola negra (OmU)
 LOCATION:Wolf Kino\, Weserstraße 59\, Berlin\, 12045
 URL:https://www.wolfberlin.org
