@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Cosima-Filmtheater
 BEGIN:VEVENT
-UID:getlos-564ec74b9221f0ec@ravidvr.github.io
-DTSTAMP:20261126T080226Z
-DTSTART;TZID=Europe/Berlin:20261126T170000
-SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-116c31c6722f2f3b@ravidvr.github.io
-DTSTAMP:20261126T080226Z
-DTSTART;TZID=Europe/Berlin:20261126T194500
-SUMMARY:La Bola negra (DE)
-LOCATION:Cosima-Filmtheater
-URL:https://cosima-filmtheater.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-7e84ea46e2286608@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261127T141500
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
 LOCATION:Cosima-Filmtheater
@@ -29,7 +13,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e83cc32eae425c68@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261127T194500
 SUMMARY:La Bola negra (DE)
 LOCATION:Cosima-Filmtheater
@@ -37,7 +21,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-414dccb374b4e333@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261128T171500
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
 LOCATION:Cosima-Filmtheater
@@ -45,7 +29,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-53064f30d6b80aea@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 SUMMARY:La Bola negra (DE)
 LOCATION:Cosima-Filmtheater
@@ -53,7 +37,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-96fb8aaad91a503d@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261129T110000
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
 LOCATION:Cosima-Filmtheater
@@ -61,7 +45,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fbe2fc6e640fd38a@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261129T143000
 SUMMARY:La Bola negra (DE)
 LOCATION:Cosima-Filmtheater
@@ -69,7 +53,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bdc1cb6786912a5e@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261129T201500
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Cosima-Filmtheater
@@ -77,7 +61,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-d2d1bc6fa2eb39c5@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261130T170000
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (DE)
 LOCATION:Cosima-Filmtheater
@@ -85,7 +69,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a89bba3bbc1c5e79@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261130T194500
 SUMMARY:La Bola negra (DE)
 LOCATION:Cosima-Filmtheater
@@ -93,7 +77,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-920c18d0d892cae8@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261201T173000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Cosima-Filmtheater
@@ -101,7 +85,7 @@ URL:https://cosima-filmtheater.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a465ae9f79296cc9@ravidvr.github.io
-DTSTAMP:20261126T080226Z
+DTSTAMP:20261127T080701Z
 DTSTART;TZID=Europe/Berlin:20261201T194500
 SUMMARY:La Bola negra (OmU)
 LOCATION:Cosima-Filmtheater
