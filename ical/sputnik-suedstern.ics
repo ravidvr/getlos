@@ -4,88 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Sputnik Südstern
 BEGIN:VEVENT
-UID:getlos-12a4768ed528f1c2@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T133000
-SUMMARY:Wildwood (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-76022ce2c0ef992e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T140000
-SUMMARY:Wildwood (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-9d9c250752613300@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T141500
-SUMMARY:Wildwood (OV)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-95ba0af8760c470b@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T150000
-SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-b17966635fc927d7@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T163000
-SUMMARY:Wildwood (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-0c2dd5a2633ad7c9@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T165000
-SUMMARY:Wildwood (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-beb90ec9ab3e6bd6@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T170000
-SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-dad7200a91721e62@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T171000
-SUMMARY:Wildwood (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-bba15c44d4ab0520@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T183000
-SUMMARY:I Am Martin Parr (OmU) (OmU)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-e5d264e296045c17@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T200000
-SUMMARY:Wildwood (DE)
-LOCATION:Sputnik Südstern
-URL:https://www.sputnik-kino.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5f7c57ed92f18559@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T133000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -93,7 +13,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e28073910c8536ba@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T140000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -101,7 +21,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3cfaa5c1b1b1def@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T141500
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -109,7 +29,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-30e0d53aa29ddb42@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T150000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Sputnik Südstern
@@ -117,7 +37,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34de5daa214f5b72@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T163000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -125,7 +45,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-4463df94d9d50275@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T163000
 SUMMARY:I Am Martin Parr (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -133,7 +53,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-572abfe12fc81d88@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T164500
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -141,7 +61,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b39c7506a379bd41@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T165000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -149,7 +69,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-aab961c145efedec@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T171000
 SUMMARY:Wildwood (OV)
 LOCATION:Sputnik Südstern
@@ -157,7 +77,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-95d8db9d460e6d4e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T180000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -165,7 +85,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9639adb12bae26e1@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T183000
 SUMMARY:Morgen vor langer Zeit (DE)
 LOCATION:Sputnik Südstern
@@ -173,7 +93,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-217b89180dd283f5@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T113000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Sputnik Südstern
@@ -181,7 +101,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-52547a6be76733c5@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T113000
 SUMMARY:Morgen vor langer Zeit (DE)
 LOCATION:Sputnik Südstern
@@ -189,7 +109,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-456d519e9d3c184e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T141500
 SUMMARY:Wildwood (OV)
 LOCATION:Sputnik Südstern
@@ -197,7 +117,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-34b862084044a46e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T144500
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Sputnik Südstern
@@ -205,7 +125,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-1a0c77648672d942@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T160000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -213,7 +133,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-799b8f864932eb5f@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T163000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -221,7 +141,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-091205ad145c1d7f@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T171000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -229,7 +149,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b2d3fe510b0e980e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T174500
 SUMMARY:I Am Martin Parr (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -237,7 +157,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-659df827074c13e4@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T200000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -245,7 +165,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5fb9adc9da5ab215@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T133000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -253,7 +173,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cab2ef0e122b3fd1@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T141500
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -261,7 +181,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-b72416661d5ee2af@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T160000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Sputnik Südstern
@@ -269,7 +189,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-0723f460cb253d20@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T160000
 SUMMARY:Morgen vor langer Zeit (DE)
 LOCATION:Sputnik Südstern
@@ -277,7 +197,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-260e736c3924e368@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T171000
 SUMMARY:Wildwood (OV)
 LOCATION:Sputnik Südstern
@@ -285,7 +205,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-984d2d09eb34b540@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T171500
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -293,7 +213,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7fa140075767f202@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T173000
 SUMMARY:I Am Martin Parr (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -301,7 +221,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51dc089ea29ef014@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T173000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -309,7 +229,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-08c5b2a7c0df111b@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T190000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -317,7 +237,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-dedd6b6f88ab85da@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T141500
 SUMMARY:Wildwood (OV)
 LOCATION:Sputnik Südstern
@@ -325,7 +245,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3e1174f75c16b2d1@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T160000
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt (DE)
 LOCATION:Sputnik Südstern
@@ -333,7 +253,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c5e54f4f1083068b@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T163000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -341,7 +261,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-35f41d47fa057336@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T171000
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -349,7 +269,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-15c5a66b27128c9a@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T173000
 SUMMARY:Morgen vor langer Zeit (DE)
 LOCATION:Sputnik Südstern
@@ -357,7 +277,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-9c3447211307b2da@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T190000
 SUMMARY:I Am Martin Parr (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -365,7 +285,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-cb622a487fa6e40d@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T141500
 SUMMARY:Wildwood (DE)
 LOCATION:Sputnik Südstern
@@ -373,7 +293,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-546ff6e7406dfb1e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T160000
 SUMMARY:Wiener Blues - The Loneliest Man in Town (OmU)
 LOCATION:Sputnik Südstern
@@ -381,7 +301,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-163d5e03e7bf5c1c@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T171000
 SUMMARY:Wildwood (OV)
 LOCATION:Sputnik Südstern
@@ -389,7 +309,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-88df86f41f40997c@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T190000
 SUMMARY:I Am Martin Parr (OmU) (OmU)
 LOCATION:Sputnik Südstern
@@ -397,7 +317,7 @@ URL:https://www.sputnik-kino.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c78fdbee41e753ee@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T210000
 SUMMARY:Barrio Triste (OmU) (OmU)
 LOCATION:Sputnik Südstern

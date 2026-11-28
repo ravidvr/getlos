@@ -4,40 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Central
 BEGIN:VEVENT
-UID:getlos-3869c3b3fa04b765@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T160000
-SUMMARY:Emil und die Detektive (DE)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-4fc79f900417e35f@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T174500
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-01ea5db0b5fdab60@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T181500
-SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-516354172759f0d0@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T201500
-SUMMARY:Wild Horse Nine (EN)
-LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
-URL:http://www.kino-central.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-5e63abd5c6170a3b@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T130000
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -45,7 +13,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-fc89ccbd37658036@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T134500
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -53,7 +21,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-211e23ca62ee068c@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T153000
 SUMMARY:Emil und die Detektive (DE)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -61,7 +29,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a2dc4f8a68a59b05@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T174500
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -69,7 +37,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5f4697a47f23b364@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T181500
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -77,7 +45,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-322ef757c5f519bb@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T201500
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -85,7 +53,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-11630d2b388f2b48@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T204500
 SUMMARY:Primetime (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -93,7 +61,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-33ed94638355af42@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T130000
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -101,7 +69,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-3d955a155742b36d@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T134500
 SUMMARY:The Social Reckoning (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -109,7 +77,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-04b18fd0cca24e97@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T174500
 SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -117,7 +85,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7177fd2ee50916b0@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T181500
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -125,15 +93,15 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-262e250d393d7205@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T201500
-SUMMARY:Wild Horse Nine (OmU)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-c3d64beaed858564@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T204500
 SUMMARY:Her Private Hell (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -141,15 +109,15 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-e6238dbfd6b5cc96@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T174500
-SUMMARY:Wild Horse Nine (OmU)
+SUMMARY:Wild Horse Nine (EN)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
 URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f94b4556517aafb6@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T181500
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -157,7 +125,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-bd2f761420faa713@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T201500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -165,7 +133,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-51193f6583b3e424@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T173000
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -173,7 +141,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-5e29d342e4ffb196@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T180000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -181,7 +149,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-7d2ee3de4d399742@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T203000
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -189,7 +157,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-014de5958c15cbc9@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T174500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -197,7 +165,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-ba3741e49f3dce3e@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T181500
 SUMMARY:From Inside Out - Die Architektur von Peter Zumthor (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178
@@ -205,7 +173,7 @@ URL:http://www.kino-central.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-2d0c010a06d4db15@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261202T201500
 SUMMARY:Wild Horse Nine (OmU)
 LOCATION:Kino Central\, Rosenthaler Straße 39\, Berlin\, 10178

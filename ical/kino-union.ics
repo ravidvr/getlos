@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getlos//Berlin cinema schedule//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:getlos - Kino Union
+BEGIN:VEVENT
+UID:getlos-dcbeb6a7eb8e6d42@ravidvr.github.io
+DTSTAMP:20261128T080955Z
+DTSTART;TZID=Europe/Berlin:20261130T201500
+SUMMARY:Wildwood (EN)
+LOCATION:Kino Union
+URL:https://www.kino-union.de/
+END:VEVENT
+END:VCALENDAR

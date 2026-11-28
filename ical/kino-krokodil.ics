@@ -4,24 +4,8 @@ PRODID:-//getlos//Berlin cinema schedule//DE
 CALSCALE:GREGORIAN
 X-WR-CALNAME:getlos - Kino Krokodil
 BEGIN:VEVENT
-UID:getlos-784796b62aeead07@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T162000
-SUMMARY:Übergang (DE)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
-UID:getlos-21715beff2a03903@ravidvr.github.io
-DTSTAMP:20261127T080701Z
-DTSTART;TZID=Europe/Berlin:20261127T183000
-SUMMARY:Nebenrolle (OmU) (OmU)
-LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
-URL:https://kino-krokodil.de
-END:VEVENT
-BEGIN:VEVENT
 UID:getlos-fb6323cf570fc708@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T162000
 SUMMARY:Übergang (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -29,7 +13,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-f5673e52e47da9c2@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261128T183000
 SUMMARY:Nebenrolle (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -37,7 +21,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-63e1aa2dabb42e93@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T163000
 SUMMARY:Nebenrolle (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -45,7 +29,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a50f7fbe226adf65@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261129T190000
 SUMMARY:Übergang (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -53,7 +37,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-976f9bb3af10990d@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T163000
 SUMMARY:Nebenrolle (OmU) (OmU)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -61,7 +45,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-25432d26d3a74ece@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261130T190000
 SUMMARY:Übergang (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
@@ -69,7 +53,7 @@ URL:https://kino-krokodil.de
 END:VEVENT
 BEGIN:VEVENT
 UID:getlos-a8d26884f9455e29@ravidvr.github.io
-DTSTAMP:20261127T080701Z
+DTSTAMP:20261128T080955Z
 DTSTART;TZID=Europe/Berlin:20261201T183000
 SUMMARY:Übergang (DE)
 LOCATION:Kino Krokodil\, Greifenhagener Straße 32\, Berlin\, 10437
